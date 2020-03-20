@@ -1605,7 +1605,7 @@ return [
 		_x('Antetezambaro', 'TO2', 'ry-wc-city-select'),
 		_x('Fanandrana', 'TO2', 'ry-wc-city-select'),
 		_x('Fito', 'TO2', 'ry-wc-city-select'),
-		_x('Mahavelona (Foulpointe), 'TO2', 'ry-wc-city-select'),
+		_x('Mahavelona (Foulpointe)','TO2', 'ry-wc-city-select'),
 		_x('Mangabe', 'TO2', 'ry-wc-city-select'),
 		_x('Sahambala', 'TO2', 'ry-wc-city-select'),
 		_x('Toamasina Suburbaine', 'TO2', 'ry-wc-city-select'),
@@ -1660,7 +1660,7 @@ return [
 	'TS2' => [
 		_x('Anjampaly', 'TS2', 'ry-wc-city-select'),
 		_x('Antaritarika', 'TS2', 'ry-wc-city-select'),
-		_x('Betanty (Faux Cap), 'TS2', 'ry-wc-city-select'),
+		_x('Betanty (Faux Cap)','TS2', 'ry-wc-city-select'),
 		_x('Imongy', 'TS2', 'ry-wc-city-select'),
 		_x('Marovato', 'TS2', 'ry-wc-city-select'),
 		_x('Nikoly', 'TS2', 'ry-wc-city-select'),

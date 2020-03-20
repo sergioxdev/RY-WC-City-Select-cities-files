@@ -91,7 +91,7 @@ return [
 		_x('Kurfa Chele', 'EAHAZO', 'ry-wc-city-select'),
 	],
 	'EAWEZO' => [
-		_x('Sasiga (woreda), 'EAWEZO', 'ry-wc-city-select'),
+		_x('Sasiga (woreda)','EAWEZO', 'ry-wc-city-select'),
 	],
 	'EATIZO' => [
 		_x('Atsbi Wonberta', 'EATIZO', 'ry-wc-city-select'),

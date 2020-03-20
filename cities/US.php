@@ -2295,7 +2295,7 @@ return [
 	'BRCO' => [
 		_x('City of Augusta', 'BRCO', 'ry-wc-city-select'),
 		_x('City of Brooksville', 'BRCO', 'ry-wc-city-select'),
-		_x('City of Foster (historical), 'BRCO', 'ry-wc-city-select'),
+		_x('City of Foster (historical)','BRCO', 'ry-wc-city-select'),
 		_x('City of Germantown', 'BRCO', 'ry-wc-city-select'),
 	],
 	'BRCO2' => [
@@ -9117,7 +9117,7 @@ return [
 	],
 	'JOCO3' => [
 		_x('City of Gray', 'JOCO3', 'ry-wc-city-select'),
-		_x('City of Macon (historical), 'JOCO3', 'ry-wc-city-select'),
+		_x('City of Macon (historical)','JOCO3', 'ry-wc-city-select'),
 	],
 	'JUCO' => [
 		_x('City of Nephi', 'JUCO', 'ry-wc-city-select'),
@@ -9311,7 +9311,7 @@ return [
 		_x('Town of Runge', 'KACO8', 'ry-wc-city-select'),
 	],
 	'KACO9' => [
-		_x('Hanalei (CDP), 'KACO9', 'ry-wc-city-select'),
+		_x('Hanalei (CDP)','KACO9', 'ry-wc-city-select'),
 	],
 	'KACO10' => [
 		_x('City of Cottonwood', 'KACO10', 'ry-wc-city-select'),

@@ -1243,7 +1243,7 @@ return [
 		_x('Comuna Moeciu', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Ormenis', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Parau', 'JUBR2', 'ry-wc-city-select'),
-		_x('Comuna Poiana Marului (Brasov), 'JUBR2', 'ry-wc-city-select'),
+		_x('Comuna Poiana Marului (Brasov)','JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Prejmer', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Racos', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Recea', 'JUBR2', 'ry-wc-city-select'),

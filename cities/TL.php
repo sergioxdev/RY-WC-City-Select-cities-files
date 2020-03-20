@@ -324,7 +324,7 @@ return [
 		_x('Ogues', 'MA5', 'ry-wc-city-select'),
 	],
 	'ME' => [
-		_x('Duyung (Sereia), 'ME', 'ry-wc-city-select'),
+		_x('Duyung (Sereia)','ME', 'ry-wc-city-select'),
 		_x('Sabuli', 'ME', 'ry-wc-city-select'),
 	],
 	'NAFE' => [

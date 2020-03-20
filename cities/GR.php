@@ -204,7 +204,7 @@ return [
 	'NOIL' => [
 		_x('Dimos Andravida-Kyllini', 'NOIL', 'ry-wc-city-select'),
 		_x('Dimos Andritsaina-Krestena', 'NOIL', 'ry-wc-city-select'),
-		_x('Dimos Ilida (Dimos Ilidas), 'NOIL', 'ry-wc-city-select'),
+		_x('Dimos Ilida (Dimos Ilidas)','NOIL', 'ry-wc-city-select'),
 		_x('Dimos Olympia', 'NOIL', 'ry-wc-city-select'),
 		_x('Dimos Pineios', 'NOIL', 'ry-wc-city-select'),
 		_x('Dimos Pyrgos', 'NOIL', 'ry-wc-city-select'),

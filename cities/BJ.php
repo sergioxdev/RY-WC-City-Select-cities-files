@@ -418,7 +418,7 @@ return [
 		_x('Baname', 'COZA2', 'ry-wc-city-select'),
 		_x('Dovi', 'COZA2', 'ry-wc-city-select'),
 		_x('Kpedekpo', 'COZA2', 'ry-wc-city-select'),
-		_x('N-Tan (Don Tan), 'COZA2', 'ry-wc-city-select'),
+		_x('N-Tan (Don Tan)','COZA2', 'ry-wc-city-select'),
 		_x('Zagnanado', 'COZA2', 'ry-wc-city-select'),
 	],
 	'CO3' => [

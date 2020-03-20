@@ -60,7 +60,7 @@ return [
 		_x('Zone de Punia', 'MA', 'ry-wc-city-select'),
 	],
 	'NO' => [
-		_x('Gbadolite (city), 'NO', 'ry-wc-city-select'),
+		_x('Gbadolite (city)','NO', 'ry-wc-city-select'),
 		_x('Mobayi-Mbongo', 'NO', 'ry-wc-city-select'),
 		_x('Yakoma', 'NO', 'ry-wc-city-select'),
 		_x('Zone de Bosobolo', 'NO', 'ry-wc-city-select'),
@@ -74,7 +74,7 @@ return [
 	'SOEQ' => [
 		_x('Lukolela', 'SOEQ', 'ry-wc-city-select'),
 		_x('Makanza', 'SOEQ', 'ry-wc-city-select'),
-		_x('Mbandaka (city), 'SOEQ', 'ry-wc-city-select'),
+		_x('Mbandaka (city)','SOEQ', 'ry-wc-city-select'),
 		_x('Zone d Ingende', 'SOEQ', 'ry-wc-city-select'),
 		_x('Zone de Basankusu', 'SOEQ', 'ry-wc-city-select'),
 		_x('Zone de Bikoro', 'SOEQ', 'ry-wc-city-select'),
@@ -104,7 +104,7 @@ return [
 		_x('Zone de Budjala', 'SU', 'ry-wc-city-select'),
 		_x('Zone de Gemena', 'SU', 'ry-wc-city-select'),
 		_x('Zone de Libenge', 'SU', 'ry-wc-city-select'),
-		_x('Zongo (city), 'SU', 'ry-wc-city-select'),
+		_x('Zongo (city)','SU', 'ry-wc-city-select'),
 	],
 	'TSDI' => [
 		_x('Kabeya-Kamwanga', 'TSDI', 'ry-wc-city-select'),
@@ -153,7 +153,7 @@ return [
 		_x('Mbuji-Mayi City', 'PRKAOR', 'ry-wc-city-select'),
 	],
 	'PRKOCE' => [
-		_x('Matadi (city), 'PRKOCE', 'ry-wc-city-select'),
+		_x('Matadi (city)','PRKOCE', 'ry-wc-city-select'),
 		_x('Sous-Region des Catarates', 'PRKOCE', 'ry-wc-city-select'),
 		_x('Sous-Region du Bas-Fleuve', 'PRKOCE', 'ry-wc-city-select'),
 		_x('Ville de Boma', 'PRKOCE', 'ry-wc-city-select'),
