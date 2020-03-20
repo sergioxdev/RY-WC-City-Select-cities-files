@@ -3,7 +3,7 @@
  * Romania places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -1243,7 +1243,7 @@ return [
 		_x('Comuna Moeciu', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Ormenis', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Parau', 'JUBR2', 'ry-wc-city-select'),
-		_x('Comuna Poiana Marului (Brasov), 'JUBR2', 'ry-wc-city-select'),
+		_x('Comuna Poiana Marului (Brasov)', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Prejmer', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Racos', 'JUBR2', 'ry-wc-city-select'),
 		_x('Comuna Recea', 'JUBR2', 'ry-wc-city-select'),

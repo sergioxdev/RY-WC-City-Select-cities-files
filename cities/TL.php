@@ -3,7 +3,7 @@
  * Democratic Republic of Timor-Leste places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -324,7 +324,7 @@ return [
 		_x('Ogues', 'MA5', 'ry-wc-city-select'),
 	],
 	'ME' => [
-		_x('Duyung (Sereia), 'ME', 'ry-wc-city-select'),
+		_x('Duyung (Sereia)', 'ME', 'ry-wc-city-select'),
 		_x('Sabuli', 'ME', 'ry-wc-city-select'),
 	],
 	'NAFE' => [

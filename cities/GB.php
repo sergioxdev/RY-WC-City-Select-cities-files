@@ -3,7 +3,7 @@
  * United Kingdom of Great Britain and Nort places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -2203,7 +2203,7 @@ return [
 		_x('Preston on Wye', 'HE', 'ry-wc-city-select'),
 		_x('Pudlestone', 'HE', 'ry-wc-city-select'),
 		_x('Putley', 'HE', 'ry-wc-city-select'),
-		_x('Richards Castle (Hereford), 'HE', 'ry-wc-city-select'),
+		_x('Richards Castle (Hereford)', 'HE', 'ry-wc-city-select'),
 		_x('Rodd, Nash and Little Brampton', 'HE', 'ry-wc-city-select'),
 		_x('Ross Rural', 'HE', 'ry-wc-city-select'),
 		_x('Ross-on-Wye', 'HE', 'ry-wc-city-select'),
@@ -3297,7 +3297,7 @@ return [
 		_x('Prees', 'SH2', 'ry-wc-city-select'),
 		_x('Quatt Malvern', 'SH2', 'ry-wc-city-select'),
 		_x('Ratlinghope', 'SH2', 'ry-wc-city-select'),
-		_x('Richards Castle (Shropshire), 'SH2', 'ry-wc-city-select'),
+		_x('Richards Castle (Shropshire)', 'SH2', 'ry-wc-city-select'),
 		_x('Romsley', 'SH2', 'ry-wc-city-select'),
 		_x('Ruckley and Langley', 'SH2', 'ry-wc-city-select'),
 		_x('Rudge', 'SH2', 'ry-wc-city-select'),

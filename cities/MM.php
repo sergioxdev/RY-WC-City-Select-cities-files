@@ -3,7 +3,7 @@
  * Union of Burma places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -429,10 +429,10 @@ return [
 	],
 	'YA(E' => [
 		_x('Botahtaung', 'YA(E', 'ry-wc-city-select'),
-		_x('Dagon Myothit (East), 'YA(E', 'ry-wc-city-select'),
-		_x('Dagon Myothit (North), 'YA(E', 'ry-wc-city-select'),
-		_x('Dagon Myothit (Seikkan), 'YA(E', 'ry-wc-city-select'),
-		_x('Dagon Myothit (South), 'YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (East)', 'YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (North)', 'YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (Seikkan)', 'YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (South)', 'YA(E', 'ry-wc-city-select'),
 		_x('Dawbon', 'YA(E', 'ry-wc-city-select'),
 		_x('Mingalartaungnyunt', 'YA(E', 'ry-wc-city-select'),
 		_x('North Okkalapa', 'YA(E', 'ry-wc-city-select'),

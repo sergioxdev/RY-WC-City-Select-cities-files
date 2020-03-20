@@ -3,7 +3,7 @@
  * Republic of India places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -35,9 +35,9 @@ return [
 	],
 	'BAUR' => [
 		_x('Anekal Taluk', 'BAUR', 'ry-wc-city-select'),
-		_x('Bangalore (North), 'BAUR', 'ry-wc-city-select'),
-		_x('Bangalore (South), 'BAUR', 'ry-wc-city-select'),
-		_x('Bangalore(East), 'BAUR', 'ry-wc-city-select'),
+		_x('Bangalore (North)', 'BAUR', 'ry-wc-city-select'),
+		_x('Bangalore (South)', 'BAUR', 'ry-wc-city-select'),
+		_x('Bangalore(East)', 'BAUR', 'ry-wc-city-select'),
 	],
 	'BE' => [
 		_x('Athani', 'BE', 'ry-wc-city-select'),

@@ -3,7 +3,7 @@
  * Canada places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -648,7 +648,7 @@ return [
 		_x('Ham-Sud', 'ES', 'ry-wc-city-select'),
 		_x('Hampden', 'ES', 'ry-wc-city-select'),
 		_x('Hatley', 'ES', 'ry-wc-city-select'),
-		_x('Hatley (township municipality), 'ES', 'ry-wc-city-select'),
+		_x('Hatley (township municipality)', 'ES', 'ry-wc-city-select'),
 		_x('Kingsbury', 'ES', 'ry-wc-city-select'),
 		_x('La Patrie', 'ES', 'ry-wc-city-select'),
 		_x('Lac-Drolet', 'ES', 'ry-wc-city-select'),
@@ -1407,7 +1407,7 @@ return [
 	],
 	'PORIREDI' => [
 		_x('Powell River', 'PORIREDI', 'ry-wc-city-select'),
-		_x('Sechelt (Part), 'PORIREDI', 'ry-wc-city-select'),
+		_x('Sechelt (Part)', 'PORIREDI', 'ry-wc-city-select'),
 	],
 	'RARIDI' => [
 		_x('Alberton', 'RARIDI', 'ry-wc-city-select'),
@@ -1651,7 +1651,7 @@ return [
 	'SUCOREDI' => [
 		_x('Gibsons', 'SUCOREDI', 'ry-wc-city-select'),
 		_x('Sechelt', 'SUCOREDI', 'ry-wc-city-select'),
-		_x('Sechelt (Part), 'SUCOREDI', 'ry-wc-city-select'),
+		_x('Sechelt (Part)', 'SUCOREDI', 'ry-wc-city-select'),
 	],
 	'THREDI' => [
 		_x('Ashcroft', 'THREDI', 'ry-wc-city-select'),

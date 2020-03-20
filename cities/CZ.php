@@ -3,7 +3,7 @@
  * Czechia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -412,8 +412,8 @@ return [
 		_x('Braniskov', 'OKBR2', 'ry-wc-city-select'),
 		_x('Branisovice', 'OKBR2', 'ry-wc-city-select'),
 		_x('Bratcice', 'OKBR2', 'ry-wc-city-select'),
-		_x('Brezina (drive okres Blansko), 'OKBR2', 'ry-wc-city-select'),
-		_x('Brezina (drive okres Tisnov), 'OKBR2', 'ry-wc-city-select'),
+		_x('Brezina (drive okres Blansko)', 'OKBR2', 'ry-wc-city-select'),
+		_x('Brezina (drive okres Tisnov)', 'OKBR2', 'ry-wc-city-select'),
 		_x('Brumov', 'OKBR2', 'ry-wc-city-select'),
 		_x('Bukovice', 'OKBR2', 'ry-wc-city-select'),
 		_x('Cebin', 'OKBR2', 'ry-wc-city-select'),
@@ -1166,8 +1166,8 @@ return [
 		_x('Loucim', 'OKDO', 'ry-wc-city-select'),
 		_x('Luzenicky', 'OKDO', 'ry-wc-city-select'),
 		_x('Meclov', 'OKDO', 'ry-wc-city-select'),
-		_x('Mezholezy (drive okres Domazlice), 'OKDO', 'ry-wc-city-select'),
-		_x('Mezholezy (drive okres Horsovsky Tyn), 'OKDO', 'ry-wc-city-select'),
+		_x('Mezholezy (drive okres Domazlice)', 'OKDO', 'ry-wc-city-select'),
+		_x('Mezholezy (drive okres Horsovsky Tyn)', 'OKDO', 'ry-wc-city-select'),
 		_x('Milavce', 'OKDO', 'ry-wc-city-select'),
 		_x('Mirkov', 'OKDO', 'ry-wc-city-select'),
 		_x('Mnichov', 'OKDO', 'ry-wc-city-select'),

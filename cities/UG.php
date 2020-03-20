@@ -3,7 +3,7 @@
  * Republic of Uganda places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -411,7 +411,7 @@ return [
 	'TODI' => [
 		_x('Tororo County', 'TODI', 'ry-wc-city-select'),
 		_x('Tororo Municipality', 'TODI', 'ry-wc-city-select'),
-		_x('West Budama (Kisolo), 'TODI', 'ry-wc-city-select'),
+		_x('West Budama (Kisolo)', 'TODI', 'ry-wc-city-select'),
 	],
 	'WADI' => [
 		_x('Busiro County', 'WADI', 'ry-wc-city-select'),

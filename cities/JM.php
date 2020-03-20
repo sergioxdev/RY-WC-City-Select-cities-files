@@ -3,7 +3,7 @@
  * Jamaica places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -389,7 +389,7 @@ return [
 		_x('Liguanea', 'SAAN', 'ry-wc-city-select'),
 		_x('Majestic Gardens', 'SAAN', 'ry-wc-city-select'),
 		_x('Mannings Hill', 'SAAN', 'ry-wc-city-select'),
-		_x('Mannings Hill (Rural), 'SAAN', 'ry-wc-city-select'),
+		_x('Mannings Hill (Rural)', 'SAAN', 'ry-wc-city-select'),
 		_x('Marverley', 'SAAN', 'ry-wc-city-select'),
 		_x('Maryland', 'SAAN', 'ry-wc-city-select'),
 		_x('Mavis Bank', 'SAAN', 'ry-wc-city-select'),
@@ -412,7 +412,7 @@ return [
 		_x('Pembroke Hall', 'SAAN', 'ry-wc-city-select'),
 		_x('Penwood', 'SAAN', 'ry-wc-city-select'),
 		_x('Queensborough/ Tunbridge', 'SAAN', 'ry-wc-city-select'),
-		_x('Red Hills (Rural), 'SAAN', 'ry-wc-city-select'),
+		_x('Red Hills (Rural)', 'SAAN', 'ry-wc-city-select'),
 		_x('Red Hills Gardens', 'SAAN', 'ry-wc-city-select'),
 		_x('Red Hills/ Sterling Castle', 'SAAN', 'ry-wc-city-select'),
 		_x('Richmond Park', 'SAAN', 'ry-wc-city-select'),

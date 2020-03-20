@@ -3,7 +3,7 @@
  * Republic of Benin places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -418,7 +418,7 @@ return [
 		_x('Baname', 'COZA2', 'ry-wc-city-select'),
 		_x('Dovi', 'COZA2', 'ry-wc-city-select'),
 		_x('Kpedekpo', 'COZA2', 'ry-wc-city-select'),
-		_x('N-Tan (Don Tan), 'COZA2', 'ry-wc-city-select'),
+		_x('N-Tan (Don Tan)', 'COZA2', 'ry-wc-city-select'),
 		_x('Zagnanado', 'COZA2', 'ry-wc-city-select'),
 	],
 	'CO3' => [

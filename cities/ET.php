@@ -3,7 +3,7 @@
  * Federal Democratic Republic of Ethiopia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -91,7 +91,7 @@ return [
 		_x('Kurfa Chele', 'EAHAZO', 'ry-wc-city-select'),
 	],
 	'EAWEZO' => [
-		_x('Sasiga (woreda), 'EAWEZO', 'ry-wc-city-select'),
+		_x('Sasiga (woreda)', 'EAWEZO', 'ry-wc-city-select'),
 	],
 	'EATIZO' => [
 		_x('Atsbi Wonberta', 'EATIZO', 'ry-wc-city-select'),

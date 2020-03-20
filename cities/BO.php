@@ -3,7 +3,7 @@
  * Plurinational State of Bolivia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -97,7 +97,7 @@ return [
 		_x('Morochata Municipality', 'PRAY', 'ry-wc-city-select'),
 	],
 	'PRAZ' => [
-		_x('Tarvita (Villa Orias), 'PRAZ', 'ry-wc-city-select'),
+		_x('Tarvita (Villa Orias)', 'PRAZ', 'ry-wc-city-select'),
 		_x('Villa Azurduy', 'PRAZ', 'ry-wc-city-select'),
 	],
 	'PRBASA' => [
@@ -290,7 +290,7 @@ return [
 	],
 	'PRLUCA' => [
 		_x('Machareti', 'PRLUCA', 'ry-wc-city-select'),
-		_x('Villa Vaca Guzman (Muyupampa), 'PRLUCA', 'ry-wc-city-select'),
+		_x('Villa Vaca Guzman (Muyupampa)', 'PRLUCA', 'ry-wc-city-select'),
 		_x('Villa de Huacaya', 'PRLUCA', 'ry-wc-city-select'),
 	],
 	'PRMADI' => [
@@ -393,7 +393,7 @@ return [
 	],
 	'PROR' => [
 		_x('Poroma', 'PROR', 'ry-wc-city-select'),
-		_x('Sucre (Capital), 'PROR', 'ry-wc-city-select'),
+		_x('Sucre (Capital)', 'PROR', 'ry-wc-city-select'),
 		_x('Yotala', 'PROR', 'ry-wc-city-select'),
 	],
 	'PRPA' => [
@@ -477,7 +477,7 @@ return [
 		_x('Tupiza', 'PRSUCH', 'ry-wc-city-select'),
 	],
 	'PRSUCI' => [
-		_x('Camataqui (Villa Abecia), 'PRSUCI', 'ry-wc-city-select'),
+		_x('Camataqui (Villa Abecia)', 'PRSUCI', 'ry-wc-city-select'),
 		_x('Culpina', 'PRSUCI', 'ry-wc-city-select'),
 		_x('Las Carreras', 'PRSUCI', 'ry-wc-city-select'),
 	],
@@ -543,7 +543,7 @@ return [
 		_x('Icla', 'PRZU', 'ry-wc-city-select'),
 		_x('Mojocoya', 'PRZU', 'ry-wc-city-select'),
 		_x('Presto', 'PRZU', 'ry-wc-city-select'),
-		_x('Villa Zudanez (Tacopaya), 'PRZU', 'ry-wc-city-select'),
+		_x('Villa Zudanez (Tacopaya)', 'PRZU', 'ry-wc-city-select'),
 	],
 	'PUME' => [
 		_x('Carangas', 'PUME', 'ry-wc-city-select'),

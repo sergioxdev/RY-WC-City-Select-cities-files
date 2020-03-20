@@ -3,7 +3,7 @@
  * Argentine Republic places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-19
+ * @version  2020-03-20
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -92,7 +92,7 @@ return [
 		_x('San Carlos de Bariloche', 'DEBA', 'ry-wc-city-select'),
 	],
 	'DECO' => [
-		_x('San Jose (Entre Rios), 'DECO', 'ry-wc-city-select'),
+		_x('San Jose (Entre Rios)', 'DECO', 'ry-wc-city-select'),
 	],
 	'DENO' => [
 		_x('Caviahue-Copahue', 'DENO', 'ry-wc-city-select'),
