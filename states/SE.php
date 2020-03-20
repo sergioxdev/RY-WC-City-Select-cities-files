@@ -321,4 +321,5 @@ return [
 		'VALA4' => __( 'Vaestmanlands laen', 'ry-wc-city-select' ),
 		'VAGOLA' => __( 'Vaestra Goetalands laen', 'ry-wc-city-select' ),
 	]
+	]
 ];

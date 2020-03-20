@@ -82,4 +82,5 @@ return [
 		'ZARA2' => __( 'Zaqatala Rayon', 'ry-wc-city-select' ),
 		'ZARA3' => __( 'Zardab Rayon', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -29,4 +29,5 @@ return [
 		'GOTO' => __( 'Gobolka Togdheer', 'ry-wc-city-select' ),
 		'GOWOGA' => __( 'Gobolka Woqooyi Galbeed', 'ry-wc-city-select' ),
 	]
+	]
 ];

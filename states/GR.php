@@ -79,4 +79,5 @@ return [
 		'WEGR' => __( 'Western Greece', 'ry-wc-city-select' ),
 		'WEMA' => __( 'Western Macedonia', 'ry-wc-city-select' ),
 	]
+	]
 ];

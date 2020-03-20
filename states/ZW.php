@@ -21,4 +21,5 @@ return [
 		'MASOPR' => __( 'Matabeleland South Province', 'ry-wc-city-select' ),
 		'MIPR' => __( 'Midlands Province', 'ry-wc-city-select' ),
 	]
+	]
 ];

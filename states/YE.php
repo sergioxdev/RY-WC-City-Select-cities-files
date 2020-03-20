@@ -34,4 +34,5 @@ return [
 		'SH' => __( 'Shabwah', 'ry-wc-city-select' ),
 		'SO' => __( 'Socotra', 'ry-wc-city-select' ),
 	]
+	]
 ];

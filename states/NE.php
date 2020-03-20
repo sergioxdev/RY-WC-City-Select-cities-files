@@ -20,4 +20,5 @@ return [
 		'TIRE' => __( 'Tillaberi Region', 'ry-wc-city-select' ),
 		'ZI' => __( 'Zinder', 'ry-wc-city-select' ),
 	]
+	]
 ];

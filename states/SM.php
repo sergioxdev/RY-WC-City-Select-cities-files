@@ -20,4 +20,5 @@ return [
 		'CH' => __( 'Chiesanuova', 'ry-wc-city-select' ),
 		'SE' => __( 'Serravalle', 'ry-wc-city-select' ),
 	]
+	]
 ];

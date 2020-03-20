@@ -143,4 +143,5 @@ return [
 		'SC' => __( 'Scotland', 'ry-wc-city-select' ),
 		'WA3' => __( 'Wales', 'ry-wc-city-select' ),
 	]
+	]
 ];

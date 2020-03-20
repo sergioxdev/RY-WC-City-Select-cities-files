@@ -15,4 +15,5 @@ return [
 		'NOGO' => __( 'Northern Governorate', 'ry-wc-city-select' ),
 		'SOGO' => __( 'Southern Governorate', 'ry-wc-city-select' ),
 	]
+	]
 ];

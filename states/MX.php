@@ -44,4 +44,5 @@ return [
 		'ESYU' => __( 'Estado de Yucatan', 'ry-wc-city-select' ),
 		'ESZA' => __( 'Estado de Zacatecas', 'ry-wc-city-select' ),
 	]
+	]
 ];

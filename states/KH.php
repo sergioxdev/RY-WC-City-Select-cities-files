@@ -36,4 +36,5 @@ return [
 		'TA' => __( 'Takeo', 'ry-wc-city-select' ),
 		'TBKH' => __( 'Tboung Khmum', 'ry-wc-city-select' ),
 	]
+	]
 ];

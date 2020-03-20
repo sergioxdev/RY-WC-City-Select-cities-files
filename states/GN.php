@@ -52,4 +52,5 @@ return [
 		'MARE' => __( 'Mamou Region', 'ry-wc-city-select' ),
 		'NZRE' => __( 'Nzerekore Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

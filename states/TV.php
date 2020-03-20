@@ -19,4 +19,5 @@ return [
 		'NU3' => __( 'Nukulaelae', 'ry-wc-city-select' ),
 		'VA' => __( 'Vaitupu', 'ry-wc-city-select' ),
 	]
+	]
 ];

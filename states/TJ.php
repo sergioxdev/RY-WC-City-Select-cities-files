@@ -16,4 +16,5 @@ return [
 		'VIMUKUBA' => __( 'Viloyati Mukhtori Kuhistoni Badakhshon', 'ry-wc-city-select' ),
 		'VISU' => __( 'Viloyati Sughd', 'ry-wc-city-select' ),
 	]
+	]
 ];

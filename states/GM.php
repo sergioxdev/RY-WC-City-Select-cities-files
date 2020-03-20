@@ -17,4 +17,5 @@ return [
 		'UPRI' => __( 'Upper River', 'ry-wc-city-select' ),
 		'WECO' => __( 'West Coast', 'ry-wc-city-select' ),
 	]
+	]
 ];

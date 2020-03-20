@@ -17,4 +17,5 @@ return [
 		'CODI' => __( 'Corozal District', 'ry-wc-city-select' ),
 		'TODI' => __( 'Toledo District', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -45,4 +45,5 @@ return [
 		'WITA' => __( 'Wilayat-e Takhar', 'ry-wc-city-select' ),
 		'WIZA' => __( 'Wilayat-e Zabul', 'ry-wc-city-select' ),
 	]
+	]
 ];

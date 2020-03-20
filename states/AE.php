@@ -18,4 +18,5 @@ return [
 		'UMQA' => __( 'Umm al Qaywayn', 'ry-wc-city-select' ),
 		'`A' => __( '`Ajman', 'ry-wc-city-select' ),
 	]
+	]
 ];

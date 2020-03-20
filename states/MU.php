@@ -23,4 +23,5 @@ return [
 		'RO' => __( 'Rodrigues', 'ry-wc-city-select' ),
 		'SADI' => __( 'Savanne District', 'ry-wc-city-select' ),
 	]
+	]
 ];

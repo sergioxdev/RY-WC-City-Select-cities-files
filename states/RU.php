@@ -112,4 +112,5 @@ return [
 		'KHAVOK' => __( 'Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra', 'ry-wc-city-select' ),
 		'NEAVOK' => __( 'Nenetskiy Avtonomnyy Okrug', 'ry-wc-city-select' ),
 	]
+	]
 ];

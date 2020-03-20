@@ -57,4 +57,5 @@ return [
 		'YAAUDI' => __( 'Yamoussoukro Autonomous District', 'ry-wc-city-select' ),
 		'ZA' => __( 'Zanzan', 'ry-wc-city-select' ),
 	]
+	]
 ];

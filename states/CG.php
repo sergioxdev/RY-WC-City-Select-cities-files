@@ -23,4 +23,5 @@ return [
 		'RENI' => __( 'Region du Niari', 'ry-wc-city-select' ),
 		'SA' => __( 'Sangha', 'ry-wc-city-select' ),
 	]
+	]
 ];

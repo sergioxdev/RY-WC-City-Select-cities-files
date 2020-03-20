@@ -25,4 +25,5 @@ return [
 		'TOVI' => __( 'Toshkent Viloyati', 'ry-wc-city-select' ),
 		'XOVI' => __( 'Xorazm Viloyati', 'ry-wc-city-select' ),
 	]
+	]
 ];

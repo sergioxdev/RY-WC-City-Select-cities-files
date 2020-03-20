@@ -16,4 +16,5 @@ return [
 		'SOPR' => __( 'Southern Province', 'ry-wc-city-select' ),
 		'WEAR' => __( 'Western Area', 'ry-wc-city-select' ),
 	]
+	]
 ];

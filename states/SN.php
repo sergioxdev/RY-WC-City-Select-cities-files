@@ -25,4 +25,5 @@ return [
 		'TA' => __( 'Tambacounda', 'ry-wc-city-select' ),
 		'ZI' => __( 'Ziguinchor', 'ry-wc-city-select' ),
 	]
+	]
 ];

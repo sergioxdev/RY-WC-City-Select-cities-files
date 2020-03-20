@@ -79,4 +79,5 @@ return [
 		'TA3' => __( 'Tas-Sliema', 'ry-wc-city-select' ),
 		'VI' => __( 'Victoria', 'ry-wc-city-select' ),
 	]
+	]
 ];

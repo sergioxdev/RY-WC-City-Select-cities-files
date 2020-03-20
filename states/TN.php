@@ -298,4 +298,5 @@ return [
 		'MA6' => __( 'Manouba', 'ry-wc-city-select' ),
 		'TA5' => __( 'Tataouine', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -21,4 +21,5 @@ return [
 		'QU' => __( 'Quthing', 'ry-wc-city-select' ),
 		'TH' => __( 'Thaba-Tseka', 'ry-wc-city-select' ),
 	]
+	]
 ];

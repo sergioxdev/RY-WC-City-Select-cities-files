@@ -38,4 +38,5 @@ return [
 		'AUPOVO' => __( 'Autonomna Pokrajina Vojvodina', 'ry-wc-city-select' ),
 		'CESE' => __( 'Central Serbia', 'ry-wc-city-select' ),
 	]
+	]
 ];

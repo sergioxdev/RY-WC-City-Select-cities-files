@@ -365,4 +365,5 @@ return [
 		'YUSH6' => __( 'Yunnan Sheng', 'ry-wc-city-select' ),
 		'ZHSH16' => __( 'Zhejiang Sheng', 'ry-wc-city-select' ),
 	]
+	]
 ];

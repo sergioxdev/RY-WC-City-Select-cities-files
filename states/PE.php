@@ -230,4 +230,5 @@ return [
 		'TU' => __( 'Tumbes', 'ry-wc-city-select' ),
 		'UC' => __( 'Ucayali', 'ry-wc-city-select' ),
 	]
+	]
 ];

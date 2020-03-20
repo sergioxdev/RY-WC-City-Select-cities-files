@@ -14,4 +14,5 @@ return [
 		'LIIS' => __( 'Line Islands', 'ry-wc-city-select' ),
 		'PHIS' => __( 'Phoenix Islands', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -22,4 +22,5 @@ return [
 		'RA' => __( 'Rason', 'ry-wc-city-select' ),
 		'RY' => __( 'Ryanggang', 'ry-wc-city-select' ),
 	]
+	]
 ];

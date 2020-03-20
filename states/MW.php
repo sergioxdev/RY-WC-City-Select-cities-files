@@ -15,4 +15,5 @@ return [
 		'NORE' => __( 'Northern Region', 'ry-wc-city-select' ),
 		'SORE' => __( 'Southern Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

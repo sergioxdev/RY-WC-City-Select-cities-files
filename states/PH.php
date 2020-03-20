@@ -113,4 +113,5 @@ return [
 		'WEVI' => __( 'Western Visayas', 'ry-wc-city-select' ),
 		'ZAPE' => __( 'Zamboanga Peninsula', 'ry-wc-city-select' ),
 	]
+	]
 ];

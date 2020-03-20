@@ -19,4 +19,5 @@ return [
 		'TR2' => __( 'Trnava', 'ry-wc-city-select' ),
 		'ZI' => __( 'Zilina', 'ry-wc-city-select' ),
 	]
+	]
 ];

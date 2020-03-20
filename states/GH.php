@@ -21,4 +21,5 @@ return [
 		'VORE' => __( 'Volta Region', 'ry-wc-city-select' ),
 		'WERE' => __( 'Western Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

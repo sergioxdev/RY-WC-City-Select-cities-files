@@ -96,4 +96,5 @@ return [
 		'ZE' => __( 'Zelenikovo', 'ry-wc-city-select' ),
 		'ZR' => __( 'Zrnovci', 'ry-wc-city-select' ),
 	]
+	]
 ];

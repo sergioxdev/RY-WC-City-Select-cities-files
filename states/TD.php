@@ -34,4 +34,5 @@ return [
 		'SI' => __( 'Sila', 'ry-wc-city-select' ),
 		'TIRE' => __( 'Tibesti Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

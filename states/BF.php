@@ -51,4 +51,5 @@ return [
 		'CE5' => __( 'Centre-Est', 'ry-wc-city-select' ),
 		'NO' => __( 'Nord', 'ry-wc-city-select' ),
 	]
+	]
 ];

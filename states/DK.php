@@ -16,4 +16,5 @@ return [
 		'RESJ' => __( 'Region Sjaelland', 'ry-wc-city-select' ),
 		'RESY' => __( 'Region Syddanmark', 'ry-wc-city-select' ),
 	]
+	]
 ];

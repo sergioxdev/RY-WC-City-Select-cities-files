@@ -27,4 +27,5 @@ return [
 		'SEPH' => __( 'Selibe Phikwe', 'ry-wc-city-select' ),
 		'SOTO' => __( 'Sowa Town', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -80,4 +80,5 @@ return [
 		'ZHOB' => __( 'Zhytomyrska Oblast', 'ry-wc-city-select' ),
 		'SECI' => __( 'Sebastopol City', 'ry-wc-city-select' ),
 	]
+	]
 ];

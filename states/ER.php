@@ -17,4 +17,5 @@ return [
 		'NORESERE' => __( 'Northern Red Sea Region', 'ry-wc-city-select' ),
 		'SORESERE' => __( 'Southern Red Sea Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

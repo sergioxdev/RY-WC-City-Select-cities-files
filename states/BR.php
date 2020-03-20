@@ -38,4 +38,5 @@ return [
 		'SE' => __( 'Sergipe', 'ry-wc-city-select' ),
 		'TO' => __( 'Tocantins', 'ry-wc-city-select' ),
 	]
+	]
 ];

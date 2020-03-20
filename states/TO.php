@@ -16,4 +16,5 @@ return [
 		'TO' => __( 'Tongatapu', 'ry-wc-city-select' ),
 		'VA' => __( 'Vavau', 'ry-wc-city-select' ),
 	]
+	]
 ];

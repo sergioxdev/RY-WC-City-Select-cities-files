@@ -299,4 +299,5 @@ return [
 		'SOST' => __( 'Sokoto State', 'ry-wc-city-select' ),
 		'ZAST' => __( 'Zamfara State', 'ry-wc-city-select' ),
 	]
+	]
 ];

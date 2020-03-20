@@ -38,4 +38,5 @@ return [
 		'MUBUSA' => __( 'Muhafazat Bur Said', 'ry-wc-city-select' ),
 		'RESEGO' => __( 'Red Sea Governorate', 'ry-wc-city-select' ),
 	]
+	]
 ];

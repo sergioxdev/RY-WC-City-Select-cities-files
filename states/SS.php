@@ -43,4 +43,5 @@ return [
 		'TW' => __( 'Twic', 'ry-wc-city-select' ),
 		'WELA' => __( 'Western Lakes', 'ry-wc-city-select' ),
 	]
+	]
 ];

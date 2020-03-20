@@ -21,4 +21,5 @@ return [
 		'SO' => __( 'Soufriere', 'ry-wc-city-select' ),
 		'VI' => __( 'Vieux-Fort', 'ry-wc-city-select' ),
 	]
+	]
 ];

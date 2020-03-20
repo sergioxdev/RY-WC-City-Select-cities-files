@@ -273,4 +273,5 @@ return [
 		'DEDEAM' => __( 'Departamento del Amambay', 'ry-wc-city-select' ),
 		'DEDEGU' => __( 'Departamento del Guaira', 'ry-wc-city-select' ),
 	]
+	]
 ];

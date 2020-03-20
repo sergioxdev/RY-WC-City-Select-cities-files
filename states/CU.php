@@ -29,4 +29,5 @@ return [
 		'PRVICL' => __( 'Provincia de Villa Clara', 'ry-wc-city-select' ),
 		'MUESISJU' => __( 'Municipio Especial Isla de la Juventud', 'ry-wc-city-select' ),
 	]
+	]
 ];

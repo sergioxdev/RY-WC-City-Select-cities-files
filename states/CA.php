@@ -113,4 +113,5 @@ return [
 		'NU' => __( 'Nunavut', 'ry-wc-city-select' ),
 		'YU' => __( 'Yukon', 'ry-wc-city-select' ),
 	]
+	]
 ];

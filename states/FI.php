@@ -96,4 +96,5 @@ return [
 		'UU' => __( 'Uusimaa', 'ry-wc-city-select' ),
 		'VA4' => __( 'Varsinais-Suomi', 'ry-wc-city-select' ),
 	]
+	]
 ];

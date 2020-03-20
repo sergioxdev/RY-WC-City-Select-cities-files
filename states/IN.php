@@ -79,4 +79,5 @@ return [
 		'WEBE' => __( 'West Bengal', 'ry-wc-city-select' ),
 		'STKA' => __( 'State of Karnataka', 'ry-wc-city-select' ),
 	]
+	]
 ];

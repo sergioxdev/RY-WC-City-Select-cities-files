@@ -14,4 +14,5 @@ return [
 		'MO' => __( 'Moheli', 'ry-wc-city-select' ),
 		'ND' => __( 'Ndzuwani', 'ry-wc-city-select' ),
 	]
+	]
 ];

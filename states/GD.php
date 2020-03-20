@@ -18,4 +18,5 @@ return [
 		'SAMA' => __( 'Saint Mark', 'ry-wc-city-select' ),
 		'SAPA' => __( 'Saint Patrick', 'ry-wc-city-select' ),
 	]
+	]
 ];

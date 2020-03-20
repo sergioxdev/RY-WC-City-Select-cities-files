@@ -59,4 +59,5 @@ return [
 		'WITL' => __( 'Wilaya de Tlemcen', 'ry-wc-city-select' ),
 		'WITIKA' => __( 'Wilaya de tiaret kabas', 'ry-wc-city-select' ),
 	]
+	]
 ];

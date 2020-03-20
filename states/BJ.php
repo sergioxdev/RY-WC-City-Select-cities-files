@@ -100,4 +100,5 @@ return [
 		'PLDE' => __( 'Plateau Department', 'ry-wc-city-select' ),
 		'ZODE' => __( 'Zou Department', 'ry-wc-city-select' ),
 	]
+	]
 ];

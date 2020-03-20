@@ -73,4 +73,5 @@ return [
 		'TIRE' => __( 'Tigray Region', 'ry-wc-city-select' ),
 		'DIDARE' => __( 'Dire Dawa Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -444,4 +444,5 @@ return [
 		'YA11' => __( 'Yamaguchi', 'ry-wc-city-select' ),
 		'YA12' => __( 'Yamanashi', 'ry-wc-city-select' ),
 	]
+	]
 ];

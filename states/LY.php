@@ -33,4 +33,5 @@ return [
 		'WAHA' => __( 'Wadi al Hayat', 'ry-wc-city-select' ),
 		'WAASSH' => __( 'Wadi ash Shati', 'ry-wc-city-select' ),
 	]
+	]
 ];

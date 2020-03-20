@@ -24,4 +24,5 @@ return [
 		'SOPR' => __( 'Sofala Province', 'ry-wc-city-select' ),
 		'TE' => __( 'Tete', 'ry-wc-city-select' ),
 	]
+	]
 ];

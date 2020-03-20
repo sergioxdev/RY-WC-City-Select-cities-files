@@ -32,4 +32,5 @@ return [
 		'ZAZU' => __( 'Zadarska Zupanija', 'ry-wc-city-select' ),
 		'ZACO' => __( 'Zagreb County', 'ry-wc-city-select' ),
 	]
+	]
 ];

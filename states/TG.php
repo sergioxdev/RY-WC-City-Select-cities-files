@@ -16,4 +16,5 @@ return [
 		'PL' => __( 'Plateaux', 'ry-wc-city-select' ),
 		'SA' => __( 'Savanes', 'ry-wc-city-select' ),
 	]
+	]
 ];

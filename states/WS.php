@@ -22,4 +22,5 @@ return [
 		'VA' => __( 'Vaa-o-Fonoti', 'ry-wc-city-select' ),
 		'VA2' => __( 'Vaisigano', 'ry-wc-city-select' ),
 	]
+	]
 ];

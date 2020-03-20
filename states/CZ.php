@@ -123,4 +123,5 @@ return [
 		'USKR' => __( 'Ustecky kraj', 'ry-wc-city-select' ),
 		'ZLKR' => __( 'Zlinsky kraj', 'ry-wc-city-select' ),
 	]
+	]
 ];

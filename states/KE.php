@@ -58,4 +58,5 @@ return [
 		'UAGI' => __( 'Uasin Gishu', 'ry-wc-city-select' ),
 		'WADI' => __( 'Wajir District', 'ry-wc-city-select' ),
 	]
+	]
 ];

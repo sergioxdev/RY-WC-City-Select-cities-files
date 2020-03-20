@@ -30,4 +30,5 @@ return [
 		'DETA' => __( 'Departamento de Tacuarembo', 'ry-wc-city-select' ),
 		'DETRTR' => __( 'Departamento de Treinta y Tres', 'ry-wc-city-select' ),
 	]
+	]
 ];

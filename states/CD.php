@@ -51,4 +51,5 @@ return [
 		'TA' => __( 'Tanganika', 'ry-wc-city-select' ),
 		'TS2' => __( 'Tshuapa', 'ry-wc-city-select' ),
 	]
+	]
 ];

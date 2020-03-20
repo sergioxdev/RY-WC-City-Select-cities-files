@@ -129,4 +129,5 @@ return [
 		'DESACR' => __( 'Departamento de Santa Cruz', 'ry-wc-city-select' ),
 		'BE' => __( 'El Beni', 'ry-wc-city-select' ),
 	]
+	]
 ];

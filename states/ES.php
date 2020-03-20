@@ -80,4 +80,5 @@ return [
 		'PRAS2' => __( 'Principality of Asturias', 'ry-wc-city-select' ),
 		'REMU' => __( 'Region de Murcia', 'ry-wc-city-select' ),
 	]
+	]
 ];

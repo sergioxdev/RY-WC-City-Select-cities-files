@@ -26,4 +26,5 @@ return [
 		'RIGECO' => __( 'River Gee County', 'ry-wc-city-select' ),
 		'SICO' => __( 'Sinoe County', 'ry-wc-city-select' ),
 	]
+	]
 ];

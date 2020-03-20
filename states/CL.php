@@ -83,4 +83,5 @@ return [
 		'REDELIGEBE' => __( 'Region del Libertador General Bernardo O', 'ry-wc-city-select' ),
 		'REDEMA' => __( 'Region del Maule', 'ry-wc-city-select' ),
 	]
+	]
 ];

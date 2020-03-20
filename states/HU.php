@@ -31,4 +31,5 @@ return [
 		'ZAME' => __( 'Zala megye', 'ry-wc-city-select' ),
 		'BU' => __( 'Budapest', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -89,4 +89,5 @@ return [
 		'SO' => __( 'Souss-Massa', 'ry-wc-city-select' ),
 		'TAHO' => __( 'Tanger-Tetouan-Al Hoceima', 'ry-wc-city-select' ),
 	]
+	]
 ];

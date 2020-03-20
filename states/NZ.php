@@ -29,4 +29,5 @@ return [
 		'AU' => __( 'Auckland', 'ry-wc-city-select' ),
 		'CHIS' => __( 'Chatham Islands', 'ry-wc-city-select' ),
 	]
+	]
 ];

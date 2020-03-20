@@ -21,4 +21,5 @@ return [
 		'SORE2' => __( 'South-West Region', 'ry-wc-city-select' ),
 		'WERE' => __( 'West Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

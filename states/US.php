@@ -1447,4 +1447,5 @@ return [
 		'WA' => __( 'Washington', 'ry-wc-city-select' ),
 		'WI' => __( 'Wisconsin', 'ry-wc-city-select' ),
 	]
+	]
 ];

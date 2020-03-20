@@ -83,4 +83,5 @@ return [
 		'MA6' => __( 'Manufahi', 'ry-wc-city-select' ),
 		'OE2' => __( 'Oecusse', 'ry-wc-city-select' ),
 	]
+	]
 ];

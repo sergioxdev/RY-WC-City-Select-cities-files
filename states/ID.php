@@ -83,4 +83,5 @@ return [
 		'WENUTE' => __( 'West Nusa Tenggara', 'ry-wc-city-select' ),
 		'SUTE2' => __( 'Sulawesi Tengah', 'ry-wc-city-select' ),
 	]
+	]
 ];

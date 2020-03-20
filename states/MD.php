@@ -48,4 +48,5 @@ return [
 		'TE' => __( 'Telenesti', 'ry-wc-city-select' ),
 		'UNTEDISTNI' => __( 'Unitatea Teritoriala din Stinga Nistrulu', 'ry-wc-city-select' ),
 	]
+	]
 ];

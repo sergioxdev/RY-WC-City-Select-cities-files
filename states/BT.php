@@ -31,4 +31,5 @@ return [
 		'SADZ2' => __( 'Sarpang Dzongkhag', 'ry-wc-city-select' ),
 		'TRYA' => __( 'Trashi Yangste', 'ry-wc-city-select' ),
 	]
+	]
 ];

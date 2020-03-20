@@ -25,4 +25,5 @@ return [
 		'SATHMIIS' => __( 'Saint Thomas Middle Island', 'ry-wc-city-select' ),
 		'TRPAPO' => __( 'Trinity Palmetto Point', 'ry-wc-city-select' ),
 	]
+	]
 ];

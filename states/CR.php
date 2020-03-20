@@ -99,4 +99,5 @@ return [
 		'PRPU' => __( 'Provincia de Puntarenas', 'ry-wc-city-select' ),
 		'PRSAJO' => __( 'Provincia de San Jose', 'ry-wc-city-select' ),
 	]
+	]
 ];

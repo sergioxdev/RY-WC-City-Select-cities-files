@@ -198,4 +198,5 @@ return [
 		'PRVA' => __( 'Provincia de Valverde', 'ry-wc-city-select' ),
 		'SAPR' => __( 'Samana Province', 'ry-wc-city-select' ),
 	]
+	]
 ];

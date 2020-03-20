@@ -46,4 +46,5 @@ return [
 		'QUDE' => __( 'Quindio Department', 'ry-wc-city-select' ),
 		'DICABO' => __( 'Distrito Capital de Bogota', 'ry-wc-city-select' ),
 	]
+	]
 ];

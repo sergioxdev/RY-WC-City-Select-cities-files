@@ -15,4 +15,5 @@ return [
 		'MA' => __( 'Manzini', 'ry-wc-city-select' ),
 		'SHDI' => __( 'Shiselweni District', 'ry-wc-city-select' ),
 	]
+	]
 ];

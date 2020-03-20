@@ -31,4 +31,5 @@ return [
 		'THAT' => __( 'Thaa Atholhu', 'ry-wc-city-select' ),
 		'VAAT' => __( 'Vaavu Atholhu', 'ry-wc-city-select' ),
 	]
+	]
 ];

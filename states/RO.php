@@ -54,4 +54,5 @@ return [
 		'VR' => __( 'Vrancea', 'ry-wc-city-select' ),
 		'BU' => __( 'Bucuresti', 'ry-wc-city-select' ),
 	]
+	]
 ];

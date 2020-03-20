@@ -35,4 +35,5 @@ return [
 		'WEHIPR' => __( 'Western Highlands Province', 'ry-wc-city-select' ),
 		'WEPR' => __( 'Western Province', 'ry-wc-city-select' ),
 	]
+	]
 ];

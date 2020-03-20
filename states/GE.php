@@ -23,4 +23,5 @@ return [
 		'SHKA' => __( 'Shida Kartli', 'ry-wc-city-select' ),
 		'KATB' => __( 'Kalaki Tbilisi', 'ry-wc-city-select' ),
 	]
+	]
 ];

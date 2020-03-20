@@ -19,4 +19,5 @@ return [
 		'BAASSH' => __( 'Baladiyat ash Shamal', 'ry-wc-city-select' ),
 		'BAZA' => __( 'Baladiyat az Zaayin', 'ry-wc-city-select' ),
 	]
+	]
 ];

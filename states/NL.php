@@ -25,4 +25,5 @@ return [
 		'PRZE' => __( 'Provincie Zeeland', 'ry-wc-city-select' ),
 		'PRZU' => __( 'Provincie Zuid-Holland', 'ry-wc-city-select' ),
 	]
+	]
 ];

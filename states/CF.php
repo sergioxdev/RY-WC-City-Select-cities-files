@@ -29,4 +29,5 @@ return [
 		'PRSA' => __( 'Prefecture de la Sangha-Mbaere', 'ry-wc-city-select' ),
 		'VA' => __( 'Vakaga', 'ry-wc-city-select' ),
 	]
+	]
 ];

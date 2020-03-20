@@ -43,4 +43,5 @@ return [
 		'PU' => __( 'Putrajaya', 'ry-wc-city-select' ),
 		'SA2' => __( 'Sarawak', 'ry-wc-city-select' ),
 	]
+	]
 ];

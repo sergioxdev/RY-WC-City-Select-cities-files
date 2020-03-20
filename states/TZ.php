@@ -212,4 +212,5 @@ return [
 		'ZANORE' => __( 'Zanzibar North Region', 'ry-wc-city-select' ),
 		'ZAURRE' => __( 'Zanzibar Urban/West Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

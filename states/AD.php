@@ -18,4 +18,5 @@ return [
 		'OR' => __( 'Ordino', 'ry-wc-city-select' ),
 		'SAJULO' => __( 'Sant Julia de Loria', 'ry-wc-city-select' ),
 	]
+	]
 ];

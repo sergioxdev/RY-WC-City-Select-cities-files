@@ -99,4 +99,5 @@ return [
 		'TARE' => __( 'Tanintharyi Region', 'ry-wc-city-select' ),
 		'YARE' => __( 'Yangon Region', 'ry-wc-city-select' ),
 	]
+	]
 ];

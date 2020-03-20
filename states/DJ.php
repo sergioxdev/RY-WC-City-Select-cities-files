@@ -17,4 +17,5 @@ return [
 		'DJRE' => __( 'Djibouti Region', 'ry-wc-city-select' ),
 		'TA' => __( 'Tadjourah', 'ry-wc-city-select' ),
 	]
+	]
 ];

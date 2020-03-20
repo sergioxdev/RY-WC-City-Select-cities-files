@@ -185,4 +185,5 @@ return [
 		'NE' => __( 'Neuchatel', 'ry-wc-city-select' ),
 		'TI' => __( 'Ticino', 'ry-wc-city-select' ),
 	]
+	]
 ];

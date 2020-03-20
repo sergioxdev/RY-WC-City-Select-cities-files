@@ -72,4 +72,5 @@ return [
 		'PRNOCA' => __( 'Province of Northern Cape', 'ry-wc-city-select' ),
 		'WECA' => __( 'Western Cape', 'ry-wc-city-select' ),
 	]
+	]
 ];

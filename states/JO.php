@@ -23,4 +23,5 @@ return [
 		'MUTA' => __( 'Muhafazat at Tafilah', 'ry-wc-city-select' ),
 		'MUZA' => __( 'Muhafazat az Zarqa', 'ry-wc-city-select' ),
 	]
+	]
 ];

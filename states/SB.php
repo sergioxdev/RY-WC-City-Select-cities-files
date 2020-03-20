@@ -21,4 +21,5 @@ return [
 		'REANBE' => __( 'Rennell and Bellona', 'ry-wc-city-select' ),
 		'TEPR' => __( 'Temotu Province', 'ry-wc-city-select' ),
 	]
+	]
 ];

@@ -19,4 +19,5 @@ return [
 		'VE' => __( 'Vestfirdir', 'ry-wc-city-select' ),
 		'VE2' => __( 'Vesturland', 'ry-wc-city-select' ),
 	]
+	]
 ];

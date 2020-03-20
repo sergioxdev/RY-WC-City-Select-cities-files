@@ -743,4 +743,5 @@ return [
 		'TIVIPH' => __( 'Tinh Vinh Phuc', 'ry-wc-city-select' ),
 		'TIYEBA' => __( 'Tinh Yen Bai', 'ry-wc-city-select' ),
 	]
+	]
 ];

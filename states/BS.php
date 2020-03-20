@@ -43,4 +43,5 @@ return [
 		'SPWEDI' => __( 'Spanish Wells District', 'ry-wc-city-select' ),
 		'WEGRBADI' => __( 'West Grand Bahama District', 'ry-wc-city-select' ),
 	]
+	]
 ];
