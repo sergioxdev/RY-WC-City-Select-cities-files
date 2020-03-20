@@ -22,5 +22,4 @@ return [
 		'TR2' => __( 'Triesenberg', 'ry-wc-city-select' ),
 		'VA' => __( 'Vaduz', 'ry-wc-city-select' ),
 	]
-	]
 ];

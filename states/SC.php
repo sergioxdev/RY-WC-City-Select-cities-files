@@ -37,5 +37,4 @@ return [
 		'SALO' => __( 'Saint Louis', 'ry-wc-city-select' ),
 		'TA' => __( 'Takamaka', 'ry-wc-city-select' ),
 	]
-	]
 ];

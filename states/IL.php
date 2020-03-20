@@ -18,5 +18,4 @@ return [
 		'JE' => __( 'Jerusalem', 'ry-wc-city-select' ),
 		'TEAVDI' => __( 'Tel Aviv District', 'ry-wc-city-select' ),
 	]
-	]
 ];

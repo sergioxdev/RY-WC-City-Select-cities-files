@@ -26,5 +26,4 @@ return [
 		'TIZE' => __( 'Tiris Zemmour', 'ry-wc-city-select' ),
 		'WITR' => __( 'Wilaya du Trarza', 'ry-wc-city-select' ),
 	]
-	]
 ];

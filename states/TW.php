@@ -35,5 +35,4 @@ return [
 		'FU' => __( 'Fukien', 'ry-wc-city-select' ),
 		'TA5' => __( 'Taiwan', 'ry-wc-city-select' ),
 	]
-	]
 ];

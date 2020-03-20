@@ -17,5 +17,4 @@ return [
 		'PASAGE' => __( 'Parish of Saint George', 'ry-wc-city-select' ),
 		'PASAPA' => __( 'Parish of Saint Patrick', 'ry-wc-city-select' ),
 	]
-	]
 ];

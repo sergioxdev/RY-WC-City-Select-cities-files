@@ -17,5 +17,4 @@ return [
 		'BA' => __( 'Balkan', 'ry-wc-city-select' ),
 		'LE' => __( 'Lebap', 'ry-wc-city-select' ),
 	]
-	]
 ];

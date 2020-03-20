@@ -19,5 +19,4 @@ return [
 		'PASAPH' => __( 'Parish of Saint Philip', 'ry-wc-city-select' ),
 		'RE' => __( 'Redonda', 'ry-wc-city-select' ),
 	]
-	]
 ];

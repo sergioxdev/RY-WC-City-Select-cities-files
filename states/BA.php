@@ -18,5 +18,4 @@ return [
 		'RESR' => __( 'Republika Srpska', 'ry-wc-city-select' ),
 		'BR' => __( 'Brcko', 'ry-wc-city-select' ),
 	]
-	]
 ];

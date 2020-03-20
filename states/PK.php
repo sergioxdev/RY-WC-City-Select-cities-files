@@ -20,5 +20,4 @@ return [
 		'SI' => __( 'Sindh', 'ry-wc-city-select' ),
 		'IS' => __( 'Islamabad', 'ry-wc-city-select' ),
 	]
-	]
 ];

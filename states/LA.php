@@ -29,5 +29,4 @@ return [
 		'XAPR' => __( 'Xaisomboun Province', 'ry-wc-city-select' ),
 		'XI' => __( 'Xiangkhouang', 'ry-wc-city-select' ),
 	]
-	]
 ];

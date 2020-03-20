@@ -30,5 +30,4 @@ return [
 		'BA' => __( 'Baikonur', 'ry-wc-city-select' ),
 		'SH' => __( 'Shymkent', 'ry-wc-city-select' ),
 	]
-	]
 ];

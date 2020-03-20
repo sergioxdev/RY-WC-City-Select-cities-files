@@ -54,5 +54,4 @@ return [
 		'TUPR' => __( 'Tucuman Province', 'ry-wc-city-select' ),
 		'CIAUBUAI' => __( 'Ciudad Autonoma de Buenos Aires', 'ry-wc-city-select' ),
 	]
-	]
 ];

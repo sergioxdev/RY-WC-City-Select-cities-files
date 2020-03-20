@@ -144,5 +144,4 @@ return [
 		'RUPR2' => __( 'Rutana Province', 'ry-wc-city-select' ),
 		'RUPR3' => __( 'Ruyigi Province', 'ry-wc-city-select' ),
 	]
-	]
 ];

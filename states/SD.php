@@ -29,5 +29,4 @@ return [
 		'WEDA' => __( 'West Darfur', 'ry-wc-city-select' ),
 		'WEKOST' => __( 'West Kordofan State', 'ry-wc-city-select' ),
 	]
-	]
 ];

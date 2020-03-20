@@ -22,5 +22,4 @@ return [
 		'SAPH' => __( 'Saint Philip', 'ry-wc-city-select' ),
 		'SATH' => __( 'Saint Thomas', 'ry-wc-city-select' ),
 	]
-	]
 ];

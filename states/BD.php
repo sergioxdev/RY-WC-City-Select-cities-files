@@ -82,5 +82,4 @@ return [
 		'RADI2' => __( 'Rangpur Division', 'ry-wc-city-select' ),
 		'SYDI' => __( 'Sylhet Division', 'ry-wc-city-select' ),
 	]
-	]
 ];

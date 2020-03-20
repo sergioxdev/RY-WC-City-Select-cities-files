@@ -20,5 +20,4 @@ return [
 		'PRMO' => __( 'Province du Moyen-Ogooue', 'ry-wc-city-select' ),
 		'PRWO' => __( 'Province du Woleu-Ntem', 'ry-wc-city-select' ),
 	]
-	]
 ];

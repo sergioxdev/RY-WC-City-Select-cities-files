@@ -21,5 +21,4 @@ return [
 		'SAPA2' => __( 'Saint Paul', 'ry-wc-city-select' ),
 		'SAPE' => __( 'Saint Peter', 'ry-wc-city-select' ),
 	]
-	]
 ];

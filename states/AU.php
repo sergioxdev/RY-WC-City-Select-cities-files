@@ -19,5 +19,4 @@ return [
 		'STWEAU' => __( 'State of Western Australia', 'ry-wc-city-select' ),
 		'AUCATE' => __( 'Australian Capital Territory', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -94,5 +94,4 @@ return [
 		'YO' => __( 'Yozgat', 'ry-wc-city-select' ),
 		'ZO' => __( 'Zonguldak', 'ry-wc-city-select' ),
 	]
-	]
 ];

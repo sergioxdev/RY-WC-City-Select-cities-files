@@ -24,5 +24,4 @@ return [
 		'FL' => __( 'Flanders', 'ry-wc-city-select' ),
 		'WA' => __( 'Wallonia', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -34,5 +34,4 @@ return [
 		'TI' => __( 'Tivat', 'ry-wc-city-select' ),
 		'UL' => __( 'Ulcinj', 'ry-wc-city-select' ),
 	]
-	]
 ];

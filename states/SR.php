@@ -21,5 +21,4 @@ return [
 		'DISI' => __( 'Distrikt Sipaliwini', 'ry-wc-city-select' ),
 		'DIWA' => __( 'Distrikt Wanica', 'ry-wc-city-select' ),
 	]
-	]
 ];

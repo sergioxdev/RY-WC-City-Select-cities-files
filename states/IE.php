@@ -15,5 +15,4 @@ return [
 		'MU' => __( 'Munster', 'ry-wc-city-select' ),
 		'UL' => __( 'Ulster', 'ry-wc-city-select' ),
 	]
-	]
 ];

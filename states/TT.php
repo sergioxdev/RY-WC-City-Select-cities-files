@@ -26,5 +26,4 @@ return [
 		'POFO' => __( 'Point Fortin', 'ry-wc-city-select' ),
 		'SAFE' => __( 'San Fernando', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -25,5 +25,4 @@ return [
 		'QATI' => __( 'Qarku i Tiranes', 'ry-wc-city-select' ),
 		'QAVL' => __( 'Qarku i Vlores', 'ry-wc-city-select' ),
 	]
-	]
 ];

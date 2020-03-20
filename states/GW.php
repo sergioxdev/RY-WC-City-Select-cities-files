@@ -20,5 +20,4 @@ return [
 		'QU' => __( 'Quinara', 'ry-wc-city-select' ),
 		'TO' => __( 'Tombali', 'ry-wc-city-select' ),
 	]
-	]
 ];

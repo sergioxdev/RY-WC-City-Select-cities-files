@@ -29,5 +29,4 @@ return [
 		'PRUI' => __( 'Provincia do Uige', 'ry-wc-city-select' ),
 		'ZA' => __( 'Zaire', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -53,5 +53,4 @@ return [
 		'ESBA' => __( 'Estado Barinas', 'ry-wc-city-select' ),
 		'ESVA' => __( 'Estado Vargas', 'ry-wc-city-select' ),
 	]
-	]
 ];

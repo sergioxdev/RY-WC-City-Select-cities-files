@@ -25,5 +25,4 @@ return [
 		'OT' => __( 'Otjozondjupa', 'ry-wc-city-select' ),
 		'ZARE' => __( 'Zambezi Region', 'ry-wc-city-select' ),
 	]
-	]
 ];

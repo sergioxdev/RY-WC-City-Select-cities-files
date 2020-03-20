@@ -21,5 +21,4 @@ return [
 		'UPDERE' => __( 'Upper Demerara-Berbice Region', 'ry-wc-city-select' ),
 		'UPTAESRE' => __( 'Upper Takutu-Upper Essequibo Region', 'ry-wc-city-select' ),
 	]
-	]
 ];

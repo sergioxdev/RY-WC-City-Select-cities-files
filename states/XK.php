@@ -18,5 +18,4 @@ return [
 		'PRDI' => __( 'Pristina District', 'ry-wc-city-select' ),
 		'PRDI2' => __( 'Prizren District', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -286,5 +286,4 @@ return [
 		'SO2' => __( 'Sofia-Grad', 'ry-wc-city-select' ),
 		'VA' => __( 'Varna', 'ry-wc-city-select' ),
 	]
-	]
 ];

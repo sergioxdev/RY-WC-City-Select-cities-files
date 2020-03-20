@@ -22,5 +22,4 @@ return [
 		'SHMA' => __( 'Shiraki Marz', 'ry-wc-city-select' ),
 		'TAMA' => __( 'Tavushi Marz', 'ry-wc-city-select' ),
 	]
-	]
 ];

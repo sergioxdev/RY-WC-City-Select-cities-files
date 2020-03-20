@@ -12,5 +12,4 @@ return [
 	'MC' => [
 		'COMO' => __( 'Commune de Monaco', 'ry-wc-city-select' ),
 	]
-	]
 ];

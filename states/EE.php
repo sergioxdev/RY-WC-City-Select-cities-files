@@ -105,5 +105,4 @@ return [
 		'VI' => __( 'Viljandimaa', 'ry-wc-city-select' ),
 		'VO' => __( 'Vorumaa', 'ry-wc-city-select' ),
 	]
-	]
 ];

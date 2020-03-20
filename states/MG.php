@@ -152,5 +152,4 @@ return [
 		'VARE' => __( 'Vakinankaratra Region', 'ry-wc-city-select' ),
 		'VAFIRE' => __( 'Vatovavy Fitovinany Region', 'ry-wc-city-select' ),
 	]
-	]
 ];

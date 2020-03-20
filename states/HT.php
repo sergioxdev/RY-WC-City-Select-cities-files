@@ -61,5 +61,4 @@ return [
 		'SU' => __( 'Sud', 'ry-wc-city-select' ),
 		'SU2' => __( 'Sud-Est', 'ry-wc-city-select' ),
 	]
-	]
 ];

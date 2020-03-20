@@ -25,5 +25,4 @@ return [
 		'UADI' => __( 'Uaboe District', 'ry-wc-city-select' ),
 		'YA' => __( 'Yaren', 'ry-wc-city-select' ),
 	]
-	]
 ];

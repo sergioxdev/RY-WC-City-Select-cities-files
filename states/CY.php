@@ -18,5 +18,4 @@ return [
 		'EPLE2' => __( 'Eparchia Lemesou', 'ry-wc-city-select' ),
 		'EPPA' => __( 'Eparchia Pafou', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -395,5 +395,4 @@ return [
 		'WOWI' => __( 'Wojewodztwo Wielkopolskie', 'ry-wc-city-select' ),
 		'WOZA' => __( 'Wojewodztwo Zachodniopomorskie', 'ry-wc-city-select' ),
 	]
-	]
 ];

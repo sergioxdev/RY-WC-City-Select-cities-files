@@ -17,5 +17,4 @@ return [
 		'TAPR' => __( 'Tafea Province', 'ry-wc-city-select' ),
 		'TOPR' => __( 'Torba Province', 'ry-wc-city-select' ),
 	]
-	]
 ];

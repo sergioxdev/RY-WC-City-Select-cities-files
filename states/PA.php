@@ -100,5 +100,4 @@ return [
 		'PRVE' => __( 'Provincia de Veraguas', 'ry-wc-city-select' ),
 		'PRDEDA' => __( 'Provincia del Darien', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -22,5 +22,4 @@ return [
 		'MUBU' => __( 'Muhafazat al Buraymi', 'ry-wc-city-select' ),
 		'MUWU' => __( 'Muhafazat al Wusta', 'ry-wc-city-select' ),
 	]
-	]
 ];

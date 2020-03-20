@@ -24,5 +24,4 @@ return [
 		'MIHUASSH' => __( 'Mintaqat al Hudud ash Shamaliyah', 'ry-wc-city-select' ),
 		'MIRI' => __( 'Mintaqat ar Riyad', 'ry-wc-city-select' ),
 	]
-	]
 ];

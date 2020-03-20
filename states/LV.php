@@ -130,5 +130,4 @@ return [
 		'VINO3' => __( 'Vilanu Novads', 'ry-wc-city-select' ),
 		'ZINO' => __( 'Zilupes Novads', 'ry-wc-city-select' ),
 	]
-	]
 ];

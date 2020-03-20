@@ -19,5 +19,4 @@ return [
 		'MONA' => __( 'Mohafazat Nabatiye', 'ry-wc-city-select' ),
 		'BE' => __( 'Beyrouth', 'ry-wc-city-select' ),
 	]
-	]
 ];

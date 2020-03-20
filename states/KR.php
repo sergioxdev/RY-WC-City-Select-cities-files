@@ -243,5 +243,4 @@ return [
 		'SE12' => __( 'Seoul', 'ry-wc-city-select' ),
 		'UL3' => __( 'Ulsan', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -29,5 +29,4 @@ return [
 		'DERI' => __( 'Departamento de Rivas', 'ry-wc-city-select' ),
 		'NOATAURE(R' => __( 'North Atlantic Autonomous Region (RAAN)', 'ry-wc-city-select' ),
 	]
-	]
 ];

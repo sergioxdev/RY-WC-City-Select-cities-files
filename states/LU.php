@@ -23,5 +23,4 @@ return [
 		'VI' => __( 'Vianden', 'ry-wc-city-select' ),
 		'WI' => __( 'Wiltz', 'ry-wc-city-select' ),
 	]
-	]
 ];

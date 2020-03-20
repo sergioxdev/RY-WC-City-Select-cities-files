@@ -33,5 +33,4 @@ return [
 		'ULHO' => __( 'Ulaanbaatar Hot', 'ry-wc-city-select' ),
 		'UVAY' => __( 'Uvs Aymag', 'ry-wc-city-select' ),
 	]
-	]
 ];

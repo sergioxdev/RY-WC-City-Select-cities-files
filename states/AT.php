@@ -114,5 +114,4 @@ return [
 		'VO' => __( 'Vorarlberg', 'ry-wc-city-select' ),
 		'WI' => __( 'Wien', 'ry-wc-city-select' ),
 	]
-	]
 ];

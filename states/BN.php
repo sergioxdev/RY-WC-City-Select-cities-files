@@ -16,5 +16,4 @@ return [
 		'BEDI' => __( 'Belait District', 'ry-wc-city-select' ),
 		'TEDI' => __( 'Temburong District', 'ry-wc-city-select' ),
 	]
-	]
 ];

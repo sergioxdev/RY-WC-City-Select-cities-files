@@ -25,5 +25,4 @@ return [
 		'TR' => __( 'Trelawny', 'ry-wc-city-select' ),
 		'WE' => __( 'Westmoreland', 'ry-wc-city-select' ),
 	]
-	]
 ];

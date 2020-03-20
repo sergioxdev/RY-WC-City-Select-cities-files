@@ -29,5 +29,4 @@ return [
 		'MUQA' => __( 'Muhafazat al Qadisiyah', 'ry-wc-city-select' ),
 		'MUSU' => __( 'Muhafazat as Sulaymaniyah', 'ry-wc-city-select' ),
 	]
-	]
 ];

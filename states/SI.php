@@ -223,5 +223,4 @@ return [
 		'VU' => __( 'Vuzenica', 'ry-wc-city-select' ),
 		'ZASA' => __( 'Zagorje ob Savi', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -13,5 +13,4 @@ return [
 		'PR' => __( 'Principe', 'ry-wc-city-select' ),
 		'SATO' => __( 'Sao Tome', 'ry-wc-city-select' ),
 	]
-	]
 ];

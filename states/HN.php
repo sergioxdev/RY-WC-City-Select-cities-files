@@ -29,5 +29,4 @@ return [
 		'DEVA' => __( 'Departamento de Valle', 'ry-wc-city-select' ),
 		'DEYO' => __( 'Departamento de Yoro', 'ry-wc-city-select' ),
 	]
-	]
 ];

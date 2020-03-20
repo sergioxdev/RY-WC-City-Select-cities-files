@@ -18,5 +18,4 @@ return [
 		'MOOB' => __( 'Mogilyov Oblast', 'ry-wc-city-select' ),
 		'VIOB' => __( 'Vitebsk Oblast', 'ry-wc-city-select' ),
 	]
-	]
 ];

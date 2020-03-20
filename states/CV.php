@@ -33,5 +33,4 @@ return [
 		'SAMU' => __( 'Sal Municipality', 'ry-wc-city-select' ),
 		'SALODOOR' => __( 'Sao Lourenco dos Orgaos', 'ry-wc-city-select' ),
 	]
-	]
 ];

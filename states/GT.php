@@ -33,5 +33,4 @@ return [
 		'DEDEPE' => __( 'Departamento del Peten', 'ry-wc-city-select' ),
 		'DEDEQU' => __( 'Departamento del Quiche', 'ry-wc-city-select' ),
 	]
-	]
 ];

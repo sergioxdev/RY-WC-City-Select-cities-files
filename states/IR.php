@@ -43,5 +43,4 @@ return [
 		'WEAZPR' => __( 'West Azerbaijan Province', 'ry-wc-city-select' ),
 		'YA' => __( 'Yazd', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -138,5 +138,4 @@ return [
 		'UM' => __( 'Umbria', 'ry-wc-city-select' ),
 		'VE' => __( 'Veneto', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -30,5 +30,4 @@ return [
 		'PU' => __( 'Purwanchal', 'ry-wc-city-select' ),
 		'SUPA' => __( 'Sudur Pashchimanchal', 'ry-wc-city-select' ),
 	]
-	]
 ];

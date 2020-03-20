@@ -17,5 +17,4 @@ return [
 		'MUFA' => __( 'Muhafazat al Farwaniyah', 'ry-wc-city-select' ),
 		'MUJA' => __( 'Muhafazat al Jahra', 'ry-wc-city-select' ),
 	]
-	]
 ];

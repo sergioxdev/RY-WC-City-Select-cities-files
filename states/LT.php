@@ -22,5 +22,4 @@ return [
 		'UTCO' => __( 'Utena County', 'ry-wc-city-select' ),
 		'VIAP' => __( 'Vilniaus apskritis', 'ry-wc-city-select' ),
 	]
-	]
 ];

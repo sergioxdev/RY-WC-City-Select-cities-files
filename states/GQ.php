@@ -18,5 +18,4 @@ return [
 		'PRLI' => __( 'Provincia de Litoral', 'ry-wc-city-select' ),
 		'PRWE' => __( 'Provincia de Wele-Nzas', 'ry-wc-city-select' ),
 	]
-	]
 ];

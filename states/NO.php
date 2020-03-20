@@ -30,5 +30,4 @@ return [
 		'VEFY2' => __( 'Vestfold fylke', 'ry-wc-city-select' ),
 		'OSCO' => __( 'Oslo County', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -20,5 +20,4 @@ return [
 		'TA' => __( 'Talas', 'ry-wc-city-select' ),
 		'OSCI' => __( 'Osh City', 'ry-wc-city-select' ),
 	]
-	]
 ];

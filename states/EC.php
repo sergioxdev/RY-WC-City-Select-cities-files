@@ -254,5 +254,4 @@ return [
 		'PRDEPA' => __( 'Provincia del Pastaza', 'ry-wc-city-select' ),
 		'PRDETU' => __( 'Provincia del Tungurahua', 'ry-wc-city-select' ),
 	]
-	]
 ];

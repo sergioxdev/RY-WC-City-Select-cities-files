@@ -120,5 +120,4 @@ return [
 		'PALO' => __( 'Pays de la Loire', 'ry-wc-city-select' ),
 		'PRDA' => __( 'Provence-Alpes-Cote dAzur', 'ry-wc-city-select' ),
 	]
-	]
 ];

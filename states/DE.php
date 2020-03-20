@@ -46,5 +46,4 @@ return [
 		'SC' => __( 'Schleswig-Holstein', 'ry-wc-city-select' ),
 		'TH' => __( 'Thuringia', 'ry-wc-city-select' ),
 	]
-	]
 ];

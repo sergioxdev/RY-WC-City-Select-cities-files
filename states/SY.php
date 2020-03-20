@@ -25,5 +25,4 @@ return [
 		'QUGO' => __( 'Quneitra Governorate', 'ry-wc-city-select' ),
 		'TAGO' => __( 'Tartus Governorate', 'ry-wc-city-select' ),
 	]
-	]
 ];

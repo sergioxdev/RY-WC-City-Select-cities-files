@@ -338,5 +338,4 @@ return [
 		'DIPO2' => __( 'Distrito do Porto', 'ry-wc-city-select' ),
 		'MA10' => __( 'Madeira', 'ry-wc-city-select' ),
 	]
-	]
 ];

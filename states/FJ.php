@@ -17,5 +17,4 @@ return [
 		'RO' => __( 'Rotuma', 'ry-wc-city-select' ),
 		'WEDI' => __( 'Western Division', 'ry-wc-city-select' ),
 	]
-	]
 ];

@@ -25,5 +25,4 @@ return [
 		'DESO' => __( 'Departamento de Sonsonate', 'ry-wc-city-select' ),
 		'DEUS' => __( 'Departamento de Usulutan', 'ry-wc-city-select' ),
 	]
-	]
 ];

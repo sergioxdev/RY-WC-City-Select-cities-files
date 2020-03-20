@@ -29,5 +29,4 @@ return [
 		'SIRE' => __( 'Sikasso Region', 'ry-wc-city-select' ),
 		'TORE' => __( 'Tombouctou Region', 'ry-wc-city-select' ),
 	]
-	]
 ];

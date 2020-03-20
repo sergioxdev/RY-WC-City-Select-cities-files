@@ -99,5 +99,4 @@ return [
 		'CHMAPR' => __( 'Chiang Mai Province', 'ry-wc-city-select' ),
 		'PHPR' => __( 'Phuket Province', 'ry-wc-city-select' ),
 	]
-	]
 ];
