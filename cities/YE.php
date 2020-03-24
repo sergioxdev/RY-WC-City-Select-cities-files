@@ -3,7 +3,7 @@
  * Republic of Yemen places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -12,6 +12,9 @@ return [
 	'YE' => [
 	'JA' => [
 		_x('Bani Waqid', 'JA', 'ry-wc-city-select'),
+	],
+	'AL' => [
+		_x('Rab` al Hadrami', 'AL', 'ry-wc-city-select'),
 	],
 	'BAGO' => [
 		_x('Al Arsh', 'BAGO', 'ry-wc-city-select'),
@@ -100,6 +103,28 @@ return [
 		_x('Craiter', 'MUAD', 'ry-wc-city-select'),
 		_x('Dar Sad', 'MUAD', 'ry-wc-city-select'),
 		_x('Khur Maksar', 'MUAD', 'ry-wc-city-select'),
+	],
+	'MUAM' => [
+		_x('Al Ashah', 'MUAM', 'ry-wc-city-select'),
+		_x('Al Madan', 'MUAM', 'ry-wc-city-select'),
+		_x('Al Qaflah', 'MUAM', 'ry-wc-city-select'),
+		_x('As Sawd', 'MUAM', 'ry-wc-city-select'),
+		_x('As Sudah', 'MUAM', 'ry-wc-city-select'),
+		_x('Bani Suraim', 'MUAM', 'ry-wc-city-select'),
+		_x('Dhi Bin', 'MUAM', 'ry-wc-city-select'),
+		_x('Habur Zulaymah', 'MUAM', 'ry-wc-city-select'),
+		_x('Harf Sufyan', 'MUAM', 'ry-wc-city-select'),
+		_x('Hooth', 'MUAM', 'ry-wc-city-select'),
+		_x('Iyal Surayh', 'MUAM', 'ry-wc-city-select'),
+		_x('Jabal Iyal Yazid', 'MUAM', 'ry-wc-city-select'),
+		_x('Khamir', 'MUAM', 'ry-wc-city-select'),
+		_x('Kharif', 'MUAM', 'ry-wc-city-select'),
+		_x('Maswar', 'MUAM', 'ry-wc-city-select'),
+		_x('Raydah', 'MUAM', 'ry-wc-city-select'),
+		_x('Shaharah', 'MUAM', 'ry-wc-city-select'),
+		_x('Suwayr', 'MUAM', 'ry-wc-city-select'),
+		_x('Thula', 'MUAM', 'ry-wc-city-select'),
+		_x('`Amran', 'MUAM', 'ry-wc-city-select'),
 	],
 	'MUAB' => [
 		_x('Ahwar', 'MUAB', 'ry-wc-city-select'),
@@ -273,28 +298,6 @@ return [
 		_x('Sharab Ar Rawnah', 'MUTA', 'ry-wc-city-select'),
 		_x('Sharab As Salam', 'MUTA', 'ry-wc-city-select'),
 	],
-	'MU`A' => [
-		_x('Al Ashah', 'MU`A', 'ry-wc-city-select'),
-		_x('Al Madan', 'MU`A', 'ry-wc-city-select'),
-		_x('Al Qaflah', 'MU`A', 'ry-wc-city-select'),
-		_x('As Sawd', 'MU`A', 'ry-wc-city-select'),
-		_x('As Sudah', 'MU`A', 'ry-wc-city-select'),
-		_x('Bani Suraim', 'MU`A', 'ry-wc-city-select'),
-		_x('Dhi Bin', 'MU`A', 'ry-wc-city-select'),
-		_x('Habur Zulaymah', 'MU`A', 'ry-wc-city-select'),
-		_x('Harf Sufyan', 'MU`A', 'ry-wc-city-select'),
-		_x('Hooth', 'MU`A', 'ry-wc-city-select'),
-		_x('Iyal Surayh', 'MU`A', 'ry-wc-city-select'),
-		_x('Jabal Iyal Yazid', 'MU`A', 'ry-wc-city-select'),
-		_x('Khamir', 'MU`A', 'ry-wc-city-select'),
-		_x('Kharif', 'MU`A', 'ry-wc-city-select'),
-		_x('Maswar', 'MU`A', 'ry-wc-city-select'),
-		_x('Raydah', 'MU`A', 'ry-wc-city-select'),
-		_x('Shaharah', 'MU`A', 'ry-wc-city-select'),
-		_x('Suwayr', 'MU`A', 'ry-wc-city-select'),
-		_x('Thula', 'MU`A', 'ry-wc-city-select'),
-		_x('`Amran', 'MU`A', 'ry-wc-city-select'),
-	],
 	'MUDA' => [
 		_x('Ad Dhalee', 'MUDA', 'ry-wc-city-select'),
 		_x('Al Azariq', 'MUDA', 'ry-wc-city-select'),
@@ -319,7 +322,6 @@ return [
 		_x('Al Mina', 'MUHU', 'ry-wc-city-select'),
 		_x('Al Munirah', 'MUHU', 'ry-wc-city-select'),
 		_x('Al Qanawis', 'MUHU', 'ry-wc-city-select'),
-		_x('Alluheyah', 'MUHU', 'ry-wc-city-select'),
 		_x('As Salif', 'MUHU', 'ry-wc-city-select'),
 		_x('As Sukhnah', 'MUHU', 'ry-wc-city-select'),
 		_x('At Tuhayat', 'MUHU', 'ry-wc-city-select'),

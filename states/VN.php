@@ -3,7 +3,7 @@
  * Socialist Republic of Vietnam states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -472,7 +472,7 @@ return [
 		'HUTRNI' => __( 'Huyen Truc Ninh', 'ry-wc-city-select' ),
 		'HUTRKH' => __( 'Huyen Trung Khanh', 'ry-wc-city-select' ),
 		'HU9' => __( 'Huyen Tu Ky', 'ry-wc-city-select' ),
-		'HURO' => __( 'Huyen Tu Mo Ron', 'ry-wc-city-select' ),
+		'HURO' => __( 'Huyen Tu Mo Rong', 'ry-wc-city-select' ),
 		'HUNG' => __( 'Huyen Tu Nghia', 'ry-wc-city-select' ),
 		'HUTUCH' => __( 'Huyen Tua Chua', 'ry-wc-city-select' ),
 		'HUTUGI' => __( 'Huyen Tuan Giao', 'ry-wc-city-select' ),

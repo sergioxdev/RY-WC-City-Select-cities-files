@@ -3,7 +3,7 @@
  * Portuguese Republic states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -73,6 +73,7 @@ return [
 		'CAMA' => __( 'Campo Maior', 'ry-wc-city-select' ),
 		'CA4' => __( 'Cantanhede', 'ry-wc-city-select' ),
 		'CAAN' => __( 'Carrazeda de Ansiaes', 'ry-wc-city-select' ),
+		'CASA' => __( 'Carregal do Sal', 'ry-wc-city-select' ),
 		'CA5' => __( 'Cartaxo', 'ry-wc-city-select' ),
 		'CA6' => __( 'Cascais', 'ry-wc-city-select' ),
 		'CAPE' => __( 'Castanheira de Pera', 'ry-wc-city-select' ),
@@ -88,9 +89,6 @@ return [
 		'CH2' => __( 'Chaves', 'ry-wc-city-select' ),
 		'CI' => __( 'Cinfaes', 'ry-wc-city-select' ),
 		'CO' => __( 'Coimbra', 'ry-wc-city-select' ),
-		'COCASA' => __( 'Concelho de Carregal do Sal', 'ry-wc-city-select' ),
-		'COTO' => __( 'Concelho de Tondela', 'ry-wc-city-select' ),
-		'COFU' => __( 'Concelho do Fundao', 'ry-wc-city-select' ),
 		'CO2' => __( 'Condeixa-A-Nova', 'ry-wc-city-select' ),
 		'CO3' => __( 'Constancia', 'ry-wc-city-select' ),
 		'CO4' => __( 'Coruche', 'ry-wc-city-select' ),
@@ -117,10 +115,12 @@ return [
 		'FRESCI' => __( 'Freixo de Espada A Cinta', 'ry-wc-city-select' ),
 		'FR' => __( 'Fronteira', 'ry-wc-city-select' ),
 		'FU' => __( 'Funchal', 'ry-wc-city-select' ),
+		'FU2' => __( 'Fundao', 'ry-wc-city-select' ),
 		'GA' => __( 'Gaviao', 'ry-wc-city-select' ),
 		'GO' => __( 'Gois', 'ry-wc-city-select' ),
 		'GO2' => __( 'Golega', 'ry-wc-city-select' ),
 		'GO3' => __( 'Gondomar', 'ry-wc-city-select' ),
+		'GO4' => __( 'Gouveia', 'ry-wc-city-select' ),
 		'GR' => __( 'Grandola', 'ry-wc-city-select' ),
 		'GU' => __( 'Guarda', 'ry-wc-city-select' ),
 		'GU2' => __( 'Guimaraes', 'ry-wc-city-select' ),
@@ -175,7 +175,6 @@ return [
 		'MO11' => __( 'Mortagua', 'ry-wc-city-select' ),
 		'MO12' => __( 'Moura', 'ry-wc-city-select' ),
 		'MO13' => __( 'Mourao', 'ry-wc-city-select' ),
-		'MUGO' => __( 'Municipio de Gouveia', 'ry-wc-city-select' ),
 		'MU' => __( 'Murca', 'ry-wc-city-select' ),
 		'MU2' => __( 'Murtosa', 'ry-wc-city-select' ),
 		'NA' => __( 'Nazare', 'ry-wc-city-select' ),
@@ -276,6 +275,7 @@ return [
 		'TA4' => __( 'Tavira', 'ry-wc-city-select' ),
 		'TEBO' => __( 'Terras de Bouro', 'ry-wc-city-select' ),
 		'TO' => __( 'Tomar', 'ry-wc-city-select' ),
+		'TO2' => __( 'Tondela', 'ry-wc-city-select' ),
 		'TOMO' => __( 'Torre de Moncorvo', 'ry-wc-city-select' ),
 		'TONO' => __( 'Torres Novas', 'ry-wc-city-select' ),
 		'TOVE' => __( 'Torres Vedras', 'ry-wc-city-select' ),

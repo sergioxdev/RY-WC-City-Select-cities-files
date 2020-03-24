@@ -3,7 +3,7 @@
  * Malaysia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -82,6 +82,9 @@ return [
 		_x('Beranang', 'HULA', 'ry-wc-city-select'),
 		_x('Kajang', 'HULA', 'ry-wc-city-select'),
 	],
+	'KUSE' => [
+		_x('Mukim Jeram', 'KUSE', 'ry-wc-city-select'),
+	],
 	'JO' => [
 		_x('Daerah Batu Pahat', 'JO', 'ry-wc-city-select'),
 		_x('Daerah Johor Baharu', 'JO', 'ry-wc-city-select'),
@@ -141,7 +144,6 @@ return [
 		_x('Hulu Selangor', 'SE', 'ry-wc-city-select'),
 		_x('Klang', 'SE', 'ry-wc-city-select'),
 		_x('Kuala Langat', 'SE', 'ry-wc-city-select'),
-		_x('Kuala Selangor', 'SE', 'ry-wc-city-select'),
 		_x('Petaling', 'SE', 'ry-wc-city-select'),
 		_x('Sabak Bernam', 'SE', 'ry-wc-city-select'),
 		_x('Sepang', 'SE', 'ry-wc-city-select'),

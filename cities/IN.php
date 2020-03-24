@@ -3,7 +3,7 @@
  * Republic of India places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -290,6 +290,10 @@ return [
 	'GO' => [
 		_x('North Goa', 'GO', 'ry-wc-city-select'),
 		_x('South Goa', 'GO', 'ry-wc-city-select'),
+	],
+	'LA' => [
+		_x('Kargil', 'LA', 'ry-wc-city-select'),
+		_x('Leh', 'LA', 'ry-wc-city-select'),
 	],
 	'MAPR' => [
 		_x('Agar Malwa', 'MAPR', 'ry-wc-city-select'),
@@ -592,12 +596,10 @@ return [
 		_x('Doda', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Ganderbal', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Jammu', 'STJAANKA', 'ry-wc-city-select'),
-		_x('Kargil', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Kathua', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Kishtwar', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Kulgam', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Kupwara', 'STJAANKA', 'ry-wc-city-select'),
-		_x('Ladakh', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Pulwama', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Punch', 'STJAANKA', 'ry-wc-city-select'),
 		_x('Rajauri', 'STJAANKA', 'ry-wc-city-select'),
@@ -714,7 +716,7 @@ return [
 		_x('Ganjam', 'STOD', 'ry-wc-city-select'),
 		_x('Jagatsinghpur', 'STOD', 'ry-wc-city-select'),
 		_x('Jajpur', 'STOD', 'ry-wc-city-select'),
-		_x('Jharsuguda', 'STOD', 'ry-wc-city-select'),
+		_x('Jharsuguda District', 'STOD', 'ry-wc-city-select'),
 		_x('Kalahandi', 'STOD', 'ry-wc-city-select'),
 		_x('Kandhamal', 'STOD', 'ry-wc-city-select'),
 		_x('Kendrapara', 'STOD', 'ry-wc-city-select'),

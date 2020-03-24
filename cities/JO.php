@@ -3,13 +3,16 @@
  * Hashemite Kingdom of Jordan places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
 
 return [
 	'JO' => [
+	'LIBAASSHGH' => [
+		_x('Qada Sama as Sirhan', 'LIBAASSHGH', 'ry-wc-city-select'),
+	],
 	'AJ' => [
 		_x('Liwa Kufrinjah', 'AJ', 'ry-wc-city-select'),
 		_x('Liwa Qasabat `Ajlun', 'AJ', 'ry-wc-city-select'),
@@ -26,7 +29,6 @@ return [
 	'MA' => [
 		_x('Liwa Qasabat al Mafraq', 'MA', 'ry-wc-city-select'),
 		_x('Liwa al Badiyah ash Shamaliyah', 'MA', 'ry-wc-city-select'),
-		_x('Liwa al Badiyah ash Shamaliyah al Gharb', 'MA', 'ry-wc-city-select'),
 		_x('Liwa ar Ruwayshid', 'MA', 'ry-wc-city-select'),
 	],
 	'AMGO' => [

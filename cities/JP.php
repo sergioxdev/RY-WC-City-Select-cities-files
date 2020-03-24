@@ -3,7 +3,7 @@
  * Japan places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -1099,7 +1099,8 @@ return [
 		_x('Naka Cho', 'NAGU2', 'ry-wc-city-select'),
 	],
 	'NA2' => [
-		_x('Tokai-mura', 'NA2', 'ry-wc-city-select'),
+		_x('Ninomiya Machi', 'NA2', 'ry-wc-city-select'),
+		_x('Oiso-machi', 'NA2', 'ry-wc-city-select'),
 	],
 	'NA3' => [
 		_x('Chatan Cho', 'NA3', 'ry-wc-city-select'),

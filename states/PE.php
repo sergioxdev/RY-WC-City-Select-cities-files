@@ -3,7 +3,7 @@
  * Republic of Peru states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -194,6 +194,7 @@ return [
 		'PRZA' => __( 'Provincia de Zarumilla', 'ry-wc-city-select' ),
 		'PUIN' => __( 'Puerto Inca', 'ry-wc-city-select' ),
 		'PU' => __( 'Purus', 'ry-wc-city-select' ),
+		'PU2' => __( 'Putumayo', 'ry-wc-city-select' ),
 		'SAANPU' => __( 'San Antonio De Putina', 'ry-wc-city-select' ),
 		'SAMA' => __( 'San Marcos', 'ry-wc-city-select' ),
 		'SAPA' => __( 'San Pablo', 'ry-wc-city-select' ),
@@ -223,7 +224,7 @@ return [
 		'PA' => __( 'Pasco', 'ry-wc-city-select' ),
 		'PI2' => __( 'Piura', 'ry-wc-city-select' ),
 		'PRLI' => __( 'Provincia de Lima', 'ry-wc-city-select' ),
-		'PU2' => __( 'Puno', 'ry-wc-city-select' ),
+		'PU3' => __( 'Puno', 'ry-wc-city-select' ),
 		'REHU' => __( 'Region de Huanuco', 'ry-wc-city-select' ),
 		'RESAMA' => __( 'Region de San Martin', 'ry-wc-city-select' ),
 		'TA' => __( 'Tacna', 'ry-wc-city-select' ),

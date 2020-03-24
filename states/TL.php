@@ -3,7 +3,7 @@
  * Democratic Republic of Timor-Leste states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -14,8 +14,8 @@ return [
 		'AI' => __( 'Ainaro', 'ry-wc-city-select' ),
 		'AL' => __( 'Alas', 'ry-wc-city-select' ),
 		'AT' => __( 'Atabae', 'ry-wc-city-select' ),
-		'AT2' => __( 'Atauro', 'ry-wc-city-select' ),
-		'AT3' => __( 'Atsabe', 'ry-wc-city-select' ),
+		'ATIS' => __( 'Atauro Island', 'ry-wc-city-select' ),
+		'AT2' => __( 'Atsabe', 'ry-wc-city-select' ),
 		'BA' => __( 'Baguia', 'ry-wc-city-select' ),
 		'BA2' => __( 'Balibo', 'ry-wc-city-select' ),
 		'BA3' => __( 'Barique', 'ry-wc-city-select' ),

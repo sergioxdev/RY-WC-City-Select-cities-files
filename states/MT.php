@@ -3,7 +3,7 @@
  * Republic of Malta states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -21,7 +21,6 @@ return [
 		'HAGH2' => __( 'Hal Ghaxaq', 'ry-wc-city-select' ),
 		'HA' => __( 'Haz-Zabbar', 'ry-wc-city-select' ),
 		'HA2' => __( 'Haz-Zebbug', 'ry-wc-city-select' ),
-		'ILVA' => __( 'Il-Belt Valletta', 'ry-wc-city-select' ),
 		'IL' => __( 'Il-Birgu', 'ry-wc-city-select' ),
 		'IL2' => __( 'Il-Fgura', 'ry-wc-city-select' ),
 		'IL3' => __( 'Il-Fontana', 'ry-wc-city-select' ),
@@ -77,6 +76,7 @@ return [
 		'TA' => __( 'Tal-Pieta', 'ry-wc-city-select' ),
 		'TA2' => __( 'Tarxien', 'ry-wc-city-select' ),
 		'TA3' => __( 'Tas-Sliema', 'ry-wc-city-select' ),
+		'VA' => __( 'Valletta', 'ry-wc-city-select' ),
 		'VI' => __( 'Victoria', 'ry-wc-city-select' ),
 	]
 ];

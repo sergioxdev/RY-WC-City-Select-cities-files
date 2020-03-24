@@ -3,7 +3,7 @@
  * Republic of Kazakhstan states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -26,8 +26,8 @@ return [
 		'TU' => __( 'Turkistan', 'ry-wc-city-select' ),
 		'WEKA' => __( 'West Kazakhstan', 'ry-wc-city-select' ),
 		'ZHOB' => __( 'Zhambyl Oblysy', 'ry-wc-city-select' ),
-		'ASQA' => __( 'Astana Qalasy', 'ry-wc-city-select' ),
 		'BA' => __( 'Baikonur', 'ry-wc-city-select' ),
+		'NU' => __( 'Nur-Sultan', 'ry-wc-city-select' ),
 		'SH' => __( 'Shymkent', 'ry-wc-city-select' ),
 	]
 ];

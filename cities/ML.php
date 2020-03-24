@@ -3,7 +3,7 @@
  * Republic of Mali places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -43,7 +43,6 @@ return [
 	'GARE' => [
 		_x('Ansongo Cercle', 'GARE', 'ry-wc-city-select'),
 		_x('Cercle de Bourem', 'GARE', 'ry-wc-city-select'),
-		_x('Cercle de Menaka', 'GARE', 'ry-wc-city-select'),
 	],
 	'KARE' => [
 		_x('Bafoulabe Cercle', 'KARE', 'ry-wc-city-select'),
@@ -66,6 +65,9 @@ return [
 		_x('Kolokani Cercle', 'KORE', 'ry-wc-city-select'),
 		_x('Koulikoro', 'KORE', 'ry-wc-city-select'),
 		_x('Nara Cercle', 'KORE', 'ry-wc-city-select'),
+	],
+	'MERE' => [
+		_x('Cercle de Menaka', 'MERE', 'ry-wc-city-select'),
 	],
 	'MORE' => [
 		_x('Bandiagara Cercle', 'MORE', 'ry-wc-city-select'),

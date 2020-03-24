@@ -3,7 +3,7 @@
  * Democratic Republic of Timor-Leste places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -36,26 +36,26 @@ return [
 		_x('Hataz', 'AT', 'ry-wc-city-select'),
 		_x('Rairobo', 'AT', 'ry-wc-city-select'),
 	],
-	'AT2' => [
-		_x('Atauro Vila/Maumeta', 'AT2', 'ry-wc-city-select'),
-		_x('Beloi', 'AT2', 'ry-wc-city-select'),
-		_x('Biceli', 'AT2', 'ry-wc-city-select'),
-		_x('Macadade', 'AT2', 'ry-wc-city-select'),
-		_x('Maquili', 'AT2', 'ry-wc-city-select'),
+	'ATIS' => [
+		_x('Atauro Vila/Maumeta', 'ATIS', 'ry-wc-city-select'),
+		_x('Beloi', 'ATIS', 'ry-wc-city-select'),
+		_x('Biceli', 'ATIS', 'ry-wc-city-select'),
+		_x('Macadade', 'ATIS', 'ry-wc-city-select'),
+		_x('Maquili', 'ATIS', 'ry-wc-city-select'),
 	],
-	'AT3' => [
-		_x('Atadame/Malabe', 'AT3', 'ry-wc-city-select'),
-		_x('Atara', 'AT3', 'ry-wc-city-select'),
-		_x('Baboi Craic', 'AT3', 'ry-wc-city-select'),
-		_x('Batumanu', 'AT3', 'ry-wc-city-select'),
-		_x('Beboi Leten', 'AT3', 'ry-wc-city-select'),
-		_x('Laclo', 'AT3', 'ry-wc-city-select'),
-		_x('Lasaun', 'AT3', 'ry-wc-city-select'),
-		_x('Laubono', 'AT3', 'ry-wc-city-select'),
-		_x('Leimea Leten', 'AT3', 'ry-wc-city-select'),
-		_x('Obulo', 'AT3', 'ry-wc-city-select'),
-		_x('Paramin', 'AT3', 'ry-wc-city-select'),
-		_x('Tiarlelo', 'AT3', 'ry-wc-city-select'),
+	'AT2' => [
+		_x('Atadame/Malabe', 'AT2', 'ry-wc-city-select'),
+		_x('Atara', 'AT2', 'ry-wc-city-select'),
+		_x('Baboi Craic', 'AT2', 'ry-wc-city-select'),
+		_x('Batumanu', 'AT2', 'ry-wc-city-select'),
+		_x('Beboi Leten', 'AT2', 'ry-wc-city-select'),
+		_x('Laclo', 'AT2', 'ry-wc-city-select'),
+		_x('Lasaun', 'AT2', 'ry-wc-city-select'),
+		_x('Laubono', 'AT2', 'ry-wc-city-select'),
+		_x('Leimea Leten', 'AT2', 'ry-wc-city-select'),
+		_x('Obulo', 'AT2', 'ry-wc-city-select'),
+		_x('Paramin', 'AT2', 'ry-wc-city-select'),
+		_x('Tiarlelo', 'AT2', 'ry-wc-city-select'),
 	],
 	'BA' => [
 		_x('Afaloicai', 'BA', 'ry-wc-city-select'),

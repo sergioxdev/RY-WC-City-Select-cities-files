@@ -3,7 +3,7 @@
  * Republic of South Africa states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -15,9 +15,8 @@ return [
 		'AMDIMU2' => __( 'Amathole District Municipality', 'ry-wc-city-select' ),
 		'BOPLDIMU' => __( 'Bojanala Platinum District Municipality', 'ry-wc-city-select' ),
 		'BUCIMEMU' => __( 'Buffalo City Metropolitan Municipality', 'ry-wc-city-select' ),
-		'CADIMU' => __( 'Cacadu District Municipality', 'ry-wc-city-select' ),
 		'CAWIDIMU' => __( 'Cape Winelands District Municipality', 'ry-wc-city-select' ),
-		'CADIMU2' => __( 'Capricorn District Municipality', 'ry-wc-city-select' ),
+		'CADIMU' => __( 'Capricorn District Municipality', 'ry-wc-city-select' ),
 		'CEKADIMU' => __( 'Central Karoo District Municipality', 'ry-wc-city-select' ),
 		'CHHADIMU' => __( 'Chris Hani District Municipality', 'ry-wc-city-select' ),
 		'CICATO' => __( 'City of Cape Town', 'ry-wc-city-select' ),
@@ -43,6 +42,7 @@ return [
 		'TADIMU' => __( 'OR Tambo District Municipality', 'ry-wc-city-select' ),
 		'OVDIMU' => __( 'Overberg District Municipality', 'ry-wc-city-select' ),
 		'PISEDIMU' => __( 'Pixley ka Seme District Municipality', 'ry-wc-city-select' ),
+		'SABADIMU' => __( 'Sarah Baartman District Municipality', 'ry-wc-city-select' ),
 		'SEDIMU' => __( 'Sedibeng District Municipality', 'ry-wc-city-select' ),
 		'SEDIMU2' => __( 'Sekhukhune District Municipality', 'ry-wc-city-select' ),
 		'SIDIMU' => __( 'Sisonke District Municipality', 'ry-wc-city-select' ),
@@ -65,11 +65,11 @@ return [
 		'EACA' => __( 'Eastern Cape', 'ry-wc-city-select' ),
 		'FRST' => __( 'Free State', 'ry-wc-city-select' ),
 		'GA' => __( 'Gauteng', 'ry-wc-city-select' ),
+		'KW' => __( 'KwaZulu-Natal', 'ry-wc-city-select' ),
 		'LI' => __( 'Limpopo', 'ry-wc-city-select' ),
 		'MP' => __( 'Mpumalanga', 'ry-wc-city-select' ),
-		'PRKW' => __( 'Province of KwaZulu-Natal', 'ry-wc-city-select' ),
-		'PRNOWE' => __( 'Province of North West', 'ry-wc-city-select' ),
-		'PRNOCA' => __( 'Province of Northern Cape', 'ry-wc-city-select' ),
+		'NOWE' => __( 'North West', 'ry-wc-city-select' ),
+		'NOCA' => __( 'Northern Cape', 'ry-wc-city-select' ),
 		'WECA' => __( 'Western Cape', 'ry-wc-city-select' ),
 	]
 ];

@@ -3,7 +3,7 @@
  * People's Republic of China places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -121,7 +121,7 @@ return [
 		_x('Pingguo Xian', 'BASH2', 'ry-wc-city-select'),
 		_x('Tiandong Xian', 'BASH2', 'ry-wc-city-select'),
 		_x('Tianlin Xian', 'BASH2', 'ry-wc-city-select'),
-		_x('Tianyang Xian', 'BASH2', 'ry-wc-city-select'),
+		_x('Tianyang Distrrict', 'BASH2', 'ry-wc-city-select'),
 		_x('Xilin Xian', 'BASH2', 'ry-wc-city-select'),
 		_x('Youjiang Qu', 'BASH2', 'ry-wc-city-select'),
 	],
@@ -698,12 +698,12 @@ return [
 		_x('Dawu Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Dege Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Derong Xian', 'GAZAZI2', 'ry-wc-city-select'),
-		_x('Ganzi Xian', 'GAZAZI2', 'ry-wc-city-select'),
+		_x('Garze County', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Jiulong Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Kangding Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Litang Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Luding Xian', 'GAZAZI2', 'ry-wc-city-select'),
-		_x('Luhuo Xian', 'GAZAZI2', 'ry-wc-city-select'),
+		_x('Luhuo County', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Seda Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Shiqu Xian', 'GAZAZI2', 'ry-wc-city-select'),
 		_x('Xiangcheng Xian', 'GAZAZI2', 'ry-wc-city-select'),
@@ -760,7 +760,7 @@ return [
 		_x('Gongcheng Yaozu Zizhixian', 'GUSH5', 'ry-wc-city-select'),
 		_x('Guanyang Xian', 'GUSH5', 'ry-wc-city-select'),
 		_x('Lingchuan Xian', 'GUSH5', 'ry-wc-city-select'),
-		_x('Lingui Xian', 'GUSH5', 'ry-wc-city-select'),
+		_x('Lingui District', 'GUSH5', 'ry-wc-city-select'),
 		_x('Lipu Xian', 'GUSH5', 'ry-wc-city-select'),
 		_x('Pingle Xian', 'GUSH5', 'ry-wc-city-select'),
 		_x('Qixing Qu', 'GUSH5', 'ry-wc-city-select'),
@@ -937,7 +937,7 @@ return [
 	'HESH5' => [
 		_x('Aihui Qu', 'HESH5', 'ry-wc-city-select'),
 		_x('Beian Shi', 'HESH5', 'ry-wc-city-select'),
-		_x('Nenjiang Xian', 'HESH5', 'ry-wc-city-select'),
+		_x('Nenjiang County', 'HESH5', 'ry-wc-city-select'),
 		_x('Sunwu Xian', 'HESH5', 'ry-wc-city-select'),
 		_x('Wudalianchi Shi', 'HESH5', 'ry-wc-city-select'),
 		_x('Xunke Xian', 'HESH5', 'ry-wc-city-select'),
@@ -1120,7 +1120,6 @@ return [
 	],
 	'HURE' => [
 		_x('Arun Qi', 'HURE', 'ry-wc-city-select'),
-		_x('Chen Barag Qi', 'HURE', 'ry-wc-city-select'),
 		_x('Ergun Shi', 'HURE', 'ry-wc-city-select'),
 		_x('Ewenkizu Zizhiqi', 'HURE', 'ry-wc-city-select'),
 		_x('Genhe Shi', 'HURE', 'ry-wc-city-select'),
@@ -1128,6 +1127,7 @@ return [
 		_x('Manzhouli Shi', 'HURE', 'ry-wc-city-select'),
 		_x('Morin Dawa Daur Zizhiqi', 'HURE', 'ry-wc-city-select'),
 		_x('New Barag Right Banner', 'HURE', 'ry-wc-city-select'),
+		_x('Old Barag Banner', 'HURE', 'ry-wc-city-select'),
 		_x('Oroqen Zizhiqi', 'HURE', 'ry-wc-city-select'),
 		_x('Oroqin Zizhiqi', 'HURE', 'ry-wc-city-select'),
 		_x('Xin Barag Zuoqi', 'HURE', 'ry-wc-city-select'),
@@ -1137,7 +1137,7 @@ return [
 	'HUSH8' => [
 		_x('Anji Xian', 'HUSH8', 'ry-wc-city-select'),
 		_x('Changxing Xian', 'HUSH8', 'ry-wc-city-select'),
-		_x('Deqing Xian', 'HUSH8', 'ry-wc-city-select'),
+		_x('Deqing County', 'HUSH8', 'ry-wc-city-select'),
 		_x('Nanxun Qu', 'HUSH8', 'ry-wc-city-select'),
 		_x('Wuxing Qu', 'HUSH8', 'ry-wc-city-select'),
 	],
@@ -1264,7 +1264,7 @@ return [
 		_x('Songzi Shi', 'JISH13', 'ry-wc-city-select'),
 	],
 	'JISH14' => [
-		_x('Dongyang Shi', 'JISH14', 'ry-wc-city-select'),
+		_x('Dongyang County', 'JISH14', 'ry-wc-city-select'),
 		_x('Jindong Qu', 'JISH14', 'ry-wc-city-select'),
 		_x('Lanxi Shi', 'JISH14', 'ry-wc-city-select'),
 		_x('Panan Xian', 'JISH14', 'ry-wc-city-select'),
@@ -1790,7 +1790,7 @@ return [
 	'NASH5' => [
 		_x('Guangze Xian', 'NASH5', 'ry-wc-city-select'),
 		_x('Jianou Shi', 'NASH5', 'ry-wc-city-select'),
-		_x('Jianyang Shi', 'NASH5', 'ry-wc-city-select'),
+		_x('Jianyang', 'NASH5', 'ry-wc-city-select'),
 		_x('Pucheng Xian', 'NASH5', 'ry-wc-city-select'),
 		_x('Shaowu Shi', 'NASH5', 'ry-wc-city-select'),
 		_x('Shunchang Xian', 'NASH5', 'ry-wc-city-select'),
@@ -1866,7 +1866,7 @@ return [
 	],
 	'NULIZI' => [
 		_x('Gongshan Drungzu Nuzu Zizhixian', 'NULIZI', 'ry-wc-city-select'),
-		_x('Lanping Baizu Pumizu Zizhixian', 'NULIZI', 'ry-wc-city-select'),
+		_x('Lanping Bai and Pumi Autonomous County', 'NULIZI', 'ry-wc-city-select'),
 		_x('Lushui Xian', 'NULIZI', 'ry-wc-city-select'),
 	],
 	'NYPR' => [
@@ -2006,15 +2006,15 @@ return [
 		_x('Sandu Shuizu Zizhixian', 'QIBOMIZI', 'ry-wc-city-select'),
 		_x('Wengan Xian', 'QIBOMIZI', 'ry-wc-city-select'),
 	],
-	'QIBOMIZI2' => [
-		_x('Anlong Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Ceheng Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Puan Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Qinglong Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Wangmo Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Xingren Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Xingyi Shi', 'QIBOMIZI2', 'ry-wc-city-select'),
-		_x('Zhenfeng Xian', 'QIBOMIZI2', 'ry-wc-city-select'),
+	'QIBUANMIAUPR' => [
+		_x('Anlong Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Ceheng Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Puan Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Qinglong Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Wangmo Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Xingren Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Xingyi Shi', 'QIBUANMIAUPR', 'ry-wc-city-select'),
+		_x('Zhenfeng Xian', 'QIBUANMIAUPR', 'ry-wc-city-select'),
 	],
 	'QISH' => [
 		_x('Chengyang Qu', 'QISH', 'ry-wc-city-select'),
@@ -2392,12 +2392,12 @@ return [
 		_x('Suyu Qu', 'SUSH4', 'ry-wc-city-select'),
 	],
 	'SUSH5' => [
-		_x('Dangshan Xian', 'SUSH5', 'ry-wc-city-select'),
-		_x('Lingbi Xian', 'SUSH5', 'ry-wc-city-select'),
-		_x('Si Xian', 'SUSH5', 'ry-wc-city-select'),
-		_x('Xiao Xian', 'SUSH5', 'ry-wc-city-select'),
-		_x('Yingshang Xian', 'SUSH5', 'ry-wc-city-select'),
-		_x('Yongqiao Qu', 'SUSH5', 'ry-wc-city-select'),
+		_x('Changshu Shi', 'SUSH5', 'ry-wc-city-select'),
+		_x('Huqiu Qu', 'SUSH5', 'ry-wc-city-select'),
+		_x('Kunshan Shi', 'SUSH5', 'ry-wc-city-select'),
+		_x('Taicang Shi', 'SUSH5', 'ry-wc-city-select'),
+		_x('Wuzhong Qu', 'SUSH5', 'ry-wc-city-select'),
+		_x('Xiangcheng Qu', 'SUSH5', 'ry-wc-city-select'),
 	],
 	'TADI' => [
 		_x('Emin Xian', 'TADI', 'ry-wc-city-select'),
@@ -2429,14 +2429,11 @@ return [
 		_x('Yingze Qu', 'TASH2', 'ry-wc-city-select'),
 	],
 	'TASH3' => [
-		_x('Huangyan Qu', 'TASH3', 'ry-wc-city-select'),
-		_x('Jiaojiang Shi', 'TASH3', 'ry-wc-city-select'),
-		_x('Linhai Shi', 'TASH3', 'ry-wc-city-select'),
-		_x('Luqiao Qu', 'TASH3', 'ry-wc-city-select'),
-		_x('Sanmen Xian', 'TASH3', 'ry-wc-city-select'),
-		_x('Tiantai Xian', 'TASH3', 'ry-wc-city-select'),
-		_x('Wenling County', 'TASH3', 'ry-wc-city-select'),
-		_x('Yuhuan Xian', 'TASH3', 'ry-wc-city-select'),
+		_x('Gaogang Qu', 'TASH3', 'ry-wc-city-select'),
+		_x('Hailing Qu', 'TASH3', 'ry-wc-city-select'),
+		_x('Jingjiang Shi', 'TASH3', 'ry-wc-city-select'),
+		_x('Taixing Shi', 'TASH3', 'ry-wc-city-select'),
+		_x('Xinghua Shi', 'TASH3', 'ry-wc-city-select'),
 	],
 	'TASH4' => [
 		_x('Fengnan Qu', 'TASH4', 'ry-wc-city-select'),
@@ -2515,7 +2512,7 @@ return [
 		_x('Yuping Dongzu Zizhixian', 'TODI', 'ry-wc-city-select'),
 	],
 	'TUDI' => [
-		_x('Shanshan Xian', 'TUDI', 'ry-wc-city-select'),
+		_x('Shanshan County', 'TUDI', 'ry-wc-city-select'),
 		_x('Toksun Xian', 'TUDI', 'ry-wc-city-select'),
 		_x('Turpan Shi', 'TUDI', 'ry-wc-city-select'),
 	],
@@ -2627,6 +2624,13 @@ return [
 		_x('Siziwang Qi', 'WUSH4', 'ry-wc-city-select'),
 		_x('Xinghe Xian', 'WUSH4', 'ry-wc-city-select'),
 		_x('Zhuozi Xian', 'WUSH4', 'ry-wc-city-select'),
+	],
+	'WUDI' => [
+		_x('Baima', 'WUDI', 'ry-wc-city-select'),
+		_x('Huolu', 'WUDI', 'ry-wc-city-select'),
+		_x('Jiangkou', 'WUDI', 'ry-wc-city-select'),
+		_x('Tukan', 'WUDI', 'ry-wc-city-select'),
+		_x('Xiangkou', 'WUDI', 'ry-wc-city-select'),
 	],
 	'WUSH5' => [
 		_x('Gulang Xian', 'WUSH5', 'ry-wc-city-select'),
@@ -2969,16 +2973,22 @@ return [
 		_x('Zigui Xian', 'YI', 'ry-wc-city-select'),
 	],
 	'YISH2' => [
-		_x('Fengcheng Shi', 'YISH2', 'ry-wc-city-select'),
-		_x('Fengxin Xian', 'YISH2', 'ry-wc-city-select'),
-		_x('Gaoan Shi', 'YISH2', 'ry-wc-city-select'),
-		_x('Jingan Xian', 'YISH2', 'ry-wc-city-select'),
-		_x('Shanggao Xian', 'YISH2', 'ry-wc-city-select'),
-		_x('Tonggu Xian', 'YISH2', 'ry-wc-city-select'),
-		_x('Wanzai Xian', 'YISH2', 'ry-wc-city-select'),
-		_x('Yifeng Xian', 'YISH2', 'ry-wc-city-select'),
-		_x('Yuanzhou Qu', 'YISH2', 'ry-wc-city-select'),
-		_x('Zhangshu Shi', 'YISH2', 'ry-wc-city-select'),
+		_x('Cuiluan Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Dailing Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Hongxing Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Jiayin Xian', 'YISH2', 'ry-wc-city-select'),
+		_x('Jinshantun Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Meixi Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Nancha Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Tangwanghe Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Tieli Shi', 'YISH2', 'ry-wc-city-select'),
+		_x('Wumahe Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Wuyiling Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Wuying Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Xilin Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Xinqing Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Yichun Qu', 'YISH2', 'ry-wc-city-select'),
+		_x('Youhao Qu', 'YISH2', 'ry-wc-city-select'),
 	],
 	'YISH3' => [
 		_x('Helan County', 'YISH3', 'ry-wc-city-select'),
@@ -3036,6 +3046,7 @@ return [
 	'YUSH2' => [
 		_x('Beiliu Shi', 'YUSH2', 'ry-wc-city-select'),
 		_x('Bobai Xian', 'YUSH2', 'ry-wc-city-select'),
+		_x('Fumian District', 'YUSH2', 'ry-wc-city-select'),
 		_x('Luchuan Xian', 'YUSH2', 'ry-wc-city-select'),
 		_x('Rong Xian', 'YUSH2', 'ry-wc-city-select'),
 		_x('Xingye Xian', 'YUSH2', 'ry-wc-city-select'),
@@ -3262,7 +3273,7 @@ return [
 	],
 	'ZISH3' => [
 		_x('Anyue Xian', 'ZISH3', 'ry-wc-city-select'),
-		_x('Jianyang Shi', 'ZISH3', 'ry-wc-city-select'),
+		_x('Jianyang County', 'ZISH3', 'ry-wc-city-select'),
 		_x('Lezhi Xian', 'ZISH3', 'ry-wc-city-select'),
 		_x('Yanjiang Qu', 'ZISH3', 'ry-wc-city-select'),
 	],

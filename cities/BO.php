@@ -3,13 +3,17 @@
  * Plurinational State of Bolivia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
 
 return [
 	'BO' => [
+	'ALIB' => [
+		_x('Caripuyo', 'ALIB', 'ry-wc-city-select'),
+		_x('Sacaca Municipality', 'ALIB', 'ry-wc-city-select'),
+	],
 	'BO' => [
 		_x('Bolivar', 'BO', 'ry-wc-city-select'),
 	],
@@ -17,8 +21,22 @@ return [
 		_x('Alto Beni Municipality', 'CA', 'ry-wc-city-select'),
 		_x('Caranavi Municipality', 'CA', 'ry-wc-city-select'),
 	],
+	'CH' => [
+		_x('Colomi Municipality', 'CH', 'ry-wc-city-select'),
+		_x('Sacaba', 'CH', 'ry-wc-city-select'),
+		_x('Villa Tunari Municipality', 'CH', 'ry-wc-city-select'),
+	],
 	'ENBA' => [
 		_x('San Agustin', 'ENBA', 'ry-wc-city-select'),
+	],
+	'FERO' => [
+		_x('Nueva Esperanza', 'FERO', 'ry-wc-city-select'),
+		_x('Santos Mercado', 'FERO', 'ry-wc-city-select'),
+		_x('Villa Nueva - Loma Alta', 'FERO', 'ry-wc-city-select'),
+	],
+	'FRTO' => [
+		_x('Apolo Municipality', 'FRTO', 'ry-wc-city-select'),
+		_x('Pelechuco Municipality', 'FRTO', 'ry-wc-city-select'),
 	],
 	'GEBU' => [
 		_x('Carmen Rivero Torrez', 'GEBU', 'ry-wc-city-select'),
@@ -34,6 +52,11 @@ return [
 		_x('Catacora', 'JOMAPA', 'ry-wc-city-select'),
 		_x('Santiago de Machaca Municipality', 'JOMAPA', 'ry-wc-city-select'),
 	],
+	'JOMALI' => [
+		_x('Caiza D Municipality', 'JOMALI', 'ry-wc-city-select'),
+		_x('Ckochas', 'JOMALI', 'ry-wc-city-select'),
+		_x('Puna Municipality', 'JOMALI', 'ry-wc-city-select'),
+	],
 	'LIAT' => [
 		_x('Cruz de Machacamarca', 'LIAT', 'ry-wc-city-select'),
 		_x('Escara', 'LIAT', 'ry-wc-city-select'),
@@ -45,12 +68,16 @@ return [
 		_x('Huayllamarca', 'NOCAPR', 'ry-wc-city-select'),
 	],
 	'PRAB' => [
-		_x('Ingavi', 'PRAB', 'ry-wc-city-select'),
-		_x('Santa Rosa', 'PRAB', 'ry-wc-city-select'),
+		_x('Challapata Municipality', 'PRAB', 'ry-wc-city-select'),
+		_x('Quillacas', 'PRAB', 'ry-wc-city-select'),
 	],
-	'PRALIB' => [
-		_x('Caripuyo', 'PRALIB', 'ry-wc-city-select'),
-		_x('Sacaca Municipality', 'PRALIB', 'ry-wc-city-select'),
+	'PRABIT' => [
+		_x('Ixiamas Municipality', 'PRABIT', 'ry-wc-city-select'),
+		_x('San Buenaventura Municipality', 'PRABIT', 'ry-wc-city-select'),
+	],
+	'PRAB2' => [
+		_x('Ingavi', 'PRAB2', 'ry-wc-city-select'),
+		_x('Santa Rosa', 'PRAB2', 'ry-wc-city-select'),
 	],
 	'PRANIB' => [
 		_x('Cotoca', 'PRANIB', 'ry-wc-city-select'),
@@ -61,6 +88,11 @@ return [
 	],
 	'PRANSA' => [
 		_x('San Matias Municipality', 'PRANSA', 'ry-wc-city-select'),
+	],
+	'PRANQU' => [
+		_x('Porco', 'PRANQU', 'ry-wc-city-select'),
+		_x('Tomave Municipality', 'PRANQU', 'ry-wc-city-select'),
+		_x('Uyuni', 'PRANQU', 'ry-wc-city-select'),
 	],
 	'PRAR' => [
 		_x('Arani Municipality', 'PRAR', 'ry-wc-city-select'),
@@ -84,12 +116,8 @@ return [
 		_x('Tacopaya Municipality', 'PRAR4', 'ry-wc-city-select'),
 	],
 	'PRAV' => [
-		_x('Challapata Municipality', 'PRAV', 'ry-wc-city-select'),
-		_x('Quillacas', 'PRAV', 'ry-wc-city-select'),
-	],
-	'PRAV2' => [
-		_x('Uriondo Municipality', 'PRAV2', 'ry-wc-city-select'),
-		_x('Yunchara Municipality', 'PRAV2', 'ry-wc-city-select'),
+		_x('Uriondo Municipality', 'PRAV', 'ry-wc-city-select'),
+		_x('Yunchara Municipality', 'PRAV', 'ry-wc-city-select'),
 	],
 	'PRAY' => [
 		_x('Ayopaya Municipality', 'PRAY', 'ry-wc-city-select'),
@@ -141,24 +169,19 @@ return [
 		_x('Trinidad', 'PRCE', 'ry-wc-city-select'),
 	],
 	'PRCH' => [
-		_x('Colomi Municipality', 'PRCH', 'ry-wc-city-select'),
-		_x('Sacaba', 'PRCH', 'ry-wc-city-select'),
-		_x('Villa Tunari Municipality', 'PRCH', 'ry-wc-city-select'),
+		_x('San Pedro de Buena Vista', 'PRCH', 'ry-wc-city-select'),
+		_x('Toro Toro Municipality', 'PRCH', 'ry-wc-city-select'),
 	],
 	'PRCH2' => [
-		_x('San Pedro de Buena Vista', 'PRCH2', 'ry-wc-city-select'),
-		_x('Toro Toro Municipality', 'PRCH2', 'ry-wc-city-select'),
+		_x('Colquechaca Municipality', 'PRCH2', 'ry-wc-city-select'),
+		_x('Ocuri Municipality', 'PRCH2', 'ry-wc-city-select'),
+		_x('Pocoata Municipality', 'PRCH2', 'ry-wc-city-select'),
+		_x('Ravelo Municipality', 'PRCH2', 'ry-wc-city-select'),
 	],
 	'PRCH3' => [
-		_x('Colquechaca Municipality', 'PRCH3', 'ry-wc-city-select'),
-		_x('Ocuri Municipality', 'PRCH3', 'ry-wc-city-select'),
-		_x('Pocoata Municipality', 'PRCH3', 'ry-wc-city-select'),
-		_x('Ravelo Municipality', 'PRCH3', 'ry-wc-city-select'),
-	],
-	'PRCH4' => [
-		_x('Pailon Municipality', 'PRCH4', 'ry-wc-city-select'),
-		_x('Robore', 'PRCH4', 'ry-wc-city-select'),
-		_x('San Jose de Chiquitos', 'PRCH4', 'ry-wc-city-select'),
+		_x('Pailon Municipality', 'PRCH3', 'ry-wc-city-select'),
+		_x('Robore', 'PRCH3', 'ry-wc-city-select'),
+		_x('San Jose de Chiquitos', 'PRCH3', 'ry-wc-city-select'),
 	],
 	'PRCO' => [
 		_x('Boyuibe', 'PRCO', 'ry-wc-city-select'),
@@ -168,6 +191,11 @@ return [
 		_x('Cuevo', 'PRCO', 'ry-wc-city-select'),
 		_x('Gutierrez', 'PRCO', 'ry-wc-city-select'),
 		_x('Lagunillas Municipality', 'PRCO', 'ry-wc-city-select'),
+	],
+	'PRCOSA' => [
+		_x('Betanzos Municipality', 'PRCOSA', 'ry-wc-city-select'),
+		_x('Chaqui Municipality', 'PRCOSA', 'ry-wc-city-select'),
+		_x('Tacobamba Municipality', 'PRCOSA', 'ry-wc-city-select'),
 	],
 	'PRDACA' => [
 		_x('Llica', 'PRDACA', 'ry-wc-city-select'),
@@ -185,18 +213,9 @@ return [
 		_x('Quirusillas', 'PRFL', 'ry-wc-city-select'),
 		_x('Samaipata', 'PRFL', 'ry-wc-city-select'),
 	],
-	'PRFRTA' => [
-		_x('Apolo Municipality', 'PRFRTA', 'ry-wc-city-select'),
-		_x('Pelechuco Municipality', 'PRFRTA', 'ry-wc-city-select'),
-	],
 	'PRGEBI' => [
 		_x('Acasio Municipality', 'PRGEBI', 'ry-wc-city-select'),
 		_x('Arampampa Municipality', 'PRGEBI', 'ry-wc-city-select'),
-	],
-	'PRGEFERO' => [
-		_x('Nueva Esperanza', 'PRGEFERO', 'ry-wc-city-select'),
-		_x('Santos Mercado', 'PRGEFERO', 'ry-wc-city-select'),
-		_x('Villa Nueva - Loma Alta', 'PRGEFERO', 'ry-wc-city-select'),
 	],
 	'PRGEJOBA' => [
 		_x('Reyes Municipality', 'PRGEJOBA', 'ry-wc-city-select'),
@@ -252,10 +271,6 @@ return [
 		_x('Huacaraje Municipality', 'PRIT', 'ry-wc-city-select'),
 		_x('Magdalena Municipality', 'PRIT', 'ry-wc-city-select'),
 	],
-	'PRIT2' => [
-		_x('Ixiamas Municipality', 'PRIT2', 'ry-wc-city-select'),
-		_x('San Buenaventura Municipality', 'PRIT2', 'ry-wc-city-select'),
-	],
 	'PRLACA' => [
 		_x('Pampa Aullagas', 'PRLACA', 'ry-wc-city-select'),
 		_x('Salinas de Garcia Mendoza', 'PRLACA', 'ry-wc-city-select'),
@@ -269,11 +284,6 @@ return [
 		_x('Tacacoma Municipality', 'PRLA', 'ry-wc-city-select'),
 		_x('Teoponte Municipality', 'PRLA', 'ry-wc-city-select'),
 		_x('Tipuani Municipality', 'PRLA', 'ry-wc-city-select'),
-	],
-	'PRLI' => [
-		_x('Caiza D Municipality', 'PRLI', 'ry-wc-city-select'),
-		_x('Ckochas', 'PRLI', 'ry-wc-city-select'),
-		_x('Puna Municipality', 'PRLI', 'ry-wc-city-select'),
 	],
 	'PRLO' => [
 		_x('Cairoma Municipality', 'PRLO', 'ry-wc-city-select'),
@@ -383,6 +393,13 @@ return [
 	'PROC' => [
 		_x('Entre Rios Municipality', 'PROC', 'ry-wc-city-select'),
 	],
+	'PROBSA' => [
+		_x('Fernandez Alonso', 'PROBSA', 'ry-wc-city-select'),
+		_x('General Saavedra Municipality', 'PROBSA', 'ry-wc-city-select'),
+		_x('Mineros Municipality', 'PROBSA', 'ry-wc-city-select'),
+		_x('Montero', 'PROBSA', 'ry-wc-city-select'),
+		_x('San Pedro', 'PROBSA', 'ry-wc-city-select'),
+	],
 	'PROM' => [
 		_x('Achacachi', 'PROM', 'ry-wc-city-select'),
 		_x('Ancoraimes Municipality', 'PROM', 'ry-wc-city-select'),
@@ -423,16 +440,11 @@ return [
 		_x('Villa Rivero Municipality', 'PRPU', 'ry-wc-city-select'),
 	],
 	'PRQU' => [
-		_x('Porco', 'PRQU', 'ry-wc-city-select'),
-		_x('Tomave Municipality', 'PRQU', 'ry-wc-city-select'),
-		_x('Uyuni', 'PRQU', 'ry-wc-city-select'),
-	],
-	'PRQU2' => [
-		_x('Colcapirhua', 'PRQU2', 'ry-wc-city-select'),
-		_x('Quillacollo', 'PRQU2', 'ry-wc-city-select'),
-		_x('Sipe Sipe Municipality', 'PRQU2', 'ry-wc-city-select'),
-		_x('Tiquipaya', 'PRQU2', 'ry-wc-city-select'),
-		_x('Vinto', 'PRQU2', 'ry-wc-city-select'),
+		_x('Colcapirhua', 'PRQU', 'ry-wc-city-select'),
+		_x('Quillacollo', 'PRQU', 'ry-wc-city-select'),
+		_x('Sipe Sipe Municipality', 'PRQU', 'ry-wc-city-select'),
+		_x('Tiquipaya', 'PRQU', 'ry-wc-city-select'),
+		_x('Vinto', 'PRQU', 'ry-wc-city-select'),
 	],
 	'PRRABU' => [
 		_x('Chayanta Municipality', 'PRRABU', 'ry-wc-city-select'),
@@ -441,50 +453,21 @@ return [
 		_x('Uncia Municipality', 'PRRABU', 'ry-wc-city-select'),
 	],
 	'PRSA' => [
-		_x('Betanzos Municipality', 'PRSA', 'ry-wc-city-select'),
-		_x('Chaqui Municipality', 'PRSA', 'ry-wc-city-select'),
-		_x('Tacobamba Municipality', 'PRSA', 'ry-wc-city-select'),
+		_x('Chipaya', 'PRSA', 'ry-wc-city-select'),
+		_x('Coipasa', 'PRSA', 'ry-wc-city-select'),
+		_x('Sabaya', 'PRSA', 'ry-wc-city-select'),
 	],
 	'PRSA2' => [
-		_x('Chipaya', 'PRSA2', 'ry-wc-city-select'),
-		_x('Coipasa', 'PRSA2', 'ry-wc-city-select'),
-		_x('Sabaya', 'PRSA2', 'ry-wc-city-select'),
-	],
-	'PRSA3' => [
-		_x('Curahuara De Carnagas Sajama', 'PRSA3', 'ry-wc-city-select'),
-		_x('Turco Municipality', 'PRSA3', 'ry-wc-city-select'),
+		_x('Curahuara De Carnagas Sajama', 'PRSA2', 'ry-wc-city-select'),
+		_x('Turco Municipality', 'PRSA2', 'ry-wc-city-select'),
 	],
 	'PRSAPETO' => [
 		_x('Totora Municipality', 'PRSAPETO', 'ry-wc-city-select'),
 	],
-	'PRSA4' => [
-		_x('Fernandez Alonso', 'PRSA4', 'ry-wc-city-select'),
-		_x('General Saavedra Municipality', 'PRSA4', 'ry-wc-city-select'),
-		_x('Mineros Municipality', 'PRSA4', 'ry-wc-city-select'),
-		_x('Montero', 'PRSA4', 'ry-wc-city-select'),
-		_x('San Pedro', 'PRSA4', 'ry-wc-city-select'),
-	],
-	'PRSA5' => [
-		_x('Colpa Belgica', 'PRSA5', 'ry-wc-city-select'),
-		_x('Portachuelo', 'PRSA5', 'ry-wc-city-select'),
-		_x('Santa Rosa del Sara Municipality', 'PRSA5', 'ry-wc-city-select'),
-	],
-	'PRSA6' => [
-		_x('Toledo Municipality', 'PRSA6', 'ry-wc-city-select'),
-	],
-	'PRSUCH' => [
-		_x('Atocha', 'PRSUCH', 'ry-wc-city-select'),
-		_x('Tupiza', 'PRSUCH', 'ry-wc-city-select'),
-	],
-	'PRSUCI' => [
-		_x('Camataqui (Villa Abecia)', 'PRSUCI', 'ry-wc-city-select'),
-		_x('Culpina', 'PRSUCI', 'ry-wc-city-select'),
-		_x('Las Carreras', 'PRSUCI', 'ry-wc-city-select'),
-	],
-	'PRSULI' => [
-		_x('Mojinete', 'PRSULI', 'ry-wc-city-select'),
-		_x('San Antonio de Esmoruco', 'PRSULI', 'ry-wc-city-select'),
-		_x('San Pablo de Lipez', 'PRSULI', 'ry-wc-city-select'),
+	'PRSA3' => [
+		_x('Colpa Belgica', 'PRSA3', 'ry-wc-city-select'),
+		_x('Portachuelo', 'PRSA3', 'ry-wc-city-select'),
+		_x('Santa Rosa del Sara Municipality', 'PRSA3', 'ry-wc-city-select'),
 	],
 	'PRSUYU' => [
 		_x('Irupana Municipality', 'PRSUYU', 'ry-wc-city-select'),
@@ -494,9 +477,6 @@ return [
 	],
 	'PRTA' => [
 		_x('Tapacari', 'PRTA', 'ry-wc-city-select'),
-	],
-	'PRTOBA' => [
-		_x('Eucaliptus', 'PRTOBA', 'ry-wc-city-select'),
 	],
 	'PRTOFR' => [
 		_x('Potosi', 'PRTOFR', 'ry-wc-city-select'),
@@ -550,6 +530,9 @@ return [
 		_x('La Rivera', 'PUME', 'ry-wc-city-select'),
 		_x('Todos Santos', 'PUME', 'ry-wc-city-select'),
 	],
+	'SA' => [
+		_x('Toledo Municipality', 'SA', 'ry-wc-city-select'),
+	],
 	'SEPAPR' => [
 		_x('Santiago de Huari', 'SEPAPR', 'ry-wc-city-select'),
 	],
@@ -557,9 +540,26 @@ return [
 		_x('Andamarca Municipality', 'SUCAPR', 'ry-wc-city-select'),
 		_x('Santiago de Andamarca', 'SUCAPR', 'ry-wc-city-select'),
 	],
+	'SUCH' => [
+		_x('Atocha', 'SUCH', 'ry-wc-city-select'),
+		_x('Tupiza', 'SUCH', 'ry-wc-city-select'),
+	],
+	'SUCI' => [
+		_x('Camataqui (Villa Abecia)', 'SUCI', 'ry-wc-city-select'),
+		_x('Culpina', 'SUCI', 'ry-wc-city-select'),
+		_x('Las Carreras', 'SUCI', 'ry-wc-city-select'),
+	],
+	'SULI' => [
+		_x('Mojinete', 'SULI', 'ry-wc-city-select'),
+		_x('San Antonio de Esmoruco', 'SULI', 'ry-wc-city-select'),
+		_x('San Pablo de Lipez', 'SULI', 'ry-wc-city-select'),
+	],
 	'TIPR' => [
 		_x('Shinahota', 'TIPR', 'ry-wc-city-select'),
 		_x('Tiraque Municipality', 'TIPR', 'ry-wc-city-select'),
+	],
+	'TOBA' => [
+		_x('Eucaliptus', 'TOBA', 'ry-wc-city-select'),
 	],
 	'DECO' => [
 		_x('Provincia Cercado', 'DECO', 'ry-wc-city-select'),
@@ -568,7 +568,7 @@ return [
 		_x('Provincia Cercado', 'DEOR', 'ry-wc-city-select'),
 	],
 	'DETA' => [
-		_x('Provincia Cercado', 'DETA', 'ry-wc-city-select'),
+		_x('Cercado', 'DETA', 'ry-wc-city-select'),
 	],
 	]
 ];

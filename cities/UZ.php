@@ -3,7 +3,7 @@
  * Republic of Uzbekistan places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -35,7 +35,7 @@ return [
 	'BUPR' => [
 		_x('Alat', 'BUPR', 'ry-wc-city-select'),
 		_x('Bukhoro Tumani', 'BUPR', 'ry-wc-city-select'),
-		_x('Ghijduwon Shahri', 'BUPR', 'ry-wc-city-select'),
+		_x('Gijduvon Tumani', 'BUPR', 'ry-wc-city-select'),
 		_x('Ghijduwon Tumani', 'BUPR', 'ry-wc-city-select'),
 		_x('Jondor Tumani', 'BUPR', 'ry-wc-city-select'),
 		_x('Kogon Shahri', 'BUPR', 'ry-wc-city-select'),
@@ -46,7 +46,8 @@ return [
 		_x('Qorovulbozor Tumani', 'BUPR', 'ry-wc-city-select'),
 		_x('Romiton Tumani', 'BUPR', 'ry-wc-city-select'),
 		_x('Shofirkon Tumani', 'BUPR', 'ry-wc-city-select'),
-		_x('Wobkent Tumani', 'BUPR', 'ry-wc-city-select'),
+		_x('Termiz Tumani', 'BUPR', 'ry-wc-city-select'),
+		_x('Vobkent Tumani', 'BUPR', 'ry-wc-city-select'),
 	],
 	'FE' => [
 		_x('Altyarik', 'FE', 'ry-wc-city-select'),
@@ -157,7 +158,6 @@ return [
 		_x('Go`zalkent Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Ishtixon Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Jomboy Tumani', 'SAVI', 'ry-wc-city-select'),
-		_x('Kattaqo`rg`on Shahri', 'SAVI', 'ry-wc-city-select'),
 		_x('Kattaqo`rg`on Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Narpay Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Nurobod Tumani', 'SAVI', 'ry-wc-city-select'),
@@ -168,7 +168,6 @@ return [
 		_x('Paxtachi Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Payariq Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Qo`shrabot Tumani', 'SAVI', 'ry-wc-city-select'),
-		_x('Samarqand Shahri', 'SAVI', 'ry-wc-city-select'),
 		_x('Samarqand Tumani', 'SAVI', 'ry-wc-city-select'),
 		_x('Toyloq District', 'SAVI', 'ry-wc-city-select'),
 		_x('Toyloq Tumani', 'SAVI', 'ry-wc-city-select'),
@@ -207,7 +206,6 @@ return [
 		_x('Sherobod Tumani', 'SUVI', 'ry-wc-city-select'),
 		_x('Sho`rchi Tumani', 'SUVI', 'ry-wc-city-select'),
 		_x('Termiz Shahri', 'SUVI', 'ry-wc-city-select'),
-		_x('Termiz Tumani', 'SUVI', 'ry-wc-city-select'),
 		_x('Uzun Tumani', 'SUVI', 'ry-wc-city-select'),
 		_x('Yangiyul Tumani', 'SUVI', 'ry-wc-city-select'),
 	],

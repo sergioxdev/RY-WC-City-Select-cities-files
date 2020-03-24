@@ -3,7 +3,7 @@
  * Hellenic Republic states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -16,12 +16,12 @@ return [
 		'LE2' => __( 'Lesbos', 'ry-wc-city-select' ),
 		'NOANAT' => __( 'Nomarchia Anatolikis Attikis', 'ry-wc-city-select' ),
 		'NOAT' => __( 'Nomarchia Athinas', 'ry-wc-city-select' ),
-		'NODYAT' => __( 'Nomarchia Dytikis Attikis', 'ry-wc-city-select' ),
 		'NOAC' => __( 'Nomos Achaias', 'ry-wc-city-select' ),
 		'NOAIKAAK' => __( 'Nomos Aitolias kai Akarnanias', 'ry-wc-city-select' ),
 		'NOAR' => __( 'Nomos Argolidos', 'ry-wc-city-select' ),
 		'NOAR2' => __( 'Nomos Arkadias', 'ry-wc-city-select' ),
 		'NOAR3' => __( 'Nomos Artas', 'ry-wc-city-select' ),
+		'NOAT2' => __( 'Nomos Attikis', 'ry-wc-city-select' ),
 		'NOCH' => __( 'Nomos Chalkidikis', 'ry-wc-city-select' ),
 		'NOCH2' => __( 'Nomos Chanias', 'ry-wc-city-select' ),
 		'NODR' => __( 'Nomos Dramas', 'ry-wc-city-select' ),

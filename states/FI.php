@@ -3,7 +3,7 @@
  * Republic of Finland states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -82,9 +82,9 @@ return [
 		'KA3' => __( 'Kainuu', 'ry-wc-city-select' ),
 		'KA4' => __( 'Kanta-Haeme', 'ry-wc-city-select' ),
 		'KE5' => __( 'Keski-Pohjanmaa', 'ry-wc-city-select' ),
-		'KE6' => __( 'Keski-Suomi', 'ry-wc-city-select' ),
 		'KY2' => __( 'Kymenlaakso', 'ry-wc-city-select' ),
 		'LA3' => __( 'Lapland', 'ry-wc-city-select' ),
+		'MEFI' => __( 'Mellersta Finland', 'ry-wc-city-select' ),
 		'PA' => __( 'Paijanne-Tavastland', 'ry-wc-city-select' ),
 		'PI2' => __( 'Pirkanmaa', 'ry-wc-city-select' ),
 		'PO5' => __( 'Pohjanmaa', 'ry-wc-city-select' ),

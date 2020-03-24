@@ -3,7 +3,7 @@
  * Italian Republic states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -26,6 +26,7 @@ return [
 		'PRFL' => __( 'Province of Florence', 'ry-wc-city-select' ),
 		'PRPI' => __( 'Province of Pisa', 'ry-wc-city-select' ),
 		'PRVE' => __( 'Provincia Verbano-Cusio-Ossola', 'ry-wc-city-select' ),
+		'PRAUTR' => __( 'Provincia autonoma di Trento', 'ry-wc-city-select' ),
 		'PRDESUSA' => __( 'Provincia del Sud Sardegna', 'ry-wc-city-select' ),
 		'PRDEAQ' => __( 'Provincia dell Aquila', 'ry-wc-city-select' ),
 		'PRAL' => __( 'Provincia di Alessandria', 'ry-wc-city-select' ),
@@ -102,9 +103,8 @@ return [
 		'PRTA' => __( 'Provincia di Taranto', 'ry-wc-city-select' ),
 		'PRTE' => __( 'Provincia di Teramo', 'ry-wc-city-select' ),
 		'PRTE2' => __( 'Provincia di Terni', 'ry-wc-city-select' ),
-		'PRTR' => __( 'Provincia di Trento', 'ry-wc-city-select' ),
-		'PRTR2' => __( 'Provincia di Treviso', 'ry-wc-city-select' ),
-		'PRTR3' => __( 'Provincia di Trieste', 'ry-wc-city-select' ),
+		'PRTR' => __( 'Provincia di Treviso', 'ry-wc-city-select' ),
+		'PRTR2' => __( 'Provincia di Trieste', 'ry-wc-city-select' ),
 		'PRUD' => __( 'Provincia di Udine', 'ry-wc-city-select' ),
 		'PRVA' => __( 'Provincia di Varese', 'ry-wc-city-select' ),
 		'PRVE2' => __( 'Provincia di Venezia', 'ry-wc-city-select' ),

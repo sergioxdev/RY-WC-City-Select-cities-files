@@ -3,7 +3,7 @@
  * Republic of Albania places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -25,6 +25,7 @@ return [
 		_x('Komuna e Llugajt', 'RRTR', 'ry-wc-city-select'),
 		_x('Komuna e Margegaje', 'RRTR', 'ry-wc-city-select'),
 		_x('Komuna e Tropojes', 'RRTR', 'ry-wc-city-select'),
+		_x('Lagjia e Imeraje', 'RRTR', 'ry-wc-city-select'),
 		_x('Markaj', 'RRTR', 'ry-wc-city-select'),
 		_x('Mejdan', 'RRTR', 'ry-wc-city-select'),
 		_x('Myhejan', 'RRTR', 'ry-wc-city-select'),
@@ -72,6 +73,7 @@ return [
 		_x('Bashkia Peqin', 'QAEL', 'ry-wc-city-select'),
 		_x('Bashkia Prrenjas', 'QAEL', 'ry-wc-city-select'),
 		_x('Rrethi i Gramshit', 'QAEL', 'ry-wc-city-select'),
+		_x('Rrethi i Librazhdit', 'QAEL', 'ry-wc-city-select'),
 		_x('Rrethi i Peqinit', 'QAEL', 'ry-wc-city-select'),
 	],
 	'QAFI' => [

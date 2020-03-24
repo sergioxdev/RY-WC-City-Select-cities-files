@@ -3,7 +3,7 @@
  * Russian Federation states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -17,6 +17,7 @@ return [
 		'GOKA' => __( 'Gorod Kazan', 'ry-wc-city-select' ),
 		'GONACH' => __( 'Gorod Naberezhnyye Chelny', 'ry-wc-city-select' ),
 		'GRUROK' => __( 'Grozny Urban Okrug', 'ry-wc-city-select' ),
+		'NINOUROK' => __( 'Nizhny Novgorod Urban Okrug', 'ry-wc-city-select' ),
 		'NORA' => __( 'Novosibirskiy Rayon', 'ry-wc-city-select' ),
 		'SEADOK' => __( 'Severnyy Administrativnyy Okrug', 'ry-wc-city-select' ),
 		'SEADOK2' => __( 'Severo-Vostochnyy Administrativnyy Okrug', 'ry-wc-city-select' ),

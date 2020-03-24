@@ -3,7 +3,7 @@
  * Republic of Cyprus places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -184,7 +184,6 @@ return [
 		_x('Kato Lefkara', 'EPLA', 'ry-wc-city-select'),
 		_x('Kellia', 'EPLA', 'ry-wc-city-select'),
 		_x('Kiti', 'EPLA', 'ry-wc-city-select'),
-		_x('Kivisili', 'EPLA', 'ry-wc-city-select'),
 		_x('Kivisili', 'EPLA', 'ry-wc-city-select'),
 		_x('Klavdia', 'EPLA', 'ry-wc-city-select'),
 		_x('Kochi', 'EPLA', 'ry-wc-city-select'),

@@ -3,7 +3,7 @@
  * Kingdom of Thailand places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -677,24 +677,6 @@ return [
 		_x('Amphoe Wang Thong', 'CHPH7', 'ry-wc-city-select'),
 		_x('Amphoe Wat Bot', 'CHPH7', 'ry-wc-city-select'),
 	],
-	'CHPHNAAY' => [
-		_x('Amphoe Ban Phraek', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Bang Ban', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Bang Pa-in', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Bang Pahan', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Bang Sai', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Bang Sai', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Lat Bua Luang', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Maha Rat', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Nakhon Luang', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Phachi', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Phak Hai', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Phra Nakhon Si Ayutthaya', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Sena', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Tha Ruea', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Uthai', 'CHPHNAAY', 'ry-wc-city-select'),
-		_x('Amphoe Wang Noi', 'CHPHNAAY', 'ry-wc-city-select'),
-	],
 	'CHPH8' => [
 		_x('Amphoe Den Chai', 'CHPH8', 'ry-wc-city-select'),
 		_x('Amphoe Long', 'CHPH8', 'ry-wc-city-select'),
@@ -1110,6 +1092,24 @@ return [
 		_x('Amphoe San Sai', 'CHMAPR', 'ry-wc-city-select'),
 		_x('Amphoe Saraphi', 'CHMAPR', 'ry-wc-city-select'),
 		_x('Amphoe Wiang Haeng', 'CHMAPR', 'ry-wc-city-select'),
+	],
+	'PHNAAY' => [
+		_x('Amphoe Ban Phraek', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Bang Ban', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Bang Pa-in', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Bang Pahan', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Bang Sai', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Bang Sai', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Lat Bua Luang', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Maha Rat', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Nakhon Luang', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Phachi', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Phak Hai', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Phra Nakhon Si Ayutthaya', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Sena', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Tha Ruea', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Uthai', 'PHNAAY', 'ry-wc-city-select'),
+		_x('Amphoe Wang Noi', 'PHNAAY', 'ry-wc-city-select'),
 	],
 	'PHPR' => [
 		_x('Amphoe Kathu', 'PHPR', 'ry-wc-city-select'),

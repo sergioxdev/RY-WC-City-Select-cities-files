@@ -3,7 +3,7 @@
  * Kingdom of Thailand states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -65,7 +65,6 @@ return [
 		'CHPH5' => __( 'Changwat Phetchaburi', 'ry-wc-city-select' ),
 		'CHPH6' => __( 'Changwat Phichit', 'ry-wc-city-select' ),
 		'CHPH7' => __( 'Changwat Phitsanulok', 'ry-wc-city-select' ),
-		'CHPHNAAY' => __( 'Changwat Phra Nakhon Si Ayutthaya', 'ry-wc-city-select' ),
 		'CHPH8' => __( 'Changwat Phrae', 'ry-wc-city-select' ),
 		'CHPRBU' => __( 'Changwat Prachin Buri', 'ry-wc-city-select' ),
 		'CHPRKHKH' => __( 'Changwat Prachuap Khiri Khan', 'ry-wc-city-select' ),
@@ -97,6 +96,7 @@ return [
 		'CHYA' => __( 'Changwat Yala', 'ry-wc-city-select' ),
 		'CHYA2' => __( 'Changwat Yasothon', 'ry-wc-city-select' ),
 		'CHMAPR' => __( 'Chiang Mai Province', 'ry-wc-city-select' ),
+		'PHNAAY' => __( 'Phra Nakhon Si Ayutthaya', 'ry-wc-city-select' ),
 		'PHPR' => __( 'Phuket Province', 'ry-wc-city-select' ),
 	]
 ];

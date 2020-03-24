@@ -3,7 +3,7 @@
  * Republic of Costa Rica places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -211,7 +211,6 @@ return [
 		_x('Bolivar', 'GR', 'ry-wc-city-select'),
 		_x('Grecia', 'GR', 'ry-wc-city-select'),
 		_x('Puente de Piedra', 'GR', 'ry-wc-city-select'),
-		_x('Rio Cuarto', 'GR', 'ry-wc-city-select'),
 		_x('San Isidro', 'GR', 'ry-wc-city-select'),
 		_x('San Jose', 'GR', 'ry-wc-city-select'),
 		_x('San Roque', 'GR', 'ry-wc-city-select'),
@@ -447,6 +446,9 @@ return [
 		_x('Naranjito', 'QU', 'ry-wc-city-select'),
 		_x('Quepos', 'QU', 'ry-wc-city-select'),
 		_x('Savegre', 'QU', 'ry-wc-city-select'),
+	],
+	'RICU' => [
+		_x('Rio Cuarto', 'RICU', 'ry-wc-city-select'),
 	],
 	'SACA' => [
 		_x('Aguas Zarcas', 'SACA', 'ry-wc-city-select'),

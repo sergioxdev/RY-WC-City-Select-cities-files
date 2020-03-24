@@ -3,7 +3,7 @@
  * Ukraine places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -59,6 +59,9 @@ return [
 		_x('Zemlyanichnenskoye selskoye poselenye', 'BERA', 'ry-wc-city-select'),
 		_x('Zuyskoye selskoye poselenye', 'BERA', 'ry-wc-city-select'),
 		_x('Zybinskoye selskoye poselenye', 'BERA', 'ry-wc-city-select'),
+	],
+	'BIRA' => [
+		_x('Bilhorod-Dnistrovskyy City Raion', 'BIRA', 'ry-wc-city-select'),
 	],
 	'CHRA' => [
 		_x('Chernihivka United Territorial Community', 'CHRA', 'ry-wc-city-select'),
@@ -683,19 +686,16 @@ return [
 	],
 	'ODOB' => [
 		_x('Ananyivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Artsyzkyy Rayon', 'ODOB', 'ry-wc-city-select'),
+		_x('Artsyz Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Baltskyy Rayon', 'ODOB', 'ry-wc-city-select'),
 		_x('Berezivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Bilhorod-Dnistrovska Miskrada', 'ODOB', 'ry-wc-city-select'),
-		_x('Bilhorod-Dnistrovskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Bilyayivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Bolhradskyy Rayon', 'ODOB', 'ry-wc-city-select'),
+		_x('Bilyayivka Raion', 'ODOB', 'ry-wc-city-select'),
+		_x('Bolhrad Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Chornomorsk Municipality', 'ODOB', 'ry-wc-city-select'),
 		_x('Ivanivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Izmailskiy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Izmayilska Miskrada', 'ODOB', 'ry-wc-city-select'),
-		_x('Kiliyskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Kodymskyy Rayon', 'ODOB', 'ry-wc-city-select'),
+		_x('Izmail Raion', 'ODOB', 'ry-wc-city-select'),
+		_x('Kiliya Raion', 'ODOB', 'ry-wc-city-select'),
+		_x('Kodyma Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Kotovska Miskrada', 'ODOB', 'ry-wc-city-select'),
 		_x('Lyman Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Lyubashivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
@@ -704,14 +704,13 @@ return [
 		_x('Okny Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Ovidiopolskyy Rayon', 'ODOB', 'ry-wc-city-select'),
 		_x('Podilsk Raion', 'ODOB', 'ry-wc-city-select'),
-		_x('Reniyskyy Rayon', 'ODOB', 'ry-wc-city-select'),
+		_x('Reni District', 'ODOB', 'ry-wc-city-select'),
 		_x('Rozdilnyanskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Saratskyy Rayon', 'ODOB', 'ry-wc-city-select'),
+		_x('Sarata Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Savranskyy Rayon', 'ODOB', 'ry-wc-city-select'),
 		_x('Shyryayivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Tarutynskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Tatarbunarskyy Rayon', 'ODOB', 'ry-wc-city-select'),
-		_x('Teplodarska Miskrada', 'ODOB', 'ry-wc-city-select'),
+		_x('Tarutyne Raion', 'ODOB', 'ry-wc-city-select'),
+		_x('Tatarbunary Raion', 'ODOB', 'ry-wc-city-select'),
 		_x('Velykomykhaylivskyy Rayon', 'ODOB', 'ry-wc-city-select'),
 		_x('Yuznenska Miskrada', 'ODOB', 'ry-wc-city-select'),
 		_x('Zakharivka Raion', 'ODOB', 'ry-wc-city-select'),

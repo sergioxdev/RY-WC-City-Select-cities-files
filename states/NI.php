@@ -3,7 +3,7 @@
  * Republic of Nicaragua states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -11,6 +11,7 @@
 return [
 	'NI' => [
 		'MUMA' => __( 'Municipio de Managua', 'ry-wc-city-select' ),
+		'COCANO' => __( 'Costa Caribe Norte', 'ry-wc-city-select' ),
 		'COCASU' => __( 'Costa Caribe Sur', 'ry-wc-city-select' ),
 		'DEBO' => __( 'Departamento de Boaco', 'ry-wc-city-select' ),
 		'DECA' => __( 'Departamento de Carazo', 'ry-wc-city-select' ),
@@ -27,6 +28,5 @@ return [
 		'DENUSE' => __( 'Departamento de Nueva Segovia', 'ry-wc-city-select' ),
 		'DERISAJU' => __( 'Departamento de Rio San Juan', 'ry-wc-city-select' ),
 		'DERI' => __( 'Departamento de Rivas', 'ry-wc-city-select' ),
-		'NOATAURE(R' => __( 'North Atlantic Autonomous Region (RAAN)', 'ry-wc-city-select' ),
 	]
 ];

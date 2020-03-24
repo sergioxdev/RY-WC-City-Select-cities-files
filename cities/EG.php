@@ -3,7 +3,7 @@
  * Arab Republic of Egypt places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -153,11 +153,11 @@ return [
 		_x('Markaz ash Shuhada', 'MUMI', 'ry-wc-city-select'),
 	],
 	'MUMI2' => [
-		_x('Markaz Abu Qurqas', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz Bani Mazar', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz Dayr Mawas', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz Mallawi', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz Matay', 'MUMI2', 'ry-wc-city-select'),
+		_x('Markaz Qurqas', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz Samalut', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz al Minya', 'MUMI2', 'ry-wc-city-select'),
 		_x('Markaz al `Idwah', 'MUMI2', 'ry-wc-city-select'),
@@ -172,8 +172,10 @@ return [
 		_x('Markaz al Uqsur', 'MUUQ', 'ry-wc-city-select'),
 	],
 	'MUWAJA' => [
+		_x('Baris Shurtah', 'MUWAJA', 'ry-wc-city-select'),
 		_x('Markaz al Wahat ad Dakhilah', 'MUWAJA', 'ry-wc-city-select'),
 		_x('Markaz al Wahat al Kharijah', 'MUWAJA', 'ry-wc-city-select'),
+		_x('Shurtah al-Farafirah', 'MUWAJA', 'ry-wc-city-select'),
 	],
 	'MUASSH' => [
 		_x('Bahr El Bakar', 'MUASSH', 'ry-wc-city-select'),

@@ -3,7 +3,7 @@
  * Republic of Bulgaria states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -263,6 +263,7 @@ return [
 		'OBVETA' => __( 'Oblast Veliko Tarnovo', 'ry-wc-city-select' ),
 		'OBVI2' => __( 'Oblast Vidin', 'ry-wc-city-select' ),
 		'OBYA4' => __( 'Oblast Yambol', 'ry-wc-city-select' ),
+		'PA' => __( 'Pazardzhik', 'ry-wc-city-select' ),
 		'PE' => __( 'Pernik', 'ry-wc-city-select' ),
 		'PL' => __( 'Plovdiv', 'ry-wc-city-select' ),
 		'SO' => __( 'Sofia', 'ry-wc-city-select' ),
@@ -282,7 +283,6 @@ return [
 		'OBSTZA2' => __( 'Oblast Stara Zagora', 'ry-wc-city-select' ),
 		'OBTA2' => __( 'Oblast Targovishte', 'ry-wc-city-select' ),
 		'OBVR2' => __( 'Oblast Vratsa', 'ry-wc-city-select' ),
-		'PA' => __( 'Pazardzhik', 'ry-wc-city-select' ),
 		'SO2' => __( 'Sofia-Grad', 'ry-wc-city-select' ),
 		'VA' => __( 'Varna', 'ry-wc-city-select' ),
 	]

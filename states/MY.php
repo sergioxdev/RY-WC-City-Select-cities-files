@@ -3,7 +3,7 @@
  * Malaysia states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -26,6 +26,7 @@ return [
 		'BATA' => __( 'Bahagian Tawau', 'ry-wc-city-select' ),
 		'CAHI' => __( 'Cameron Highlands', 'ry-wc-city-select' ),
 		'HULA' => __( 'Hulu Langat', 'ry-wc-city-select' ),
+		'KUSE' => __( 'Kuala Selangor', 'ry-wc-city-select' ),
 		'JO' => __( 'Johor', 'ry-wc-city-select' ),
 		'KE' => __( 'Kedah', 'ry-wc-city-select' ),
 		'KE2' => __( 'Kelantan', 'ry-wc-city-select' ),

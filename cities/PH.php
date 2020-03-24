@@ -3,7 +3,7 @@
  * Republic of the Philippines places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -302,7 +302,7 @@ return [
 		_x('Sebaste', 'PRAN', 'ry-wc-city-select'),
 		_x('Sibalom', 'PRAN', 'ry-wc-city-select'),
 		_x('Tibiao', 'PRAN', 'ry-wc-city-select'),
-		_x('Tobias Fornier (Dao)', 'PRAN', 'ry-wc-city-select'),
+		_x('Tobias Fornier', 'PRAN', 'ry-wc-city-select'),
 		_x('Valderrama', 'PRAN', 'ry-wc-city-select'),
 	],
 	'PRAU' => [
@@ -582,7 +582,7 @@ return [
 		_x('Amadeo', 'PRCA5', 'ry-wc-city-select'),
 		_x('Bacoor City', 'PRCA5', 'ry-wc-city-select'),
 		_x('Carmona', 'PRCA5', 'ry-wc-city-select'),
-		_x('Cavite City', 'PRCA5', 'ry-wc-city-select'),
+		_x('Cavite', 'PRCA5', 'ry-wc-city-select'),
 		_x('City of Dasmarinas', 'PRCA5', 'ry-wc-city-select'),
 		_x('City of General Trias', 'PRCA5', 'ry-wc-city-select'),
 		_x('Gen. Mariano Alvarez', 'PRCA5', 'ry-wc-city-select'),
@@ -879,7 +879,7 @@ return [
 		_x('City of Cauayan', 'PRIS', 'ry-wc-city-select'),
 		_x('City of Santiago', 'PRIS', 'ry-wc-city-select'),
 		_x('Cordon', 'PRIS', 'ry-wc-city-select'),
-		_x('Delfin Albano (Magsaysay)', 'PRIS', 'ry-wc-city-select'),
+		_x('Delfin Albano', 'PRIS', 'ry-wc-city-select'),
 		_x('Dinapigue', 'PRIS', 'ry-wc-city-select'),
 		_x('Divilacan', 'PRIS', 'ry-wc-city-select'),
 		_x('Echague', 'PRIS', 'ry-wc-city-select'),
@@ -1370,7 +1370,7 @@ return [
 		_x('Culion', 'PRPA', 'ry-wc-city-select'),
 		_x('Cuyo', 'PRPA', 'ry-wc-city-select'),
 		_x('Dumaran', 'PRPA', 'ry-wc-city-select'),
-		_x('El Nido (Bacuit)', 'PRPA', 'ry-wc-city-select'),
+		_x('El Nido', 'PRPA', 'ry-wc-city-select'),
 		_x('Kalayaan', 'PRPA', 'ry-wc-city-select'),
 		_x('Linapacan', 'PRPA', 'ry-wc-city-select'),
 		_x('Magsaysay', 'PRPA', 'ry-wc-city-select'),

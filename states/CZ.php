@@ -3,7 +3,7 @@
  * Czechia states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -15,7 +15,7 @@ return [
 		'OKBE2' => __( 'Okres Beroun', 'ry-wc-city-select' ),
 		'OKBL' => __( 'Okres Blansko', 'ry-wc-city-select' ),
 		'OKBR' => __( 'Okres Breclav', 'ry-wc-city-select' ),
-		'OKBR2' => __( 'Okres Brno-Venkov', 'ry-wc-city-select' ),
+		'OKBR2' => __( 'Okres Brno-venkov', 'ry-wc-city-select' ),
 		'OKBR3' => __( 'Okres Bruntal', 'ry-wc-city-select' ),
 		'OKCELI' => __( 'Okres Ceska Lipa', 'ry-wc-city-select' ),
 		'OKCEBU' => __( 'Okres Ceske Budejovice', 'ry-wc-city-select' ),
@@ -52,16 +52,16 @@ return [
 		'OKNY' => __( 'Okres Nymburk', 'ry-wc-city-select' ),
 		'OKOL' => __( 'Okres Olomouc', 'ry-wc-city-select' ),
 		'OKOP' => __( 'Okres Opava', 'ry-wc-city-select' ),
-		'OKOS' => __( 'Okres Ostrava-Mesto', 'ry-wc-city-select' ),
+		'OKOS' => __( 'Okres Ostrava-mesto', 'ry-wc-city-select' ),
 		'OKPA' => __( 'Okres Pardubice', 'ry-wc-city-select' ),
 		'OKPE' => __( 'Okres Pelhrimov', 'ry-wc-city-select' ),
 		'OKPI' => __( 'Okres Pisek', 'ry-wc-city-select' ),
-		'OKPL' => __( 'Okres Plzen-Jih', 'ry-wc-city-select' ),
-		'OKPL2' => __( 'Okres Plzen-Mesto', 'ry-wc-city-select' ),
-		'OKPL3' => __( 'Okres Plzen-Sever', 'ry-wc-city-select' ),
+		'OKPL' => __( 'Okres Plzen-jih', 'ry-wc-city-select' ),
+		'OKPL2' => __( 'Okres Plzen-mesto', 'ry-wc-city-select' ),
+		'OKPL3' => __( 'Okres Plzen-sever', 'ry-wc-city-select' ),
 		'OKPR' => __( 'Okres Prachatice', 'ry-wc-city-select' ),
-		'OKPR2' => __( 'Okres Praha-Vychod', 'ry-wc-city-select' ),
-		'OKPR3' => __( 'Okres Praha-Zapad', 'ry-wc-city-select' ),
+		'OKPR2' => __( 'Okres Praha-vychod', 'ry-wc-city-select' ),
+		'OKPR3' => __( 'Okres Praha-zapad', 'ry-wc-city-select' ),
 		'OKPR4' => __( 'Okres Prerov', 'ry-wc-city-select' ),
 		'OKPR5' => __( 'Okres Pribram', 'ry-wc-city-select' ),
 		'OKPR6' => __( 'Okres Prostejov', 'ry-wc-city-select' ),

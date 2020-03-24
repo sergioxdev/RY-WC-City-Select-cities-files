@@ -3,13 +3,16 @@
  * Syrian Arab Republic places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
 
 return [
 	'SY' => [
+	'ALDI' => [
+		_x('Nahiyat al Jarniyah', 'ALDI', 'ry-wc-city-select'),
+	],
 	'ALGO' => [
 		_x('Al-Hasakah District', 'ALGO', 'ry-wc-city-select'),
 		_x('Al-Malikiyah District', 'ALGO', 'ry-wc-city-select'),
@@ -27,7 +30,6 @@ return [
 		_x('Mount Simeon District', 'ALGO2', 'ry-wc-city-select'),
 	],
 	'ARGO' => [
-		_x('Al-Thawrah District', 'ARGO', 'ry-wc-city-select'),
 		_x('Ar-Raqqah District', 'ARGO', 'ry-wc-city-select'),
 		_x('Tell Abyad District', 'ARGO', 'ry-wc-city-select'),
 	],

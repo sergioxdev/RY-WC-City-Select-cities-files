@@ -3,7 +3,7 @@
  * Republic of Peru places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -75,10 +75,13 @@ return [
 		_x('Anco_Huallo', 'CH3', 'ry-wc-city-select'),
 		_x('Chincheros', 'CH3', 'ry-wc-city-select'),
 		_x('Cocharcas', 'CH3', 'ry-wc-city-select'),
+		_x('El Porvenir', 'CH3', 'ry-wc-city-select'),
 		_x('Huaccana', 'CH3', 'ry-wc-city-select'),
+		_x('Los Chankas', 'CH3', 'ry-wc-city-select'),
 		_x('Ocobamba', 'CH3', 'ry-wc-city-select'),
 		_x('Ongoy', 'CH3', 'ry-wc-city-select'),
 		_x('Ranracancha', 'CH3', 'ry-wc-city-select'),
+		_x('Rocchacc', 'CH3', 'ry-wc-city-select'),
 		_x('Uranmarca', 'CH3', 'ry-wc-city-select'),
 	],
 	'CO' => [
@@ -217,8 +220,10 @@ return [
 		_x('Pachangara', 'OY', 'ry-wc-city-select'),
 	],
 	'PAAB' => [
+		_x('Alexander Von Humboldt', 'PAAB', 'ry-wc-city-select'),
 		_x('Curimana', 'PAAB', 'ry-wc-city-select'),
 		_x('Irazola', 'PAAB', 'ry-wc-city-select'),
+		_x('Neshuya', 'PAAB', 'ry-wc-city-select'),
 		_x('Padre Abad', 'PAAB', 'ry-wc-city-select'),
 	],
 	'PADESASA' => [
@@ -307,6 +312,7 @@ return [
 		_x('Huancarama', 'PRAN', 'ry-wc-city-select'),
 		_x('Huancaray', 'PRAN', 'ry-wc-city-select'),
 		_x('Huayana', 'PRAN', 'ry-wc-city-select'),
+		_x('Jose Maria Arguedas', 'PRAN', 'ry-wc-city-select'),
 		_x('Kaquiabamba', 'PRAN', 'ry-wc-city-select'),
 		_x('Kishuara', 'PRAN', 'ry-wc-city-select'),
 		_x('Pacobamba', 'PRAN', 'ry-wc-city-select'),
@@ -817,6 +823,7 @@ return [
 		_x('Anco', 'PRCH8', 'ry-wc-city-select'),
 		_x('Chinchihuasi', 'PRCH8', 'ry-wc-city-select'),
 		_x('Churcampa', 'PRCH8', 'ry-wc-city-select'),
+		_x('Cosme', 'PRCH8', 'ry-wc-city-select'),
 		_x('El Carmen', 'PRCH8', 'ry-wc-city-select'),
 		_x('La Merced', 'PRCH8', 'ry-wc-city-select'),
 		_x('Locroja', 'PRCH8', 'ry-wc-city-select'),
@@ -1017,6 +1024,7 @@ return [
 	'PRHU4' => [
 		_x('Acocro', 'PRHU4', 'ry-wc-city-select'),
 		_x('Acos Vinchos', 'PRHU4', 'ry-wc-city-select'),
+		_x('Andres Avelino Caceres Dorregaray', 'PRHU4', 'ry-wc-city-select'),
 		_x('Ayacucho', 'PRHU4', 'ry-wc-city-select'),
 		_x('Carmen Alto', 'PRHU4', 'ry-wc-city-select'),
 		_x('Chiara', 'PRHU4', 'ry-wc-city-select'),
@@ -1110,13 +1118,17 @@ return [
 	],
 	'PRHU9' => [
 		_x('Ayahuanco', 'PRHU9', 'ry-wc-city-select'),
+		_x('Canayre', 'PRHU9', 'ry-wc-city-select'),
+		_x('Chaca', 'PRHU9', 'ry-wc-city-select'),
 		_x('Huamanguilla', 'PRHU9', 'ry-wc-city-select'),
 		_x('Huanta', 'PRHU9', 'ry-wc-city-select'),
 		_x('Iguain', 'PRHU9', 'ry-wc-city-select'),
 		_x('Llochegua', 'PRHU9', 'ry-wc-city-select'),
 		_x('Luricocha', 'PRHU9', 'ry-wc-city-select'),
+		_x('Pucacolpa', 'PRHU9', 'ry-wc-city-select'),
 		_x('Santillana', 'PRHU9', 'ry-wc-city-select'),
 		_x('Sivia', 'PRHU9', 'ry-wc-city-select'),
+		_x('Uchuraccay', 'PRHU9', 'ry-wc-city-select'),
 	],
 	'PRHU10' => [
 		_x('Amarilis', 'PRHU10', 'ry-wc-city-select'),
@@ -1127,8 +1139,10 @@ return [
 		_x('Pillco Marca', 'PRHU10', 'ry-wc-city-select'),
 		_x('Quisqui', 'PRHU10', 'ry-wc-city-select'),
 		_x('San Francisco De Cayran', 'PRHU10', 'ry-wc-city-select'),
+		_x('San Pablo De Pillao', 'PRHU10', 'ry-wc-city-select'),
 		_x('San Pedro De Chaulan', 'PRHU10', 'ry-wc-city-select'),
 		_x('Santa Maria Del Valle', 'PRHU10', 'ry-wc-city-select'),
+		_x('Yacus', 'PRHU10', 'ry-wc-city-select'),
 		_x('Yarumayo', 'PRHU10', 'ry-wc-city-select'),
 	],
 	'PRHU11' => [
@@ -1318,21 +1332,28 @@ return [
 	'PRCO6' => [
 		_x('Echarate', 'PRCO6', 'ry-wc-city-select'),
 		_x('Huayopata', 'PRCO6', 'ry-wc-city-select'),
+		_x('Inkawasi', 'PRCO6', 'ry-wc-city-select'),
 		_x('Kimbiri', 'PRCO6', 'ry-wc-city-select'),
 		_x('Maranura', 'PRCO6', 'ry-wc-city-select'),
+		_x('Megantoni', 'PRCO6', 'ry-wc-city-select'),
 		_x('Ocobamba', 'PRCO6', 'ry-wc-city-select'),
 		_x('Pichari', 'PRCO6', 'ry-wc-city-select'),
 		_x('Quellouno', 'PRCO6', 'ry-wc-city-select'),
 		_x('Santa Ana', 'PRCO6', 'ry-wc-city-select'),
 		_x('Santa Teresa', 'PRCO6', 'ry-wc-city-select'),
 		_x('Vilcabamba', 'PRCO6', 'ry-wc-city-select'),
+		_x('Villa Kintiarina', 'PRCO6', 'ry-wc-city-select'),
+		_x('Villa Virgen', 'PRCO6', 'ry-wc-city-select'),
 	],
 	'PRMA' => [
+		_x('Anchihuay', 'PRMA', 'ry-wc-city-select'),
 		_x('Anco', 'PRMA', 'ry-wc-city-select'),
 		_x('Ayna', 'PRMA', 'ry-wc-city-select'),
 		_x('Chilcas', 'PRMA', 'ry-wc-city-select'),
 		_x('Chungui', 'PRMA', 'ry-wc-city-select'),
 		_x('Luis Carranza', 'PRMA', 'ry-wc-city-select'),
+		_x('Oronccoy', 'PRMA', 'ry-wc-city-select'),
+		_x('Samugari', 'PRMA', 'ry-wc-city-select'),
 		_x('San Miguel', 'PRMA', 'ry-wc-city-select'),
 		_x('Santa Rosa', 'PRMA', 'ry-wc-city-select'),
 		_x('Tambo', 'PRMA', 'ry-wc-city-select'),
@@ -1390,12 +1411,16 @@ return [
 		_x('Vilavila', 'PRLA3', 'ry-wc-city-select'),
 	],
 	'PRLEPR' => [
+		_x('Castillo Grande', 'PRLEPR', 'ry-wc-city-select'),
 		_x('Daniel Alomias Robles', 'PRLEPR', 'ry-wc-city-select'),
 		_x('Hermilio Valdizan', 'PRLEPR', 'ry-wc-city-select'),
 		_x('Jose Crespo Y Castillo', 'PRLEPR', 'ry-wc-city-select'),
 		_x('Luyando', 'PRLEPR', 'ry-wc-city-select'),
 		_x('Mariano Damaso Beraun', 'PRLEPR', 'ry-wc-city-select'),
+		_x('Pucayacu', 'PRLEPR', 'ry-wc-city-select'),
+		_x('Pueblo Nuevo', 'PRLEPR', 'ry-wc-city-select'),
 		_x('Rupa-Rupa', 'PRLEPR', 'ry-wc-city-select'),
+		_x('Santo Domingo De Anda', 'PRLEPR', 'ry-wc-city-select'),
 	],
 	'PRLO' => [
 		_x('Nauta', 'PRLO', 'ry-wc-city-select'),
@@ -1461,7 +1486,9 @@ return [
 	'PRMA3' => [
 		_x('Cholon', 'PRMA3', 'ry-wc-city-select'),
 		_x('Huacrachuco', 'PRMA3', 'ry-wc-city-select'),
+		_x('La Morada', 'PRMA3', 'ry-wc-city-select'),
 		_x('San Buenaventura', 'PRMA3', 'ry-wc-city-select'),
+		_x('Santa Rosa De Alto Yanajanca', 'PRMA3', 'ry-wc-city-select'),
 	],
 	'PRMACA' => [
 		_x('Campanilla', 'PRMACA', 'ry-wc-city-select'),
@@ -1498,9 +1525,7 @@ return [
 		_x('Mazan', 'PRMA4', 'ry-wc-city-select'),
 		_x('Napo', 'PRMA4', 'ry-wc-city-select'),
 		_x('Punchana', 'PRMA4', 'ry-wc-city-select'),
-		_x('Putumayo', 'PRMA4', 'ry-wc-city-select'),
 		_x('San Juan Bautista', 'PRMA4', 'ry-wc-city-select'),
-		_x('Teniente Manuel Clavero', 'PRMA4', 'ry-wc-city-select'),
 		_x('Torres Causana', 'PRMA4', 'ry-wc-city-select'),
 	],
 	'PRME' => [
@@ -1543,6 +1568,7 @@ return [
 	],
 	'PROX' => [
 		_x('Chontabamba', 'PROX', 'ry-wc-city-select'),
+		_x('Constitucion', 'PROX', 'ry-wc-city-select'),
 		_x('Huancabamba', 'PROX', 'ry-wc-city-select'),
 		_x('Oxapampa District', 'PROX', 'ry-wc-city-select'),
 		_x('Palcazu', 'PROX', 'ry-wc-city-select'),
@@ -1671,6 +1697,7 @@ return [
 		_x('Las Lomas', 'PRPI2', 'ry-wc-city-select'),
 		_x('Piura', 'PRPI2', 'ry-wc-city-select'),
 		_x('Tambo Grande', 'PRPI2', 'ry-wc-city-select'),
+		_x('Veintiseis De Octubre', 'PRPI2', 'ry-wc-city-select'),
 	],
 	'PRPO' => [
 		_x('Huayllan', 'PRPO', 'ry-wc-city-select'),
@@ -1848,12 +1875,12 @@ return [
 	'PRSA3' => [
 		_x('Coviriali', 'PRSA3', 'ry-wc-city-select'),
 		_x('Llaylla', 'PRSA3', 'ry-wc-city-select'),
-		_x('Mazamari', 'PRSA3', 'ry-wc-city-select'),
+		_x('Mazamari - Pangoa', 'PRSA3', 'ry-wc-city-select'),
 		_x('Pampa Hermosa', 'PRSA3', 'ry-wc-city-select'),
-		_x('Pangoa', 'PRSA3', 'ry-wc-city-select'),
 		_x('Rio Negro', 'PRSA3', 'ry-wc-city-select'),
 		_x('Rio Tambo', 'PRSA3', 'ry-wc-city-select'),
 		_x('Satipo', 'PRSA3', 'ry-wc-city-select'),
+		_x('Vizcatan Del Ene', 'PRSA3', 'ry-wc-city-select'),
 	],
 	'PRSI' => [
 		_x('Acobamba', 'PRSI', 'ry-wc-city-select'),
@@ -1896,6 +1923,7 @@ return [
 		_x('Ciudad Nueva', 'PRTA', 'ry-wc-city-select'),
 		_x('Coronel Gregorio Albarracin Lanchipa', 'PRTA', 'ry-wc-city-select'),
 		_x('Inclan', 'PRTA', 'ry-wc-city-select'),
+		_x('La Yarada Los Palos', 'PRTA', 'ry-wc-city-select'),
 		_x('Pachia', 'PRTA', 'ry-wc-city-select'),
 		_x('Palca', 'PRTA', 'ry-wc-city-select'),
 		_x('Pocollay', 'PRTA', 'ry-wc-city-select'),
@@ -1946,6 +1974,7 @@ return [
 		_x('Acostambo', 'PRTA7', 'ry-wc-city-select'),
 		_x('Acraquia', 'PRTA7', 'ry-wc-city-select'),
 		_x('Ahuaycha', 'PRTA7', 'ry-wc-city-select'),
+		_x('Andaymarca', 'PRTA7', 'ry-wc-city-select'),
 		_x('Colcabamba', 'PRTA7', 'ry-wc-city-select'),
 		_x('Daniel Hernandez', 'PRTA7', 'ry-wc-city-select'),
 		_x('Huachocolpa', 'PRTA7', 'ry-wc-city-select'),
@@ -1953,10 +1982,14 @@ return [
 		_x('Nahuimpuquio', 'PRTA7', 'ry-wc-city-select'),
 		_x('Pampas', 'PRTA7', 'ry-wc-city-select'),
 		_x('Pazos', 'PRTA7', 'ry-wc-city-select'),
+		_x('Pichos', 'PRTA7', 'ry-wc-city-select'),
+		_x('Quichuas', 'PRTA7', 'ry-wc-city-select'),
 		_x('Quishuar', 'PRTA7', 'ry-wc-city-select'),
+		_x('Roble', 'PRTA7', 'ry-wc-city-select'),
 		_x('Salcabamba', 'PRTA7', 'ry-wc-city-select'),
 		_x('Salcahuasi', 'PRTA7', 'ry-wc-city-select'),
 		_x('San Marcos De Rocchac', 'PRTA7', 'ry-wc-city-select'),
+		_x('Santiago De Tucuma', 'PRTA7', 'ry-wc-city-select'),
 		_x('Surcubamba', 'PRTA7', 'ry-wc-city-select'),
 		_x('Tintay Puncu', 'PRTA7', 'ry-wc-city-select'),
 	],
@@ -2095,6 +2128,12 @@ return [
 	'PU' => [
 		_x('Purus', 'PU', 'ry-wc-city-select'),
 	],
+	'PU2' => [
+		_x('Putumayo', 'PU2', 'ry-wc-city-select'),
+		_x('Rosa Panduro', 'PU2', 'ry-wc-city-select'),
+		_x('Teniente Manuel Clavero', 'PU2', 'ry-wc-city-select'),
+		_x('Yaguas', 'PU2', 'ry-wc-city-select'),
+	],
 	'SAANPU' => [
 		_x('Ananea', 'SAANPU', 'ry-wc-city-select'),
 		_x('Pedro Vilca Apaza', 'SAANPU', 'ry-wc-city-select'),
@@ -2122,6 +2161,7 @@ return [
 		_x('Cabanillas', 'SARO', 'ry-wc-city-select'),
 		_x('Caracoto', 'SARO', 'ry-wc-city-select'),
 		_x('Juliaca', 'SARO', 'ry-wc-city-select'),
+		_x('San Miguel', 'SARO', 'ry-wc-city-select'),
 	],
 	'SACA' => [
 		_x('Chugay', 'SACA', 'ry-wc-city-select'),

@@ -3,7 +3,7 @@
  * Federal Republic of Germany states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -29,8 +29,8 @@ return [
 		'UPBA' => __( 'Upper Bavaria', 'ry-wc-city-select' ),
 		'UPFR' => __( 'Upper Franconia', 'ry-wc-city-select' ),
 		'UPPA' => __( 'Upper Palatinate', 'ry-wc-city-select' ),
-		'BARE' => __( 'Baden-Wuerttemberg Region', 'ry-wc-city-select' ),
-		'BA' => __( 'Bavaria', 'ry-wc-city-select' ),
+		'BA' => __( 'Baden-Wuerttemberg', 'ry-wc-city-select' ),
+		'BA2' => __( 'Bavaria', 'ry-wc-city-select' ),
 		'BR' => __( 'Brandenburg', 'ry-wc-city-select' ),
 		'BR2' => __( 'Bremen', 'ry-wc-city-select' ),
 		'FRANHACIHA' => __( 'Free and Hanseatic City of Hamburg', 'ry-wc-city-select' ),

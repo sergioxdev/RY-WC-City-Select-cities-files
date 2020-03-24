@@ -3,14 +3,13 @@
  * Solomon Islands states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
 
 return [
 	'SB' => [
-		'WEPR' => __( 'Western Province', 'ry-wc-city-select' ),
 		'CEPR' => __( 'Central Province', 'ry-wc-city-select' ),
 		'CH' => __( 'Choiseul', 'ry-wc-city-select' ),
 		'GUPR' => __( 'Guadalcanal Province', 'ry-wc-city-select' ),
@@ -20,5 +19,6 @@ return [
 		'MAPR2' => __( 'Malaita Province', 'ry-wc-city-select' ),
 		'REANBE' => __( 'Rennell and Bellona', 'ry-wc-city-select' ),
 		'TEPR' => __( 'Temotu Province', 'ry-wc-city-select' ),
+		'WEPR' => __( 'Western Province', 'ry-wc-city-select' ),
 	]
 ];

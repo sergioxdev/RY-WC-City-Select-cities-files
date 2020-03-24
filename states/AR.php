@@ -3,7 +3,7 @@
  * Argentine Republic states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -29,6 +29,7 @@ return [
 		'DECO' => __( 'Departamento de Colon', 'ry-wc-city-select' ),
 		'DENO' => __( 'Departamento de Norquin', 'ry-wc-city-select' ),
 		'RODE' => __( 'Rosario Department', 'ry-wc-city-select' ),
+		'BUAI' => __( 'Buenos Aires', 'ry-wc-city-select' ),
 		'CAPR' => __( 'Catamarca Province', 'ry-wc-city-select' ),
 		'CHPR' => __( 'Chaco Province', 'ry-wc-city-select' ),
 		'CHPR2' => __( 'Chubut Province', 'ry-wc-city-select' ),
@@ -42,7 +43,6 @@ return [
 		'MEPR' => __( 'Mendoza Province', 'ry-wc-city-select' ),
 		'MIPR' => __( 'Misiones Province', 'ry-wc-city-select' ),
 		'NEPR' => __( 'Neuquen Province', 'ry-wc-city-select' ),
-		'PRBUAI' => __( 'Provincia de Buenos Aires', 'ry-wc-city-select' ),
 		'RINEPR' => __( 'Rio Negro Province', 'ry-wc-city-select' ),
 		'SAPR' => __( 'Salta Province', 'ry-wc-city-select' ),
 		'SAJUPR' => __( 'San Juan Province', 'ry-wc-city-select' ),

@@ -3,7 +3,7 @@
  * Republic of Kazakhstan places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -67,30 +67,27 @@ return [
 		_x('Zhambyl District', 'ALOB', 'ry-wc-city-select'),
 	],
 	'AQOB' => [
-		_x('Aqkol Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Arshaly Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Astrakhan Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Atbasar Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Atbasar Qalasy', 'AQOB', 'ry-wc-city-select'),
-		_x('Bulandy Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Egindikol Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Engbekshilder Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Ereymentau Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Esil Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Kokshetau Qalasy', 'AQOB', 'ry-wc-city-select'),
+		_x('Akkol', 'AQOB', 'ry-wc-city-select'),
+		_x('Arshaly', 'AQOB', 'ry-wc-city-select'),
+		_x('Astrakhan', 'AQOB', 'ry-wc-city-select'),
+		_x('Atbasar', 'AQOB', 'ry-wc-city-select'),
+		_x('Birzhan sal', 'AQOB', 'ry-wc-city-select'),
+		_x('Bulandy', 'AQOB', 'ry-wc-city-select'),
+		_x('Burabay', 'AQOB', 'ry-wc-city-select'),
+		_x('Egindikol', 'AQOB', 'ry-wc-city-select'),
+		_x('Ereymentau', 'AQOB', 'ry-wc-city-select'),
+		_x('Esil', 'AQOB', 'ry-wc-city-select'),
+		_x('Korgalzhyn', 'AQOB', 'ry-wc-city-select'),
 		_x('Qima Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Qorghalzhyn Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Sandyqtau Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Shchuchinsk Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Shchuchinsk Qalasy', 'AQOB', 'ry-wc-city-select'),
-		_x('Shortandy Audany', 'AQOB', 'ry-wc-city-select'),
+		_x('Sandyktau', 'AQOB', 'ry-wc-city-select'),
+		_x('Shortandy', 'AQOB', 'ry-wc-city-select'),
 		_x('Sileti Audany', 'AQOB', 'ry-wc-city-select'),
 		_x('Stepnogorsk Qalasy', 'AQOB', 'ry-wc-city-select'),
-		_x('Tselinograd Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Zerendi Audany', 'AQOB', 'ry-wc-city-select'),
+		_x('Tselinograd', 'AQOB', 'ry-wc-city-select'),
+		_x('Zerendi', 'AQOB', 'ry-wc-city-select'),
+		_x('Zhaksy', 'AQOB', 'ry-wc-city-select'),
 		_x('Zhangadala Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Zhaqsy Audany', 'AQOB', 'ry-wc-city-select'),
-		_x('Zharqayyng Audany', 'AQOB', 'ry-wc-city-select'),
+		_x('Zharkain', 'AQOB', 'ry-wc-city-select'),
 	],
 	'ATOB' => [
 		_x('Atyrau Qalasy', 'ATOB', 'ry-wc-city-select'),
@@ -188,6 +185,7 @@ return [
 		_x('Pavlodar Audany', 'PARE', 'ry-wc-city-select'),
 		_x('Pavlodar Qalasy', 'PARE', 'ry-wc-city-select'),
 		_x('Qashyr Audany', 'PARE', 'ry-wc-city-select'),
+		_x('Qazaly Audany', 'PARE', 'ry-wc-city-select'),
 		_x('Sharbaqty Audany', 'PARE', 'ry-wc-city-select'),
 		_x('Ulyanov Audany', 'PARE', 'ry-wc-city-select'),
 		_x('Uspenka Audany', 'PARE', 'ry-wc-city-select'),
@@ -248,7 +246,6 @@ return [
 	'QYOB' => [
 		_x('Aral Audany', 'QYOB', 'ry-wc-city-select'),
 		_x('Qarmaqshy Audany', 'QYOB', 'ry-wc-city-select'),
-		_x('Qazaly Audany', 'QYOB', 'ry-wc-city-select'),
 		_x('Shieli Audany', 'QYOB', 'ry-wc-city-select'),
 		_x('Syrdariya Audany', 'QYOB', 'ry-wc-city-select'),
 		_x('Terengoezek Audany', 'QYOB', 'ry-wc-city-select'),

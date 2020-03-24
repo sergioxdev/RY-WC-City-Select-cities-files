@@ -3,7 +3,7 @@
  * Republic of Turkey places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -1102,7 +1102,8 @@ return [
 		_x('Guerpinar Ilcesi', 'VA', 'ry-wc-city-select'),
 		_x('Ipekyolu', 'VA', 'ry-wc-city-select'),
 		_x('Merkez', 'VA', 'ry-wc-city-select'),
-		_x('Muradiye', 'VA', 'ry-wc-city-select'),
+		_x('Muradiye / Berkri', 'VA', 'ry-wc-city-select'),
+		_x('Muradiye Ilcesi', 'VA', 'ry-wc-city-select'),
 		_x('OEzalp Ilcesi', 'VA', 'ry-wc-city-select'),
 		_x('Saray Ilcesi', 'VA', 'ry-wc-city-select'),
 		_x('Tuspa', 'VA', 'ry-wc-city-select'),

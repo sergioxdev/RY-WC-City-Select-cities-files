@@ -3,7 +3,7 @@
  * Democratic People's Republic of Korea places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -32,19 +32,19 @@ return [
 	],
 	'HA' => [
 		_x('Chongjin-si', 'HA', 'ry-wc-city-select'),
-		_x('Hoeryong-si', 'HA', 'ry-wc-city-select'),
+		_x('Hoeryong', 'HA', 'ry-wc-city-select'),
 		_x('Hwadae-gun', 'HA', 'ry-wc-city-select'),
 		_x('Hwasong-gun', 'HA', 'ry-wc-city-select'),
 		_x('Kilchu-gun', 'HA', 'ry-wc-city-select'),
 		_x('Kimchaek-si', 'HA', 'ry-wc-city-select'),
+		_x('Kyonghung', 'HA', 'ry-wc-city-select'),
 		_x('Kyongsong-gun', 'HA', 'ry-wc-city-select'),
+		_x('Kyongwon', 'HA', 'ry-wc-city-select'),
 		_x('Musan-gun', 'HA', 'ry-wc-city-select'),
 		_x('Myongchon-gun', 'HA', 'ry-wc-city-select'),
 		_x('Onsong-gun', 'HA', 'ry-wc-city-select'),
 		_x('Orang-gun', 'HA', 'ry-wc-city-select'),
 		_x('Puryong-gun', 'HA', 'ry-wc-city-select'),
-		_x('Saebyol-gun', 'HA', 'ry-wc-city-select'),
-		_x('Undok-kun', 'HA', 'ry-wc-city-select'),
 		_x('Yonsa-gun', 'HA', 'ry-wc-city-select'),
 	],
 	'HA2' => [

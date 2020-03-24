@@ -3,37 +3,84 @@
  * Republic of France places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
 
 return [
 	'FR' => [
+	'AI' => [
+		_x('Arrondissement de Belley', 'AI', 'ry-wc-city-select'),
+		_x('Arrondissement de Bourg-en-Bresse', 'AI', 'ry-wc-city-select'),
+		_x('Arrondissement de Gex', 'AI', 'ry-wc-city-select'),
+		_x('Arrondissement de Nantua', 'AI', 'ry-wc-city-select'),
+	],
+	'AI2' => [
+		_x('Arrondissement de Chateau-Thierry', 'AI2', 'ry-wc-city-select'),
+		_x('Arrondissement de Laon', 'AI2', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Quentin', 'AI2', 'ry-wc-city-select'),
+		_x('Arrondissement de Soissons', 'AI2', 'ry-wc-city-select'),
+		_x('Arrondissement de Vervins', 'AI2', 'ry-wc-city-select'),
+	],
 	'AL' => [
-		_x('Arrondissement de Grasse', 'AL', 'ry-wc-city-select'),
-		_x('Arrondissement de Nice', 'AL', 'ry-wc-city-select'),
+		_x('Arrondissement de Montlucon', 'AL', 'ry-wc-city-select'),
+		_x('Arrondissement de Moulins', 'AL', 'ry-wc-city-select'),
+		_x('Arrondissement de Vichy', 'AL', 'ry-wc-city-select'),
 	],
 	'AL2' => [
-		_x('Arrondissement de Barcelonnette', 'AL2', 'ry-wc-city-select'),
-		_x('Arrondissement de Castellane', 'AL2', 'ry-wc-city-select'),
-		_x('Arrondissement de Digne', 'AL2', 'ry-wc-city-select'),
-		_x('Arrondissement de Forcalquier', 'AL2', 'ry-wc-city-select'),
+		_x('Arrondissement de Grasse', 'AL2', 'ry-wc-city-select'),
+		_x('Arrondissement de Nice', 'AL2', 'ry-wc-city-select'),
+	],
+	'AL3' => [
+		_x('Arrondissement de Barcelonnette', 'AL3', 'ry-wc-city-select'),
+		_x('Arrondissement de Castellane', 'AL3', 'ry-wc-city-select'),
+		_x('Arrondissement de Digne-les-Bains', 'AL3', 'ry-wc-city-select'),
+		_x('Arrondissement de Forcalquier', 'AL3', 'ry-wc-city-select'),
 	],
 	'AR' => [
-		_x('Arrondissement de Charleville-Mezieres', 'AR', 'ry-wc-city-select'),
-		_x('Arrondissement de Rethel', 'AR', 'ry-wc-city-select'),
-		_x('Arrondissement de Sedan', 'AR', 'ry-wc-city-select'),
-		_x('Arrondissement de Vouziers', 'AR', 'ry-wc-city-select'),
+		_x('Arrondissement de Largentiere', 'AR', 'ry-wc-city-select'),
+		_x('Arrondissement de Privas', 'AR', 'ry-wc-city-select'),
+		_x('Arrondissement de Tournon-sur-Rhone', 'AR', 'ry-wc-city-select'),
+	],
+	'AR2' => [
+		_x('Arrondissement de Charleville-Mezieres', 'AR2', 'ry-wc-city-select'),
+		_x('Arrondissement de Rethel', 'AR2', 'ry-wc-city-select'),
+		_x('Arrondissement de Sedan', 'AR2', 'ry-wc-city-select'),
+		_x('Arrondissement de Vouziers', 'AR2', 'ry-wc-city-select'),
+	],
+	'AR3' => [
+		_x('Arrondissement de Foix', 'AR3', 'ry-wc-city-select'),
+		_x('Arrondissement de Pamiers', 'AR3', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Girons', 'AR3', 'ry-wc-city-select'),
+	],
+	'AU' => [
+		_x('Arrondissement de Bar-sur-Aube', 'AU', 'ry-wc-city-select'),
+		_x('Arrondissement de Nogent-sur-Seine', 'AU', 'ry-wc-city-select'),
+		_x('Arrondissement de Troyes', 'AU', 'ry-wc-city-select'),
+	],
+	'AU2' => [
+		_x('Arrondissement de Carcassonne', 'AU2', 'ry-wc-city-select'),
+		_x('Arrondissement de Limoux', 'AU2', 'ry-wc-city-select'),
+		_x('Arrondissement de Narbonne', 'AU2', 'ry-wc-city-select'),
+	],
+	'AV' => [
+		_x('Arrondissement de Millau', 'AV', 'ry-wc-city-select'),
+		_x('Arrondissement de Rodez', 'AV', 'ry-wc-city-select'),
+		_x('Arrondissement de Villefranche-de-Rouerg', 'AV', 'ry-wc-city-select'),
 	],
 	'BA' => [
-		_x('Arrondissement de Haguenau', 'BA', 'ry-wc-city-select'),
+		_x('Arrondissement de Haguenau-Wissembourg', 'BA', 'ry-wc-city-select'),
 		_x('Arrondissement de Molsheim', 'BA', 'ry-wc-city-select'),
 		_x('Arrondissement de Saverne', 'BA', 'ry-wc-city-select'),
 		_x('Arrondissement de Selestat-Erstein', 'BA', 'ry-wc-city-select'),
-		_x('Arrondissement de Strasbourg-Campagne', 'BA', 'ry-wc-city-select'),
-		_x('Arrondissement de Strasbourg-Ville', 'BA', 'ry-wc-city-select'),
-		_x('Arrondissement de Wissembourg', 'BA', 'ry-wc-city-select'),
+		_x('Arrondissement de Strasbourg', 'BA', 'ry-wc-city-select'),
+	],
+	'BO' => [
+		_x('Arrondissement dAix-en-Provence', 'BO', 'ry-wc-city-select'),
+		_x('Arrondissement dArles', 'BO', 'ry-wc-city-select'),
+		_x('Arrondissement dIstres', 'BO', 'ry-wc-city-select'),
+		_x('Arrondissement de Marseille', 'BO', 'ry-wc-city-select'),
 	],
 	'CA' => [
 		_x('Arrondissement de Bayeux', 'CA', 'ry-wc-city-select'),
@@ -63,246 +110,30 @@ return [
 		_x('Arrondissement de Saint-Amand-Montrond', 'CH3', 'ry-wc-city-select'),
 		_x('Arrondissement de Vierzon', 'CH3', 'ry-wc-city-select'),
 	],
+	'CO' => [
+		_x('Arrondissement dUssel', 'CO', 'ry-wc-city-select'),
+		_x('Arrondissement de Brive-la-Gaillarde', 'CO', 'ry-wc-city-select'),
+		_x('Arrondissement de Tulle', 'CO', 'ry-wc-city-select'),
+	],
+	'CODO' => [
+		_x('Arrondissement de Beaune', 'CODO', 'ry-wc-city-select'),
+		_x('Arrondissement de Dijon', 'CODO', 'ry-wc-city-select'),
+		_x('Arrondissement de Montbard', 'CODO', 'ry-wc-city-select'),
+	],
+	'CO2' => [
+		_x('Arrondissement de Dinan', 'CO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Guingamp', 'CO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Lannion', 'CO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Brieuc', 'CO2', 'ry-wc-city-select'),
+	],
 	'CR' => [
 		_x('Arrondissement dAubusson', 'CR', 'ry-wc-city-select'),
 		_x('Arrondissement de Gueret', 'CR', 'ry-wc-city-select'),
 	],
-	'DEDE' => [
-		_x('Arrondissement de Chartres', 'DEDE', 'ry-wc-city-select'),
-		_x('Arrondissement de Chateaudun', 'DEDE', 'ry-wc-city-select'),
-		_x('Arrondissement de Dreux', 'DEDE', 'ry-wc-city-select'),
-		_x('Arrondissement de Nogent-le-Rotrou', 'DEDE', 'ry-wc-city-select'),
-	],
-	'DEDI' => [
-		_x('Arrondissement de Fougeres-Vitre', 'DEDI', 'ry-wc-city-select'),
-		_x('Arrondissement de Redon', 'DEDI', 'ry-wc-city-select'),
-		_x('Arrondissement de Rennes', 'DEDI', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Malo', 'DEDI', 'ry-wc-city-select'),
-	],
-	'DEDI2' => [
-		_x('Arrondissement de Chinon', 'DEDI2', 'ry-wc-city-select'),
-		_x('Arrondissement de Loches', 'DEDI2', 'ry-wc-city-select'),
-		_x('Arrondissement de Tours', 'DEDI2', 'ry-wc-city-select'),
-	],
-	'DEMA' => [
-		_x('Arrondissement dAngers', 'DEMA', 'ry-wc-city-select'),
-		_x('Arrondissement de Cholet', 'DEMA', 'ry-wc-city-select'),
-		_x('Arrondissement de Saumur', 'DEMA', 'ry-wc-city-select'),
-		_x('Arrondissement de Segre', 'DEMA', 'ry-wc-city-select'),
-	],
-	'DESA' => [
-		_x('Arrondissement dAutun', 'DESA', 'ry-wc-city-select'),
-		_x('Arrondissement de Chalon-sur-Saone', 'DESA', 'ry-wc-city-select'),
-		_x('Arrondissement de Charolles', 'DESA', 'ry-wc-city-select'),
-		_x('Arrondissement de Louhans', 'DESA', 'ry-wc-city-select'),
-		_x('Arrondissement de Macon', 'DESA', 'ry-wc-city-select'),
-	],
-	'DELA' => [
-		_x('Arrondissement de Belley', 'DELA', 'ry-wc-city-select'),
-		_x('Arrondissement de Bourg-en-Bresse', 'DELA', 'ry-wc-city-select'),
-		_x('Arrondissement de Gex', 'DELA', 'ry-wc-city-select'),
-		_x('Arrondissement de Nantua', 'DELA', 'ry-wc-city-select'),
-	],
-	'DELA2' => [
-		_x('Arrondissement de Chateau-Thierry', 'DELA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Laon', 'DELA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Quentin', 'DELA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Soissons', 'DELA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Vervins', 'DELA2', 'ry-wc-city-select'),
-	],
-	'DELA3' => [
-		_x('Arrondissement de Montlucon', 'DELA3', 'ry-wc-city-select'),
-		_x('Arrondissement de Moulins', 'DELA3', 'ry-wc-city-select'),
-		_x('Arrondissement de Vichy', 'DELA3', 'ry-wc-city-select'),
-	],
-	'DELA4' => [
-		_x('Arrondissement de Largentiere', 'DELA4', 'ry-wc-city-select'),
-		_x('Arrondissement de Privas', 'DELA4', 'ry-wc-city-select'),
-		_x('Arrondissement de Tournon', 'DELA4', 'ry-wc-city-select'),
-	],
-	'DELA5' => [
-		_x('Arrondissement de Foix', 'DELA5', 'ry-wc-city-select'),
-		_x('Arrondissement de Pamiers', 'DELA5', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Girons', 'DELA5', 'ry-wc-city-select'),
-	],
-	'DELA6' => [
-		_x('Arrondissement de Bar-sur-Aube', 'DELA6', 'ry-wc-city-select'),
-		_x('Arrondissement de Nogent-sur-Seine', 'DELA6', 'ry-wc-city-select'),
-		_x('Arrondissement de Troyes', 'DELA6', 'ry-wc-city-select'),
-	],
-	'DELA7' => [
-		_x('Arrondissement de Carcassonne', 'DELA7', 'ry-wc-city-select'),
-		_x('Arrondissement de Limoux', 'DELA7', 'ry-wc-city-select'),
-		_x('Arrondissement de Narbonne', 'DELA7', 'ry-wc-city-select'),
-	],
-	'DELA8' => [
-		_x('Arrondissement de Millau', 'DELA8', 'ry-wc-city-select'),
-		_x('Arrondissement de Rodez', 'DELA8', 'ry-wc-city-select'),
-		_x('Arrondissement de Villefranche-de-Rouerg', 'DELA8', 'ry-wc-city-select'),
-	],
-	'DELE' => [
-		_x('Arrondissement dEtampes', 'DELE', 'ry-wc-city-select'),
-		_x('Arrondissement dEvry', 'DELE', 'ry-wc-city-select'),
-		_x('Arrondissement de Palaiseau', 'DELE', 'ry-wc-city-select'),
-	],
-	'DELE2' => [
-		_x('Arrondissement dEvreux', 'DELE2', 'ry-wc-city-select'),
-		_x('Arrondissement de Bernay', 'DELE2', 'ry-wc-city-select'),
-		_x('Arrondissement des Andelys', 'DELE2', 'ry-wc-city-select'),
-	],
-	'DELH' => [
-		_x('Arrondissement de Beziers', 'DELH', 'ry-wc-city-select'),
-		_x('Arrondissement de Lodeve', 'DELH', 'ry-wc-city-select'),
-		_x('Arrondissement of Montpellier', 'DELH', 'ry-wc-city-select'),
-	],
-	'DELI' => [
-		_x('Arrondissement dIssoudun', 'DELI', 'ry-wc-city-select'),
-		_x('Arrondissement de Chateauroux', 'DELI', 'ry-wc-city-select'),
-		_x('Arrondissement de La Chatre', 'DELI', 'ry-wc-city-select'),
-		_x('Arrondissement du Blanc', 'DELI', 'ry-wc-city-select'),
-	],
-	'DELI2' => [
-		_x('Arrondissement de Grenoble', 'DELI2', 'ry-wc-city-select'),
-		_x('Arrondissement de La Tour-du-Pin', 'DELI2', 'ry-wc-city-select'),
-		_x('Arrondissement de Vienne', 'DELI2', 'ry-wc-city-select'),
-	],
-	'DELO' => [
-		_x('Arrondissement de Beauvais', 'DELO', 'ry-wc-city-select'),
-		_x('Arrondissement de Clermont', 'DELO', 'ry-wc-city-select'),
-		_x('Arrondissement de Compiegne', 'DELO', 'ry-wc-city-select'),
-		_x('Arrondissement de Senlis', 'DELO', 'ry-wc-city-select'),
-	],
-	'DELO2' => [
-		_x('Arrondissement dAlencon', 'DELO2', 'ry-wc-city-select'),
-		_x('Arrondissement dArgentan', 'DELO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Mortagne-au-Perche', 'DELO2', 'ry-wc-city-select'),
-	],
-	'DELY' => [
-		_x('Arrondissement dAuxerre', 'DELY', 'ry-wc-city-select'),
-		_x('Arrondissement dAvallon', 'DELY', 'ry-wc-city-select'),
-		_x('Arrondissement de Sens', 'DELY', 'ry-wc-city-select'),
-	],
-	'DECO' => [
-		_x('Arrondissement dUssel', 'DECO', 'ry-wc-city-select'),
-		_x('Arrondissement de Brive-la-Gaillarde', 'DECO', 'ry-wc-city-select'),
-		_x('Arrondissement de Tulle', 'DECO', 'ry-wc-city-select'),
-	],
-	'DECO2' => [
-		_x('Arrondissement dAjaccio', 'DECO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Sartene', 'DECO2', 'ry-wc-city-select'),
-	],
-	'DECO3' => [
-		_x('Arrondissement de Beaune', 'DECO3', 'ry-wc-city-select'),
-		_x('Arrondissement de Dijon', 'DECO3', 'ry-wc-city-select'),
-		_x('Arrondissement de Montbard', 'DECO3', 'ry-wc-city-select'),
-	],
-	'DEDR' => [
-		_x('Arrondissement de Die', 'DEDR', 'ry-wc-city-select'),
-		_x('Arrondissement de Nyons', 'DEDR', 'ry-wc-city-select'),
-		_x('Arrondissement de Valence', 'DEDR', 'ry-wc-city-select'),
-	],
-	'DEHA' => [
-		_x('Arrondissement de Bastia', 'DEHA', 'ry-wc-city-select'),
-		_x('Arrondissement de Calvi', 'DEHA', 'ry-wc-city-select'),
-		_x('Arrondissement de Corte', 'DEHA', 'ry-wc-city-select'),
-	],
-	'DEHA2' => [
-		_x('Arrondissement de Lure', 'DEHA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Vesoul', 'DEHA2', 'ry-wc-city-select'),
-	],
-	'DELO3' => [
-		_x('Arrondissement de Montbrison', 'DELO3', 'ry-wc-city-select'),
-		_x('Arrondissement de Roanne', 'DELO3', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Etienne', 'DELO3', 'ry-wc-city-select'),
-	],
-	'DELO4' => [
-		_x('Arrondissement de Florac', 'DELO4', 'ry-wc-city-select'),
-		_x('Arrondissement de Mende', 'DELO4', 'ry-wc-city-select'),
-	],
-	'DENI' => [
-		_x('Arrondissement de Chateau-Chinon', 'DENI', 'ry-wc-city-select'),
-		_x('Arrondissement de Clamecy', 'DENI', 'ry-wc-city-select'),
-		_x('Arrondissement de Cosne-Cours-sur-Loire', 'DENI', 'ry-wc-city-select'),
-		_x('Arrondissement de Nevers', 'DENI', 'ry-wc-city-select'),
-	],
-	'DEVE' => [
-		_x('Arrondissement de Fontenay-le-Comte', 'DEVE', 'ry-wc-city-select'),
-		_x('Arrondissement de La Roche-sur-Yon', 'DEVE', 'ry-wc-city-select'),
-		_x('Arrondissement des Sables-dOlonne', 'DEVE', 'ry-wc-city-select'),
-	],
-	'DEDEBO' => [
-		_x('Arrondissement dAix-en-Provence', 'DEDEBO', 'ry-wc-city-select'),
-		_x('Arrondissement dArles', 'DEDEBO', 'ry-wc-city-select'),
-		_x('Arrondissement dIstres', 'DEDEBO', 'ry-wc-city-select'),
-		_x('Arrondissement de Marseille', 'DEDEBO', 'ry-wc-city-select'),
-	],
-	'DEDECO' => [
-		_x('Arrondissement de Dinan', 'DEDECO', 'ry-wc-city-select'),
-		_x('Arrondissement de Guingamp', 'DEDECO', 'ry-wc-city-select'),
-		_x('Arrondissement de Lannion', 'DEDECO', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Brieuc', 'DEDECO', 'ry-wc-city-select'),
-	],
-	'DEDEDE' => [
-		_x('Arrondissement de Bressuire', 'DEDEDE', 'ry-wc-city-select'),
-		_x('Arrondissement de Niort', 'DEDEDE', 'ry-wc-city-select'),
-		_x('Arrondissement de Parthenay', 'DEDEDE', 'ry-wc-city-select'),
-	],
-	'DEDEHA' => [
-		_x('Arrondissement dArgeles-Gazost', 'DEDEHA', 'ry-wc-city-select'),
-		_x('Arrondissement de Bagneres-de-Bigorre', 'DEDEHA', 'ry-wc-city-select'),
-		_x('Arrondissement de Tarbes', 'DEDEHA', 'ry-wc-city-select'),
-	],
-	'DEDEPY' => [
-		_x('Arrondissement dOloron-Sainte-Marie', 'DEDEPY', 'ry-wc-city-select'),
-		_x('Arrondissement de Bayonne', 'DEDEPY', 'ry-wc-city-select'),
-		_x('Arrondissement de Pau', 'DEDEPY', 'ry-wc-city-select'),
-	],
-	'DEDEPY2' => [
-		_x('Arrondissement de Ceret', 'DEDEPY2', 'ry-wc-city-select'),
-		_x('Arrondissement de Perpignan', 'DEDEPY2', 'ry-wc-city-select'),
-		_x('Arrondissement de Prades', 'DEDEPY2', 'ry-wc-city-select'),
-	],
-	'DEFI' => [
-		_x('Arrondissement de Brest', 'DEFI', 'ry-wc-city-select'),
-		_x('Arrondissement de Chateaulin', 'DEFI', 'ry-wc-city-select'),
-		_x('Arrondissement de Morlaix', 'DEFI', 'ry-wc-city-select'),
-		_x('Arrondissement de Quimper', 'DEFI', 'ry-wc-city-select'),
-	],
-	'DELO5' => [
-		_x('Arrondissement de Blois', 'DELO5', 'ry-wc-city-select'),
-		_x('Arrondissement de Romorantin-Lanthenay', 'DELO5', 'ry-wc-city-select'),
-		_x('Arrondissement de Vendome', 'DELO5', 'ry-wc-city-select'),
-	],
-	'DELO6' => [
-		_x('Arrondissement dAgen', 'DELO6', 'ry-wc-city-select'),
-		_x('Arrondissement de Marmande', 'DELO6', 'ry-wc-city-select'),
-		_x('Arrondissement de Nerac', 'DELO6', 'ry-wc-city-select'),
-		_x('Arrondissement de Villeneuve-sur-Lot', 'DELO6', 'ry-wc-city-select'),
-	],
-	'DEPU' => [
-		_x('Arrondissement dAmbert', 'DEPU', 'ry-wc-city-select'),
-		_x('Arrondissement dIssoire', 'DEPU', 'ry-wc-city-select'),
-		_x('Arrondissement de Clermont-Ferrand', 'DEPU', 'ry-wc-city-select'),
-		_x('Arrondissement de Riom', 'DEPU', 'ry-wc-city-select'),
-		_x('Arrondissement de Thiers', 'DEPU', 'ry-wc-city-select'),
-	],
-	'DERH' => [
-		_x('Arrondissement de Lyon', 'DERH', 'ry-wc-city-select'),
-		_x('Arrondissement de Villefranche-sur-Saone', 'DERH', 'ry-wc-city-select'),
-	],
-	'DETA' => [
-		_x('Arrondissement de Castelsarrasin', 'DETA', 'ry-wc-city-select'),
-		_x('Arrondissement de Montauban', 'DETA', 'ry-wc-city-select'),
-	],
-	'DEVA' => [
-		_x('Arrondissement dArgenteuil', 'DEVA', 'ry-wc-city-select'),
-		_x('Arrondissement de Pontoise', 'DEVA', 'ry-wc-city-select'),
-		_x('Arrondissement de Sarcelles', 'DEVA', 'ry-wc-city-select'),
-	],
-	'DEVA2' => [
-		_x('Arrondissement dApt', 'DEVA2', 'ry-wc-city-select'),
-		_x('Arrondissement dAvignon', 'DEVA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Carpentras', 'DEVA2', 'ry-wc-city-select'),
+	'DE' => [
+		_x('Arrondissement de Bressuire', 'DE', 'ry-wc-city-select'),
+		_x('Arrondissement de Niort', 'DE', 'ry-wc-city-select'),
+		_x('Arrondissement de Parthenay', 'DE', 'ry-wc-city-select'),
 	],
 	'DO' => [
 		_x('Arrondissement de Bergerac', 'DO', 'ry-wc-city-select'),
@@ -314,6 +145,33 @@ return [
 		_x('Arrondissement de Besancon', 'DO2', 'ry-wc-city-select'),
 		_x('Arrondissement de Montbeliard', 'DO2', 'ry-wc-city-select'),
 		_x('Arrondissement de Pontarlier', 'DO2', 'ry-wc-city-select'),
+	],
+	'DR' => [
+		_x('Arrondissement de Die', 'DR', 'ry-wc-city-select'),
+		_x('Arrondissement de Nyons', 'DR', 'ry-wc-city-select'),
+		_x('Arrondissement de Valence', 'DR', 'ry-wc-city-select'),
+	],
+	'ES' => [
+		_x('Arrondissement dEtampes', 'ES', 'ry-wc-city-select'),
+		_x('Arrondissement dEvry', 'ES', 'ry-wc-city-select'),
+		_x('Arrondissement de Palaiseau', 'ES', 'ry-wc-city-select'),
+	],
+	'EU' => [
+		_x('Arrondissement dEvreux', 'EU', 'ry-wc-city-select'),
+		_x('Arrondissement de Bernay', 'EU', 'ry-wc-city-select'),
+		_x('Les Andelys', 'EU', 'ry-wc-city-select'),
+	],
+	'EU2' => [
+		_x('Arrondissement de Chartres', 'EU2', 'ry-wc-city-select'),
+		_x('Arrondissement de Chateaudun', 'EU2', 'ry-wc-city-select'),
+		_x('Arrondissement de Dreux', 'EU2', 'ry-wc-city-select'),
+		_x('Arrondissement de Nogent-le-Rotrou', 'EU2', 'ry-wc-city-select'),
+	],
+	'FI' => [
+		_x('Arrondissement de Brest', 'FI', 'ry-wc-city-select'),
+		_x('Arrondissement de Chateaulin', 'FI', 'ry-wc-city-select'),
+		_x('Arrondissement de Morlaix', 'FI', 'ry-wc-city-select'),
+		_x('Arrondissement de Quimper', 'FI', 'ry-wc-city-select'),
 	],
 	'GA' => [
 		_x('Arrondissement dAles', 'GA', 'ry-wc-city-select'),
@@ -335,26 +193,23 @@ return [
 	],
 	'HA' => [
 		_x('Arrondissement dAltkirch', 'HA', 'ry-wc-city-select'),
-		_x('Arrondissement de Colmar', 'HA', 'ry-wc-city-select'),
-		_x('Arrondissement de Guebwiller', 'HA', 'ry-wc-city-select'),
+		_x('Arrondissement de Colmar-Ribeauville', 'HA', 'ry-wc-city-select'),
 		_x('Arrondissement de Mulhouse', 'HA', 'ry-wc-city-select'),
-		_x('Arrondissement de Ribeauville', 'HA', 'ry-wc-city-select'),
-		_x('Arrondissement de Thann', 'HA', 'ry-wc-city-select'),
+		_x('Arrondissement de Thann-Guebwiller', 'HA', 'ry-wc-city-select'),
 	],
 	'HA2' => [
-		_x('Arrondissement de Muret', 'HA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Gaudens', 'HA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Toulouse', 'HA2', 'ry-wc-city-select'),
+		_x('Arrondissement dYssingeaux', 'HA2', 'ry-wc-city-select'),
+		_x('Arrondissement de Brioude', 'HA2', 'ry-wc-city-select'),
+		_x('Arrondissement du Puy-en-Velay', 'HA2', 'ry-wc-city-select'),
 	],
 	'HA3' => [
-		_x('Arrondissement dYssingeaux', 'HA3', 'ry-wc-city-select'),
-		_x('Arrondissement de Brioude', 'HA3', 'ry-wc-city-select'),
-		_x('Arrondissement du Puy', 'HA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Chaumont', 'HA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Langres', 'HA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Dizier', 'HA3', 'ry-wc-city-select'),
 	],
 	'HA4' => [
-		_x('Arrondissement de Chaumont', 'HA4', 'ry-wc-city-select'),
-		_x('Arrondissement de Langres', 'HA4', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Dizier', 'HA4', 'ry-wc-city-select'),
+		_x('Arrondissement de Lure', 'HA4', 'ry-wc-city-select'),
+		_x('Arrondissement de Vesoul', 'HA4', 'ry-wc-city-select'),
 	],
 	'HA5' => [
 		_x('Arrondissement dAnnecy', 'HA5', 'ry-wc-city-select'),
@@ -372,9 +227,41 @@ return [
 		_x('Arrondissement de Gap', 'HA7', 'ry-wc-city-select'),
 	],
 	'HA8' => [
-		_x('Arrondissement dAntony', 'HA8', 'ry-wc-city-select'),
-		_x('Arrondissement de Boulogne-Billancourt', 'HA8', 'ry-wc-city-select'),
-		_x('Arrondissement de Nanterre', 'HA8', 'ry-wc-city-select'),
+		_x('Arrondissement dArgeles-Gazost', 'HA8', 'ry-wc-city-select'),
+		_x('Arrondissement de Bagneres-de-Bigorre', 'HA8', 'ry-wc-city-select'),
+		_x('Arrondissement de Tarbes', 'HA8', 'ry-wc-city-select'),
+	],
+	'HA9' => [
+		_x('Arrondissement dAntony', 'HA9', 'ry-wc-city-select'),
+		_x('Arrondissement de Boulogne-Billancourt', 'HA9', 'ry-wc-city-select'),
+		_x('Arrondissement de Nanterre', 'HA9', 'ry-wc-city-select'),
+	],
+	'HE' => [
+		_x('Arrondissement de Beziers', 'HE', 'ry-wc-city-select'),
+		_x('Arrondissement de Lodeve', 'HE', 'ry-wc-city-select'),
+		_x('Arrondissement of Montpellier', 'HE', 'ry-wc-city-select'),
+	],
+	'IL' => [
+		_x('Arrondissement de Fougeres-Vitre', 'IL', 'ry-wc-city-select'),
+		_x('Arrondissement de Redon', 'IL', 'ry-wc-city-select'),
+		_x('Arrondissement de Rennes', 'IL', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Malo', 'IL', 'ry-wc-city-select'),
+	],
+	'IN' => [
+		_x('Arrondissement dIssoudun', 'IN', 'ry-wc-city-select'),
+		_x('Arrondissement de Chateauroux', 'IN', 'ry-wc-city-select'),
+		_x('Arrondissement de La Chatre', 'IN', 'ry-wc-city-select'),
+		_x('Le Blanc', 'IN', 'ry-wc-city-select'),
+	],
+	'IN2' => [
+		_x('Arrondissement de Chinon', 'IN2', 'ry-wc-city-select'),
+		_x('Arrondissement de Loches', 'IN2', 'ry-wc-city-select'),
+		_x('Arrondissement de Tours', 'IN2', 'ry-wc-city-select'),
+	],
+	'IS' => [
+		_x('Arrondissement de Grenoble', 'IS', 'ry-wc-city-select'),
+		_x('Arrondissement de La Tour-du-Pin', 'IS', 'ry-wc-city-select'),
+		_x('Arrondissement de Vienne', 'IS', 'ry-wc-city-select'),
 	],
 	'JU' => [
 		_x('Arrondissement de Dole', 'JU', 'ry-wc-city-select'),
@@ -386,49 +273,73 @@ return [
 		_x('Arrondissement de Mont-de-Marsan', 'LA', 'ry-wc-city-select'),
 	],
 	'LO' => [
-		_x('Arrondissement dAncenis', 'LO', 'ry-wc-city-select'),
-		_x('Arrondissement de Chateaubriant', 'LO', 'ry-wc-city-select'),
-		_x('Arrondissement de Nantes', 'LO', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Nazaire', 'LO', 'ry-wc-city-select'),
+		_x('Arrondissement de Blois', 'LO', 'ry-wc-city-select'),
+		_x('Arrondissement de Romorantin-Lanthenay', 'LO', 'ry-wc-city-select'),
+		_x('Arrondissement de Vendome', 'LO', 'ry-wc-city-select'),
 	],
 	'LO2' => [
-		_x('Arrondissement dOrleans', 'LO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Montargis', 'LO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Pithiviers', 'LO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Montbrison', 'LO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Roanne', 'LO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Etienne', 'LO2', 'ry-wc-city-select'),
 	],
 	'LO3' => [
-		_x('Arrondissement de Cahors', 'LO3', 'ry-wc-city-select'),
-		_x('Arrondissement de Figeac', 'LO3', 'ry-wc-city-select'),
-		_x('Arrondissement de Gourdon', 'LO3', 'ry-wc-city-select'),
+		_x('Arrondissement de Nantes', 'LO3', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Nazaire', 'LO3', 'ry-wc-city-select'),
+		_x('Arrondissement of Chateaubriant-Ancenis', 'LO3', 'ry-wc-city-select'),
+	],
+	'LO4' => [
+		_x('Arrondissement dOrleans', 'LO4', 'ry-wc-city-select'),
+		_x('Arrondissement de Montargis', 'LO4', 'ry-wc-city-select'),
+		_x('Arrondissement de Pithiviers', 'LO4', 'ry-wc-city-select'),
+	],
+	'LO5' => [
+		_x('Arrondissement de Cahors', 'LO5', 'ry-wc-city-select'),
+		_x('Arrondissement de Figeac', 'LO5', 'ry-wc-city-select'),
+		_x('Arrondissement de Gourdon', 'LO5', 'ry-wc-city-select'),
+	],
+	'LO6' => [
+		_x('Arrondissement dAgen', 'LO6', 'ry-wc-city-select'),
+		_x('Arrondissement de Marmande', 'LO6', 'ry-wc-city-select'),
+		_x('Arrondissement de Nerac', 'LO6', 'ry-wc-city-select'),
+		_x('Arrondissement de Villeneuve-sur-Lot', 'LO6', 'ry-wc-city-select'),
+	],
+	'LO7' => [
+		_x('Arrondissement de Florac', 'LO7', 'ry-wc-city-select'),
+		_x('Arrondissement de Mende', 'LO7', 'ry-wc-city-select'),
 	],
 	'MA' => [
-		_x('Arrondissement dAvranches', 'MA', 'ry-wc-city-select'),
-		_x('Arrondissement de Cherbourg', 'MA', 'ry-wc-city-select'),
-		_x('Arrondissement de Coutances', 'MA', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Lo', 'MA', 'ry-wc-city-select'),
+		_x('Arrondissement dAngers', 'MA', 'ry-wc-city-select'),
+		_x('Arrondissement de Cholet', 'MA', 'ry-wc-city-select'),
+		_x('Arrondissement de Saumur', 'MA', 'ry-wc-city-select'),
+		_x('Arrondissement de Segre', 'MA', 'ry-wc-city-select'),
 	],
 	'MA2' => [
-		_x('Arrondissement dEpernay', 'MA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Chalons-en-Champagne', 'MA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Reims', 'MA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Sainte-Menehould', 'MA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Vitry-le-Francois', 'MA2', 'ry-wc-city-select'),
+		_x('Arrondissement dAvranches', 'MA2', 'ry-wc-city-select'),
+		_x('Arrondissement de Cherbourg', 'MA2', 'ry-wc-city-select'),
+		_x('Arrondissement de Coutances', 'MA2', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Lo', 'MA2', 'ry-wc-city-select'),
 	],
 	'MA3' => [
-		_x('Arrondissement de Chateau-Gontier', 'MA3', 'ry-wc-city-select'),
-		_x('Arrondissement de Laval', 'MA3', 'ry-wc-city-select'),
-		_x('Arrondissement de Mayenne', 'MA3', 'ry-wc-city-select'),
+		_x('Arrondissement dEpernay', 'MA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Chalons-en-Champagne', 'MA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Reims', 'MA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Vitry-le-Francois', 'MA3', 'ry-wc-city-select'),
+	],
+	'MA4' => [
+		_x('Arrondissement de Chateau-Gontier', 'MA4', 'ry-wc-city-select'),
+		_x('Arrondissement de Laval', 'MA4', 'ry-wc-city-select'),
+		_x('Arrondissement de Mayenne', 'MA4', 'ry-wc-city-select'),
+	],
+	'MEMO' => [
+		_x('Arrondissement de Briey', 'MEMO', 'ry-wc-city-select'),
+		_x('Arrondissement de Luneville', 'MEMO', 'ry-wc-city-select'),
+		_x('Arrondissement de Nancy', 'MEMO', 'ry-wc-city-select'),
+		_x('Arrondissement de Toul', 'MEMO', 'ry-wc-city-select'),
 	],
 	'ME' => [
-		_x('Arrondissement de Briey', 'ME', 'ry-wc-city-select'),
-		_x('Arrondissement de Luneville', 'ME', 'ry-wc-city-select'),
-		_x('Arrondissement de Nancy', 'ME', 'ry-wc-city-select'),
-		_x('Arrondissement de Toul', 'ME', 'ry-wc-city-select'),
-	],
-	'ME2' => [
-		_x('Arrondissement de Bar-le-Duc', 'ME2', 'ry-wc-city-select'),
-		_x('Arrondissement de Commercy', 'ME2', 'ry-wc-city-select'),
-		_x('Arrondissement de Verdun', 'ME2', 'ry-wc-city-select'),
+		_x('Arrondissement de Bar-le-Duc', 'ME', 'ry-wc-city-select'),
+		_x('Arrondissement de Commercy', 'ME', 'ry-wc-city-select'),
+		_x('Arrondissement de Verdun', 'ME', 'ry-wc-city-select'),
 	],
 	'MO' => [
 		_x('Arrondissement de Lorient', 'MO', 'ry-wc-city-select'),
@@ -436,15 +347,17 @@ return [
 		_x('Arrondissement de Vannes', 'MO', 'ry-wc-city-select'),
 	],
 	'MO2' => [
-		_x('Arrondissement de Boulay-Moselle', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Chateau-Salins', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Forbach', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Metz-Campagne', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Metz-Ville', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Sarrebourg', 'MO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Forbach-Boulay-Moselle', 'MO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Metz', 'MO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Sarrebourg-Chateau-Sal', 'MO2', 'ry-wc-city-select'),
 		_x('Arrondissement de Sarreguemines', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Thionville-Est', 'MO2', 'ry-wc-city-select'),
-		_x('Arrondissement de Thionville-Ouest', 'MO2', 'ry-wc-city-select'),
+		_x('Arrondissement de Thionville', 'MO2', 'ry-wc-city-select'),
+	],
+	'NI' => [
+		_x('Arrondissement de Chateau-Chinon (Ville)', 'NI', 'ry-wc-city-select'),
+		_x('Arrondissement de Clamecy', 'NI', 'ry-wc-city-select'),
+		_x('Arrondissement de Cosne-Cours-sur-Loire', 'NI', 'ry-wc-city-select'),
+		_x('Arrondissement de Nevers', 'NI', 'ry-wc-city-select'),
 	],
 	'NO' => [
 		_x('Arrondissement dAvesnes-sur-Helpe', 'NO', 'ry-wc-city-select'),
@@ -453,6 +366,17 @@ return [
 		_x('Arrondissement de Dunkerque', 'NO', 'ry-wc-city-select'),
 		_x('Arrondissement de Lille', 'NO', 'ry-wc-city-select'),
 		_x('Arrondissement de Valenciennes', 'NO', 'ry-wc-city-select'),
+	],
+	'OI' => [
+		_x('Arrondissement de Beauvais', 'OI', 'ry-wc-city-select'),
+		_x('Arrondissement de Clermont', 'OI', 'ry-wc-city-select'),
+		_x('Arrondissement de Compiegne', 'OI', 'ry-wc-city-select'),
+		_x('Arrondissement de Senlis', 'OI', 'ry-wc-city-select'),
+	],
+	'OR' => [
+		_x('Arrondissement dAlencon', 'OR', 'ry-wc-city-select'),
+		_x('Arrondissement dArgentan', 'OR', 'ry-wc-city-select'),
+		_x('Arrondissement de Mortagne-au-Perche', 'OR', 'ry-wc-city-select'),
 	],
 	'PA' => [
 		_x('Paris', 'PA', 'ry-wc-city-select'),
@@ -466,15 +390,43 @@ return [
 		_x('Arrondissement de Montreuil', 'PA2', 'ry-wc-city-select'),
 		_x('Arrondissement de Saint-Omer', 'PA2', 'ry-wc-city-select'),
 	],
+	'PU' => [
+		_x('Arrondissement dAmbert', 'PU', 'ry-wc-city-select'),
+		_x('Arrondissement dIssoire', 'PU', 'ry-wc-city-select'),
+		_x('Arrondissement de Clermont-Ferrand', 'PU', 'ry-wc-city-select'),
+		_x('Arrondissement de Riom', 'PU', 'ry-wc-city-select'),
+		_x('Arrondissement de Thiers', 'PU', 'ry-wc-city-select'),
+	],
+	'PY' => [
+		_x('Arrondissement dOloron-Sainte-Marie', 'PY', 'ry-wc-city-select'),
+		_x('Arrondissement de Bayonne', 'PY', 'ry-wc-city-select'),
+		_x('Arrondissement de Pau', 'PY', 'ry-wc-city-select'),
+	],
+	'PY2' => [
+		_x('Arrondissement de Ceret', 'PY2', 'ry-wc-city-select'),
+		_x('Arrondissement de Perpignan', 'PY2', 'ry-wc-city-select'),
+		_x('Arrondissement de Prades', 'PY2', 'ry-wc-city-select'),
+	],
+	'RH' => [
+		_x('Arrondissement de Lyon', 'RH', 'ry-wc-city-select'),
+		_x('Arrondissement de Villefranche-sur-Saone', 'RH', 'ry-wc-city-select'),
+	],
 	'SA' => [
-		_x('Arrondissement de La Fleche', 'SA', 'ry-wc-city-select'),
-		_x('Arrondissement de Mamers', 'SA', 'ry-wc-city-select'),
-		_x('Arrondissement du Mans', 'SA', 'ry-wc-city-select'),
+		_x('Arrondissement dAutun', 'SA', 'ry-wc-city-select'),
+		_x('Arrondissement de Chalon-sur-Saone', 'SA', 'ry-wc-city-select'),
+		_x('Arrondissement de Charolles', 'SA', 'ry-wc-city-select'),
+		_x('Arrondissement de Louhans', 'SA', 'ry-wc-city-select'),
+		_x('Arrondissement de Macon', 'SA', 'ry-wc-city-select'),
 	],
 	'SA2' => [
-		_x('Arrondissement dAlbertville', 'SA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Chambery', 'SA2', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Jean-de-Maurienn', 'SA2', 'ry-wc-city-select'),
+		_x('Arrondissement de La Fleche', 'SA2', 'ry-wc-city-select'),
+		_x('Arrondissement de Mamers', 'SA2', 'ry-wc-city-select'),
+		_x('Arrondissement du Mans', 'SA2', 'ry-wc-city-select'),
+	],
+	'SA3' => [
+		_x('Arrondissement dAlbertville', 'SA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Chambery', 'SA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Jean-de-Maurienn', 'SA3', 'ry-wc-city-select'),
 	],
 	'SE' => [
 		_x('Arrondissement de Dieppe', 'SE', 'ry-wc-city-select'),
@@ -499,12 +451,35 @@ return [
 		_x('Arrondissement de Montdidier', 'SO', 'ry-wc-city-select'),
 		_x('Arrondissement de Peronne', 'SO', 'ry-wc-city-select'),
 	],
+	'SOCO' => [
+		_x('Arrondissement dAjaccio', 'SOCO', 'ry-wc-city-select'),
+		_x('Arrondissement de Sartene', 'SOCO', 'ry-wc-city-select'),
+	],
 	'TA' => [
 		_x('Arrondissement dAlbi', 'TA', 'ry-wc-city-select'),
 		_x('Arrondissement de Castres', 'TA', 'ry-wc-city-select'),
 	],
+	'TA2' => [
+		_x('Arrondissement de Castelsarrasin', 'TA2', 'ry-wc-city-select'),
+		_x('Arrondissement de Montauban', 'TA2', 'ry-wc-city-select'),
+	],
 	'TEBE' => [
 		_x('Arrondissement de Belfort', 'TEBE', 'ry-wc-city-select'),
+	],
+	'UPCO' => [
+		_x('Arrondissement de Bastia', 'UPCO', 'ry-wc-city-select'),
+		_x('Arrondissement de Calvi', 'UPCO', 'ry-wc-city-select'),
+		_x('Arrondissement de Corte', 'UPCO', 'ry-wc-city-select'),
+	],
+	'UPGA' => [
+		_x('Arrondissement de Muret', 'UPGA', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Gaudens', 'UPGA', 'ry-wc-city-select'),
+		_x('Arrondissement de Toulouse', 'UPGA', 'ry-wc-city-select'),
+	],
+	'VADO' => [
+		_x('Arrondissement dArgenteuil', 'VADO', 'ry-wc-city-select'),
+		_x('Arrondissement de Pontoise', 'VADO', 'ry-wc-city-select'),
+		_x('Arrondissement de Sarcelles', 'VADO', 'ry-wc-city-select'),
 	],
 	'VA' => [
 		_x('Arrondissement de Creteil', 'VA', 'ry-wc-city-select'),
@@ -516,6 +491,16 @@ return [
 		_x('Arrondissement de Draguignan', 'VA2', 'ry-wc-city-select'),
 		_x('Arrondissement de Toulon', 'VA2', 'ry-wc-city-select'),
 	],
+	'VA3' => [
+		_x('Arrondissement dApt', 'VA3', 'ry-wc-city-select'),
+		_x('Arrondissement dAvignon', 'VA3', 'ry-wc-city-select'),
+		_x('Arrondissement de Carpentras', 'VA3', 'ry-wc-city-select'),
+	],
+	'VE' => [
+		_x('Arrondissement de Fontenay-le-Comte', 'VE', 'ry-wc-city-select'),
+		_x('Arrondissement de La Roche-sur-Yon', 'VE', 'ry-wc-city-select'),
+		_x('Arrondissement des Sables-dOlonne', 'VE', 'ry-wc-city-select'),
+	],
 	'VI' => [
 		_x('Arrondissement de Chatellerault', 'VI', 'ry-wc-city-select'),
 		_x('Arrondissement de Montmorillon', 'VI', 'ry-wc-city-select'),
@@ -524,7 +509,12 @@ return [
 	'VO' => [
 		_x('Arrondissement dEpinal', 'VO', 'ry-wc-city-select'),
 		_x('Arrondissement de Neufchateau', 'VO', 'ry-wc-city-select'),
-		_x('Arrondissement de Saint-Die', 'VO', 'ry-wc-city-select'),
+		_x('Arrondissement de Saint-Die-des-Vosges', 'VO', 'ry-wc-city-select'),
+	],
+	'YO' => [
+		_x('Arrondissement dAuxerre', 'YO', 'ry-wc-city-select'),
+		_x('Arrondissement dAvallon', 'YO', 'ry-wc-city-select'),
+		_x('Arrondissement de Sens', 'YO', 'ry-wc-city-select'),
 	],
 	'YV' => [
 		_x('Arrondissement de Mantes-la-Jolie', 'YV', 'ry-wc-city-select'),

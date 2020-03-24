@@ -3,7 +3,7 @@
  * Hungary states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -14,6 +14,7 @@ return [
 		'BACO2' => __( 'Baranya county', 'ry-wc-city-select' ),
 		'BECO' => __( 'Bekes County', 'ry-wc-city-select' ),
 		'BOZECO' => __( 'Borsod-Abauj Zemplen county', 'ry-wc-city-select' ),
+		'BU' => __( 'Budapest', 'ry-wc-city-select' ),
 		'CSME' => __( 'Csongrad megye', 'ry-wc-city-select' ),
 		'FEME' => __( 'Fejer megye', 'ry-wc-city-select' ),
 		'GYME' => __( 'Gyor-Moson-Sopron megye', 'ry-wc-city-select' ),
@@ -29,6 +30,5 @@ return [
 		'VAME' => __( 'Vas megye', 'ry-wc-city-select' ),
 		'VEME' => __( 'Veszprem megye', 'ry-wc-city-select' ),
 		'ZAME' => __( 'Zala megye', 'ry-wc-city-select' ),
-		'BU' => __( 'Budapest', 'ry-wc-city-select' ),
 	]
 ];

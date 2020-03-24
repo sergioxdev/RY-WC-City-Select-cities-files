@@ -3,7 +3,7 @@
  * People's Republic of China states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -206,7 +206,7 @@ return [
 		'QASH' => __( 'Qamdo Shi', 'ry-wc-city-select' ),
 		'QIMIANDOAUPR' => __( 'Qiandongnan Miao and Dong Autonomous Pre', 'ry-wc-city-select' ),
 		'QIBOMIZI' => __( 'Qiannan Bouyeizu Miaozu Zizhizhou', 'ry-wc-city-select' ),
-		'QIBOMIZI2' => __( 'Qianxinan Bouyeizu Miaozu Zizhizhou', 'ry-wc-city-select' ),
+		'QIBUANMIAUPR' => __( 'Qianxinan Buyei and Miao Autonomous Pref', 'ry-wc-city-select' ),
 		'QISH' => __( 'Qingdao Shi', 'ry-wc-city-select' ),
 		'QISH2' => __( 'Qingyang Shi', 'ry-wc-city-select' ),
 		'QISH3' => __( 'Qingyuan Shi', 'ry-wc-city-select' ),
@@ -268,6 +268,7 @@ return [
 		'WUSH2' => __( 'Wuhan Shi', 'ry-wc-city-select' ),
 		'WUSH3' => __( 'Wuhu Shi', 'ry-wc-city-select' ),
 		'WUSH4' => __( 'Wulanchabu Shi', 'ry-wc-city-select' ),
+		'WUDI' => __( 'Wulong District', 'ry-wc-city-select' ),
 		'WUSH5' => __( 'Wuwei Shi', 'ry-wc-city-select' ),
 		'WUSH6' => __( 'Wuxi Shi', 'ry-wc-city-select' ),
 		'WUSH7' => __( 'Wuzhong Shi', 'ry-wc-city-select' ),

@@ -3,7 +3,7 @@
  * Republic of Nicaragua places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -15,6 +15,16 @@ return [
 		_x('Distrito III', 'MUMA', 'ry-wc-city-select'),
 		_x('Distrito V', 'MUMA', 'ry-wc-city-select'),
 		_x('Distrito VI', 'MUMA', 'ry-wc-city-select'),
+	],
+	'COCANO' => [
+		_x('Mulukuku', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Bonanza', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Prinzapolka', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Puerto Cabezas', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Rosita', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Siuna', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Waslala', 'COCANO', 'ry-wc-city-select'),
+		_x('Municipio de Waspan', 'COCANO', 'ry-wc-city-select'),
 	],
 	'COCASU' => [
 		_x('Desembocadura de la Cruz de Rio Grande', 'COCASU', 'ry-wc-city-select'),
@@ -191,16 +201,6 @@ return [
 		_x('Municipio de San Jorge', 'DERI', 'ry-wc-city-select'),
 		_x('Municipio de San Juan del Sur', 'DERI', 'ry-wc-city-select'),
 		_x('Municipio de Tola', 'DERI', 'ry-wc-city-select'),
-	],
-	'NOATAURE(R' => [
-		_x('Mulukuku', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Bonanza', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Prinzapolka', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Puerto Cabezas', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Rosita', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Siuna', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Waslala', 'NOATAURE(R', 'ry-wc-city-select'),
-		_x('Municipio de Waspan', 'NOATAURE(R', 'ry-wc-city-select'),
 	],
 	]
 ];

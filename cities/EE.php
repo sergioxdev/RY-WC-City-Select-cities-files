@@ -3,7 +3,7 @@
  * Republic of Estonia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -1142,9 +1142,6 @@ return [
 		_x('Valtu-Nurme kuela', 'KEVA', 'ry-wc-city-select'),
 		_x('Vastja kuela', 'KEVA', 'ry-wc-city-select'),
 	],
-	'KELI' => [
-		_x('Keila linn', 'KELI', 'ry-wc-city-select'),
-	],
 	'KIVA' => [
 		_x('Lemsi kuela', 'KIVA', 'ry-wc-city-select'),
 		_x('Linakuela', 'KIVA', 'ry-wc-city-select'),
@@ -1371,6 +1368,7 @@ return [
 		_x('Maeaera kuela', 'LAVA', 'ry-wc-city-select'),
 		_x('Maeru kuela', 'LAVA', 'ry-wc-city-select'),
 		_x('Meremoisa kuela', 'LAVA', 'ry-wc-city-select'),
+		_x('Merenuka kuela', 'LAVA', 'ry-wc-city-select'),
 		_x('Metslougu kuela', 'LAVA', 'ry-wc-city-select'),
 		_x('Nahkjala kuela', 'LAVA', 'ry-wc-city-select'),
 		_x('Niitvaelja kuela', 'LAVA', 'ry-wc-city-select'),
@@ -1665,9 +1663,6 @@ return [
 		_x('Voose kuela', 'LAVA3', 'ry-wc-city-select'),
 		_x('Vorungi kuela', 'LAVA3', 'ry-wc-city-select'),
 	],
-	'LOLI' => [
-		_x('Loksa linn', 'LOLI', 'ry-wc-city-select'),
-	],
 	'LUVA' => [
 		_x('Aa kuela', 'LUVA', 'ry-wc-city-select'),
 		_x('Aidu kuela', 'LUVA', 'ry-wc-city-select'),
@@ -1745,9 +1740,6 @@ return [
 		_x('Sirgumetsa kuela', 'LUVA2', 'ry-wc-city-select'),
 		_x('Veibri kuela', 'LUVA2', 'ry-wc-city-select'),
 		_x('Viira kuela', 'LUVA2', 'ry-wc-city-select'),
-	],
-	'MALI' => [
-		_x('Maardu linn', 'MALI', 'ry-wc-city-select'),
 	],
 	'MAVA' => [
 		_x('Alakuela', 'MAVA', 'ry-wc-city-select'),
@@ -2045,32 +2037,29 @@ return [
 		_x('Votikvere kuela', 'MUVA3', 'ry-wc-city-select'),
 	],
 	'NALI' => [
-		_x('Narva linn', 'NALI', 'ry-wc-city-select'),
-	],
-	'NALI2' => [
-		_x('Arumaee kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Auvere kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Hiiemetsa kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Hundinurga kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Kudrukuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Laagna kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Merikuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Mustanina kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Narva-Joesuu linn', 'NALI2', 'ry-wc-city-select'),
-		_x('Olgina alevik', 'NALI2', 'ry-wc-city-select'),
-		_x('Peeterristi kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Perjatsi kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Pimestiku kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Puhkova kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Sinimaee alevik', 'NALI2', 'ry-wc-city-select'),
-		_x('Sirgala kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Soldina kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Sotke kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Torvajoe kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Udria kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Vaivara kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Viivikonna kuela', 'NALI2', 'ry-wc-city-select'),
-		_x('Vodava kuela', 'NALI2', 'ry-wc-city-select'),
+		_x('Arumaee kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Auvere kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Hiiemetsa kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Hundinurga kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Kudrukuela', 'NALI', 'ry-wc-city-select'),
+		_x('Laagna kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Merikuela', 'NALI', 'ry-wc-city-select'),
+		_x('Mustanina kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Narva-Joesuu linn', 'NALI', 'ry-wc-city-select'),
+		_x('Olgina alevik', 'NALI', 'ry-wc-city-select'),
+		_x('Peeterristi kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Perjatsi kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Pimestiku kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Puhkova kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Sinimaee alevik', 'NALI', 'ry-wc-city-select'),
+		_x('Sirgala kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Soldina kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Sotke kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Torvajoe kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Udria kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Vaivara kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Viivikonna kuela', 'NALI', 'ry-wc-city-select'),
+		_x('Vodava kuela', 'NALI', 'ry-wc-city-select'),
 	],
 	'NOVA' => [
 		_x('Aiamaa kuela', 'NOVA', 'ry-wc-city-select'),
@@ -2738,6 +2727,7 @@ return [
 		_x('Paeaesna kuela', 'RAVA3', 'ry-wc-city-select'),
 		_x('Pahtpaeae kuela', 'RAVA3', 'ry-wc-city-select'),
 		_x('Parapalu kuela', 'RAVA3', 'ry-wc-city-select'),
+		_x('Pedaspaeae kuela', 'RAVA3', 'ry-wc-city-select'),
 		_x('Pindi kuela', 'RAVA3', 'ry-wc-city-select'),
 		_x('Raadama kuela', 'RAVA3', 'ry-wc-city-select'),
 		_x('Raepina linn', 'RAVA3', 'ry-wc-city-select'),
@@ -2769,9 +2759,6 @@ return [
 		_x('Voika kuela', 'RAVA3', 'ry-wc-city-select'),
 		_x('Voopsu alevik', 'RAVA3', 'ry-wc-city-select'),
 		_x('Voukuela', 'RAVA3', 'ry-wc-city-select'),
-	],
-	'RALI' => [
-		_x('Rakvere linn', 'RALI', 'ry-wc-city-select'),
 	],
 	'RAVA4' => [
 		_x('Aluvere kuela', 'RAVA4', 'ry-wc-city-select'),
@@ -3774,6 +3761,7 @@ return [
 		_x('Jaervepaeae kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Joksi kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Juusa kuela', 'SEVA', 'ry-wc-city-select'),
+		_x('Kaere kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Kahkva kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Kalatsova kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Kangavitsa kuela', 'SEVA', 'ry-wc-city-select'),
@@ -3913,9 +3901,6 @@ return [
 		_x('Voopsu kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Vopolsova kuela', 'SEVA', 'ry-wc-city-select'),
 		_x('Voropi kuela', 'SEVA', 'ry-wc-city-select'),
-	],
-	'SILI' => [
-		_x('Sillamaee linn', 'SILI', 'ry-wc-city-select'),
 	],
 	'TA' => [
 		_x('Haabersti linnaosa', 'TA', 'ry-wc-city-select'),
@@ -4410,9 +4395,6 @@ return [
 		_x('Vaeikeheinamaa kuela / Lillaengin', 'VIVA', 'ry-wc-city-select'),
 		_x('Viimsi alevik', 'VIVA', 'ry-wc-city-select'),
 	],
-	'VILI' => [
-		_x('Viljandi linn', 'VILI', 'ry-wc-city-select'),
-	],
 	'VIVA2' => [
 		_x('AEmmuste kuela', 'VIVA2', 'ry-wc-city-select'),
 		_x('Aidu kuela', 'VIVA2', 'ry-wc-city-select'),
@@ -4687,9 +4669,6 @@ return [
 		_x('Suuremoisa kuela', 'VOVA', 'ry-wc-city-select'),
 		_x('Sviby kuela', 'VOVA', 'ry-wc-city-select'),
 	],
-	'VOLI' => [
-		_x('Voru linn', 'VOLI', 'ry-wc-city-select'),
-	],
 	'VOVA2' => [
 		_x('Alakuelae kuela', 'VOVA2', 'ry-wc-city-select'),
 		_x('Alapodra kuela', 'VOVA2', 'ry-wc-city-select'),
@@ -4878,6 +4857,24 @@ return [
 		_x('Volsi kuela', 'VOVA2', 'ry-wc-city-select'),
 		_x('Vorumoisa kuela', 'VOVA2', 'ry-wc-city-select'),
 		_x('Vorusoo kuela', 'VOVA2', 'ry-wc-city-select'),
+	],
+	'HA' => [
+		_x('Keila linn', 'HA', 'ry-wc-city-select'),
+		_x('Loksa linn', 'HA', 'ry-wc-city-select'),
+		_x('Maardu linn', 'HA', 'ry-wc-city-select'),
+	],
+	'ID' => [
+		_x('Narva linn', 'ID', 'ry-wc-city-select'),
+		_x('Sillamaee linn', 'ID', 'ry-wc-city-select'),
+	],
+	'LA' => [
+		_x('Rakvere linn', 'LA', 'ry-wc-city-select'),
+	],
+	'VI' => [
+		_x('Viljandi linn', 'VI', 'ry-wc-city-select'),
+	],
+	'VO' => [
+		_x('Voru linn', 'VO', 'ry-wc-city-select'),
 	],
 	]
 ];

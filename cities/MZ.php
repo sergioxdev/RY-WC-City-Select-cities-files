@@ -3,7 +3,7 @@
  * Republic of Mozambique places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -13,25 +13,23 @@ return [
 	'CH' => [
 		_x('Katapua', 'CH', 'ry-wc-city-select'),
 	],
-	'XADI' => [
-		_x('Xai-Xai Municipality', 'XADI', 'ry-wc-city-select'),
-	],
 	'CADEPR' => [
 		_x('Ancuabe District', 'CADEPR', 'ry-wc-city-select'),
 		_x('Balama District', 'CADEPR', 'ry-wc-city-select'),
+		_x('Cidade de Pemba', 'CADEPR', 'ry-wc-city-select'),
 		_x('Circunscricao da Quissanga', 'CADEPR', 'ry-wc-city-select'),
 		_x('Circunscricao de Macomia', 'CADEPR', 'ry-wc-city-select'),
 		_x('Circunscricao de Palma', 'CADEPR', 'ry-wc-city-select'),
 		_x('Concelho do Ibo', 'CADEPR', 'ry-wc-city-select'),
 		_x('Mecufi', 'CADEPR', 'ry-wc-city-select'),
 		_x('Meluco', 'CADEPR', 'ry-wc-city-select'),
+		_x('Metuge District', 'CADEPR', 'ry-wc-city-select'),
 		_x('Mocimboa da Praia', 'CADEPR', 'ry-wc-city-select'),
 		_x('Montepuez District', 'CADEPR', 'ry-wc-city-select'),
 		_x('Mueda District', 'CADEPR', 'ry-wc-city-select'),
 		_x('Muidumbe', 'CADEPR', 'ry-wc-city-select'),
 		_x('Namuno District', 'CADEPR', 'ry-wc-city-select'),
 		_x('Nangade', 'CADEPR', 'ry-wc-city-select'),
-		_x('Pemba', 'CADEPR', 'ry-wc-city-select'),
 	],
 	'CIMA' => [
 		_x('KaMavota', 'CIMA', 'ry-wc-city-select'),
@@ -54,6 +52,7 @@ return [
 		_x('Mandlakaze', 'GAPR', 'ry-wc-city-select'),
 		_x('Massangena', 'GAPR', 'ry-wc-city-select'),
 		_x('Massingir', 'GAPR', 'ry-wc-city-select'),
+		_x('Xai-Xai District', 'GAPR', 'ry-wc-city-select'),
 	],
 	'INPR' => [
 		_x('Cidade de Inhambane', 'INPR', 'ry-wc-city-select'),
@@ -89,12 +88,8 @@ return [
 	'MAPR2' => [
 		_x('Aeroporto', 'MAPR2', 'ry-wc-city-select'),
 		_x('Boane District', 'MAPR2', 'ry-wc-city-select'),
+		_x('Cidade de Manhica', 'MAPR2', 'ry-wc-city-select'),
 		_x('Concelho de Matola', 'MAPR2', 'ry-wc-city-select'),
-		_x('Distrito Municipal 1', 'MAPR2', 'ry-wc-city-select'),
-		_x('Distrito Municipal 2', 'MAPR2', 'ry-wc-city-select'),
-		_x('Distrito Municipal 3', 'MAPR2', 'ry-wc-city-select'),
-		_x('Distrito Municipal 4', 'MAPR2', 'ry-wc-city-select'),
-		_x('Distrito Municipal 5', 'MAPR2', 'ry-wc-city-select'),
 		_x('Magude District', 'MAPR2', 'ry-wc-city-select'),
 		_x('Manhica', 'MAPR2', 'ry-wc-city-select'),
 		_x('Marracuene District', 'MAPR2', 'ry-wc-city-select'),
@@ -106,9 +101,7 @@ return [
 		_x('Angoche District', 'NA', 'ry-wc-city-select'),
 		_x('Cidade de Nampula', 'NA', 'ry-wc-city-select'),
 		_x('Circunscricao de Mogovolas', 'NA', 'ry-wc-city-select'),
-		_x('Circunscricao de Mossuril', 'NA', 'ry-wc-city-select'),
 		_x('Circunscricao de Murrupula', 'NA', 'ry-wc-city-select'),
-		_x('Circunscricao de Nacala-a-Velha', 'NA', 'ry-wc-city-select'),
 		_x('Circunscricao do Erati', 'NA', 'ry-wc-city-select'),
 		_x('Circunscricao do Mogincual', 'NA', 'ry-wc-city-select'),
 		_x('Concelho de Monapo', 'NA', 'ry-wc-city-select'),
@@ -122,7 +115,10 @@ return [
 		_x('Meconta', 'NA', 'ry-wc-city-select'),
 		_x('Mecuburi', 'NA', 'ry-wc-city-select'),
 		_x('Memba', 'NA', 'ry-wc-city-select'),
+		_x('Mossuril', 'NA', 'ry-wc-city-select'),
 		_x('Muecate District', 'NA', 'ry-wc-city-select'),
+		_x('Nacala-Porto', 'NA', 'ry-wc-city-select'),
+		_x('Nacala-a-Velha', 'NA', 'ry-wc-city-select'),
 		_x('Nacaroa District', 'NA', 'ry-wc-city-select'),
 		_x('Nampula', 'NA', 'ry-wc-city-select'),
 		_x('Ribaue', 'NA', 'ry-wc-city-select'),

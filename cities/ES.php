@@ -3,7 +3,7 @@
  * Kingdom of Spain places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -3573,6 +3573,7 @@ return [
 		_x('Irueste', 'PRGU', 'ry-wc-city-select'),
 		_x('Jadraque', 'PRGU', 'ry-wc-city-select'),
 		_x('Jirueque', 'PRGU', 'ry-wc-city-select'),
+		_x('La Minosa', 'PRGU', 'ry-wc-city-select'),
 		_x('Ledanca', 'PRGU', 'ry-wc-city-select'),
 		_x('Loranca de Tajuna', 'PRGU', 'ry-wc-city-select'),
 		_x('Lupiana', 'PRGU', 'ry-wc-city-select'),
@@ -3597,7 +3598,6 @@ return [
 		_x('Mierla, La', 'PRGU', 'ry-wc-city-select'),
 		_x('Millana', 'PRGU', 'ry-wc-city-select'),
 		_x('Milmarcos', 'PRGU', 'ry-wc-city-select'),
-		_x('Minosa, La', 'PRGU', 'ry-wc-city-select'),
 		_x('Mirabueno', 'PRGU', 'ry-wc-city-select'),
 		_x('Miralrio', 'PRGU', 'ry-wc-city-select'),
 		_x('Mochales', 'PRGU', 'ry-wc-city-select'),

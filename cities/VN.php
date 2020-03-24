@@ -3,7 +3,7 @@
  * Socialist Republic of Vietnam places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -367,6 +367,7 @@ return [
 		_x('Xa Tan Buu', 'HUBELU', 'ry-wc-city-select'),
 	],
 	'HUBICH' => [
+		_x('Phuong Muoi Mot', 'HUBICH', 'ry-wc-city-select'),
 		_x('Xa An Phu Tay', 'HUBICH', 'ry-wc-city-select'),
 		_x('Xa Le Minh Xuan', 'HUBICH', 'ry-wc-city-select'),
 		_x('Xa Pham Van Hai', 'HUBICH', 'ry-wc-city-select'),
@@ -2288,6 +2289,7 @@ return [
 		_x('Xa Thuong Quan', 'HUKIMO', 'ry-wc-city-select'),
 	],
 	'HUKOPL' => [
+		_x('Thi Tran Mang GJen', 'HUKOPL', 'ry-wc-city-select'),
 		_x('Xa GJak Nen', 'HUKOPL', 'ry-wc-city-select'),
 		_x('Xa GJak Ring', 'HUKOPL', 'ry-wc-city-select'),
 		_x('Xa GJak Tang', 'HUKOPL', 'ry-wc-city-select'),
@@ -2453,7 +2455,7 @@ return [
 		_x('Tan Duong commune', 'HULAVU', 'ry-wc-city-select'),
 		_x('Tan Hoa commune', 'HULAVU', 'ry-wc-city-select'),
 		_x('Tan Phuoc Commune', 'HULAVU', 'ry-wc-city-select'),
-		_x('Thi tran Tan Thanh', 'HULAVU', 'ry-wc-city-select'),
+		_x('Thi Tran Tan Thanh', 'HULAVU', 'ry-wc-city-select'),
 		_x('Vinh Thoi Commune', 'HULAVU', 'ry-wc-city-select'),
 	],
 	'HULA3' => [
@@ -3282,6 +3284,7 @@ return [
 		_x('Xa Son Vien', 'HUNOSO', 'ry-wc-city-select'),
 	],
 	'HUNUTH' => [
+		_x('Thi Tran Nui Thanh', 'HUNUTH', 'ry-wc-city-select'),
 		_x('Xa Tam Anh Bac', 'HUNUTH', 'ry-wc-city-select'),
 		_x('Xa Tam Anh Nam', 'HUNUTH', 'ry-wc-city-select'),
 		_x('Xa Tam Hai', 'HUNUTH', 'ry-wc-city-select'),
@@ -3416,6 +3419,7 @@ return [
 		_x('Xa Phu Rieng', 'HUPHRI', 'ry-wc-city-select'),
 	],
 	'HUPHTA' => [
+		_x('Thi Tran Phu My', 'HUPHTA', 'ry-wc-city-select'),
 		_x('Xa Binh Thanh GJong', 'HUPHTA', 'ry-wc-city-select'),
 		_x('Xa Hiep Xuong', 'HUPHTA', 'ry-wc-city-select'),
 	],
@@ -4342,6 +4346,7 @@ return [
 		_x('Xa Vinh Quynh', 'HUTHTR', 'ry-wc-city-select'),
 	],
 	'HUTHMU' => [
+		_x('Thi Tran My An', 'HUTHMU', 'ry-wc-city-select'),
 		_x('Xa GJoc Binh Kieu', 'HUTHMU', 'ry-wc-city-select'),
 		_x('Xa Lang Bien', 'HUTHMU', 'ry-wc-city-select'),
 		_x('Xa My GJong', 'HUTHMU', 'ry-wc-city-select'),
@@ -4421,6 +4426,7 @@ return [
 		_x('Xa Truong Xuan B', 'HUTHLA', 'ry-wc-city-select'),
 	],
 	'HUTHNH' => [
+		_x('Thi Tran Dau Giay', 'HUTHNH', 'ry-wc-city-select'),
 		_x('Xa Gia Kiem', 'HUTHNH', 'ry-wc-city-select'),
 	],
 	'HUTHNO' => [
@@ -6066,6 +6072,7 @@ return [
 		_x('Xa Chu Hreng', 'THPHKOTU', 'ry-wc-city-select'),
 		_x('Xa GJak Bla', 'THPHKOTU', 'ry-wc-city-select'),
 		_x('Xa GJak Cam', 'THPHKOTU', 'ry-wc-city-select'),
+		_x('Xa GJak Ro Wa', 'THPHKOTU', 'ry-wc-city-select'),
 		_x('Xa Ia Chim', 'THPHKOTU', 'ry-wc-city-select'),
 		_x('Xa Kroong', 'THPHKOTU', 'ry-wc-city-select'),
 		_x('Xa Ngok Bay', 'THPHKOTU', 'ry-wc-city-select'),
@@ -6119,11 +6126,13 @@ return [
 		_x('Phuong Loc Tho', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Ngoc Hiep', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Phuoc Hai', 'THPHNHTR', 'ry-wc-city-select'),
+		_x('Phuong Phuoc Hoa', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Phuoc Long', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Phuoc Tan', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Phuoc Tien', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Phuong Sai', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Phuong Son', 'THPHNHTR', 'ry-wc-city-select'),
+		_x('Phuong Tan Lap', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Van Thang', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Van Thanh', 'THPHNHTR', 'ry-wc-city-select'),
 		_x('Phuong Vinh Hai', 'THPHNHTR', 'ry-wc-city-select'),
@@ -6802,7 +6811,7 @@ return [
 		_x('Quan Tan Binh', 'CHMICI', 'ry-wc-city-select'),
 	],
 	'KOTU' => [
-		_x('Huyen Ia H Drai', 'KOTU', 'ry-wc-city-select'),
+		_x('Huyen Ia HDrai', 'KOTU', 'ry-wc-city-select'),
 	],
 	'THPHGJNA' => [
 		_x('Huyen Hoang Sa', 'THPHGJNA', 'ry-wc-city-select'),

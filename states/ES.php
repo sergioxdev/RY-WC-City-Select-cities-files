@@ -3,7 +3,7 @@
  * Kingdom of Spain states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -62,7 +62,7 @@ return [
 		'PRVA2' => __( 'Provincia de Valladolid', 'ry-wc-city-select' ),
 		'PRZA' => __( 'Provincia de Zamora', 'ry-wc-city-select' ),
 		'PRZA2' => __( 'Provincia de Zaragoza', 'ry-wc-city-select' ),
-		'AN' => __( 'Andalucia', 'ry-wc-city-select' ),
+		'AN' => __( 'Andalusia', 'ry-wc-city-select' ),
 		'AR' => __( 'Aragon', 'ry-wc-city-select' ),
 		'CAIS' => __( 'Canary Islands', 'ry-wc-city-select' ),
 		'CA' => __( 'Cantabria', 'ry-wc-city-select' ),

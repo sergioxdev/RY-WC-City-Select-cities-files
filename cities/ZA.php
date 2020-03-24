@@ -3,7 +3,7 @@
  * Republic of South Africa places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -40,17 +40,6 @@ return [
 	'BUCIMEMU' => [
 		_x('Buffalo City', 'BUCIMEMU', 'ry-wc-city-select'),
 	],
-	'CADIMU' => [
-		_x('Baviaans', 'CADIMU', 'ry-wc-city-select'),
-		_x('Blue Crane Route', 'CADIMU', 'ry-wc-city-select'),
-		_x('Camdeboo', 'CADIMU', 'ry-wc-city-select'),
-		_x('Ikwezi', 'CADIMU', 'ry-wc-city-select'),
-		_x('Kou-Kamma', 'CADIMU', 'ry-wc-city-select'),
-		_x('Kouga', 'CADIMU', 'ry-wc-city-select'),
-		_x('Makana', 'CADIMU', 'ry-wc-city-select'),
-		_x('Ndlambe', 'CADIMU', 'ry-wc-city-select'),
-		_x('Sundays River Valley', 'CADIMU', 'ry-wc-city-select'),
-	],
 	'CAWIDIMU' => [
 		_x('Breede Valley', 'CAWIDIMU', 'ry-wc-city-select'),
 		_x('Drakenstein', 'CAWIDIMU', 'ry-wc-city-select'),
@@ -58,12 +47,12 @@ return [
 		_x('Stellenbosch', 'CAWIDIMU', 'ry-wc-city-select'),
 		_x('Witzenberg', 'CAWIDIMU', 'ry-wc-city-select'),
 	],
-	'CADIMU2' => [
-		_x('Aganang', 'CADIMU2', 'ry-wc-city-select'),
-		_x('Blouberg', 'CADIMU2', 'ry-wc-city-select'),
-		_x('Lepele-Nkumpi', 'CADIMU2', 'ry-wc-city-select'),
-		_x('Molemole', 'CADIMU2', 'ry-wc-city-select'),
-		_x('Polokwane', 'CADIMU2', 'ry-wc-city-select'),
+	'CADIMU' => [
+		_x('Aganang', 'CADIMU', 'ry-wc-city-select'),
+		_x('Blouberg', 'CADIMU', 'ry-wc-city-select'),
+		_x('Lepele-Nkumpi', 'CADIMU', 'ry-wc-city-select'),
+		_x('Molemole', 'CADIMU', 'ry-wc-city-select'),
+		_x('Polokwane', 'CADIMU', 'ry-wc-city-select'),
 	],
 	'CEKADIMU' => [
 		_x('Beaufort West', 'CEKADIMU', 'ry-wc-city-select'),
@@ -218,6 +207,17 @@ return [
 		_x('Thembelihle', 'PISEDIMU', 'ry-wc-city-select'),
 		_x('Ubuntu', 'PISEDIMU', 'ry-wc-city-select'),
 		_x('Umsobomvu', 'PISEDIMU', 'ry-wc-city-select'),
+	],
+	'SABADIMU' => [
+		_x('Baviaans', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Blue Crane Route', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Camdeboo', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Ikwezi', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Kou-Kamma', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Kouga', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Makana', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Ndlambe', 'SABADIMU', 'ry-wc-city-select'),
+		_x('Sundays River Valley', 'SABADIMU', 'ry-wc-city-select'),
 	],
 	'SEDIMU' => [
 		_x('Emfuleni', 'SEDIMU', 'ry-wc-city-select'),

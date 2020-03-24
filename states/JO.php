@@ -3,13 +3,14 @@
  * Hashemite Kingdom of Jordan states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
 
 return [
 	'JO' => [
+		'LIBAASSHGH' => __( 'Liwa al Badiyah ash Shamaliyah al Gharb', 'ry-wc-city-select' ),
 		'AJ' => __( 'Ajloun', 'ry-wc-city-select' ),
 		'KA' => __( 'Al Karak', 'ry-wc-city-select' ),
 		'MA' => __( 'Al Mafraq', 'ry-wc-city-select' ),

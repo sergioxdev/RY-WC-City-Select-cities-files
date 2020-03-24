@@ -3,7 +3,7 @@
  * Republic of Bulgaria places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -3105,6 +3105,9 @@ return [
 	],
 	'OBYA4' => [
 		_x('Obshtina Yambol', 'OBYA4', 'ry-wc-city-select'),
+	],
+	'PA' => [
+		_x('Sarnitsa Obshtina', 'PA', 'ry-wc-city-select'),
 	],
 	'PE' => [
 		_x('Obshtina Zemen', 'PE', 'ry-wc-city-select'),

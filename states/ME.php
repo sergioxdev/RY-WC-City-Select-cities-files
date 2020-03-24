@@ -3,7 +3,7 @@
  * Montenegro states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -32,6 +32,7 @@ return [
 		'PL' => __( 'Pljevlja', 'ry-wc-city-select' ),
 		'PO' => __( 'Podgorica', 'ry-wc-city-select' ),
 		'TI' => __( 'Tivat', 'ry-wc-city-select' ),
+		'TU' => __( 'Tuzi', 'ry-wc-city-select' ),
 		'UL' => __( 'Ulcinj', 'ry-wc-city-select' ),
 	]
 ];

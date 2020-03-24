@@ -3,7 +3,7 @@
  * Grand Duchy of Luxembourg places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -56,9 +56,9 @@ return [
 		_x('Wincrange', 'CL', 'ry-wc-city-select'),
 	],
 	'DI' => [
+		_x('Aerenzdallgemeng', 'DI', 'ry-wc-city-select'),
 		_x('Bettendorf', 'DI', 'ry-wc-city-select'),
 		_x('Bourscheid', 'DI', 'ry-wc-city-select'),
-		_x('Commune de la Vallee de lErnz', 'DI', 'ry-wc-city-select'),
 		_x('Diekirch', 'DI', 'ry-wc-city-select'),
 		_x('Erpeldange', 'DI', 'ry-wc-city-select'),
 		_x('Ettelbruck', 'DI', 'ry-wc-city-select'),

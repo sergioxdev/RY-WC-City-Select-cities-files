@@ -3,7 +3,7 @@
  * United Kingdom of Great Britain and Nort places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -4143,8 +4143,8 @@ return [
 		_x('Borough of Rochdale', 'EN', 'ry-wc-city-select'),
 		_x('Borough of Thurrock', 'EN', 'ry-wc-city-select'),
 		_x('Bournemouth', 'EN', 'ry-wc-city-select'),
-		_x('Bristol', 'EN', 'ry-wc-city-select'),
 		_x('City and Borough of Salford', 'EN', 'ry-wc-city-select'),
+		_x('City of Bristol', 'EN', 'ry-wc-city-select'),
 		_x('City of Kingston upon Hull', 'EN', 'ry-wc-city-select'),
 		_x('City of Leicester', 'EN', 'ry-wc-city-select'),
 		_x('Derby', 'EN', 'ry-wc-city-select'),
@@ -4179,13 +4179,13 @@ return [
 	'SC' => [
 		_x('Aberdeen City', 'SC', 'ry-wc-city-select'),
 		_x('Angus', 'SC', 'ry-wc-city-select'),
+		_x('City of Edinburgh', 'SC', 'ry-wc-city-select'),
 		_x('Clackmannanshire', 'SC', 'ry-wc-city-select'),
 		_x('Dundee City', 'SC', 'ry-wc-city-select'),
 		_x('East Ayrshire', 'SC', 'ry-wc-city-select'),
 		_x('East Dunbartonshire', 'SC', 'ry-wc-city-select'),
 		_x('East Lothian', 'SC', 'ry-wc-city-select'),
 		_x('East Renfrewshire', 'SC', 'ry-wc-city-select'),
-		_x('Edinburgh', 'SC', 'ry-wc-city-select'),
 		_x('Eilean Siar', 'SC', 'ry-wc-city-select'),
 		_x('Falkirk', 'SC', 'ry-wc-city-select'),
 		_x('Glasgow City', 'SC', 'ry-wc-city-select'),

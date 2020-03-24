@@ -3,7 +3,7 @@
  * Switzerland states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -12,14 +12,14 @@ return [
 	'CH' => [
 		'AIDI' => __( 'Aigle District', 'ry-wc-city-select' ),
 		'APINRH' => __( 'Appenzell Inner Rhodes', 'ry-wc-city-select' ),
-		'ARDI' => __( 'Arbon District', 'ry-wc-city-select' ),
 		'BA' => __( 'Basel-Stadt', 'ry-wc-city-select' ),
 		'BEDI' => __( 'Bellinzona District', 'ry-wc-city-select' ),
 		'BEDI2' => __( 'Bern-Mittelland District', 'ry-wc-city-select' ),
 		'BEAA' => __( 'Bezirk Aarau', 'ry-wc-city-select' ),
 		'BEAF' => __( 'Bezirk Affoltern', 'ry-wc-city-select' ),
 		'BEAN' => __( 'Bezirk Andelfingen', 'ry-wc-city-select' ),
-		'BEAR' => __( 'Bezirk Arlesheim', 'ry-wc-city-select' ),
+		'BEAR' => __( 'Bezirk Arbon', 'ry-wc-city-select' ),
+		'BEAR2' => __( 'Bezirk Arlesheim', 'ry-wc-city-select' ),
 		'BEBA' => __( 'Bezirk Baden', 'ry-wc-city-select' ),
 		'BEBR' => __( 'Bezirk Bremgarten', 'ry-wc-city-select' ),
 		'BEBR2' => __( 'Bezirk Brugg', 'ry-wc-city-select' ),
@@ -29,6 +29,7 @@ return [
 		'BEDI4' => __( 'Bezirk Dietikon', 'ry-wc-city-select' ),
 		'BEDO' => __( 'Bezirk Dorneck', 'ry-wc-city-select' ),
 		'BEEI' => __( 'Bezirk Einsiedeln', 'ry-wc-city-select' ),
+		'BEFR' => __( 'Bezirk Frauenfeld', 'ry-wc-city-select' ),
 		'BEGA' => __( 'Bezirk Gaeu', 'ry-wc-city-select' ),
 		'BEGE' => __( 'Bezirk Gersau', 'ry-wc-city-select' ),
 		'BEGO' => __( 'Bezirk Goesgen', 'ry-wc-city-select' ),
@@ -36,6 +37,7 @@ return [
 		'BEHI2' => __( 'Bezirk Hinwil', 'ry-wc-city-select' ),
 		'BEHO' => __( 'Bezirk Hoefe', 'ry-wc-city-select' ),
 		'BEHO2' => __( 'Bezirk Horgen', 'ry-wc-city-select' ),
+		'BEKR' => __( 'Bezirk Kreuzlingen', 'ry-wc-city-select' ),
 		'BEKU' => __( 'Bezirk Kuessnacht', 'ry-wc-city-select' ),
 		'BEKU2' => __( 'Bezirk Kulm', 'ry-wc-city-select' ),
 		'BELA' => __( 'Bezirk Laufen', 'ry-wc-city-select' ),
@@ -46,7 +48,8 @@ return [
 		'BEMA' => __( 'Bezirk March', 'ry-wc-city-select' ),
 		'BEME' => __( 'Bezirk Meilen', 'ry-wc-city-select' ),
 		'BEMI' => __( 'Bezirk Mittelland', 'ry-wc-city-select' ),
-		'BEMU' => __( 'Bezirk Muri', 'ry-wc-city-select' ),
+		'BEMU' => __( 'Bezirk Muenchwilen', 'ry-wc-city-select' ),
+		'BEMU2' => __( 'Bezirk Muri', 'ry-wc-city-select' ),
 		'BEOB' => __( 'Bezirk Oberklettgau', 'ry-wc-city-select' ),
 		'BEOL' => __( 'Bezirk Olten', 'ry-wc-city-select' ),
 		'BEPF' => __( 'Bezirk Pfaeffikon', 'ry-wc-city-select' ),
@@ -65,6 +68,7 @@ return [
 		'BEVO' => __( 'Bezirk Vorderland', 'ry-wc-city-select' ),
 		'BEWA' => __( 'Bezirk Waldenburg', 'ry-wc-city-select' ),
 		'BEWA2' => __( 'Bezirk Wasseramt', 'ry-wc-city-select' ),
+		'BEWE' => __( 'Bezirk Weinfelden', 'ry-wc-city-select' ),
 		'BEWI' => __( 'Bezirk Winterthur', 'ry-wc-city-select' ),
 		'BEZO' => __( 'Bezirk Zofingen', 'ry-wc-city-select' ),
 		'BEZU' => __( 'Bezirk Zuerich', 'ry-wc-city-select' ),
@@ -81,8 +85,7 @@ return [
 		'ENDI' => __( 'Entlebuch District', 'ry-wc-city-select' ),
 		'ENDI2' => __( 'Entremont District', 'ry-wc-city-select' ),
 		'FRDI' => __( 'Franches-Montagnes District', 'ry-wc-city-select' ),
-		'FRDI2' => __( 'Frauenfeld District', 'ry-wc-city-select' ),
-		'FRDI3' => __( 'Frutigen-Niedersimmental District', 'ry-wc-city-select' ),
+		'FRDI2' => __( 'Frutigen-Niedersimmental District', 'ry-wc-city-select' ),
 		'GE' => __( 'Geneva', 'ry-wc-city-select' ),
 		'GLDI' => __( 'Glane District', 'ry-wc-city-select' ),
 		'GL' => __( 'Glarus', 'ry-wc-city-select' ),
@@ -94,7 +97,6 @@ return [
 		'INDI' => __( 'Interlaken-Oberhasli District', 'ry-wc-city-select' ),
 		'JUBE' => __( 'Jura bernois', 'ry-wc-city-select' ),
 		'JUVADI' => __( 'Jura-Nord vaudois District', 'ry-wc-city-select' ),
-		'KRDI' => __( 'Kreuzlingen District', 'ry-wc-city-select' ),
 		'CHDI' => __( 'La Chaux-de-Fonds District', 'ry-wc-city-select' ),
 		'LADI' => __( 'Lake District', 'ry-wc-city-select' ),
 		'LADI2' => __( 'Lausanne District', 'ry-wc-city-select' ),
@@ -110,7 +112,6 @@ return [
 		'MEDI' => __( 'Mendrisio District', 'ry-wc-city-select' ),
 		'MODI' => __( 'Monthey District', 'ry-wc-city-select' ),
 		'MODI2' => __( 'Morges District', 'ry-wc-city-select' ),
-		'MUDI' => __( 'Muenchwilen District', 'ry-wc-city-select' ),
 		'NEDI' => __( 'Neuchatel District', 'ry-wc-city-select' ),
 		'NI' => __( 'Nidwalden', 'ry-wc-city-select' ),
 		'NYDI' => __( 'Nyon District', 'ry-wc-city-select' ),
@@ -155,7 +156,6 @@ return [
 		'WATO' => __( 'Wahlkreis Toggenburg', 'ry-wc-city-select' ),
 		'WAWE' => __( 'Wahlkreis Werdenberg', 'ry-wc-city-select' ),
 		'WAWI' => __( 'Wahlkreis Wil', 'ry-wc-city-select' ),
-		'WEDI' => __( 'Weinfelden District', 'ry-wc-city-select' ),
 		'WIDI' => __( 'Willisau District', 'ry-wc-city-select' ),
 		'ZU' => __( 'Zug', 'ry-wc-city-select' ),
 		'CABE' => __( 'Canton de Berne', 'ry-wc-city-select' ),

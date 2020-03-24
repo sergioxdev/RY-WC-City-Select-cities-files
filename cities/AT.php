@@ -3,7 +3,7 @@
  * Republic of Austria places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -513,6 +513,7 @@ return [
 		_x('Lieboch', 'POBEGR', 'ry-wc-city-select'),
 		_x('Nestelbach bei Graz', 'POBEGR', 'ry-wc-city-select'),
 		_x('Peggau', 'POBEGR', 'ry-wc-city-select'),
+		_x('Premstaetten', 'POBEGR', 'ry-wc-city-select'),
 		_x('Raaba-Grambach', 'POBEGR', 'ry-wc-city-select'),
 		_x('Sankt Bartholomae', 'POBEGR', 'ry-wc-city-select'),
 		_x('Sankt Marein bei Graz', 'POBEGR', 'ry-wc-city-select'),
@@ -524,7 +525,6 @@ return [
 		_x('Stiwoll', 'POBEGR', 'ry-wc-city-select'),
 		_x('Thal', 'POBEGR', 'ry-wc-city-select'),
 		_x('UEbelbach', 'POBEGR', 'ry-wc-city-select'),
-		_x('Unterpremstaetten-Zettling', 'POBEGR', 'ry-wc-city-select'),
 		_x('Vasoldsberg', 'POBEGR', 'ry-wc-city-select'),
 		_x('Weinitzen', 'POBEGR', 'ry-wc-city-select'),
 		_x('Werndorf', 'POBEGR', 'ry-wc-city-select'),

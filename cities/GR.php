@@ -3,7 +3,7 @@
  * Hellenic Republic places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -93,13 +93,6 @@ return [
 		_x('Dimos Vyronas', 'NOAT', 'ry-wc-city-select'),
 		_x('Dimos Zografos', 'NOAT', 'ry-wc-city-select'),
 	],
-	'NODYAT' => [
-		_x('Dimos Aspropyrgos', 'NODYAT', 'ry-wc-city-select'),
-		_x('Dimos Elefsina', 'NODYAT', 'ry-wc-city-select'),
-		_x('Dimos Fyli', 'NODYAT', 'ry-wc-city-select'),
-		_x('Dimos Mandra-Eidyllia', 'NODYAT', 'ry-wc-city-select'),
-		_x('Dimos Megara', 'NODYAT', 'ry-wc-city-select'),
-	],
 	'NOAC' => [
 		_x('Dimos Aigialeia', 'NOAC', 'ry-wc-city-select'),
 		_x('Dimos Erymanthos', 'NOAC', 'ry-wc-city-select'),
@@ -134,6 +127,13 @@ return [
 		_x('Dimos Central Tzoumerka', 'NOAR3', 'ry-wc-city-select'),
 		_x('Dimos Georgios Karaiskakis', 'NOAR3', 'ry-wc-city-select'),
 		_x('Dimos Nikolaos Skoufas', 'NOAR3', 'ry-wc-city-select'),
+	],
+	'NOAT2' => [
+		_x('Dimos Aspropyrgos', 'NOAT2', 'ry-wc-city-select'),
+		_x('Dimos Elefsina', 'NOAT2', 'ry-wc-city-select'),
+		_x('Dimos Fyli', 'NOAT2', 'ry-wc-city-select'),
+		_x('Dimos Mandra-Eidyllia', 'NOAT2', 'ry-wc-city-select'),
+		_x('Dimos Megara', 'NOAT2', 'ry-wc-city-select'),
 	],
 	'NOCH' => [
 		_x('Dimos Aristotelis', 'NOCH', 'ry-wc-city-select'),
@@ -442,9 +442,6 @@ return [
 		_x('Dimos Kalampaka', 'TR', 'ry-wc-city-select'),
 		_x('Dimos Trikala', 'TR', 'ry-wc-city-select'),
 		_x('Pyli', 'TR', 'ry-wc-city-select'),
-	],
-	'AT' => [
-		_x('Nomos Attikis', 'AT', 'ry-wc-city-select'),
 	],
 	]
 ];

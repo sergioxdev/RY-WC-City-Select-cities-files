@@ -3,7 +3,7 @@
  * Union of Burma places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -124,8 +124,8 @@ return [
 		_x('Tada-U', 'KYDI2', 'ry-wc-city-select'),
 	],
 	'KYDI3' => [
-		_x('Ann', 'KYDI3', 'ry-wc-city-select'),
-		_x('Kyaukpyu', 'KYDI3', 'ry-wc-city-select'),
+		_x('Ann Township', 'KYDI3', 'ry-wc-city-select'),
+		_x('Kyaukpyu Township', 'KYDI3', 'ry-wc-city-select'),
 		_x('Munaung', 'KYDI3', 'ry-wc-city-select'),
 		_x('Ramree', 'KYDI3', 'ry-wc-city-select'),
 	],
@@ -194,7 +194,7 @@ return [
 		_x('Pangsang', 'MA', 'ry-wc-city-select'),
 	],
 	'MADI4' => [
-		_x('Buthidaung', 'MADI4', 'ry-wc-city-select'),
+		_x('Buthidaung Township', 'MADI4', 'ry-wc-city-select'),
 		_x('Maungdaw', 'MADI4', 'ry-wc-city-select'),
 	],
 	'MADI5' => [
@@ -248,7 +248,7 @@ return [
 		_x('Monywa', 'MO2', 'ry-wc-city-select'),
 	],
 	'MR' => [
-		_x('Kyauktaw', 'MR', 'ry-wc-city-select'),
+		_x('Kyauktaw Township', 'MR', 'ry-wc-city-select'),
 		_x('Minbya', 'MR', 'ry-wc-city-select'),
 		_x('Mrauk-U', 'MR', 'ry-wc-city-select'),
 		_x('Myebon', 'MR', 'ry-wc-city-select'),
@@ -395,7 +395,7 @@ return [
 		_x('Yedashe', 'TADI4', 'ry-wc-city-select'),
 	],
 	'THDI' => [
-		_x('Gwa', 'THDI', 'ry-wc-city-select'),
+		_x('Gwa Twonship', 'THDI', 'ry-wc-city-select'),
 		_x('Thandwe', 'THDI', 'ry-wc-city-select'),
 		_x('Toungup', 'THDI', 'ry-wc-city-select'),
 	],

@@ -3,7 +3,7 @@
  * Mongolia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -275,7 +275,6 @@ return [
 		_x('Erdenebulgan', 'HOAY', 'ry-wc-city-select'),
 		_x('Galt', 'HOAY', 'ry-wc-city-select'),
 		_x('Hanh', 'HOAY', 'ry-wc-city-select'),
-		_x('Ih-Uul', 'HOAY', 'ry-wc-city-select'),
 		_x('Ih-Uul Sum', 'HOAY', 'ry-wc-city-select'),
 		_x('Jargalant', 'HOAY', 'ry-wc-city-select'),
 		_x('Jargalant Sum', 'HOAY', 'ry-wc-city-select'),

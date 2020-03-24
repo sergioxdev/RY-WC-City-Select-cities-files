@@ -3,7 +3,7 @@
  * Republic of Guatemala places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -86,7 +86,6 @@ return [
 		_x('San Cristobal Acasguastlan', 'DEPR', 'ry-wc-city-select'),
 	],
 	'DEES' => [
-		_x('Municipio de Champerico', 'DEES', 'ry-wc-city-select'),
 		_x('Municipio de Escuintla', 'DEES', 'ry-wc-city-select'),
 		_x('Municipio de Guanagazapa', 'DEES', 'ry-wc-city-select'),
 		_x('Municipio de Iztapa', 'DEES', 'ry-wc-city-select'),
@@ -222,6 +221,7 @@ return [
 		_x('Municipo de San Juan Ostuncalco', 'DEQU', 'ry-wc-city-select'),
 	],
 	'DERE' => [
+		_x('Municipio de Champerico', 'DERE', 'ry-wc-city-select'),
 		_x('Municipio de El Asintal', 'DERE', 'ry-wc-city-select'),
 		_x('Municipio de Nuevo San Carlos', 'DERE', 'ry-wc-city-select'),
 		_x('Municipio de Retalhuleu', 'DERE', 'ry-wc-city-select'),

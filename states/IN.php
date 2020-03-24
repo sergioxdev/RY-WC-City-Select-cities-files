@@ -3,7 +3,7 @@
  * Republic of India states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -44,6 +44,7 @@ return [
 		'YA' => __( 'Yadgir', 'ry-wc-city-select' ),
 		'AS' => __( 'Assam', 'ry-wc-city-select' ),
 		'GO' => __( 'Goa', 'ry-wc-city-select' ),
+		'LA' => __( 'Ladakh', 'ry-wc-city-select' ),
 		'MAPR' => __( 'Madhya Pradesh', 'ry-wc-city-select' ),
 		'MA2' => __( 'Manipur', 'ry-wc-city-select' ),
 		'ME' => __( 'Meghalaya', 'ry-wc-city-select' ),

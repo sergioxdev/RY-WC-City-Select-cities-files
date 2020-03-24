@@ -3,7 +3,7 @@
  * Republic of Costa Rica states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -68,6 +68,7 @@ return [
 		'PU' => __( 'Puntarenas', 'ry-wc-city-select' ),
 		'PU2' => __( 'Puriscal', 'ry-wc-city-select' ),
 		'QU' => __( 'Quepos', 'ry-wc-city-select' ),
+		'RICU' => __( 'Rio Cuarto', 'ry-wc-city-select' ),
 		'SACA' => __( 'San Carlos', 'ry-wc-city-select' ),
 		'SAIS' => __( 'San Isidro', 'ry-wc-city-select' ),
 		'SAJO' => __( 'San Jose', 'ry-wc-city-select' ),

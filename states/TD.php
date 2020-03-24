@@ -3,7 +3,7 @@
  * Republic of Chad states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -30,8 +30,8 @@ return [
 		'HA' => __( 'Hadjer-Lamis', 'ry-wc-city-select' ),
 		'MA' => __( 'Mandoul', 'ry-wc-city-select' ),
 		'MAWERE' => __( 'Mayo-Kebbi West Region', 'ry-wc-city-select' ),
-		'REVIND' => __( 'Region de la Ville de NDjamena', 'ry-wc-city-select' ),
 		'SI' => __( 'Sila', 'ry-wc-city-select' ),
 		'TIRE' => __( 'Tibesti Region', 'ry-wc-city-select' ),
+		'VIND' => __( 'Ville de NDjamena', 'ry-wc-city-select' ),
 	]
 ];

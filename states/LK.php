@@ -3,7 +3,7 @@
  * Democratic Socialist Republic of Sri Lan states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -40,8 +40,8 @@ return [
 		'NOCEPR' => __( 'North Central Province', 'ry-wc-city-select' ),
 		'NOWEPR' => __( 'North Western Province', 'ry-wc-city-select' ),
 		'NOPR' => __( 'Northern Province', 'ry-wc-city-select' ),
-		'PRSA' => __( 'Province of Sabaragamuwa', 'ry-wc-city-select' ),
 		'PRUV' => __( 'Province of Uva', 'ry-wc-city-select' ),
+		'SAPR' => __( 'Sabaragamuwa Province', 'ry-wc-city-select' ),
 		'SOPR' => __( 'Southern Province', 'ry-wc-city-select' ),
 		'WEPR' => __( 'Western Province', 'ry-wc-city-select' ),
 	]

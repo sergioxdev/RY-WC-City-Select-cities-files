@@ -3,7 +3,7 @@
  * Kingdom of Saudi Arabia places
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -77,7 +77,7 @@ return [
 		_x('Al Kamil', 'MAPR', 'ry-wc-city-select'),
 		_x('Al Khurmah', 'MAPR', 'ry-wc-city-select'),
 		_x('Al Lith', 'MAPR', 'ry-wc-city-select'),
-		_x('Al Qunfidhah', 'MAPR', 'ry-wc-city-select'),
+		_x('Al Qunfudhah', 'MAPR', 'ry-wc-city-select'),
 		_x('At Taif', 'MAPR', 'ry-wc-city-select'),
 		_x('Ghran', 'MAPR', 'ry-wc-city-select'),
 		_x('Jiddah', 'MAPR', 'ry-wc-city-select'),

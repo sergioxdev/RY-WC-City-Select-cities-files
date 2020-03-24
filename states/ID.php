@@ -3,7 +3,7 @@
  * Republic of Indonesia states
  *
  * @author   Sergio Caramanno
- * @version  2020-03-20
+ * @version  2020-03-24
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Data from: http://geonames.org/
  */
@@ -12,7 +12,8 @@ return [
 	'ID' => [
 		'EAHARE' => __( 'East Halmahera Regency', 'ry-wc-city-select' ),
 		'KAACBADA' => __( 'Kabupaten Aceh Barat Daya', 'ry-wc-city-select' ),
-		'KABA' => __( 'Kabupaten Banggai', 'ry-wc-city-select' ),
+		'KABA' => __( 'Kabupaten Badung', 'ry-wc-city-select' ),
+		'KABA2' => __( 'Kabupaten Banggai', 'ry-wc-city-select' ),
 		'KABAKE' => __( 'Kabupaten Banggai Kepulauan', 'ry-wc-city-select' ),
 		'KABALA' => __( 'Kabupaten Banggai Laut', 'ry-wc-city-select' ),
 		'KABEME' => __( 'Kabupaten Bener Meriah', 'ry-wc-city-select' ),
@@ -24,6 +25,7 @@ return [
 		'KAFLTI' => __( 'Kabupaten Flores Timur', 'ry-wc-city-select' ),
 		'KAHABA' => __( 'Kabupaten Halmahera Barat', 'ry-wc-city-select' ),
 		'KAKA' => __( 'Kabupaten Karawang', 'ry-wc-city-select' ),
+		'KAKUPR' => __( 'Kabupaten Kulon Progo', 'ry-wc-city-select' ),
 		'KALOBA' => __( 'Kabupaten Lombok Barat', 'ry-wc-city-select' ),
 		'KALOTE' => __( 'Kabupaten Lombok Tengah', 'ry-wc-city-select' ),
 		'KALOUT' => __( 'Kabupaten Lombok Utara', 'ry-wc-city-select' ),
@@ -43,6 +45,7 @@ return [
 		'KATO' => __( 'Kabupaten Toli-Toli', 'ry-wc-city-select' ),
 		'KOBA' => __( 'Kota Batam', 'ry-wc-city-select' ),
 		'KOBI' => __( 'Kota Bima', 'ry-wc-city-select' ),
+		'KODE' => __( 'Kota Denpasar', 'ry-wc-city-select' ),
 		'KOPA' => __( 'Kota Palu', 'ry-wc-city-select' ),
 		'LARE' => __( 'Lahat Regency', 'ry-wc-city-select' ),
 		'MORE' => __( 'Morowali Regency', 'ry-wc-city-select' ),
@@ -51,12 +54,14 @@ return [
 		'BA' => __( 'Banten', 'ry-wc-city-select' ),
 		'DAISYO' => __( 'Daerah Istimewa Yogyakarta', 'ry-wc-city-select' ),
 		'DAKHIBJA' => __( 'Daerah Khusus Ibukota Jakarta', 'ry-wc-city-select' ),
+		'EANUTE' => __( 'East Nusa Tenggara', 'ry-wc-city-select' ),
 		'JABA' => __( 'Jawa Barat', 'ry-wc-city-select' ),
 		'JATI' => __( 'Jawa Timur', 'ry-wc-city-select' ),
 		'KEBABE' => __( 'Kepulauan Bangka Belitung', 'ry-wc-city-select' ),
 		'NAACDAPR' => __( 'Nanggroe Aceh Darussalam Province', 'ry-wc-city-select' ),
 		'NOKA' => __( 'North Kalimantan', 'ry-wc-city-select' ),
 		'NOMA' => __( 'North Maluku', 'ry-wc-city-select' ),
+		'NOSU' => __( 'North Sumatra', 'ry-wc-city-select' ),
 		'PRBE' => __( 'Propinsi Bengkulu', 'ry-wc-city-select' ),
 		'PRBA' => __( 'Provinsi Bali', 'ry-wc-city-select' ),
 		'PRGO' => __( 'Provinsi Gorontalo', 'ry-wc-city-select' ),
@@ -69,7 +74,6 @@ return [
 		'PRKERI' => __( 'Provinsi Kepulauan Riau', 'ry-wc-city-select' ),
 		'PRLA' => __( 'Provinsi Lampung', 'ry-wc-city-select' ),
 		'PRMA' => __( 'Provinsi Maluku', 'ry-wc-city-select' ),
-		'PRNUTETI' => __( 'Provinsi Nusa Tenggara Timur', 'ry-wc-city-select' ),
 		'PRPA' => __( 'Provinsi Papua', 'ry-wc-city-select' ),
 		'PRPABA' => __( 'Provinsi Papua Barat', 'ry-wc-city-select' ),
 		'PRRI' => __( 'Provinsi Riau', 'ry-wc-city-select' ),
@@ -79,7 +83,6 @@ return [
 		'SUTE' => __( 'Sulawesi Tenggara', 'ry-wc-city-select' ),
 		'SUUT' => __( 'Sulawesi Utara', 'ry-wc-city-select' ),
 		'SUSE' => __( 'Sumatera Selatan', 'ry-wc-city-select' ),
-		'SUUT2' => __( 'Sumatera Utara', 'ry-wc-city-select' ),
 		'WENUTE' => __( 'West Nusa Tenggara', 'ry-wc-city-select' ),
 		'SUTE2' => __( 'Sulawesi Tengah', 'ry-wc-city-select' ),
 	]
