@@ -188,11 +188,7 @@ return [
 	],
 	'BEKH' => [
 		_x('Beni Khalled Nord', 'BEKH', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Beni Khalled Sud (Toumi)', 'BEKH', 'ry-wc-city-select'),
-=======
-		_x('Beni Khalled Sud (Toumi)','BEKH', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Bir Drassen', 'BEKH', 'ry-wc-city-select'),
 		_x('Bni Khaled Echarkya', 'BEKH', 'ry-wc-city-select'),
 		_x('Kobba El Kebira', 'BEKH', 'ry-wc-city-select'),
@@ -524,28 +520,17 @@ return [
 		_x('El Amazir', 'DEGASU', 'ry-wc-city-select'),
 		_x('El Medou', 'DEGASU', 'ry-wc-city-select'),
 		_x('Limaoua', 'DEGASU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Secteur (5)', 'DEGASU', 'ry-wc-city-select'),
-=======
-		_x('Secteur (5)','DEGASU', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sidi Boulbaba', 'DEGASU', 'ry-wc-city-select'),
 		_x('Teboulbou', 'DEGASU', 'ry-wc-city-select'),
 		_x('Zrig Eddakhlania', 'DEGASU', 'ry-wc-city-select'),
 	],
 	'DEGAVI' => [
 		_x('Chott Sidi Abdesselam', 'DEGAVI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Secteur (1)', 'DEGAVI', 'ry-wc-city-select'),
 		_x('Secteur (2)', 'DEGAVI', 'ry-wc-city-select'),
 		_x('Secteur (3)', 'DEGAVI', 'ry-wc-city-select'),
 		_x('Secteur (4)', 'DEGAVI', 'ry-wc-city-select'),
-=======
-		_x('Secteur (1)','DEGAVI', 'ry-wc-city-select'),
-		_x('Secteur (2)','DEGAVI', 'ry-wc-city-select'),
-		_x('Secteur (3)','DEGAVI', 'ry-wc-city-select'),
-		_x('Secteur (4)','DEGAVI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'DEJE' => [
 		_x('Chaouat', 'DEJE', 'ry-wc-city-select'),
@@ -612,20 +597,12 @@ return [
 	'DEME' => [
 		_x('Jawhara', 'DEME', 'ry-wc-city-select'),
 		_x('Megrine Chaker', 'DEME', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Megrine Chaker(2)', 'DEME', 'ry-wc-city-select'),
-=======
-		_x('Megrine Chaker(2)','DEME', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Megrine Riadh', 'DEME', 'ry-wc-city-select'),
 		_x('Megrine Superieure', 'DEME', 'ry-wc-city-select'),
 		_x('Menzel Mabrouk', 'DEME', 'ry-wc-city-select'),
 		_x('Sidi Rezig', 'DEME', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Sidi Rezig (2)', 'DEME', 'ry-wc-city-select'),
-=======
-		_x('Sidi Rezig (2)','DEME', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'DEMEBEAB' => [
 		_x('Ennadhour', 'DEMEBEAB', 'ry-wc-city-select'),
@@ -686,13 +663,8 @@ return [
 	'DENOME' => [
 		_x('El Yasminet', 'DENOME', 'ry-wc-city-select'),
 		_x('Errabta', 'DENOME', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('La Nouvelle Medina(1)', 'DENOME', 'ry-wc-city-select'),
 		_x('La Nouvelle Medina(2)', 'DENOME', 'ry-wc-city-select'),
-=======
-		_x('La Nouvelle Medina(1)','DENOME', 'ry-wc-city-select'),
-		_x('La Nouvelle Medina(2)','DENOME', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sidi Mosbah', 'DENOME', 'ry-wc-city-select'),
 	],
 	'DH' => [
@@ -816,13 +788,8 @@ return [
 		_x('El Ksar', 'HA', 'ry-wc-city-select'),
 		_x('Farhat Hached', 'HA', 'ry-wc-city-select'),
 		_x('Habib Thameur', 'HA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Secteur Est (1)', 'HA', 'ry-wc-city-select'),
 		_x('Secteur Est (2)', 'HA', 'ry-wc-city-select'),
-=======
-		_x('Secteur Est (1)','HA', 'ry-wc-city-select'),
-		_x('Secteur Est (2)','HA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Secteur Nord', 'HA', 'ry-wc-city-select'),
 		_x('Secteur Ouest', 'HA', 'ry-wc-city-select'),
 		_x('Secteur Sud', 'HA', 'ry-wc-city-select'),
@@ -873,19 +840,11 @@ return [
 	],
 	'KA' => [
 		_x('Cite Ennour', 'KA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('El Kabaria (1)', 'KA', 'ry-wc-city-select'),
 		_x('El Kabaria (2)', 'KA', 'ry-wc-city-select'),
 		_x('El Kabaria (3)', 'KA', 'ry-wc-city-select'),
 		_x('El Kabaria (4)', 'KA', 'ry-wc-city-select'),
 		_x('El Mourouj (2)', 'KA', 'ry-wc-city-select'),
-=======
-		_x('El Kabaria (1)','KA', 'ry-wc-city-select'),
-		_x('El Kabaria (2)','KA', 'ry-wc-city-select'),
-		_x('El Kabaria (3)','KA', 'ry-wc-city-select'),
-		_x('El Kabaria (4)','KA', 'ry-wc-city-select'),
-		_x('El Mourouj (2)','KA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ibn Sina 1', 'KA', 'ry-wc-city-select'),
 		_x('Ibn Sina 2', 'KA', 'ry-wc-city-select'),
 	],
@@ -909,11 +868,7 @@ return [
 		_x('01 Juin', 'ME', 'ry-wc-city-select'),
 		_x('El Fath', 'ME', 'ry-wc-city-select'),
 		_x('El Manar', 'ME', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('El Manar (1)', 'ME', 'ry-wc-city-select'),
-=======
-		_x('El Manar (1)','ME', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('El Menzah', 'ME', 'ry-wc-city-select'),
 	],
 	'MI' => [
@@ -933,17 +888,10 @@ return [
 	],
 	'MO' => [
 		_x('Bir Kassaa', 'MO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('El Mourouj (1)', 'MO', 'ry-wc-city-select'),
 		_x('El Mourouj (3)', 'MO', 'ry-wc-city-select'),
 		_x('El Mourouj (4)', 'MO', 'ry-wc-city-select'),
 		_x('El Mourouj (5)', 'MO', 'ry-wc-city-select'),
-=======
-		_x('El Mourouj (1)','MO', 'ry-wc-city-select'),
-		_x('El Mourouj (3)','MO', 'ry-wc-city-select'),
-		_x('El Mourouj (4)','MO', 'ry-wc-city-select'),
-		_x('El Mourouj (5)','MO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Farhat Hached', 'MO', 'ry-wc-city-select'),
 	],
 	'OM' => [
@@ -984,15 +932,9 @@ return [
 	],
 	'ET' => [
 		_x('El Hadika', 'ET', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ettahrir (1)', 'ET', 'ry-wc-city-select'),
 		_x('Ettahrir (2)', 'ET', 'ry-wc-city-select'),
 		_x('Ettahrir (3)', 'ET', 'ry-wc-city-select'),
-=======
-		_x('Ettahrir (1)','ET', 'ry-wc-city-select'),
-		_x('Ettahrir (2)','ET', 'ry-wc-city-select'),
-		_x('Ettahrir (3)','ET', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ettahrir Superieur', 'ET', 'ry-wc-city-select'),
 	],
 	'EZ' => [
@@ -1002,21 +944,12 @@ return [
 		_x('Ez-Zahra Ville', 'EZ', 'ry-wc-city-select'),
 	],
 	'EZ2' => [
-<<<<<<< HEAD
 		_x('Ezzouhour Est (2)', 'EZ2', 'ry-wc-city-select'),
 		_x('Ezzouhour Est(1)', 'EZ2', 'ry-wc-city-select'),
 		_x('Ezzouhour Ouest (1)', 'EZ2', 'ry-wc-city-select'),
 		_x('Ezzouhour Ouest (2)', 'EZ2', 'ry-wc-city-select'),
 		_x('Ezzouhour Ouest (3)', 'EZ2', 'ry-wc-city-select'),
 		_x('Ezzouhour Ouest (4)', 'EZ2', 'ry-wc-city-select'),
-=======
-		_x('Ezzouhour Est (2)','EZ2', 'ry-wc-city-select'),
-		_x('Ezzouhour Est(1)','EZ2', 'ry-wc-city-select'),
-		_x('Ezzouhour Ouest (1)','EZ2', 'ry-wc-city-select'),
-		_x('Ezzouhour Ouest (2)','EZ2', 'ry-wc-city-select'),
-		_x('Ezzouhour Ouest (3)','EZ2', 'ry-wc-city-select'),
-		_x('Ezzouhour Ouest (4)','EZ2', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'FE' => [
 		_x('Abdeladhim', 'FE', 'ry-wc-city-select'),
@@ -1869,17 +1802,10 @@ return [
 		_x('Cite Etthaoura', 'MUMARU', 'ry-wc-city-select'),
 		_x('Cite Jardins', 'MUMARU', 'ry-wc-city-select'),
 		_x('El Medina', 'MUMARU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('En -Najah (2)', 'MUMARU', 'ry-wc-city-select'),
 		_x('En-Najah (1)', 'MUMARU', 'ry-wc-city-select'),
 		_x('Gabtna (1)', 'MUMARU', 'ry-wc-city-select'),
 		_x('Gabtna (2)', 'MUMARU', 'ry-wc-city-select'),
-=======
-		_x('En -Najah (2)','MUMARU', 'ry-wc-city-select'),
-		_x('En-Najah (1)','MUMARU', 'ry-wc-city-select'),
-		_x('Gabtna (1)','MUMARU', 'ry-wc-city-select'),
-		_x('Gabtna (2)','MUMARU', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'MUQU' => [
 		_x('Azmour', 'MUQU', 'ry-wc-city-select'),
@@ -2266,11 +2192,7 @@ return [
 	],
 	'SIBOAL' => [
 		_x('Ech-Chouicha', 'SIBOAL', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Essed Nord (Essateh)', 'SIBOAL', 'ry-wc-city-select'),
-=======
-		_x('Essed Nord (Essateh)','SIBOAL', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Essed Sud', 'SIBOAL', 'ry-wc-city-select'),
 		_x('Mehadhba', 'SIBOAL', 'ry-wc-city-select'),
 		_x('Menzel El Mahatta', 'SIBOAL', 'ry-wc-city-select'),
@@ -2297,13 +2219,8 @@ return [
 		_x('Ennasr', 'SIBOOU', 'ry-wc-city-select'),
 		_x('Ennour', 'SIBOOU', 'ry-wc-city-select'),
 		_x('Ettouila', 'SIBOOU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Oum El Adham (1)', 'SIBOOU', 'ry-wc-city-select'),
 		_x('Oum El Adham (2)', 'SIBOOU', 'ry-wc-city-select'),
-=======
-		_x('Oum El Adham (1)','SIBOOU', 'ry-wc-city-select'),
-		_x('Oum El Adham (2)','SIBOOU', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sadakia', 'SIBOOU', 'ry-wc-city-select'),
 		_x('Sidi Bouzid Ouest', 'SIBOOU', 'ry-wc-city-select'),
 		_x('Sidi Bouzid Ouest', 'SIBOOU', 'ry-wc-city-select'),

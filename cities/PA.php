@@ -216,11 +216,7 @@ return [
 		_x('Corregimiento Las Lajas', 'DICH2', 'ry-wc-city-select'),
 		_x('Corregimiento Nueva Gorgona', 'DICH2', 'ry-wc-city-select'),
 		_x('Corregimiento Punta Chame', 'DICH2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Corregimiento Sajalices (Chame)', 'DICH2', 'ry-wc-city-select'),
-=======
-		_x('Corregimiento Sajalices (Chame)','DICH2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Corregimiento Sora', 'DICH2', 'ry-wc-city-select'),
 	],
 	'DICH3' => [

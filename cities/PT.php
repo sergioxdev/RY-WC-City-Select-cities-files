@@ -11,13 +11,8 @@
 return [
 	'PT' => [
 	'AB' => [
-<<<<<<< HEAD
 		_x('Abrantes (Sao Joao)', 'AB', 'ry-wc-city-select'),
 		_x('Abrantes (Sao Vicente)', 'AB', 'ry-wc-city-select'),
-=======
-		_x('Abrantes (Sao Joao)','AB', 'ry-wc-city-select'),
-		_x('Abrantes (Sao Vicente)','AB', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Aldeia do Mato', 'AB', 'ry-wc-city-select'),
 		_x('Alferrarede', 'AB', 'ry-wc-city-select'),
 		_x('Alvega', 'AB', 'ry-wc-city-select'),
@@ -74,21 +69,12 @@ return [
 		_x('Valverde', 'AGBE', 'ry-wc-city-select'),
 	],
 	'AL' => [
-<<<<<<< HEAD
 		_x('Alandroal (Nossa Senhora da Conceicao)', 'AL', 'ry-wc-city-select'),
 		_x('Capelins (Santo Antonio)', 'AL', 'ry-wc-city-select'),
 		_x('Juromenha (Nossa Senhora do Loreto)', 'AL', 'ry-wc-city-select'),
 		_x('Santiago Maior', 'AL', 'ry-wc-city-select'),
 		_x('Sao Bras Dos Matos (Mina do Bugalho)', 'AL', 'ry-wc-city-select'),
 		_x('Terena (Sao Pedro)', 'AL', 'ry-wc-city-select'),
-=======
-		_x('Alandroal (Nossa Senhora da Conceicao)','AL', 'ry-wc-city-select'),
-		_x('Capelins (Santo Antonio)','AL', 'ry-wc-city-select'),
-		_x('Juromenha (Nossa Senhora do Loreto)','AL', 'ry-wc-city-select'),
-		_x('Santiago Maior', 'AL', 'ry-wc-city-select'),
-		_x('Sao Bras Dos Matos (Mina do Bugalho)','AL', 'ry-wc-city-select'),
-		_x('Terena (Sao Pedro)','AL', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'AL2' => [
 		_x('Albergaria-A-Velha', 'AL2', 'ry-wc-city-select'),
@@ -108,13 +94,8 @@ return [
 		_x('Paderne', 'AL3', 'ry-wc-city-select'),
 	],
 	'ALSA' => [
-<<<<<<< HEAD
 		_x('Alcacer do Sal (Santa Maria do Castelo)', 'ALSA', 'ry-wc-city-select'),
 		_x('Alcacer do Sal (Santiago)', 'ALSA', 'ry-wc-city-select'),
-=======
-		_x('Alcacer do Sal (Santa Maria do Castelo)','ALSA', 'ry-wc-city-select'),
-		_x('Alcacer do Sal (Santiago)','ALSA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Comporta', 'ALSA', 'ry-wc-city-select'),
 		_x('Santa Susana', 'ALSA', 'ry-wc-city-select'),
 		_x('Sao Martinho', 'ALSA', 'ry-wc-city-select'),
@@ -135,13 +116,8 @@ return [
 	'AL5' => [
 		_x('Alcobaca', 'AL5', 'ry-wc-city-select'),
 		_x('Alfeizerao', 'AL5', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Aljubarrota (Prazeres)', 'AL5', 'ry-wc-city-select'),
 		_x('Aljubarrota (Sao Vicente)', 'AL5', 'ry-wc-city-select'),
-=======
-		_x('Aljubarrota (Prazeres)','AL5', 'ry-wc-city-select'),
-		_x('Aljubarrota (Sao Vicente)','AL5', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Alpedriz', 'AL5', 'ry-wc-city-select'),
 		_x('Barrio', 'AL5', 'ry-wc-city-select'),
 		_x('Benedita', 'AL5', 'ry-wc-city-select'),
@@ -173,13 +149,8 @@ return [
 		_x('Abrigada', 'AL8', 'ry-wc-city-select'),
 		_x('Aldeia Galega da Merceana', 'AL8', 'ry-wc-city-select'),
 		_x('Aldeia Gavinha', 'AL8', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Alenquer (Santo Estevao)', 'AL8', 'ry-wc-city-select'),
 		_x('Alenquer (Triana)', 'AL8', 'ry-wc-city-select'),
-=======
-		_x('Alenquer (Santo Estevao)','AL8', 'ry-wc-city-select'),
-		_x('Alenquer (Triana)','AL8', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cabanas de Torres', 'AL8', 'ry-wc-city-select'),
 		_x('Cadafais', 'AL8', 'ry-wc-city-select'),
 		_x('Carnota', 'AL8', 'ry-wc-city-select'),
@@ -346,11 +317,7 @@ return [
 	'AM2' => [
 		_x('Aboadela', 'AM2', 'ry-wc-city-select'),
 		_x('Aboim', 'AM2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Amarante (Sao Goncalo)', 'AM2', 'ry-wc-city-select'),
-=======
-		_x('Amarante (Sao Goncalo)','AM2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ansiaes', 'AM2', 'ry-wc-city-select'),
 		_x('Ataide', 'AM2', 'ry-wc-city-select'),
 		_x('Bustelo', 'AM2', 'ry-wc-city-select'),
@@ -360,24 +327,15 @@ return [
 		_x('Carvalho de Rei', 'AM2', 'ry-wc-city-select'),
 		_x('Cepelos', 'AM2', 'ry-wc-city-select'),
 		_x('Chapa', 'AM2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Figueiro (Santa Cristina)', 'AM2', 'ry-wc-city-select'),
 		_x('Figueiro (Santiago)', 'AM2', 'ry-wc-city-select'),
-=======
-		_x('Figueiro (Santa Cristina)','AM2', 'ry-wc-city-select'),
-		_x('Figueiro (Santiago)','AM2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Fregim', 'AM2', 'ry-wc-city-select'),
 		_x('Freixo de Baixo', 'AM2', 'ry-wc-city-select'),
 		_x('Freixo de Cima', 'AM2', 'ry-wc-city-select'),
 		_x('Fridao', 'AM2', 'ry-wc-city-select'),
 		_x('Gatao', 'AM2', 'ry-wc-city-select'),
 		_x('Gondar', 'AM2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Gouveia (Sao Simao)', 'AM2', 'ry-wc-city-select'),
-=======
-		_x('Gouveia (Sao Simao)','AM2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Jazente', 'AM2', 'ry-wc-city-select'),
 		_x('Lomba', 'AM2', 'ry-wc-city-select'),
 		_x('Louredo', 'AM2', 'ry-wc-city-select'),
@@ -403,11 +361,7 @@ return [
 		_x('Barreiros', 'AM3', 'ry-wc-city-select'),
 		_x('Besteiros', 'AM3', 'ry-wc-city-select'),
 		_x('Bico', 'AM3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Bouro (Santa Maria)', 'AM3', 'ry-wc-city-select'),
-=======
-		_x('Bouro (Santa Maria)','AM3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Bouro Santa Marta', 'AM3', 'ry-wc-city-select'),
 		_x('Caires', 'AM3', 'ry-wc-city-select'),
 		_x('Caldelas', 'AM3', 'ry-wc-city-select'),
@@ -447,17 +401,10 @@ return [
 	],
 	'ANHE' => [
 		_x('Altares', 'ANHE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Angra (Nossa Senhora da Conceicao)', 'ANHE', 'ry-wc-city-select'),
 		_x('Angra (Santa Luzia)', 'ANHE', 'ry-wc-city-select'),
 		_x('Angra (Sao Pedro)', 'ANHE', 'ry-wc-city-select'),
 		_x('Angra (Se)', 'ANHE', 'ry-wc-city-select'),
-=======
-		_x('Angra (Nossa Senhora da Conceicao)','ANHE', 'ry-wc-city-select'),
-		_x('Angra (Santa Luzia)','ANHE', 'ry-wc-city-select'),
-		_x('Angra (Sao Pedro)','ANHE', 'ry-wc-city-select'),
-		_x('Angra (Se)','ANHE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cinco Ribeiras', 'ANHE', 'ry-wc-city-select'),
 		_x('Doze Ribeiras', 'ANHE', 'ry-wc-city-select'),
 		_x('Feteira', 'ANHE', 'ry-wc-city-select'),
@@ -487,13 +434,8 @@ return [
 		_x('Aboim das Chocas', 'ARVA', 'ry-wc-city-select'),
 		_x('Aguia', 'ARVA', 'ry-wc-city-select'),
 		_x('Alvora', 'ARVA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Arcos de Valdevez (Sao Paio)', 'ARVA', 'ry-wc-city-select'),
 		_x('Arcos de Valdevez (Sao Salvador)', 'ARVA', 'ry-wc-city-select'),
-=======
-		_x('Arcos de Valdevez (Sao Paio)','ARVA', 'ry-wc-city-select'),
-		_x('Arcos de Valdevez (Sao Salvador)','ARVA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Azere', 'ARVA', 'ry-wc-city-select'),
 		_x('Cabana Maior', 'ARVA', 'ry-wc-city-select'),
 		_x('Cabreiro', 'ARVA', 'ry-wc-city-select'),
@@ -508,26 +450,16 @@ return [
 		_x('Gondoriz', 'ARVA', 'ry-wc-city-select'),
 		_x('Grade', 'ARVA', 'ry-wc-city-select'),
 		_x('Guilhadeses', 'ARVA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Jolda (Madalena)', 'ARVA', 'ry-wc-city-select'),
 		_x('Jolda (Sao Paio)', 'ARVA', 'ry-wc-city-select'),
-=======
-		_x('Jolda (Madalena)','ARVA', 'ry-wc-city-select'),
-		_x('Jolda (Sao Paio)','ARVA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Loureda', 'ARVA', 'ry-wc-city-select'),
 		_x('Mei', 'ARVA', 'ry-wc-city-select'),
 		_x('Miranda', 'ARVA', 'ry-wc-city-select'),
 		_x('Monte Redondo', 'ARVA', 'ry-wc-city-select'),
 		_x('Oliveira', 'ARVA', 'ry-wc-city-select'),
 		_x('Paco', 'ARVA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Padreiro (Salvador)', 'ARVA', 'ry-wc-city-select'),
 		_x('Padreiro (Santa Cristina)', 'ARVA', 'ry-wc-city-select'),
-=======
-		_x('Padreiro (Salvador)','ARVA', 'ry-wc-city-select'),
-		_x('Padreiro (Santa Cristina)','ARVA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Padroso', 'ARVA', 'ry-wc-city-select'),
 		_x('Parada', 'ARVA', 'ry-wc-city-select'),
 		_x('Portela', 'ARVA', 'ry-wc-city-select'),
@@ -545,13 +477,8 @@ return [
 		_x('Soajo', 'ARVA', 'ry-wc-city-select'),
 		_x('Souto', 'ARVA', 'ry-wc-city-select'),
 		_x('Tabaco', 'ARVA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Tavora (Santa Maria)', 'ARVA', 'ry-wc-city-select'),
 		_x('Tavora (Sao Vicente)', 'ARVA', 'ry-wc-city-select'),
-=======
-		_x('Tavora (Santa Maria)','ARVA', 'ry-wc-city-select'),
-		_x('Tavora (Sao Vicente)','ARVA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vale', 'ARVA', 'ry-wc-city-select'),
 		_x('Vila Fonche', 'ARVA', 'ry-wc-city-select'),
 		_x('Vilela', 'ARVA', 'ry-wc-city-select'),
@@ -621,11 +548,7 @@ return [
 	],
 	'AR4' => [
 		_x('Arraiolos', 'AR4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Gafanhoeira (Sao Pedro)', 'AR4', 'ry-wc-city-select'),
-=======
-		_x('Gafanhoeira (Sao Pedro)','AR4', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Igrejinha', 'AR4', 'ry-wc-city-select'),
 		_x('Sabugueiro', 'AR4', 'ry-wc-city-select'),
 		_x('Santa Justa', 'AR4', 'ry-wc-city-select'),
@@ -682,11 +605,7 @@ return [
 	],
 	'BA' => [
 		_x('Ancede', 'BA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Baiao (Santa Leocadia)', 'BA', 'ry-wc-city-select'),
-=======
-		_x('Baiao (Santa Leocadia)','BA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Campelo', 'BA', 'ry-wc-city-select'),
 		_x('Frende', 'BA', 'ry-wc-city-select'),
 		_x('Gestaco', 'BA', 'ry-wc-city-select'),
@@ -715,13 +634,8 @@ return [
 		_x('Aldreu', 'BA2', 'ry-wc-city-select'),
 		_x('Alheira', 'BA2', 'ry-wc-city-select'),
 		_x('Alvelos', 'BA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Alvito (Sao Martinho)', 'BA2', 'ry-wc-city-select'),
 		_x('Alvito (Sao Pedro)', 'BA2', 'ry-wc-city-select'),
-=======
-		_x('Alvito (Sao Martinho)','BA2', 'ry-wc-city-select'),
-		_x('Alvito (Sao Pedro)','BA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Arcozelo', 'BA2', 'ry-wc-city-select'),
 		_x('Areias', 'BA2', 'ry-wc-city-select'),
 		_x('Areias de Vilar', 'BA2', 'ry-wc-city-select'),
@@ -729,13 +643,8 @@ return [
 		_x('Barcelinhos', 'BA2', 'ry-wc-city-select'),
 		_x('Barcelos', 'BA2', 'ry-wc-city-select'),
 		_x('Barqueiros', 'BA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Bastuco (Santo Estevao)', 'BA2', 'ry-wc-city-select'),
 		_x('Bastuco (Sao Joao)', 'BA2', 'ry-wc-city-select'),
-=======
-		_x('Bastuco (Santo Estevao)','BA2', 'ry-wc-city-select'),
-		_x('Bastuco (Sao Joao)','BA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cambeses', 'BA2', 'ry-wc-city-select'),
 		_x('Campo', 'BA2', 'ry-wc-city-select'),
 		_x('Carapecos', 'BA2', 'ry-wc-city-select'),
@@ -756,13 +665,8 @@ return [
 		_x('Fonte Coberta', 'BA2', 'ry-wc-city-select'),
 		_x('Fornelos', 'BA2', 'ry-wc-city-select'),
 		_x('Fragoso', 'BA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Galegos (Santa Maria)', 'BA2', 'ry-wc-city-select'),
 		_x('Galegos (Sao Martinho)', 'BA2', 'ry-wc-city-select'),
-=======
-		_x('Galegos (Santa Maria)','BA2', 'ry-wc-city-select'),
-		_x('Galegos (Sao Martinho)','BA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Gamil', 'BA2', 'ry-wc-city-select'),
 		_x('Gilmonde', 'BA2', 'ry-wc-city-select'),
 		_x('Goios', 'BA2', 'ry-wc-city-select'),
@@ -791,39 +695,23 @@ return [
 		_x('Pousa', 'BA2', 'ry-wc-city-select'),
 		_x('Quintiaes', 'BA2', 'ry-wc-city-select'),
 		_x('Remelhe', 'BA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rio Covo (Santa Eugenia)', 'BA2', 'ry-wc-city-select'),
 		_x('Rio Covo (Santa Eulalia)', 'BA2', 'ry-wc-city-select'),
-=======
-		_x('Rio Covo (Santa Eugenia)','BA2', 'ry-wc-city-select'),
-		_x('Rio Covo (Santa Eulalia)','BA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Roriz', 'BA2', 'ry-wc-city-select'),
 		_x('Sequeade', 'BA2', 'ry-wc-city-select'),
 		_x('Silva', 'BA2', 'ry-wc-city-select'),
 		_x('Silveiros', 'BA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Tamel (Santa Leocadia)', 'BA2', 'ry-wc-city-select'),
 		_x('Tamel (Sao Pedro Fins)', 'BA2', 'ry-wc-city-select'),
 		_x('Tamel (Sao Verissimo)', 'BA2', 'ry-wc-city-select'),
-=======
-		_x('Tamel (Santa Leocadia)','BA2', 'ry-wc-city-select'),
-		_x('Tamel (Sao Pedro Fins)','BA2', 'ry-wc-city-select'),
-		_x('Tamel (Sao Verissimo)','BA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Tregosa', 'BA2', 'ry-wc-city-select'),
 		_x('Ucha', 'BA2', 'ry-wc-city-select'),
 		_x('Varzea', 'BA2', 'ry-wc-city-select'),
 		_x('Viatodos', 'BA2', 'ry-wc-city-select'),
 		_x('Vila Boa', 'BA2', 'ry-wc-city-select'),
 		_x('Vila Cova', 'BA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vila Frescainha (Sao Martinho)', 'BA2', 'ry-wc-city-select'),
 		_x('Vila Frescainha (Sao Pedro)', 'BA2', 'ry-wc-city-select'),
-=======
-		_x('Vila Frescainha (Sao Martinho)','BA2', 'ry-wc-city-select'),
-		_x('Vila Frescainha (Sao Pedro)','BA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vila Seca', 'BA2', 'ry-wc-city-select'),
 		_x('Vilar de Figos', 'BA2', 'ry-wc-city-select'),
 		_x('Vilar do Monte', 'BA2', 'ry-wc-city-select'),
@@ -850,17 +738,10 @@ return [
 	'BE' => [
 		_x('Albernoa', 'BE', 'ry-wc-city-select'),
 		_x('Baleizao', 'BE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Beja (Salvador)', 'BE', 'ry-wc-city-select'),
 		_x('Beja (Santa Maria da Feira)', 'BE', 'ry-wc-city-select'),
 		_x('Beja (Santiago Maior)', 'BE', 'ry-wc-city-select'),
 		_x('Beja (Sao Joao Baptista)', 'BE', 'ry-wc-city-select'),
-=======
-		_x('Beja (Salvador)','BE', 'ry-wc-city-select'),
-		_x('Beja (Santa Maria da Feira)','BE', 'ry-wc-city-select'),
-		_x('Beja (Santiago Maior)','BE', 'ry-wc-city-select'),
-		_x('Beja (Sao Joao Baptista)','BE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Beringel', 'BE', 'ry-wc-city-select'),
 		_x('Cabeca Gorda', 'BE', 'ry-wc-city-select'),
 		_x('Mombeja', 'BE', 'ry-wc-city-select'),
@@ -895,13 +776,8 @@ return [
 		_x('Vale Covo', 'BO', 'ry-wc-city-select'),
 	],
 	'BO2' => [
-<<<<<<< HEAD
 		_x('Borba (Matriz)', 'BO2', 'ry-wc-city-select'),
 		_x('Borba (Sao Bartolomeu)', 'BO2', 'ry-wc-city-select'),
-=======
-		_x('Borba (Matriz)','BO2', 'ry-wc-city-select'),
-		_x('Borba (Sao Bartolomeu)','BO2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Orada', 'BO2', 'ry-wc-city-select'),
 		_x('Rio de Moinhos', 'BO2', 'ry-wc-city-select'),
 	],
@@ -928,7 +804,6 @@ return [
 		_x('Arcos', 'BR', 'ry-wc-city-select'),
 		_x('Arentim', 'BR', 'ry-wc-city-select'),
 		_x('Aveleda', 'BR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Braga (Cividade)', 'BR', 'ry-wc-city-select'),
 		_x('Braga (Maximinos)', 'BR', 'ry-wc-city-select'),
 		_x('Braga (Sao Joao do Souto)', 'BR', 'ry-wc-city-select'),
@@ -936,15 +811,6 @@ return [
 		_x('Braga (Sao Vicente)', 'BR', 'ry-wc-city-select'),
 		_x('Braga (Sao Vitor)', 'BR', 'ry-wc-city-select'),
 		_x('Braga (Se)', 'BR', 'ry-wc-city-select'),
-=======
-		_x('Braga (Cividade)','BR', 'ry-wc-city-select'),
-		_x('Braga (Maximinos)','BR', 'ry-wc-city-select'),
-		_x('Braga (Sao Joao do Souto)','BR', 'ry-wc-city-select'),
-		_x('Braga (Sao Jose de Sao Lazaro)','BR', 'ry-wc-city-select'),
-		_x('Braga (Sao Vicente)','BR', 'ry-wc-city-select'),
-		_x('Braga (Sao Vitor)','BR', 'ry-wc-city-select'),
-		_x('Braga (Se)','BR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cabreiros', 'BR', 'ry-wc-city-select'),
 		_x('Celeiros', 'BR', 'ry-wc-city-select'),
 		_x('Crespos', 'BR', 'ry-wc-city-select'),
@@ -953,13 +819,8 @@ return [
 		_x('Escudeiros', 'BR', 'ry-wc-city-select'),
 		_x('Espinho', 'BR', 'ry-wc-city-select'),
 		_x('Esporoes', 'BR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Este (Sao Mamede)', 'BR', 'ry-wc-city-select'),
 		_x('Este (Sao Pedro)', 'BR', 'ry-wc-city-select'),
-=======
-		_x('Este (Sao Mamede)','BR', 'ry-wc-city-select'),
-		_x('Este (Sao Pedro)','BR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ferreiros', 'BR', 'ry-wc-city-select'),
 		_x('Figueiredo', 'BR', 'ry-wc-city-select'),
 		_x('Fradelos', 'BR', 'ry-wc-city-select'),
@@ -971,38 +832,22 @@ return [
 		_x('Lamacaes', 'BR', 'ry-wc-city-select'),
 		_x('Lamas', 'BR', 'ry-wc-city-select'),
 		_x('Lomar', 'BR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Merelim (Sao Paio)', 'BR', 'ry-wc-city-select'),
 		_x('Merelim (Sao Pedro)', 'BR', 'ry-wc-city-select'),
-=======
-		_x('Merelim (Sao Paio)','BR', 'ry-wc-city-select'),
-		_x('Merelim (Sao Pedro)','BR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Mire de Tibaes', 'BR', 'ry-wc-city-select'),
 		_x('Morreira', 'BR', 'ry-wc-city-select'),
 		_x('Navarra', 'BR', 'ry-wc-city-select'),
 		_x('Nogueira', 'BR', 'ry-wc-city-select'),
 		_x('Nogueiro', 'BR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Oliveira (Sao Pedro)', 'BR', 'ry-wc-city-select'),
-=======
-		_x('Oliveira (Sao Pedro)','BR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Padim da Graca', 'BR', 'ry-wc-city-select'),
 		_x('Palmeira', 'BR', 'ry-wc-city-select'),
 		_x('Panoias', 'BR', 'ry-wc-city-select'),
 		_x('Parada de Tibaes', 'BR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Passos (Sao Juliao)', 'BR', 'ry-wc-city-select'),
 		_x('Pedralva', 'BR', 'ry-wc-city-select'),
 		_x('Penso (Santo Estevao)', 'BR', 'ry-wc-city-select'),
 		_x('Penso (Sao Vicente)', 'BR', 'ry-wc-city-select'),
-=======
-		_x('Passos (Sao Juliao)','BR', 'ry-wc-city-select'),
-		_x('Pedralva', 'BR', 'ry-wc-city-select'),
-		_x('Penso (Santo Estevao)','BR', 'ry-wc-city-select'),
-		_x('Penso (Sao Vicente)','BR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Pousada', 'BR', 'ry-wc-city-select'),
 		_x('Priscos', 'BR', 'ry-wc-city-select'),
 		_x('Real', 'BR', 'ry-wc-city-select'),
@@ -1023,13 +868,8 @@ return [
 		_x('Aveleda', 'BRMU', 'ry-wc-city-select'),
 		_x('Babe', 'BRMU', 'ry-wc-city-select'),
 		_x('Bacal', 'BRMU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Braganca (Santa Maria)', 'BRMU', 'ry-wc-city-select'),
 		_x('Braganca (Se)', 'BRMU', 'ry-wc-city-select'),
-=======
-		_x('Braganca (Santa Maria)','BRMU', 'ry-wc-city-select'),
-		_x('Braganca (Se)','BRMU', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Calvelhe', 'BRMU', 'ry-wc-city-select'),
 		_x('Carragosa', 'BRMU', 'ry-wc-city-select'),
 		_x('Carrazedo', 'BRMU', 'ry-wc-city-select'),
@@ -1109,11 +949,7 @@ return [
 		_x('A Dos Francos', 'CARA', 'ry-wc-city-select'),
 		_x('Alvorninha', 'CARA', 'ry-wc-city-select'),
 		_x('Caldas da Rainha (Nossa Senhora do Popul', 'CARA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Caldas da Rainha (Santo Onofre)', 'CARA', 'ry-wc-city-select'),
-=======
-		_x('Caldas da Rainha (Santo Onofre)','CARA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Carvalhal Benfeito', 'CARA', 'ry-wc-city-select'),
 		_x('Coto', 'CARA', 'ry-wc-city-select'),
 		_x('Foz do Arelho', 'CARA', 'ry-wc-city-select'),
@@ -1142,11 +978,7 @@ return [
 		_x('Norte Pequeno', 'CASAJO', 'ry-wc-city-select'),
 		_x('Ribeira Seca', 'CASAJO', 'ry-wc-city-select'),
 		_x('Santo Antao', 'CASAJO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Topo (Nossa Senhora do Rosario)', 'CASAJO', 'ry-wc-city-select'),
-=======
-		_x('Topo (Nossa Senhora do Rosario)','CASAJO', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'CALO' => [
 		_x('Camara de Lobos', 'CALO', 'ry-wc-city-select'),
@@ -1162,11 +994,7 @@ return [
 		_x('Arga de Sao Joao', 'CA3', 'ry-wc-city-select'),
 		_x('Argela', 'CA3', 'ry-wc-city-select'),
 		_x('Azevedo', 'CA3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Caminha (Matriz)', 'CA3', 'ry-wc-city-select'),
-=======
-		_x('Caminha (Matriz)','CA3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cristelo', 'CA3', 'ry-wc-city-select'),
 		_x('Dem', 'CA3', 'ry-wc-city-select'),
 		_x('Gondar', 'CA3', 'ry-wc-city-select'),
@@ -1346,13 +1174,8 @@ return [
 		_x('Cadafaz', 'CEBE', 'ry-wc-city-select'),
 		_x('Carrapichana', 'CEBE', 'ry-wc-city-select'),
 		_x('Casas do Soeiro', 'CEBE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Celorico (Santa Maria)', 'CEBE', 'ry-wc-city-select'),
 		_x('Celorico (Sao Pedro)', 'CEBE', 'ry-wc-city-select'),
-=======
-		_x('Celorico (Santa Maria)','CEBE', 'ry-wc-city-select'),
-		_x('Celorico (Sao Pedro)','CEBE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cortico da Serra', 'CEBE', 'ry-wc-city-select'),
 		_x('Forno Telheiro', 'CEBE', 'ry-wc-city-select'),
 		_x('Lajeosa do Mondego', 'CEBE', 'ry-wc-city-select'),
@@ -1372,13 +1195,8 @@ return [
 	'CEBA' => [
 		_x('Agilde', 'CEBA', 'ry-wc-city-select'),
 		_x('Arnoia', 'CEBA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Basto (Santa Tecla)', 'CEBA', 'ry-wc-city-select'),
 		_x('Basto (Sao Clemente)', 'CEBA', 'ry-wc-city-select'),
-=======
-		_x('Basto (Santa Tecla)','CEBA', 'ry-wc-city-select'),
-		_x('Basto (Sao Clemente)','CEBA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Borba de Montanha', 'CEBA', 'ry-wc-city-select'),
 		_x('Britelo', 'CEBA', 'ry-wc-city-select'),
 		_x('Cacarilhe', 'CEBA', 'ry-wc-city-select'),
@@ -1491,17 +1309,10 @@ return [
 		_x('Castelo Viegas', 'CO', 'ry-wc-city-select'),
 		_x('Ceira', 'CO', 'ry-wc-city-select'),
 		_x('Cernache', 'CO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Coimbra (Almedina)', 'CO', 'ry-wc-city-select'),
 		_x('Coimbra (Santa Cruz)', 'CO', 'ry-wc-city-select'),
 		_x('Coimbra (Sao Bartolomeu)', 'CO', 'ry-wc-city-select'),
 		_x('Coimbra (Se Nova)', 'CO', 'ry-wc-city-select'),
-=======
-		_x('Coimbra (Almedina)','CO', 'ry-wc-city-select'),
-		_x('Coimbra (Santa Cruz)','CO', 'ry-wc-city-select'),
-		_x('Coimbra (Sao Bartolomeu)','CO', 'ry-wc-city-select'),
-		_x('Coimbra (Se Nova)','CO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Eiras', 'CO', 'ry-wc-city-select'),
 		_x('Lamarosa', 'CO', 'ry-wc-city-select'),
 		_x('Ribeira de Frades', 'CO', 'ry-wc-city-select'),
@@ -1559,17 +1370,10 @@ return [
 		_x('Casegas', 'CO6', 'ry-wc-city-select'),
 		_x('Cortes do Meio', 'CO6', 'ry-wc-city-select'),
 		_x('Coutada', 'CO6', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Covilha (Conceicao)', 'CO6', 'ry-wc-city-select'),
 		_x('Covilha (Santa Maria)', 'CO6', 'ry-wc-city-select'),
 		_x('Covilha (Sao Martinho)', 'CO6', 'ry-wc-city-select'),
 		_x('Covilha (Sao Pedro)', 'CO6', 'ry-wc-city-select'),
-=======
-		_x('Covilha (Conceicao)','CO6', 'ry-wc-city-select'),
-		_x('Covilha (Santa Maria)','CO6', 'ry-wc-city-select'),
-		_x('Covilha (Sao Martinho)','CO6', 'ry-wc-city-select'),
-		_x('Covilha (Sao Pedro)','CO6', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Dominguizo', 'CO6', 'ry-wc-city-select'),
 		_x('Erada', 'CO6', 'ry-wc-city-select'),
 		_x('Ferro', 'CO6', 'ry-wc-city-select'),
@@ -1655,15 +1459,9 @@ return [
 	],
 	'ES4' => [
 		_x('Arcos', 'ES4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Estremoz (Santa Maria)', 'ES4', 'ry-wc-city-select'),
 		_x('Estremoz (Santo Andre)', 'ES4', 'ry-wc-city-select'),
 		_x('Evora Monte (Santa Maria)', 'ES4', 'ry-wc-city-select'),
-=======
-		_x('Estremoz (Santa Maria)','ES4', 'ry-wc-city-select'),
-		_x('Estremoz (Santo Andre)','ES4', 'ry-wc-city-select'),
-		_x('Evora Monte (Santa Maria)','ES4', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Gloria', 'ES4', 'ry-wc-city-select'),
 		_x('Santa Vitoria do Ameixial', 'ES4', 'ry-wc-city-select'),
 		_x('Santo Estevao', 'ES4', 'ry-wc-city-select'),
@@ -1677,13 +1475,8 @@ return [
 	'EV' => [
 		_x('Bacelo', 'EV', 'ry-wc-city-select'),
 		_x('Canaviais', 'EV', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Evora (Santo Antao)', 'EV', 'ry-wc-city-select'),
 		_x('Evora (Sao Mamede)', 'EV', 'ry-wc-city-select'),
-=======
-		_x('Evora (Santo Antao)','EV', 'ry-wc-city-select'),
-		_x('Evora (Sao Mamede)','EV', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Horta das Figueiras', 'EV', 'ry-wc-city-select'),
 		_x('Malagueira', 'EV', 'ry-wc-city-select'),
 		_x('Nossa Senhora da Boa Fe', 'EV', 'ry-wc-city-select'),
@@ -1707,13 +1500,8 @@ return [
 		_x('Ardegao', 'FA', 'ry-wc-city-select'),
 		_x('Armil', 'FA', 'ry-wc-city-select'),
 		_x('Arnozela', 'FA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Aroes (Santa Cristina)', 'FA', 'ry-wc-city-select'),
 		_x('Aroes (Sao Romao)', 'FA', 'ry-wc-city-select'),
-=======
-		_x('Aroes (Santa Cristina)','FA', 'ry-wc-city-select'),
-		_x('Aroes (Sao Romao)','FA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cepaes', 'FA', 'ry-wc-city-select'),
 		_x('Estoraos', 'FA', 'ry-wc-city-select'),
 		_x('Fafe', 'FA', 'ry-wc-city-select'),
@@ -1736,13 +1524,8 @@ return [
 		_x('Sao Gens', 'FA', 'ry-wc-city-select'),
 		_x('Seidoes', 'FA', 'ry-wc-city-select'),
 		_x('Serafao', 'FA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Silvares (Sao Clemente)', 'FA', 'ry-wc-city-select'),
 		_x('Silvares (Sao Martinho)', 'FA', 'ry-wc-city-select'),
-=======
-		_x('Silvares (Sao Clemente)','FA', 'ry-wc-city-select'),
-		_x('Silvares (Sao Martinho)','FA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Travassos', 'FA', 'ry-wc-city-select'),
 		_x('Varzea Cova', 'FA', 'ry-wc-city-select'),
 		_x('Vila Cova', 'FA', 'ry-wc-city-select'),
@@ -1751,13 +1534,8 @@ return [
 	'FA2' => [
 		_x('Conceicao', 'FA2', 'ry-wc-city-select'),
 		_x('Estoi', 'FA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Faro (Sao Pedro)', 'FA2', 'ry-wc-city-select'),
 		_x('Faro (Se)', 'FA2', 'ry-wc-city-select'),
-=======
-		_x('Faro (Sao Pedro)','FA2', 'ry-wc-city-select'),
-		_x('Faro (Se)','FA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Montenegro', 'FA2', 'ry-wc-city-select'),
 		_x('Santa Barbara de Nexe', 'FA2', 'ry-wc-city-select'),
 	],
@@ -1772,11 +1550,7 @@ return [
 		_x('Lagares', 'FE', 'ry-wc-city-select'),
 		_x('Lordelo', 'FE', 'ry-wc-city-select'),
 		_x('Macieira da Lixa', 'FE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Margaride (Santa Eulalia)', 'FE', 'ry-wc-city-select'),
-=======
-		_x('Margaride (Santa Eulalia)','FE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Moure', 'FE', 'ry-wc-city-select'),
 		_x('Pedreira', 'FE', 'ry-wc-city-select'),
 		_x('Penacova', 'FE', 'ry-wc-city-select'),
@@ -1797,11 +1571,7 @@ return [
 		_x('Vila Cova da Lixa', 'FE', 'ry-wc-city-select'),
 		_x('Vila Fria', 'FE', 'ry-wc-city-select'),
 		_x('Vila Verde', 'FE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vizela (Sao Jorge)', 'FE', 'ry-wc-city-select'),
-=======
-		_x('Vizela (Sao Jorge)','FE', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'FEAL' => [
 		_x('Alfundao', 'FEAL', 'ry-wc-city-select'),
@@ -1900,17 +1670,10 @@ return [
 		_x('Sao Saturnino', 'FR', 'ry-wc-city-select'),
 	],
 	'FU' => [
-<<<<<<< HEAD
 		_x('Funchal (Santa Luzia)', 'FU', 'ry-wc-city-select'),
 		_x('Funchal (Santa Maria Maior)', 'FU', 'ry-wc-city-select'),
 		_x('Funchal (Sao Pedro)', 'FU', 'ry-wc-city-select'),
 		_x('Funchal (Se)', 'FU', 'ry-wc-city-select'),
-=======
-		_x('Funchal (Santa Luzia)','FU', 'ry-wc-city-select'),
-		_x('Funchal (Santa Maria Maior)','FU', 'ry-wc-city-select'),
-		_x('Funchal (Sao Pedro)','FU', 'ry-wc-city-select'),
-		_x('Funchal (Se)','FU', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Imaculado Coracao de Maria', 'FU', 'ry-wc-city-select'),
 		_x('Monte', 'FU', 'ry-wc-city-select'),
 		_x('Santo Antonio', 'FU', 'ry-wc-city-select'),
@@ -1970,19 +1733,11 @@ return [
 		_x('Golega', 'GO2', 'ry-wc-city-select'),
 	],
 	'GO3' => [
-<<<<<<< HEAD
 		_x('Baguim do Monte (Rio Tinto)', 'GO3', 'ry-wc-city-select'),
 		_x('Covelo', 'GO3', 'ry-wc-city-select'),
 		_x('Fanzeres', 'GO3', 'ry-wc-city-select'),
 		_x('Foz do Sousa', 'GO3', 'ry-wc-city-select'),
 		_x('Gondomar (Sao Cosme)', 'GO3', 'ry-wc-city-select'),
-=======
-		_x('Baguim do Monte (Rio Tinto)','GO3', 'ry-wc-city-select'),
-		_x('Covelo', 'GO3', 'ry-wc-city-select'),
-		_x('Fanzeres', 'GO3', 'ry-wc-city-select'),
-		_x('Foz do Sousa', 'GO3', 'ry-wc-city-select'),
-		_x('Gondomar (Sao Cosme)','GO3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Jovim', 'GO3', 'ry-wc-city-select'),
 		_x('Lomba', 'GO3', 'ry-wc-city-select'),
 		_x('Medas', 'GO3', 'ry-wc-city-select'),
@@ -2044,17 +1799,10 @@ return [
 		_x('Gagos', 'GU', 'ry-wc-city-select'),
 		_x('Goncalo', 'GU', 'ry-wc-city-select'),
 		_x('Goncalo Bocas', 'GU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Guarda (Sao Vicente)', 'GU', 'ry-wc-city-select'),
 		_x('Guarda (Se)', 'GU', 'ry-wc-city-select'),
 		_x('Jarmelo (Sao Miguel)', 'GU', 'ry-wc-city-select'),
 		_x('Jarmelo (Sao Pedro)', 'GU', 'ry-wc-city-select'),
-=======
-		_x('Guarda (Sao Vicente)','GU', 'ry-wc-city-select'),
-		_x('Guarda (Se)','GU', 'ry-wc-city-select'),
-		_x('Jarmelo (Sao Miguel)','GU', 'ry-wc-city-select'),
-		_x('Jarmelo (Sao Pedro)','GU', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Joao Antao', 'GU', 'ry-wc-city-select'),
 		_x('Macainhas', 'GU', 'ry-wc-city-select'),
 		_x('Marmeleiro', 'GU', 'ry-wc-city-select'),
@@ -2087,22 +1835,15 @@ return [
 		_x('Vila Soeiro', 'GU', 'ry-wc-city-select'),
 	],
 	'GU2' => [
-<<<<<<< HEAD
 		_x('Abacao (Sao Tome)', 'GU2', 'ry-wc-city-select'),
 		_x('Airao (Santa Maria)', 'GU2', 'ry-wc-city-select'),
 		_x('Airao (Sao Joao Baptista)', 'GU2', 'ry-wc-city-select'),
-=======
-		_x('Abacao (Sao Tome)','GU2', 'ry-wc-city-select'),
-		_x('Airao (Santa Maria)','GU2', 'ry-wc-city-select'),
-		_x('Airao (Sao Joao Baptista)','GU2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Aldao', 'GU2', 'ry-wc-city-select'),
 		_x('Arosa', 'GU2', 'ry-wc-city-select'),
 		_x('Ataes', 'GU2', 'ry-wc-city-select'),
 		_x('Azurem', 'GU2', 'ry-wc-city-select'),
 		_x('Balazar', 'GU2', 'ry-wc-city-select'),
 		_x('Barco', 'GU2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Briteiros (Salvador)', 'GU2', 'ry-wc-city-select'),
 		_x('Briteiros (Santa Leocadia)', 'GU2', 'ry-wc-city-select'),
 		_x('Briteiros (Santo Estevao)', 'GU2', 'ry-wc-city-select'),
@@ -2111,16 +1852,6 @@ return [
 		_x('Calvos', 'GU2', 'ry-wc-city-select'),
 		_x('Candoso (Santiago)', 'GU2', 'ry-wc-city-select'),
 		_x('Candoso (Sao Martinho)', 'GU2', 'ry-wc-city-select'),
-=======
-		_x('Briteiros (Salvador)','GU2', 'ry-wc-city-select'),
-		_x('Briteiros (Santa Leocadia)','GU2', 'ry-wc-city-select'),
-		_x('Briteiros (Santo Estevao)','GU2', 'ry-wc-city-select'),
-		_x('Brito', 'GU2', 'ry-wc-city-select'),
-		_x('Caldelas', 'GU2', 'ry-wc-city-select'),
-		_x('Calvos', 'GU2', 'ry-wc-city-select'),
-		_x('Candoso (Santiago)','GU2', 'ry-wc-city-select'),
-		_x('Candoso (Sao Martinho)','GU2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Casteloes', 'GU2', 'ry-wc-city-select'),
 		_x('Conde', 'GU2', 'ry-wc-city-select'),
 		_x('Corvite', 'GU2', 'ry-wc-city-select'),
@@ -2136,15 +1867,9 @@ return [
 		_x('Gondar', 'GU2', 'ry-wc-city-select'),
 		_x('Gondomar', 'GU2', 'ry-wc-city-select'),
 		_x('Guardizela', 'GU2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Guimaraes (Oliveira do Castelo)', 'GU2', 'ry-wc-city-select'),
 		_x('Guimaraes (Sao Paio)', 'GU2', 'ry-wc-city-select'),
 		_x('Guimaraes (Sao Sebastiao)', 'GU2', 'ry-wc-city-select'),
-=======
-		_x('Guimaraes (Oliveira do Castelo)','GU2', 'ry-wc-city-select'),
-		_x('Guimaraes (Sao Paio)','GU2', 'ry-wc-city-select'),
-		_x('Guimaraes (Sao Sebastiao)','GU2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Infantas', 'GU2', 'ry-wc-city-select'),
 		_x('Leitoes', 'GU2', 'ry-wc-city-select'),
 		_x('Longos', 'GU2', 'ry-wc-city-select'),
@@ -2158,7 +1883,6 @@ return [
 		_x('Pinheiro', 'GU2', 'ry-wc-city-select'),
 		_x('Polvoreira', 'GU2', 'ry-wc-city-select'),
 		_x('Ponte', 'GU2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Prazins (Santa Eufemia)', 'GU2', 'ry-wc-city-select'),
 		_x('Prazins (Santo Tirso)', 'GU2', 'ry-wc-city-select'),
 		_x('Rendufe', 'GU2', 'ry-wc-city-select'),
@@ -2171,31 +1895,12 @@ return [
 		_x('Sao Torcato', 'GU2', 'ry-wc-city-select'),
 		_x('Selho (Sao Cristovao)', 'GU2', 'ry-wc-city-select'),
 		_x('Selho (Sao Lourenco)', 'GU2', 'ry-wc-city-select'),
-=======
-		_x('Prazins (Santa Eufemia)','GU2', 'ry-wc-city-select'),
-		_x('Prazins (Santo Tirso)','GU2', 'ry-wc-city-select'),
-		_x('Rendufe', 'GU2', 'ry-wc-city-select'),
-		_x('Ronfe', 'GU2', 'ry-wc-city-select'),
-		_x('Sande (Sao Clemente)','GU2', 'ry-wc-city-select'),
-		_x('Sande (Sao Lourenco)','GU2', 'ry-wc-city-select'),
-		_x('Sande (Sao Martinho)','GU2', 'ry-wc-city-select'),
-		_x('Sande (Vila Nova)','GU2', 'ry-wc-city-select'),
-		_x('Sao Faustino', 'GU2', 'ry-wc-city-select'),
-		_x('Sao Torcato', 'GU2', 'ry-wc-city-select'),
-		_x('Selho (Sao Cristovao)','GU2', 'ry-wc-city-select'),
-		_x('Selho (Sao Lourenco)','GU2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Selho-Sao Jorge', 'GU2', 'ry-wc-city-select'),
 		_x('Serzedelo', 'GU2', 'ry-wc-city-select'),
 		_x('Serzedo', 'GU2', 'ry-wc-city-select'),
 		_x('Silvares', 'GU2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Souto (Santa Maria)', 'GU2', 'ry-wc-city-select'),
 		_x('Souto (Sao Salvador)', 'GU2', 'ry-wc-city-select'),
-=======
-		_x('Souto (Santa Maria)','GU2', 'ry-wc-city-select'),
-		_x('Souto (Sao Salvador)','GU2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Tabuadelo', 'GU2', 'ry-wc-city-select'),
 		_x('Urgezes', 'GU2', 'ry-wc-city-select'),
 		_x('Vermil', 'GU2', 'ry-wc-city-select'),
@@ -2206,15 +1911,9 @@ return [
 		_x('Cedros', 'HO', 'ry-wc-city-select'),
 		_x('Feteira', 'HO', 'ry-wc-city-select'),
 		_x('Flamengos', 'HO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Horta (Angustias)', 'HO', 'ry-wc-city-select'),
 		_x('Horta (Conceicao)', 'HO', 'ry-wc-city-select'),
 		_x('Horta (Matriz)', 'HO', 'ry-wc-city-select'),
-=======
-		_x('Horta (Angustias)','HO', 'ry-wc-city-select'),
-		_x('Horta (Conceicao)','HO', 'ry-wc-city-select'),
-		_x('Horta (Matriz)','HO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Pedro Miguel', 'HO', 'ry-wc-city-select'),
 		_x('Praia do Almoxarife', 'HO', 'ry-wc-city-select'),
 		_x('Praia do Norte', 'HO', 'ry-wc-city-select'),
@@ -2244,7 +1943,6 @@ return [
 		_x('Gafanha da Encarnacao', 'IL', 'ry-wc-city-select'),
 		_x('Gafanha da Nazare', 'IL', 'ry-wc-city-select'),
 		_x('Gafanha do Carmo', 'IL', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ilhavo (Sao Salvador)', 'IL', 'ry-wc-city-select'),
 	],
 	'LA' => [
@@ -2254,27 +1952,12 @@ return [
 		_x('Lagoa', 'LA', 'ry-wc-city-select'),
 		_x('Parchal', 'LA', 'ry-wc-city-select'),
 		_x('Porches', 'LA', 'ry-wc-city-select'),
-=======
-		_x('Ilhavo (Sao Salvador)','IL', 'ry-wc-city-select'),
-	],
-	'LA' => [
-		_x('Agua de Pau', 'LA', 'ry-wc-city-select'),
-		_x('Cabouco', 'LA', 'ry-wc-city-select'),
-		_x('Lagoa (Nossa Senhora do Rosario)','LA', 'ry-wc-city-select'),
-		_x('Lagoa (Santa Cruz)','LA', 'ry-wc-city-select'),
-		_x('Ribeira Cha', 'LA', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'LA2' => [
 		_x('Barao de Sao Joao', 'LA2', 'ry-wc-city-select'),
 		_x('Bensafrim', 'LA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lagos (Santa Maria)', 'LA2', 'ry-wc-city-select'),
 		_x('Lagos (Sao Sebastiao)', 'LA2', 'ry-wc-city-select'),
-=======
-		_x('Lagos (Santa Maria)','LA2', 'ry-wc-city-select'),
-		_x('Lagos (Sao Sebastiao)','LA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Luz', 'LA2', 'ry-wc-city-select'),
 		_x('Odiaxere', 'LA2', 'ry-wc-city-select'),
 	],
@@ -2305,13 +1988,8 @@ return [
 		_x('Ferreiros de Avoes', 'LA3', 'ry-wc-city-select'),
 		_x('Figueira', 'LA3', 'ry-wc-city-select'),
 		_x('Lalim', 'LA3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lamego (Almacave)', 'LA3', 'ry-wc-city-select'),
 		_x('Lamego (Se)', 'LA3', 'ry-wc-city-select'),
-=======
-		_x('Lamego (Almacave)','LA3', 'ry-wc-city-select'),
-		_x('Lamego (Se)','LA3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Lazarim', 'LA3', 'ry-wc-city-select'),
 		_x('Magueija', 'LA3', 'ry-wc-city-select'),
 		_x('Meijinhos', 'LA3', 'ry-wc-city-select'),
@@ -2418,13 +2096,8 @@ return [
 		_x('Ameixial', 'LO', 'ry-wc-city-select'),
 		_x('Benafim', 'LO', 'ry-wc-city-select'),
 		_x('Boliqueime', 'LO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Loule (Sao Clemente)', 'LO', 'ry-wc-city-select'),
 		_x('Loule (Sao Sebastiao)', 'LO', 'ry-wc-city-select'),
-=======
-		_x('Loule (Sao Clemente)','LO', 'ry-wc-city-select'),
-		_x('Loule (Sao Sebastiao)','LO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Quarteira', 'LO', 'ry-wc-city-select'),
 		_x('Querenca', 'LO', 'ry-wc-city-select'),
 		_x('Salir', 'LO', 'ry-wc-city-select'),
@@ -2474,11 +2147,7 @@ return [
 	'LO5' => [
 		_x('Alvarenga', 'LO5', 'ry-wc-city-select'),
 		_x('Aveleda', 'LO5', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Barrosas (Santo Estevao)', 'LO5', 'ry-wc-city-select'),
-=======
-		_x('Barrosas (Santo Estevao)','LO5', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Boim', 'LO5', 'ry-wc-city-select'),
 		_x('Caide de Rei', 'LO5', 'ry-wc-city-select'),
 		_x('Casais', 'LO5', 'ry-wc-city-select'),
@@ -2487,13 +2156,8 @@ return [
 		_x('Cristelos', 'LO5', 'ry-wc-city-select'),
 		_x('Figueiras', 'LO5', 'ry-wc-city-select'),
 		_x('Lodares', 'LO5', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lousada (Santa Margarida)', 'LO5', 'ry-wc-city-select'),
 		_x('Lousada (Sao Miguel)', 'LO5', 'ry-wc-city-select'),
-=======
-		_x('Lousada (Santa Margarida)','LO5', 'ry-wc-city-select'),
-		_x('Lousada (Sao Miguel)','LO5', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Lustosa', 'LO5', 'ry-wc-city-select'),
 		_x('Macieira', 'LO5', 'ry-wc-city-select'),
 		_x('Meinedo', 'LO5', 'ry-wc-city-select'),
@@ -2593,13 +2257,8 @@ return [
 	],
 	'MA5' => [
 		_x('Aguas Santas', 'MA5', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Avioso (Santa Maria)', 'MA5', 'ry-wc-city-select'),
 		_x('Avioso (Sao Pedro)', 'MA5', 'ry-wc-city-select'),
-=======
-		_x('Avioso (Santa Maria)','MA5', 'ry-wc-city-select'),
-		_x('Avioso (Sao Pedro)','MA5', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Barca', 'MA5', 'ry-wc-city-select'),
 		_x('Folgosa', 'MA5', 'ry-wc-city-select'),
 		_x('Gemunde', 'MA5', 'ry-wc-city-select'),
@@ -2636,13 +2295,8 @@ return [
 		_x('Varzea de Tavares', 'MA6', 'ry-wc-city-select'),
 	],
 	'MA7' => [
-<<<<<<< HEAD
 		_x('Manteigas (Santa Maria)', 'MA7', 'ry-wc-city-select'),
 		_x('Manteigas (Sao Pedro)', 'MA7', 'ry-wc-city-select'),
-=======
-		_x('Manteigas (Santa Maria)','MA7', 'ry-wc-city-select'),
-		_x('Manteigas (Sao Pedro)','MA7', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sameiro', 'MA7', 'ry-wc-city-select'),
 		_x('Vale de Amoreira', 'MA7', 'ry-wc-city-select'),
 	],
@@ -2764,13 +2418,8 @@ return [
 	'MEFR' => [
 		_x('Barqueiros', 'MEFR', 'ry-wc-city-select'),
 		_x('Cidadelhe', 'MEFR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Mesao Frio (Santa Cristina)', 'MEFR', 'ry-wc-city-select'),
 		_x('Mesao Frio (Sao Nicolau)', 'MEFR', 'ry-wc-city-select'),
-=======
-		_x('Mesao Frio (Santa Cristina)','MEFR', 'ry-wc-city-select'),
-		_x('Mesao Frio (Sao Nicolau)','MEFR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Oliveira', 'MEFR', 'ry-wc-city-select'),
 		_x('Vila Jusa', 'MEFR', 'ry-wc-city-select'),
 		_x('Vila Marim', 'MEFR', 'ry-wc-city-select'),
@@ -2997,11 +2646,7 @@ return [
 		_x('Venda Nova', 'MO6', 'ry-wc-city-select'),
 		_x('Viade de Baixo', 'MO6', 'ry-wc-city-select'),
 		_x('Vila da Ponte', 'MO6', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vilar de Perdizes (Sao Miguel)', 'MO6', 'ry-wc-city-select'),
-=======
-		_x('Vilar de Perdizes (Sao Miguel)','MO6', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'MO7' => [
 		_x('Cabrela', 'MO7', 'ry-wc-city-select'),
@@ -3061,13 +2706,8 @@ return [
 	],
 	'MO12' => [
 		_x('Amareleja', 'MO12', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Moura (Santo Agostinho)', 'MO12', 'ry-wc-city-select'),
 		_x('Moura (Sao Joao Baptista)', 'MO12', 'ry-wc-city-select'),
-=======
-		_x('Moura (Santo Agostinho)','MO12', 'ry-wc-city-select'),
-		_x('Moura (Sao Joao Baptista)','MO12', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Povoa de Sao Miguel', 'MO12', 'ry-wc-city-select'),
 		_x('Safara', 'MO12', 'ry-wc-city-select'),
 		_x('Santo Aleixo da Restauracao', 'MO12', 'ry-wc-city-select'),
@@ -3079,33 +2719,6 @@ return [
 		_x('Luz', 'MO13', 'ry-wc-city-select'),
 		_x('Mourao', 'MO13', 'ry-wc-city-select'),
 	],
-<<<<<<< HEAD
-=======
-	'MUGO' => [
-		_x('Aldeias', 'MUGO', 'ry-wc-city-select'),
-		_x('Arcozelo', 'MUGO', 'ry-wc-city-select'),
-		_x('Cativelos', 'MUGO', 'ry-wc-city-select'),
-		_x('Figueiro da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Folgosinho', 'MUGO', 'ry-wc-city-select'),
-		_x('Freixo da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Gouveia (Sao Juliao)','MUGO', 'ry-wc-city-select'),
-		_x('Gouveia (Sao Pedro)','MUGO', 'ry-wc-city-select'),
-		_x('Lagarinhos', 'MUGO', 'ry-wc-city-select'),
-		_x('Mangualde da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Melo', 'MUGO', 'ry-wc-city-select'),
-		_x('Moimenta da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Nabais', 'MUGO', 'ry-wc-city-select'),
-		_x('Nespereira', 'MUGO', 'ry-wc-city-select'),
-		_x('Pacos da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Ribamondego', 'MUGO', 'ry-wc-city-select'),
-		_x('Rio Torto', 'MUGO', 'ry-wc-city-select'),
-		_x('Sao Paio', 'MUGO', 'ry-wc-city-select'),
-		_x('Vila Cortes da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Vila Franca da Serra', 'MUGO', 'ry-wc-city-select'),
-		_x('Vila Nova de Tazem', 'MUGO', 'ry-wc-city-select'),
-		_x('Vinho', 'MUGO', 'ry-wc-city-select'),
-	],
->>>>>>> fix php error
 	'MU' => [
 		_x('Candedo', 'MU', 'ry-wc-city-select'),
 		_x('Carva', 'MU', 'ry-wc-city-select'),
@@ -3166,13 +2779,8 @@ return [
 		_x('A Dos Negros', 'OB', 'ry-wc-city-select'),
 		_x('Amoreira', 'OB', 'ry-wc-city-select'),
 		_x('Gaeiras', 'OB', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Obidos (Santa Maria)', 'OB', 'ry-wc-city-select'),
 		_x('Obidos (Sao Pedro)', 'OB', 'ry-wc-city-select'),
-=======
-		_x('Obidos (Santa Maria)','OB', 'ry-wc-city-select'),
-		_x('Obidos (Sao Pedro)','OB', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Olho Marinho', 'OB', 'ry-wc-city-select'),
 		_x('Sobral da Lagoa', 'OB', 'ry-wc-city-select'),
 		_x('Usseira', 'OB', 'ry-wc-city-select'),
@@ -3184,13 +2792,8 @@ return [
 		_x('Colos', 'OD', 'ry-wc-city-select'),
 		_x('Longueira/Almograve', 'OD', 'ry-wc-city-select'),
 		_x('Luzianes-Gare', 'OD', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Odemira (Santa Maria)', 'OD', 'ry-wc-city-select'),
 		_x('Odemira (Sao Salvador)', 'OD', 'ry-wc-city-select'),
-=======
-		_x('Odemira (Santa Maria)','OD', 'ry-wc-city-select'),
-		_x('Odemira (Sao Salvador)','OD', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Pereiras-Gare', 'OD', 'ry-wc-city-select'),
 		_x('Reliquias', 'OD', 'ry-wc-city-select'),
 		_x('Saboia', 'OD', 'ry-wc-city-select'),
@@ -3481,13 +3084,8 @@ return [
 		_x('Pinheiro', 'PE2', 'ry-wc-city-select'),
 		_x('Portela', 'PE2', 'ry-wc-city-select'),
 		_x('Rans', 'PE2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Recezinhos (Sao Mamede)', 'PE2', 'ry-wc-city-select'),
 		_x('Recezinhos (Sao Martinho)', 'PE2', 'ry-wc-city-select'),
-=======
-		_x('Recezinhos (Sao Mamede)','PE2', 'ry-wc-city-select'),
-		_x('Recezinhos (Sao Martinho)','PE2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Rio Mau', 'PE2', 'ry-wc-city-select'),
 		_x('Rio de Moinhos', 'PE2', 'ry-wc-city-select'),
 		_x('Santa Marta', 'PE2', 'ry-wc-city-select'),
@@ -3540,28 +3138,17 @@ return [
 	'PE5' => [
 		_x('Cumeeira', 'PE5', 'ry-wc-city-select'),
 		_x('Espinhal', 'PE5', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Penela (Santa Eufemia)', 'PE5', 'ry-wc-city-select'),
 		_x('Penela (Sao Miguel)', 'PE5', 'ry-wc-city-select'),
-=======
-		_x('Penela (Santa Eufemia)','PE5', 'ry-wc-city-select'),
-		_x('Penela (Sao Miguel)','PE5', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Podentes', 'PE5', 'ry-wc-city-select'),
 		_x('Rabacal', 'PE5', 'ry-wc-city-select'),
 	],
 	'PE6' => [
 		_x('Atouguia da Baleia', 'PE6', 'ry-wc-city-select'),
 		_x('Ferrel', 'PE6', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Peniche (Ajuda)', 'PE6', 'ry-wc-city-select'),
 		_x('Peniche (Conceicao)', 'PE6', 'ry-wc-city-select'),
 		_x('Peniche (Sao Pedro)', 'PE6', 'ry-wc-city-select'),
-=======
-		_x('Peniche (Ajuda)','PE6', 'ry-wc-city-select'),
-		_x('Peniche (Conceicao)','PE6', 'ry-wc-city-select'),
-		_x('Peniche (Sao Pedro)','PE6', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Serra D El-Rei', 'PE6', 'ry-wc-city-select'),
 	],
 	'PERE' => [
@@ -3639,7 +3226,6 @@ return [
 		_x('Ginetes', 'PODE', 'ry-wc-city-select'),
 		_x('Mosteiros', 'PODE', 'ry-wc-city-select'),
 		_x('Pilar da Bretanha', 'PODE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ponta Delgada (Sao Jose)', 'PODE', 'ry-wc-city-select'),
 		_x('Ponta Delgada (Sao Pedro)', 'PODE', 'ry-wc-city-select'),
 		_x('Ponta Delgada (Sao Sebastiao)', 'PODE', 'ry-wc-city-select'),
@@ -3647,15 +3233,6 @@ return [
 		_x('Remedios', 'PODE', 'ry-wc-city-select'),
 		_x('Rosto do Cao (Livramento)', 'PODE', 'ry-wc-city-select'),
 		_x('Rosto do Cao (Sao Roque)', 'PODE', 'ry-wc-city-select'),
-=======
-		_x('Ponta Delgada (Sao Jose)','PODE', 'ry-wc-city-select'),
-		_x('Ponta Delgada (Sao Pedro)','PODE', 'ry-wc-city-select'),
-		_x('Ponta Delgada (Sao Sebastiao)','PODE', 'ry-wc-city-select'),
-		_x('Relva', 'PODE', 'ry-wc-city-select'),
-		_x('Remedios', 'PODE', 'ry-wc-city-select'),
-		_x('Rosto do Cao (Livramento)','PODE', 'ry-wc-city-select'),
-		_x('Rosto do Cao (Sao Roque)','PODE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Santa Barbara', 'PODE', 'ry-wc-city-select'),
 		_x('Santa Clara', 'PODE', 'ry-wc-city-select'),
 		_x('Santo Antonio', 'PODE', 'ry-wc-city-select'),
@@ -3686,21 +3263,12 @@ return [
 		_x('Ponte da Barca', 'POBA', 'ry-wc-city-select'),
 		_x('Ruivos', 'POBA', 'ry-wc-city-select'),
 		_x('Sampriz', 'POBA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Touvedo (Salvador)', 'POBA', 'ry-wc-city-select'),
 		_x('Touvedo (Sao Lourenco)', 'POBA', 'ry-wc-city-select'),
 		_x('Vade (Sao Pedro)', 'POBA', 'ry-wc-city-select'),
 		_x('Vade (Sao Tome)', 'POBA', 'ry-wc-city-select'),
 		_x('Vila Cha (Santiago)', 'POBA', 'ry-wc-city-select'),
 		_x('Vila Cha (Sao Joao Baptista)', 'POBA', 'ry-wc-city-select'),
-=======
-		_x('Touvedo (Salvador)','POBA', 'ry-wc-city-select'),
-		_x('Touvedo (Sao Lourenco)','POBA', 'ry-wc-city-select'),
-		_x('Vade (Sao Pedro)','POBA', 'ry-wc-city-select'),
-		_x('Vade (Sao Tome)','POBA', 'ry-wc-city-select'),
-		_x('Vila Cha (Santiago)','POBA', 'ry-wc-city-select'),
-		_x('Vila Cha (Sao Joao Baptista)','POBA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vila Nova de Muia', 'POBA', 'ry-wc-city-select'),
 	],
 	'POLI' => [
@@ -3740,13 +3308,8 @@ return [
 		_x('Poiares', 'POLI', 'ry-wc-city-select'),
 		_x('Ponte de Lima', 'POLI', 'ry-wc-city-select'),
 		_x('Queijada', 'POLI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rebordoes (Santa Maria)', 'POLI', 'ry-wc-city-select'),
 		_x('Rebordoes (Souto)', 'POLI', 'ry-wc-city-select'),
-=======
-		_x('Rebordoes (Santa Maria)','POLI', 'ry-wc-city-select'),
-		_x('Rebordoes (Souto)','POLI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Refoios do Lima', 'POLI', 'ry-wc-city-select'),
 		_x('Rendufe', 'POLI', 'ry-wc-city-select'),
 		_x('Ribeira', 'POLI', 'ry-wc-city-select'),
@@ -3833,13 +3396,8 @@ return [
 		_x('Mendiga', 'POMO2', 'ry-wc-city-select'),
 		_x('Mira de Aire', 'POMO2', 'ry-wc-city-select'),
 		_x('Pedreiras', 'POMO2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Porto de Mos (Sao Joao Baptista)', 'POMO2', 'ry-wc-city-select'),
 		_x('Porto de Mos (Sao Pedro)', 'POMO2', 'ry-wc-city-select'),
-=======
-		_x('Porto de Mos (Sao Joao Baptista)','POMO2', 'ry-wc-city-select'),
-		_x('Porto de Mos (Sao Pedro)','POMO2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sao Bento', 'POMO2', 'ry-wc-city-select'),
 		_x('Serro Ventoso', 'POMO2', 'ry-wc-city-select'),
 	],
@@ -3904,11 +3462,7 @@ return [
 		_x('Fontinhas', 'PRVI', 'ry-wc-city-select'),
 		_x('Lajes', 'PRVI', 'ry-wc-city-select'),
 		_x('Porto Martins', 'PRVI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Praia da Vitoria (Santa Cruz)', 'PRVI', 'ry-wc-city-select'),
-=======
-		_x('Praia da Vitoria (Santa Cruz)','PRVI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Quatro Ribeiras', 'PRVI', 'ry-wc-city-select'),
 		_x('Sao Bras', 'PRVI', 'ry-wc-city-select'),
 		_x('Vila Nova', 'PRVI', 'ry-wc-city-select'),
@@ -3964,13 +3518,8 @@ return [
 		_x('Pico da Pedra', 'RIGR', 'ry-wc-city-select'),
 		_x('Porto Formoso', 'RIGR', 'ry-wc-city-select'),
 		_x('Rabo de Peixe', 'RIGR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ribeira Grande (Conceicao)', 'RIGR', 'ry-wc-city-select'),
 		_x('Ribeira Grande (Matriz)', 'RIGR', 'ry-wc-city-select'),
-=======
-		_x('Ribeira Grande (Conceicao)','RIGR', 'ry-wc-city-select'),
-		_x('Ribeira Grande (Matriz)','RIGR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ribeira Seca', 'RIGR', 'ry-wc-city-select'),
 		_x('Ribeirinha', 'RIGR', 'ry-wc-city-select'),
 		_x('Santa Barbara', 'RIGR', 'ry-wc-city-select'),
@@ -3981,11 +3530,7 @@ return [
 		_x('Canedo', 'RIPE', 'ry-wc-city-select'),
 		_x('Cerva', 'RIPE', 'ry-wc-city-select'),
 		_x('Limoes', 'RIPE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ribeira de Pena (Salvador)', 'RIPE', 'ry-wc-city-select'),
-=======
-		_x('Ribeira de Pena (Salvador)','RIPE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Santa Marinha', 'RIPE', 'ry-wc-city-select'),
 		_x('Santo Aleixo de Alem-Tamega', 'RIPE', 'ry-wc-city-select'),
 	],
@@ -4140,13 +3685,8 @@ return [
 		_x('Cumieira', 'SAMAPE', 'ry-wc-city-select'),
 		_x('Fontes', 'SAMAPE', 'ry-wc-city-select'),
 		_x('Fornelos', 'SAMAPE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lobrigos (Sao Joao Baptista)', 'SAMAPE', 'ry-wc-city-select'),
 		_x('Lobrigos (Sao Miguel)', 'SAMAPE', 'ry-wc-city-select'),
-=======
-		_x('Lobrigos (Sao Joao Baptista)','SAMAPE', 'ry-wc-city-select'),
-		_x('Lobrigos (Sao Miguel)','SAMAPE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Louredo', 'SAMAPE', 'ry-wc-city-select'),
 		_x('Medroes', 'SAMAPE', 'ry-wc-city-select'),
 		_x('Sanhoane', 'SAMAPE', 'ry-wc-city-select'),
@@ -4180,15 +3720,9 @@ return [
 		_x('Povoa de Santarem', 'SA4', 'ry-wc-city-select'),
 		_x('Romeira', 'SA4', 'ry-wc-city-select'),
 		_x('Santa Iria da Ribeira de Santarem', 'SA4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Santarem (Marvila)', 'SA4', 'ry-wc-city-select'),
 		_x('Santarem (Sao Nicolau)', 'SA4', 'ry-wc-city-select'),
 		_x('Santarem (Sao Salvador)', 'SA4', 'ry-wc-city-select'),
-=======
-		_x('Santarem (Marvila)','SA4', 'ry-wc-city-select'),
-		_x('Santarem (Sao Nicolau)','SA4', 'ry-wc-city-select'),
-		_x('Santarem (Sao Salvador)','SA4', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sao Vicente do Paul', 'SA4', 'ry-wc-city-select'),
 		_x('Tremes', 'SA4', 'ry-wc-city-select'),
 		_x('Vale de Figueira', 'SA4', 'ry-wc-city-select'),
@@ -4215,28 +3749,16 @@ return [
 		_x('Areias', 'SATI', 'ry-wc-city-select'),
 		_x('Aves', 'SATI', 'ry-wc-city-select'),
 		_x('Burgaes', 'SATI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Campo (Sao Martinho)', 'SATI', 'ry-wc-city-select'),
 		_x('Carreira', 'SATI', 'ry-wc-city-select'),
 		_x('Couto (Santa Cristina)', 'SATI', 'ry-wc-city-select'),
 		_x('Couto (Sao Miguel)', 'SATI', 'ry-wc-city-select'),
-=======
-		_x('Campo (Sao Martinho)','SATI', 'ry-wc-city-select'),
-		_x('Carreira', 'SATI', 'ry-wc-city-select'),
-		_x('Couto (Santa Cristina)','SATI', 'ry-wc-city-select'),
-		_x('Couto (Sao Miguel)','SATI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Guimarei', 'SATI', 'ry-wc-city-select'),
 		_x('Lama', 'SATI', 'ry-wc-city-select'),
 		_x('Lamelas', 'SATI', 'ry-wc-city-select'),
 		_x('Monte Cordova', 'SATI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Negrelos (Sao Mamede)', 'SATI', 'ry-wc-city-select'),
 		_x('Negrelos (Sao Tome)', 'SATI', 'ry-wc-city-select'),
-=======
-		_x('Negrelos (Sao Mamede)','SATI', 'ry-wc-city-select'),
-		_x('Negrelos (Sao Tome)','SATI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Palmeira', 'SATI', 'ry-wc-city-select'),
 		_x('Rebordoes', 'SATI', 'ry-wc-city-select'),
 		_x('Refojos de Riba de Ave', 'SATI', 'ry-wc-city-select'),
@@ -4383,13 +3905,8 @@ return [
 	'SE4' => [
 		_x('Brinches', 'SE4', 'ry-wc-city-select'),
 		_x('Pias', 'SE4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Serpa (Salvador)', 'SE4', 'ry-wc-city-select'),
 		_x('Serpa (Santa Maria)', 'SE4', 'ry-wc-city-select'),
-=======
-		_x('Serpa (Salvador)','SE4', 'ry-wc-city-select'),
-		_x('Serpa (Santa Maria)','SE4', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vale de Vargo', 'SE4', 'ry-wc-city-select'),
 		_x('Vila Nova de Sao Bento', 'SE4', 'ry-wc-city-select'),
 		_x('Vila Verde de Ficalho', 'SE4', 'ry-wc-city-select'),
@@ -4412,30 +3929,18 @@ return [
 	],
 	'SE6' => [
 		_x('Quinta do Conde', 'SE6', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Sesimbra (Castelo)', 'SE6', 'ry-wc-city-select'),
 		_x('Sesimbra (Santiago)', 'SE6', 'ry-wc-city-select'),
-=======
-		_x('Sesimbra (Castelo)','SE6', 'ry-wc-city-select'),
-		_x('Sesimbra (Santiago)','SE6', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'SE7' => [
 		_x('Gambia-Pontes-Alto da Guerra', 'SE7', 'ry-wc-city-select'),
 		_x('Sado', 'SE7', 'ry-wc-city-select'),
 		_x('Sao Lourenco', 'SE7', 'ry-wc-city-select'),
 		_x('Sao Simao', 'SE7', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Setubal (Nossa Senhora da Anunciada)', 'SE7', 'ry-wc-city-select'),
 		_x('Setubal (Santa Maria da Graca)', 'SE7', 'ry-wc-city-select'),
 		_x('Setubal (Sao Juliao)', 'SE7', 'ry-wc-city-select'),
 		_x('Setubal (Sao Sebastiao)', 'SE7', 'ry-wc-city-select'),
-=======
-		_x('Setubal (Nossa Senhora da Anunciada)','SE7', 'ry-wc-city-select'),
-		_x('Setubal (Santa Maria da Graca)','SE7', 'ry-wc-city-select'),
-		_x('Setubal (Sao Juliao)','SE7', 'ry-wc-city-select'),
-		_x('Setubal (Sao Sebastiao)','SE7', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'SEVO' => [
 		_x('Cedrim', 'SEVO', 'ry-wc-city-select'),
@@ -4479,15 +3984,9 @@ return [
 		_x('Rio de Mouro', 'SI3', 'ry-wc-city-select'),
 		_x('Sao Joao das Lampas', 'SI3', 'ry-wc-city-select'),
 		_x('Sao Marcos', 'SI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Sintra (Santa Maria e Sao Miguel)', 'SI3', 'ry-wc-city-select'),
 		_x('Sintra (Sao Martinho)', 'SI3', 'ry-wc-city-select'),
 		_x('Sintra (Sao Pedro de Penaferrim)', 'SI3', 'ry-wc-city-select'),
-=======
-		_x('Sintra (Santa Maria e Sao Miguel)','SI3', 'ry-wc-city-select'),
-		_x('Sintra (Sao Martinho)','SI3', 'ry-wc-city-select'),
-		_x('Sintra (Sao Pedro de Penaferrim)','SI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Terrugem', 'SI3', 'ry-wc-city-select'),
 	],
 	'SOMOAG' => [
@@ -4571,13 +4070,8 @@ return [
 		_x('Santa Catarina da Fonte do Bispo', 'TA4', 'ry-wc-city-select'),
 		_x('Santa Luzia', 'TA4', 'ry-wc-city-select'),
 		_x('Santo Estevao', 'TA4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Tavira (Santa Maria)', 'TA4', 'ry-wc-city-select'),
 		_x('Tavira (Santiago)', 'TA4', 'ry-wc-city-select'),
-=======
-		_x('Tavira (Santa Maria)','TA4', 'ry-wc-city-select'),
-		_x('Tavira (Santiago)','TA4', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'TEBO' => [
 		_x('Balanca', 'TEBO', 'ry-wc-city-select'),
@@ -4614,7 +4108,6 @@ return [
 		_x('Santa Maria Dos Olivais', 'TO', 'ry-wc-city-select'),
 		_x('Sao Pedro de Tomar', 'TO', 'ry-wc-city-select'),
 		_x('Serra', 'TO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Tomar (Sao Joao Baptista)', 'TO', 'ry-wc-city-select'),
 	],
 	'TO2' => [
@@ -4644,9 +4137,6 @@ return [
 		_x('Tourigo', 'TO2', 'ry-wc-city-select'),
 		_x('Vila Nova da Rainha', 'TO2', 'ry-wc-city-select'),
 		_x('Vilar de Besteiros', 'TO2', 'ry-wc-city-select'),
-=======
-		_x('Tomar (Sao Joao Baptista)','TO', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'TOMO' => [
 		_x('Acoreira', 'TOMO', 'ry-wc-city-select'),
@@ -4680,17 +4170,10 @@ return [
 		_x('Pedrogao', 'TONO', 'ry-wc-city-select'),
 		_x('Riachos', 'TONO', 'ry-wc-city-select'),
 		_x('Ribeira Branca', 'TONO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Torres Novas (Salvador)', 'TONO', 'ry-wc-city-select'),
 		_x('Torres Novas (Santa Maria)', 'TONO', 'ry-wc-city-select'),
 		_x('Torres Novas (Santiago)', 'TONO', 'ry-wc-city-select'),
 		_x('Torres Novas (Sao Pedro)', 'TONO', 'ry-wc-city-select'),
-=======
-		_x('Torres Novas (Salvador)','TONO', 'ry-wc-city-select'),
-		_x('Torres Novas (Santa Maria)','TONO', 'ry-wc-city-select'),
-		_x('Torres Novas (Santiago)','TONO', 'ry-wc-city-select'),
-		_x('Torres Novas (Sao Pedro)','TONO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Zibreira', 'TONO', 'ry-wc-city-select'),
 	],
 	'TOVE' => [
@@ -4711,11 +4194,7 @@ return [
 		_x('Sao Pedro da Cadeira', 'TOVE', 'ry-wc-city-select'),
 		_x('Silveira', 'TOVE', 'ry-wc-city-select'),
 		_x('Torres Vedras (Santa Maria do Castelo e', 'TOVE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Torres Vedras (Sao Pedro e Sao Tiago)', 'TOVE', 'ry-wc-city-select'),
-=======
-		_x('Torres Vedras (Sao Pedro e Sao Tiago)','TOVE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Turcifal', 'TOVE', 'ry-wc-city-select'),
 		_x('Ventosa', 'TOVE', 'ry-wc-city-select'),
 	],
@@ -4742,13 +4221,8 @@ return [
 		_x('Terrenho', 'TR', 'ry-wc-city-select'),
 		_x('Torre do Terrenho', 'TR', 'ry-wc-city-select'),
 		_x('Torres', 'TR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Trancoso (Santa Maria)', 'TR', 'ry-wc-city-select'),
 		_x('Trancoso (Sao Pedro)', 'TR', 'ry-wc-city-select'),
-=======
-		_x('Trancoso (Santa Maria)','TR', 'ry-wc-city-select'),
-		_x('Trancoso (Sao Pedro)','TR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Valdujo', 'TR', 'ry-wc-city-select'),
 		_x('Vale do Seixo', 'TR', 'ry-wc-city-select'),
 		_x('Vila Franca das Naves', 'TR', 'ry-wc-city-select'),
@@ -4757,17 +4231,10 @@ return [
 	],
 	'TR2' => [
 		_x('Alvarelhos', 'TR2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Bougado (Santiago)', 'TR2', 'ry-wc-city-select'),
 		_x('Bougado (Sao Martinho)', 'TR2', 'ry-wc-city-select'),
 		_x('Coronado (Sao Mamede)', 'TR2', 'ry-wc-city-select'),
 		_x('Coronado (Sao Romao)', 'TR2', 'ry-wc-city-select'),
-=======
-		_x('Bougado (Santiago)','TR2', 'ry-wc-city-select'),
-		_x('Bougado (Sao Martinho)','TR2', 'ry-wc-city-select'),
-		_x('Coronado (Sao Mamede)','TR2', 'ry-wc-city-select'),
-		_x('Coronado (Sao Romao)','TR2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Covelas', 'TR2', 'ry-wc-city-select'),
 		_x('Guidoes', 'TR2', 'ry-wc-city-select'),
 		_x('Muro', 'TR2', 'ry-wc-city-select'),
@@ -4855,21 +4322,12 @@ return [
 		_x('Vilarandelo', 'VA4', 'ry-wc-city-select'),
 	],
 	'VE' => [
-<<<<<<< HEAD
 		_x('Manadas (Santa Barbara)', 'VE', 'ry-wc-city-select'),
 		_x('Norte Grande (Neves)', 'VE', 'ry-wc-city-select'),
 		_x('Rosais', 'VE', 'ry-wc-city-select'),
 		_x('Santo Amaro', 'VE', 'ry-wc-city-select'),
 		_x('Urzelina (Sao Mateus)', 'VE', 'ry-wc-city-select'),
 		_x('Velas (Sao Jorge)', 'VE', 'ry-wc-city-select'),
-=======
-		_x('Manadas (Santa Barbara)','VE', 'ry-wc-city-select'),
-		_x('Norte Grande (Neves)','VE', 'ry-wc-city-select'),
-		_x('Rosais', 'VE', 'ry-wc-city-select'),
-		_x('Santo Amaro', 'VE', 'ry-wc-city-select'),
-		_x('Urzelina (Sao Mateus)','VE', 'ry-wc-city-select'),
-		_x('Velas (Sao Jorge)','VE', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'VENO' => [
 		_x('Landeira', 'VENO', 'ry-wc-city-select'),
@@ -4896,13 +4354,8 @@ return [
 		_x('Deao', 'VICA', 'ry-wc-city-select'),
 		_x('Deocriste', 'VICA', 'ry-wc-city-select'),
 		_x('Freixieiro de Soutelo', 'VICA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Geraz do Lima (Santa Leocadia)', 'VICA', 'ry-wc-city-select'),
 		_x('Geraz do Lima (Santa Maria)', 'VICA', 'ry-wc-city-select'),
-=======
-		_x('Geraz do Lima (Santa Leocadia)','VICA', 'ry-wc-city-select'),
-		_x('Geraz do Lima (Santa Maria)','VICA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Lanheses', 'VICA', 'ry-wc-city-select'),
 		_x('Mazarefes', 'VICA', 'ry-wc-city-select'),
 		_x('Meadela', 'VICA', 'ry-wc-city-select'),
@@ -4919,13 +4372,8 @@ return [
 		_x('Serreleis', 'VICA', 'ry-wc-city-select'),
 		_x('Subportela', 'VICA', 'ry-wc-city-select'),
 		_x('Torre', 'VICA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Viana do Castelo (Monserrate)', 'VICA', 'ry-wc-city-select'),
 		_x('Viana do Castelo (Santa Maria Maior)', 'VICA', 'ry-wc-city-select'),
-=======
-		_x('Viana do Castelo (Monserrate)','VICA', 'ry-wc-city-select'),
-		_x('Viana do Castelo (Santa Maria Maior)','VICA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vila Franca', 'VICA', 'ry-wc-city-select'),
 		_x('Vila Fria', 'VICA', 'ry-wc-city-select'),
 		_x('Vila Mou', 'VICA', 'ry-wc-city-select'),
@@ -5000,13 +4448,8 @@ return [
 		_x('Ponta Garca', 'VIFRCA', 'ry-wc-city-select'),
 		_x('Ribeira Seca', 'VIFRCA', 'ry-wc-city-select'),
 		_x('Ribeira das Tainhas', 'VIFRCA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vila Franca do Campo (Sao Miguel)', 'VIFRCA', 'ry-wc-city-select'),
 		_x('Vila Franca do Campo (Sao Pedro)', 'VIFRCA', 'ry-wc-city-select'),
-=======
-		_x('Vila Franca do Campo (Sao Miguel)','VIFRCA', 'ry-wc-city-select'),
-		_x('Vila Franca do Campo (Sao Pedro)','VIFRCA', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'VINOBA' => [
 		_x('Atalaia', 'VINOBA', 'ry-wc-city-select'),
@@ -5035,13 +4478,8 @@ return [
 	'VINOFA' => [
 		_x('Abade de Vermoim', 'VINOFA', 'ry-wc-city-select'),
 		_x('Antas', 'VINOFA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Arnoso (Santa Eulalia)', 'VINOFA', 'ry-wc-city-select'),
 		_x('Arnoso (Santa Maria)', 'VINOFA', 'ry-wc-city-select'),
-=======
-		_x('Arnoso (Santa Eulalia)','VINOFA', 'ry-wc-city-select'),
-		_x('Arnoso (Santa Maria)','VINOFA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Avidos', 'VINOFA', 'ry-wc-city-select'),
 		_x('Bairro', 'VINOFA', 'ry-wc-city-select'),
 		_x('Bente', 'VINOFA', 'ry-wc-city-select'),
@@ -5068,13 +4506,8 @@ return [
 		_x('Mouquim', 'VINOFA', 'ry-wc-city-select'),
 		_x('Nine', 'VINOFA', 'ry-wc-city-select'),
 		_x('Novais', 'VINOFA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Oliveira (Santa Maria)', 'VINOFA', 'ry-wc-city-select'),
 		_x('Oliveira (Sao Mateus)', 'VINOFA', 'ry-wc-city-select'),
-=======
-		_x('Oliveira (Santa Maria)','VINOFA', 'ry-wc-city-select'),
-		_x('Oliveira (Sao Mateus)','VINOFA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Outiz', 'VINOFA', 'ry-wc-city-select'),
 		_x('Pedome', 'VINOFA', 'ry-wc-city-select'),
 		_x('Portela', 'VINOFA', 'ry-wc-city-select'),
@@ -5083,21 +4516,12 @@ return [
 		_x('Riba de Ave', 'VINOFA', 'ry-wc-city-select'),
 		_x('Ribeirao', 'VINOFA', 'ry-wc-city-select'),
 		_x('Ruivaes', 'VINOFA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Seide (Sao Miguel)', 'VINOFA', 'ry-wc-city-select'),
 		_x('Seide (Sao Paio)', 'VINOFA', 'ry-wc-city-select'),
 		_x('Sezures', 'VINOFA', 'ry-wc-city-select'),
 		_x('Telhado', 'VINOFA', 'ry-wc-city-select'),
 		_x('Vale (Sao Cosme)', 'VINOFA', 'ry-wc-city-select'),
 		_x('Vale (Sao Martinho)', 'VINOFA', 'ry-wc-city-select'),
-=======
-		_x('Seide (Sao Miguel)','VINOFA', 'ry-wc-city-select'),
-		_x('Seide (Sao Paio)','VINOFA', 'ry-wc-city-select'),
-		_x('Sezures', 'VINOFA', 'ry-wc-city-select'),
-		_x('Telhado', 'VINOFA', 'ry-wc-city-select'),
-		_x('Vale (Sao Cosme)','VINOFA', 'ry-wc-city-select'),
-		_x('Vale (Sao Martinho)','VINOFA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vermoim', 'VINOFA', 'ry-wc-city-select'),
 		_x('Vila Nova de Famalicao', 'VINOFA', 'ry-wc-city-select'),
 		_x('Vilarinho das Cambas', 'VINOFA', 'ry-wc-city-select'),
@@ -5143,11 +4567,7 @@ return [
 		_x('Sermonde', 'VINOGA', 'ry-wc-city-select'),
 		_x('Serzedo', 'VINOGA', 'ry-wc-city-select'),
 		_x('Valadares', 'VINOGA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vila Nova de Gaia (Santa Marinha)', 'VINOGA', 'ry-wc-city-select'),
-=======
-		_x('Vila Nova de Gaia (Santa Marinha)','VINOGA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vilar de Andorinho', 'VINOGA', 'ry-wc-city-select'),
 		_x('Vilar do Paraiso', 'VINOGA', 'ry-wc-city-select'),
 	],
@@ -5163,11 +4583,7 @@ return [
 	'VINOPO' => [
 		_x('Arrifana', 'VINOPO', 'ry-wc-city-select'),
 		_x('Lavegadas', 'VINOPO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Poiares (Santo Andre)', 'VINOPO', 'ry-wc-city-select'),
-=======
-		_x('Poiares (Santo Andre)','VINOPO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sao Miguel de Poiares', 'VINOPO', 'ry-wc-city-select'),
 	],
 	'VIPOAG' => [
@@ -5217,15 +4633,9 @@ return [
 		_x('Vale de Nogueiras', 'VIRE', 'ry-wc-city-select'),
 		_x('Vila Cova', 'VIRE', 'ry-wc-city-select'),
 		_x('Vila Marim', 'VIRE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vila Real (Nossa Senhora da Conceicao)', 'VIRE', 'ry-wc-city-select'),
 		_x('Vila Real (Sao Dinis)', 'VIRE', 'ry-wc-city-select'),
 		_x('Vila Real (Sao Pedro)', 'VIRE', 'ry-wc-city-select'),
-=======
-		_x('Vila Real (Nossa Senhora da Conceicao)','VIRE', 'ry-wc-city-select'),
-		_x('Vila Real (Sao Dinis)','VIRE', 'ry-wc-city-select'),
-		_x('Vila Real (Sao Pedro)','VIRE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Vilarinho de Samarda', 'VIRE', 'ry-wc-city-select'),
 	],
 	'VIRESAAN' => [
@@ -5248,26 +4658,16 @@ return [
 		_x('Barbudo', 'VIVE', 'ry-wc-city-select'),
 		_x('Barros', 'VIVE', 'ry-wc-city-select'),
 		_x('Cabanelas', 'VIVE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Carreiras (Santiago)', 'VIVE', 'ry-wc-city-select'),
 		_x('Carreiras (Sao Miguel)', 'VIVE', 'ry-wc-city-select'),
-=======
-		_x('Carreiras (Santiago)','VIVE', 'ry-wc-city-select'),
-		_x('Carreiras (Sao Miguel)','VIVE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cervaes', 'VIVE', 'ry-wc-city-select'),
 		_x('Codeceda', 'VIVE', 'ry-wc-city-select'),
 		_x('Coucieiro', 'VIVE', 'ry-wc-city-select'),
 		_x('Covas', 'VIVE', 'ry-wc-city-select'),
 		_x('Dossaos', 'VIVE', 'ry-wc-city-select'),
 		_x('Duas Igrejas', 'VIVE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Escariz (Sao Mamede)', 'VIVE', 'ry-wc-city-select'),
 		_x('Escariz (Sao Martinho)', 'VIVE', 'ry-wc-city-select'),
-=======
-		_x('Escariz (Sao Mamede)','VIVE', 'ry-wc-city-select'),
-		_x('Escariz (Sao Martinho)','VIVE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Esqueiros', 'VIVE', 'ry-wc-city-select'),
 		_x('Freiriz', 'VIVE', 'ry-wc-city-select'),
 		_x('Geme', 'VIVE', 'ry-wc-city-select'),
@@ -5284,13 +4684,8 @@ return [
 		_x('Moure', 'VIVE', 'ry-wc-city-select'),
 		_x('Nevogilde', 'VIVE', 'ry-wc-city-select'),
 		_x('Oleiros', 'VIVE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Oriz (Santa Marinha)', 'VIVE', 'ry-wc-city-select'),
 		_x('Oriz (Sao Miguel)', 'VIVE', 'ry-wc-city-select'),
-=======
-		_x('Oriz (Santa Marinha)','VIVE', 'ry-wc-city-select'),
-		_x('Oriz (Sao Miguel)','VIVE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Parada de Gatim', 'VIVE', 'ry-wc-city-select'),
 		_x('Passo', 'VIVE', 'ry-wc-city-select'),
 		_x('Pedregais', 'VIVE', 'ry-wc-city-select'),
@@ -5299,24 +4694,15 @@ return [
 		_x('Pico de Regalados', 'VIVE', 'ry-wc-city-select'),
 		_x('Ponte', 'VIVE', 'ry-wc-city-select'),
 		_x('Portela das Cabras', 'VIVE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Prado (Sao Miguel)', 'VIVE', 'ry-wc-city-select'),
-=======
-		_x('Prado (Sao Miguel)','VIVE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Rio Mau', 'VIVE', 'ry-wc-city-select'),
 		_x('Sabariz', 'VIVE', 'ry-wc-city-select'),
 		_x('Sande', 'VIVE', 'ry-wc-city-select'),
 		_x('Soutelo', 'VIVE', 'ry-wc-city-select'),
 		_x('Travassos', 'VIVE', 'ry-wc-city-select'),
 		_x('Turiz', 'VIVE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Valbom (Sao Martinho)', 'VIVE', 'ry-wc-city-select'),
 		_x('Valbom (Sao Pedro)', 'VIVE', 'ry-wc-city-select'),
-=======
-		_x('Valbom (Sao Martinho)','VIVE', 'ry-wc-city-select'),
-		_x('Valbom (Sao Pedro)','VIVE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Valdreu', 'VIVE', 'ry-wc-city-select'),
 		_x('Valoes', 'VIVE', 'ry-wc-city-select'),
 		_x('Vila Verde', 'VIVE', 'ry-wc-city-select'),
@@ -5327,13 +4713,8 @@ return [
 		_x('Bencatel', 'VIVI', 'ry-wc-city-select'),
 		_x('Ciladas', 'VIVI', 'ry-wc-city-select'),
 		_x('Pardais', 'VIVI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Vila Vicosa (Conceicao)', 'VIVI', 'ry-wc-city-select'),
 		_x('Vila Vicosa (Sao Bartolomeu)', 'VIVI', 'ry-wc-city-select'),
-=======
-		_x('Vila Vicosa (Conceicao)','VIVI', 'ry-wc-city-select'),
-		_x('Vila Vicosa (Sao Bartolomeu)','VIVI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'VIRE2' => [
 		_x('Fundada', 'VIRE2', 'ry-wc-city-select'),
@@ -5471,7 +4852,6 @@ return [
 		_x('Torredeita', 'VI4', 'ry-wc-city-select'),
 		_x('Vil de Souto', 'VI4', 'ry-wc-city-select'),
 		_x('Vila Cha de Sa', 'VI4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Viseu (Coracao de Jesus)', 'VI4', 'ry-wc-city-select'),
 		_x('Viseu (Santa Maria de Viseu)', 'VI4', 'ry-wc-city-select'),
 		_x('Viseu (Sao Jose)', 'VI4', 'ry-wc-city-select'),
@@ -5484,20 +4864,6 @@ return [
 		_x('Tagilde', 'VI5', 'ry-wc-city-select'),
 		_x('Vizela (Santo Adriao)', 'VI5', 'ry-wc-city-select'),
 		_x('Vizela (Sao Paio)', 'VI5', 'ry-wc-city-select'),
-=======
-		_x('Viseu (Coracao de Jesus)','VI4', 'ry-wc-city-select'),
-		_x('Viseu (Santa Maria de Viseu)','VI4', 'ry-wc-city-select'),
-		_x('Viseu (Sao Jose)','VI4', 'ry-wc-city-select'),
-	],
-	'VI5' => [
-		_x('Caldas de Vizela (Sao Joao)','VI5', 'ry-wc-city-select'),
-		_x('Caldas de Vizela (Sao Miguel)','VI5', 'ry-wc-city-select'),
-		_x('Infias', 'VI5', 'ry-wc-city-select'),
-		_x('Santa Eulalia', 'VI5', 'ry-wc-city-select'),
-		_x('Tagilde', 'VI5', 'ry-wc-city-select'),
-		_x('Vizela (Santo Adriao)','VI5', 'ry-wc-city-select'),
-		_x('Vizela (Sao Paio)','VI5', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'VO' => [
 		_x('Alcofra', 'VO', 'ry-wc-city-select'),

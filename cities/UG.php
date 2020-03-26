@@ -411,11 +411,7 @@ return [
 	'TODI' => [
 		_x('Tororo County', 'TODI', 'ry-wc-city-select'),
 		_x('Tororo Municipality', 'TODI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('West Budama (Kisolo)', 'TODI', 'ry-wc-city-select'),
-=======
-		_x('West Budama (Kisolo)','TODI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'WADI' => [
 		_x('Busiro County', 'WADI', 'ry-wc-city-select'),

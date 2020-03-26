@@ -716,11 +716,7 @@ return [
 		_x('Com Indig Guayaki Kua-Comunidad Escalera', 'CA2', 'ry-wc-city-select'),
 		_x('Com Indig Guayaki Kua-KaAguy PaU', 'CA2', 'ry-wc-city-select'),
 		_x('Com Indig Guayaki Kua-San Martin', 'CA2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Com Indig Joyvy (Isla Saka)', 'CA2', 'ry-wc-city-select'),
-=======
-		_x('Com Indig Joyvy (Isla Saka)','CA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Com Indig Kambay', 'CA2', 'ry-wc-city-select'),
 		_x('Com Indig ManduA Ra', 'CA2', 'ry-wc-city-select'),
 		_x('Com Indig San Blas', 'CA2', 'ry-wc-city-select'),
@@ -994,11 +990,7 @@ return [
 		_x('Com Indig KaAguy Pyahu Rio Verde', 'CA7', 'ry-wc-city-select'),
 		_x('Com Indig KaAty Miri  San Francisco', 'CA7', 'ry-wc-city-select'),
 		_x('Com Indig Kuarahy Miri Rio Corriente', 'CA7', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Com Indig Nu Poty (Ex Puentesito)', 'CA7', 'ry-wc-city-select'),
-=======
-		_x('Com Indig Nu Poty (Ex Puentesito)','CA7', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Com Indig Parakau Keha', 'CA7', 'ry-wc-city-select'),
 		_x('Com Indig Rio Corriente Mi', 'CA7', 'ry-wc-city-select'),
 		_x('Com Indig Ypachi', 'CA7', 'ry-wc-city-select'),
@@ -2163,11 +2155,7 @@ return [
 		_x('Chaipe', 'EN', 'ry-wc-city-select'),
 		_x('Chaipe', 'EN', 'ry-wc-city-select'),
 		_x('Ciudad Nueva', 'EN', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Com Indig Maka(Ita Paso)', 'EN', 'ry-wc-city-select'),
-=======
-		_x('Com Indig Maka(Ita Paso)','EN', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Conavi Kilometro.10  Sub-Urbano', 'EN', 'ry-wc-city-select'),
 		_x('Conavi Santo Domingo Sub-Urbano', 'EN', 'ry-wc-city-select'),
 		_x('Fatima', 'EN', 'ry-wc-city-select'),
@@ -2349,11 +2337,7 @@ return [
 		_x('Com Indig Santo Domingo', 'FI', 'ry-wc-city-select'),
 		_x('Com Indig Tunucojai', 'FI', 'ry-wc-city-select'),
 		_x('Com Indig UJelhavos', 'FI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Com Indig Yvopey Renda (Barrio Guarani)', 'FI', 'ry-wc-city-select'),
-=======
-		_x('Com Indig Yvopey Renda (Barrio Guarani)','FI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cruce Filadelfia', 'FI', 'ry-wc-city-select'),
 		_x('Fernhein Colonia 7', 'FI', 'ry-wc-city-select'),
 		_x('Filadelfia Norte', 'FI', 'ry-wc-city-select'),
@@ -4904,11 +4888,7 @@ return [
 		_x('Chamorro Kue', 'NUGE', 'ry-wc-city-select'),
 		_x('Colonia La Victoria San Antonio', 'NUGE', 'ry-wc-city-select'),
 		_x('Colonia Rio Verde', 'NUGE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Com Indig AguaE (Ex Yryapy Poty)', 'NUGE', 'ry-wc-city-select'),
-=======
-		_x('Com Indig AguaE (Ex Yryapy Poty)','NUGE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Costa Azul', 'NUGE', 'ry-wc-city-select'),
 		_x('Costa Norte', 'NUGE', 'ry-wc-city-select'),
 		_x('Isla Sola', 'NUGE', 'ry-wc-city-select'),
@@ -6058,11 +6038,7 @@ return [
 		_x('Com Indig Hugua Rory', 'SAJO', 'ry-wc-city-select'),
 		_x('Com Indig Moday Mi', 'SAJO', 'ry-wc-city-select'),
 		_x('Com Indig Tekoha Miri', 'SAJO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Com Indig Tekoha Pora (Celano)', 'SAJO', 'ry-wc-city-select'),
-=======
-		_x('Com Indig Tekoha Pora (Celano)','SAJO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cuarta', 'SAJO', 'ry-wc-city-select'),
 		_x('Esportivo', 'SAJO', 'ry-wc-city-select'),
 		_x('GuaA Kua', 'SAJO', 'ry-wc-city-select'),
@@ -6120,11 +6096,7 @@ return [
 		_x('San Ignacio De Loyola', 'SAJOLOAR', 'ry-wc-city-select'),
 		_x('San Juan', 'SAJOLOAR', 'ry-wc-city-select'),
 		_x('San Juan Bautista', 'SAJOLOAR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('San Luis (Mboity)', 'SAJOLOAR', 'ry-wc-city-select'),
-=======
-		_x('San Luis (Mboity)','SAJOLOAR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('San Patricio', 'SAJOLOAR', 'ry-wc-city-select'),
 		_x('Santa Rita', 'SAJOLOAR', 'ry-wc-city-select'),
 		_x('Serafini', 'SAJOLOAR', 'ry-wc-city-select'),
@@ -8581,11 +8553,7 @@ return [
 		_x('Che Pueblo Pora 1', 'YV', 'ry-wc-city-select'),
 		_x('Che Pueblo Pora 2', 'YV', 'ry-wc-city-select'),
 		_x('Cordillera', 'YV', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Cordillerita (Apyragua)', 'YV', 'ry-wc-city-select'),
-=======
-		_x('Cordillerita (Apyragua)','YV', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Entre Rios', 'YV', 'ry-wc-city-select'),
 		_x('Isla Alta', 'YV', 'ry-wc-city-select'),
 		_x('Isla KaA', 'YV', 'ry-wc-city-select'),

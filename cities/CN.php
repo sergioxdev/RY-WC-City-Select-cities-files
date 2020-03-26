@@ -1949,11 +1949,7 @@ return [
 	'PUSH' => [
 		_x('Chengxiang Qu', 'PUSH', 'ry-wc-city-select'),
 		_x('Hanjiang Qu', 'PUSH', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('LiCheng Qu(Putian)', 'PUSH', 'ry-wc-city-select'),
-=======
-		_x('LiCheng Qu(Putian)','PUSH', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Xianyou Xian', 'PUSH', 'ry-wc-city-select'),
 		_x('Xiuyu Qu', 'PUSH', 'ry-wc-city-select'),
 	],

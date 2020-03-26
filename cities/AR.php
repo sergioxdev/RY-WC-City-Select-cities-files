@@ -92,11 +92,7 @@ return [
 		_x('San Carlos de Bariloche', 'DEBA', 'ry-wc-city-select'),
 	],
 	'DECO' => [
-<<<<<<< HEAD
 		_x('San Jose (Entre Rios)', 'DECO', 'ry-wc-city-select'),
-=======
-		_x('San Jose (Entre Rios)','DECO', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'DENO' => [
 		_x('Caviahue-Copahue', 'DENO', 'ry-wc-city-select'),

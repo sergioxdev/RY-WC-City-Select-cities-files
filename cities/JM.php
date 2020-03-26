@@ -389,11 +389,7 @@ return [
 		_x('Liguanea', 'SAAN', 'ry-wc-city-select'),
 		_x('Majestic Gardens', 'SAAN', 'ry-wc-city-select'),
 		_x('Mannings Hill', 'SAAN', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Mannings Hill (Rural)', 'SAAN', 'ry-wc-city-select'),
-=======
-		_x('Mannings Hill (Rural)','SAAN', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Marverley', 'SAAN', 'ry-wc-city-select'),
 		_x('Maryland', 'SAAN', 'ry-wc-city-select'),
 		_x('Mavis Bank', 'SAAN', 'ry-wc-city-select'),
@@ -416,11 +412,7 @@ return [
 		_x('Pembroke Hall', 'SAAN', 'ry-wc-city-select'),
 		_x('Penwood', 'SAAN', 'ry-wc-city-select'),
 		_x('Queensborough/ Tunbridge', 'SAAN', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Red Hills (Rural)', 'SAAN', 'ry-wc-city-select'),
-=======
-		_x('Red Hills (Rural)','SAAN', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Red Hills Gardens', 'SAAN', 'ry-wc-city-select'),
 		_x('Red Hills/ Sterling Castle', 'SAAN', 'ry-wc-city-select'),
 		_x('Richmond Park', 'SAAN', 'ry-wc-city-select'),

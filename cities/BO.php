@@ -125,11 +125,7 @@ return [
 		_x('Morochata Municipality', 'PRAY', 'ry-wc-city-select'),
 	],
 	'PRAZ' => [
-<<<<<<< HEAD
 		_x('Tarvita (Villa Orias)', 'PRAZ', 'ry-wc-city-select'),
-=======
-		_x('Tarvita (Villa Orias)','PRAZ', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Villa Azurduy', 'PRAZ', 'ry-wc-city-select'),
 	],
 	'PRBASA' => [
@@ -304,11 +300,7 @@ return [
 	],
 	'PRLUCA' => [
 		_x('Machareti', 'PRLUCA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Villa Vaca Guzman (Muyupampa)', 'PRLUCA', 'ry-wc-city-select'),
-=======
-		_x('Villa Vaca Guzman (Muyupampa)','PRLUCA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Villa de Huacaya', 'PRLUCA', 'ry-wc-city-select'),
 	],
 	'PRMADI' => [
@@ -418,11 +410,7 @@ return [
 	],
 	'PROR' => [
 		_x('Poroma', 'PROR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Sucre (Capital)', 'PROR', 'ry-wc-city-select'),
-=======
-		_x('Sucre (Capital)','PROR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Yotala', 'PROR', 'ry-wc-city-select'),
 	],
 	'PRPA' => [
@@ -476,41 +464,10 @@ return [
 	'PRSAPETO' => [
 		_x('Totora Municipality', 'PRSAPETO', 'ry-wc-city-select'),
 	],
-<<<<<<< HEAD
 	'PRSA3' => [
 		_x('Colpa Belgica', 'PRSA3', 'ry-wc-city-select'),
 		_x('Portachuelo', 'PRSA3', 'ry-wc-city-select'),
 		_x('Santa Rosa del Sara Municipality', 'PRSA3', 'ry-wc-city-select'),
-=======
-	'PRSA4' => [
-		_x('Fernandez Alonso', 'PRSA4', 'ry-wc-city-select'),
-		_x('General Saavedra Municipality', 'PRSA4', 'ry-wc-city-select'),
-		_x('Mineros Municipality', 'PRSA4', 'ry-wc-city-select'),
-		_x('Montero', 'PRSA4', 'ry-wc-city-select'),
-		_x('San Pedro', 'PRSA4', 'ry-wc-city-select'),
-	],
-	'PRSA5' => [
-		_x('Colpa Belgica', 'PRSA5', 'ry-wc-city-select'),
-		_x('Portachuelo', 'PRSA5', 'ry-wc-city-select'),
-		_x('Santa Rosa del Sara Municipality', 'PRSA5', 'ry-wc-city-select'),
-	],
-	'PRSA6' => [
-		_x('Toledo Municipality', 'PRSA6', 'ry-wc-city-select'),
-	],
-	'PRSUCH' => [
-		_x('Atocha', 'PRSUCH', 'ry-wc-city-select'),
-		_x('Tupiza', 'PRSUCH', 'ry-wc-city-select'),
-	],
-	'PRSUCI' => [
-		_x('Camataqui (Villa Abecia)','PRSUCI', 'ry-wc-city-select'),
-		_x('Culpina', 'PRSUCI', 'ry-wc-city-select'),
-		_x('Las Carreras', 'PRSUCI', 'ry-wc-city-select'),
-	],
-	'PRSULI' => [
-		_x('Mojinete', 'PRSULI', 'ry-wc-city-select'),
-		_x('San Antonio de Esmoruco', 'PRSULI', 'ry-wc-city-select'),
-		_x('San Pablo de Lipez', 'PRSULI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'PRSUYU' => [
 		_x('Irupana Municipality', 'PRSUYU', 'ry-wc-city-select'),
@@ -566,11 +523,7 @@ return [
 		_x('Icla', 'PRZU', 'ry-wc-city-select'),
 		_x('Mojocoya', 'PRZU', 'ry-wc-city-select'),
 		_x('Presto', 'PRZU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Villa Zudanez (Tacopaya)', 'PRZU', 'ry-wc-city-select'),
-=======
-		_x('Villa Zudanez (Tacopaya)','PRZU', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'PUME' => [
 		_x('Carangas', 'PUME', 'ry-wc-city-select'),

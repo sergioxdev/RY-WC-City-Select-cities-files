@@ -23,13 +23,8 @@ return [
 		_x('Ormont-Dessous', 'AIDI', 'ry-wc-city-select'),
 		_x('Ormont-Dessus', 'AIDI', 'ry-wc-city-select'),
 		_x('Rennaz', 'AIDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Roche (VD)', 'AIDI', 'ry-wc-city-select'),
 		_x('Villeneuve (VD)', 'AIDI', 'ry-wc-city-select'),
-=======
-		_x('Roche (VD)','AIDI', 'ry-wc-city-select'),
-		_x('Villeneuve (VD)','AIDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Yvorne', 'AIDI', 'ry-wc-city-select'),
 	],
 	'APINRH' => [
@@ -40,23 +35,6 @@ return [
 		_x('Schlatt-Haslen', 'APINRH', 'ry-wc-city-select'),
 		_x('Schwende', 'APINRH', 'ry-wc-city-select'),
 	],
-<<<<<<< HEAD
-=======
-	'ARDI' => [
-		_x('Amriswil', 'ARDI', 'ry-wc-city-select'),
-		_x('Arbon', 'ARDI', 'ry-wc-city-select'),
-		_x('Dozwil', 'ARDI', 'ry-wc-city-select'),
-		_x('Egnach', 'ARDI', 'ry-wc-city-select'),
-		_x('Hefenhofen', 'ARDI', 'ry-wc-city-select'),
-		_x('Horn', 'ARDI', 'ry-wc-city-select'),
-		_x('Kesswil', 'ARDI', 'ry-wc-city-select'),
-		_x('Roggwil (TG)','ARDI', 'ry-wc-city-select'),
-		_x('Romanshorn', 'ARDI', 'ry-wc-city-select'),
-		_x('Salmsach', 'ARDI', 'ry-wc-city-select'),
-		_x('Sommeri', 'ARDI', 'ry-wc-city-select'),
-		_x('Uttwil', 'ARDI', 'ry-wc-city-select'),
-	],
->>>>>>> fix php error
 	'BA' => [
 		_x('Basel', 'BA', 'ry-wc-city-select'),
 		_x('Bettingen', 'BA', 'ry-wc-city-select'),
@@ -73,11 +51,7 @@ return [
 	],
 	'BEDI2' => [
 		_x('Allmendingen', 'BEDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Arni (BE)', 'BEDI2', 'ry-wc-city-select'),
-=======
-		_x('Arni (BE)','BEDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Baeriswil', 'BEDI2', 'ry-wc-city-select'),
 		_x('Belp', 'BEDI2', 'ry-wc-city-select'),
 		_x('Bern/Berne/Berna', 'BEDI2', 'ry-wc-city-select'),
@@ -106,12 +80,7 @@ return [
 		_x('Kaufdorf', 'BEDI2', 'ry-wc-city-select'),
 		_x('Kehrsatz', 'BEDI2', 'ry-wc-city-select'),
 		_x('Kiesen', 'BEDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Kirchdorf (BE)', 'BEDI2', 'ry-wc-city-select'),
-=======
-		_x('Kirchdorf (BE)','BEDI2', 'ry-wc-city-select'),
-		_x('Kirchenthurnen', 'BEDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Kirchlindach', 'BEDI2', 'ry-wc-city-select'),
 		_x('Koeniz', 'BEDI2', 'ry-wc-city-select'),
 		_x('Konolfingen', 'BEDI2', 'ry-wc-city-select'),
@@ -148,11 +117,7 @@ return [
 		_x('Toffen', 'BEDI2', 'ry-wc-city-select'),
 		_x('Urtenen-Schoenbuehl', 'BEDI2', 'ry-wc-city-select'),
 		_x('Vechigen', 'BEDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Wald (BE)', 'BEDI2', 'ry-wc-city-select'),
-=======
-		_x('Wald (BE)','BEDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Walkringen', 'BEDI2', 'ry-wc-city-select'),
 		_x('Wichtrach', 'BEDI2', 'ry-wc-city-select'),
 		_x('Wiggiswil', 'BEDI2', 'ry-wc-city-select'),
@@ -161,11 +126,7 @@ return [
 		_x('Worb', 'BEDI2', 'ry-wc-city-select'),
 		_x('Zaeziwil', 'BEDI2', 'ry-wc-city-select'),
 		_x('Zollikofen', 'BEDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Zuzwil (BE)', 'BEDI2', 'ry-wc-city-select'),
-=======
-		_x('Zuzwil (BE)','BEDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEAA' => [
 		_x('Aarau', 'BEAA', 'ry-wc-city-select'),
@@ -200,11 +161,7 @@ return [
 	'BEAN' => [
 		_x('Adlikon', 'BEAN', 'ry-wc-city-select'),
 		_x('Andelfingen', 'BEAN', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Benken (ZH)', 'BEAN', 'ry-wc-city-select'),
-=======
-		_x('Benken (ZH)','BEAN', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Berg am Irchel', 'BEAN', 'ry-wc-city-select'),
 		_x('Buch am Irchel', 'BEAN', 'ry-wc-city-select'),
 		_x('Dachsen', 'BEAN', 'ry-wc-city-select'),
@@ -226,7 +183,6 @@ return [
 		_x('Volken', 'BEAN', 'ry-wc-city-select'),
 	],
 	'BEAR' => [
-<<<<<<< HEAD
 		_x('Amriswil', 'BEAR', 'ry-wc-city-select'),
 		_x('Arbon', 'BEAR', 'ry-wc-city-select'),
 		_x('Dozwil', 'BEAR', 'ry-wc-city-select'),
@@ -256,23 +212,6 @@ return [
 		_x('Reinach (BL)', 'BEAR2', 'ry-wc-city-select'),
 		_x('Schoenenbuch', 'BEAR2', 'ry-wc-city-select'),
 		_x('Therwil', 'BEAR2', 'ry-wc-city-select'),
-=======
-		_x('Aesch (BL)','BEAR', 'ry-wc-city-select'),
-		_x('Allschwil', 'BEAR', 'ry-wc-city-select'),
-		_x('Arlesheim', 'BEAR', 'ry-wc-city-select'),
-		_x('Biel-Benken', 'BEAR', 'ry-wc-city-select'),
-		_x('Binningen', 'BEAR', 'ry-wc-city-select'),
-		_x('Birsfelden', 'BEAR', 'ry-wc-city-select'),
-		_x('Bottmingen', 'BEAR', 'ry-wc-city-select'),
-		_x('Ettingen', 'BEAR', 'ry-wc-city-select'),
-		_x('Muenchenstein', 'BEAR', 'ry-wc-city-select'),
-		_x('Muttenz', 'BEAR', 'ry-wc-city-select'),
-		_x('Oberwil (BL)','BEAR', 'ry-wc-city-select'),
-		_x('Pfeffingen', 'BEAR', 'ry-wc-city-select'),
-		_x('Reinach (BL)','BEAR', 'ry-wc-city-select'),
-		_x('Schoenenbuch', 'BEAR', 'ry-wc-city-select'),
-		_x('Therwil', 'BEAR', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEBA' => [
 		_x('Baden', 'BEBA', 'ry-wc-city-select'),
@@ -382,21 +321,13 @@ return [
 		_x('Rorbas', 'BEBU2', 'ry-wc-city-select'),
 		_x('Wallisellen', 'BEBU2', 'ry-wc-city-select'),
 		_x('Wasterkingen', 'BEBU2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Wil (ZH)', 'BEBU2', 'ry-wc-city-select'),
-=======
-		_x('Wil (ZH)','BEBU2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Winkel', 'BEBU2', 'ry-wc-city-select'),
 	],
 	'BEDI3' => [
 		_x('Bachs', 'BEDI3', 'ry-wc-city-select'),
 		_x('Boppelsen', 'BEDI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Buchs (ZH)', 'BEDI3', 'ry-wc-city-select'),
-=======
-		_x('Buchs (ZH)','BEDI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Daellikon', 'BEDI3', 'ry-wc-city-select'),
 		_x('Daenikon', 'BEDI3', 'ry-wc-city-select'),
 		_x('Dielsdorf', 'BEDI3', 'ry-wc-city-select'),
@@ -418,13 +349,8 @@ return [
 		_x('Weiach', 'BEDI3', 'ry-wc-city-select'),
 	],
 	'BEDI4' => [
-<<<<<<< HEAD
 		_x('Aesch (ZH)', 'BEDI4', 'ry-wc-city-select'),
 		_x('Birmensdorf (ZH)', 'BEDI4', 'ry-wc-city-select'),
-=======
-		_x('Aesch (ZH)','BEDI4', 'ry-wc-city-select'),
-		_x('Birmensdorf (ZH)','BEDI4', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Dietikon', 'BEDI4', 'ry-wc-city-select'),
 		_x('Geroldswil', 'BEDI4', 'ry-wc-city-select'),
 		_x('Oberengstringen', 'BEDI4', 'ry-wc-city-select'),
@@ -433,19 +359,11 @@ return [
 		_x('Uitikon', 'BEDI4', 'ry-wc-city-select'),
 		_x('Unterengstringen', 'BEDI4', 'ry-wc-city-select'),
 		_x('Urdorf', 'BEDI4', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Weiningen (ZH)', 'BEDI4', 'ry-wc-city-select'),
 	],
 	'BEDO' => [
 		_x('Baettwil', 'BEDO', 'ry-wc-city-select'),
 		_x('Bueren (SO)', 'BEDO', 'ry-wc-city-select'),
-=======
-		_x('Weiningen (ZH)','BEDI4', 'ry-wc-city-select'),
-	],
-	'BEDO' => [
-		_x('Baettwil', 'BEDO', 'ry-wc-city-select'),
-		_x('Bueren (SO)','BEDO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Dornach', 'BEDO', 'ry-wc-city-select'),
 		_x('Gempen', 'BEDO', 'ry-wc-city-select'),
 		_x('Hochwald', 'BEDO', 'ry-wc-city-select'),
@@ -498,40 +416,24 @@ return [
 		_x('Gersau', 'BEGE', 'ry-wc-city-select'),
 	],
 	'BEGO' => [
-<<<<<<< HEAD
 		_x('Erlinsbach (SO)', 'BEGO', 'ry-wc-city-select'),
-=======
-		_x('Erlinsbach (SO)','BEGO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Hauenstein-Ifenthal', 'BEGO', 'ry-wc-city-select'),
 		_x('Kienberg', 'BEGO', 'ry-wc-city-select'),
 		_x('Lostorf', 'BEGO', 'ry-wc-city-select'),
 		_x('Niedergoesgen', 'BEGO', 'ry-wc-city-select'),
 		_x('Obergoesgen', 'BEGO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rohr (SO)', 'BEGO', 'ry-wc-city-select'),
 		_x('Stuesslingen', 'BEGO', 'ry-wc-city-select'),
 		_x('Trimbach', 'BEGO', 'ry-wc-city-select'),
 		_x('Winznau', 'BEGO', 'ry-wc-city-select'),
 		_x('Wisen (SO)', 'BEGO', 'ry-wc-city-select'),
-=======
-		_x('Rohr (SO)','BEGO', 'ry-wc-city-select'),
-		_x('Stuesslingen', 'BEGO', 'ry-wc-city-select'),
-		_x('Trimbach', 'BEGO', 'ry-wc-city-select'),
-		_x('Winznau', 'BEGO', 'ry-wc-city-select'),
-		_x('Wisen (SO)','BEGO', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEHI' => [
 		_x('Herisau', 'BEHI', 'ry-wc-city-select'),
 		_x('Hundwil', 'BEHI', 'ry-wc-city-select'),
 		_x('Schoenengrund', 'BEHI', 'ry-wc-city-select'),
 		_x('Schwellbrunn', 'BEHI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Stein (AR)', 'BEHI', 'ry-wc-city-select'),
-=======
-		_x('Stein (AR)','BEHI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Urnaesch', 'BEHI', 'ry-wc-city-select'),
 		_x('Waldstatt', 'BEHI', 'ry-wc-city-select'),
 	],
@@ -540,7 +442,6 @@ return [
 		_x('Bubikon', 'BEHI2', 'ry-wc-city-select'),
 		_x('Duernten', 'BEHI2', 'ry-wc-city-select'),
 		_x('Fischenthal', 'BEHI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Gossau (ZH)', 'BEHI2', 'ry-wc-city-select'),
 		_x('Grueningen', 'BEHI2', 'ry-wc-city-select'),
 		_x('Hinwil', 'BEHI2', 'ry-wc-city-select'),
@@ -548,15 +449,6 @@ return [
 		_x('Seegraeben', 'BEHI2', 'ry-wc-city-select'),
 		_x('Wald (ZH)', 'BEHI2', 'ry-wc-city-select'),
 		_x('Wetzikon (ZH)', 'BEHI2', 'ry-wc-city-select'),
-=======
-		_x('Gossau (ZH)','BEHI2', 'ry-wc-city-select'),
-		_x('Grueningen', 'BEHI2', 'ry-wc-city-select'),
-		_x('Hinwil', 'BEHI2', 'ry-wc-city-select'),
-		_x('Rueti (ZH)','BEHI2', 'ry-wc-city-select'),
-		_x('Seegraeben', 'BEHI2', 'ry-wc-city-select'),
-		_x('Wald (ZH)','BEHI2', 'ry-wc-city-select'),
-		_x('Wetzikon (ZH)','BEHI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEHO' => [
 		_x('Feusisberg', 'BEHO', 'ry-wc-city-select'),
@@ -566,11 +458,7 @@ return [
 	'BEHO2' => [
 		_x('Adliswil', 'BEHO2', 'ry-wc-city-select'),
 		_x('Horgen', 'BEHO2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Kilchberg (ZH)', 'BEHO2', 'ry-wc-city-select'),
-=======
-		_x('Kilchberg (ZH)','BEHO2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Langnau am Albis', 'BEHO2', 'ry-wc-city-select'),
 		_x('Oberrieden', 'BEHO2', 'ry-wc-city-select'),
 		_x('Richterswil', 'BEHO2', 'ry-wc-city-select'),
@@ -595,11 +483,7 @@ return [
 		_x('Waeldi', 'BEKR', 'ry-wc-city-select'),
 	],
 	'BEKU' => [
-<<<<<<< HEAD
 		_x('Kuessnacht (SZ)', 'BEKU', 'ry-wc-city-select'),
-=======
-		_x('Kuessnacht (SZ)','BEKU', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEKU2' => [
 		_x('Beinwil am See', 'BEKU2', 'ry-wc-city-select'),
@@ -667,11 +551,7 @@ return [
 		_x('Kammersrohr', 'BELE', 'ry-wc-city-select'),
 		_x('Langendorf', 'BELE', 'ry-wc-city-select'),
 		_x('Lommiswil', 'BELE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Oberdorf (SO)', 'BELE', 'ry-wc-city-select'),
-=======
-		_x('Oberdorf (SO)','BELE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Riedholz', 'BELE', 'ry-wc-city-select'),
 		_x('Ruettenen', 'BELE', 'ry-wc-city-select'),
 		_x('Selzach', 'BELE', 'ry-wc-city-select'),
@@ -723,7 +603,6 @@ return [
 		_x('Schuebelbach', 'BEMA', 'ry-wc-city-select'),
 		_x('Tuggen', 'BEMA', 'ry-wc-city-select'),
 		_x('Vorderthal', 'BEMA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Wangen (SZ)', 'BEMA', 'ry-wc-city-select'),
 	],
 	'BEME' => [
@@ -731,15 +610,6 @@ return [
 		_x('Herrliberg', 'BEME', 'ry-wc-city-select'),
 		_x('Hombrechtikon', 'BEME', 'ry-wc-city-select'),
 		_x('Kuesnacht (ZH)', 'BEME', 'ry-wc-city-select'),
-=======
-		_x('Wangen (SZ)','BEMA', 'ry-wc-city-select'),
-	],
-	'BEME' => [
-		_x('Erlenbach (ZH)','BEME', 'ry-wc-city-select'),
-		_x('Herrliberg', 'BEME', 'ry-wc-city-select'),
-		_x('Hombrechtikon', 'BEME', 'ry-wc-city-select'),
-		_x('Kuesnacht (ZH)','BEME', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Maennedorf', 'BEME', 'ry-wc-city-select'),
 		_x('Meilen', 'BEME', 'ry-wc-city-select'),
 		_x('Oetwil am See', 'BEME', 'ry-wc-city-select'),
@@ -752,7 +622,6 @@ return [
 		_x('Buehler', 'BEMI', 'ry-wc-city-select'),
 		_x('Gais', 'BEMI', 'ry-wc-city-select'),
 		_x('Speicher', 'BEMI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Teufen (AR)', 'BEMI', 'ry-wc-city-select'),
 		_x('Trogen', 'BEMI', 'ry-wc-city-select'),
 	],
@@ -791,31 +660,6 @@ return [
 		_x('Rottenschwil', 'BEMU2', 'ry-wc-city-select'),
 		_x('Sins', 'BEMU2', 'ry-wc-city-select'),
 		_x('Waltenschwil', 'BEMU2', 'ry-wc-city-select'),
-=======
-		_x('Teufen (AR)','BEMI', 'ry-wc-city-select'),
-		_x('Trogen', 'BEMI', 'ry-wc-city-select'),
-	],
-	'BEMU' => [
-		_x('Abtwil', 'BEMU', 'ry-wc-city-select'),
-		_x('Aristau', 'BEMU', 'ry-wc-city-select'),
-		_x('Auw', 'BEMU', 'ry-wc-city-select'),
-		_x('Beinwil (Freiamt)','BEMU', 'ry-wc-city-select'),
-		_x('Besenbueren', 'BEMU', 'ry-wc-city-select'),
-		_x('Bettwil', 'BEMU', 'ry-wc-city-select'),
-		_x('Boswil', 'BEMU', 'ry-wc-city-select'),
-		_x('Buenzen', 'BEMU', 'ry-wc-city-select'),
-		_x('Buttwil', 'BEMU', 'ry-wc-city-select'),
-		_x('Dietwil', 'BEMU', 'ry-wc-city-select'),
-		_x('Geltwil', 'BEMU', 'ry-wc-city-select'),
-		_x('Kallern', 'BEMU', 'ry-wc-city-select'),
-		_x('Merenschwand', 'BEMU', 'ry-wc-city-select'),
-		_x('Muehlau', 'BEMU', 'ry-wc-city-select'),
-		_x('Muri', 'BEMU', 'ry-wc-city-select'),
-		_x('Oberrueti', 'BEMU', 'ry-wc-city-select'),
-		_x('Rottenschwil', 'BEMU', 'ry-wc-city-select'),
-		_x('Sins', 'BEMU', 'ry-wc-city-select'),
-		_x('Waltenschwil', 'BEMU', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEOB' => [
 		_x('Gaechlingen', 'BEOB', 'ry-wc-city-select'),
@@ -831,21 +675,12 @@ return [
 		_x('Gretzenbach', 'BEOL', 'ry-wc-city-select'),
 		_x('Gunzgen', 'BEOL', 'ry-wc-city-select'),
 		_x('Haegendorf', 'BEOL', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Kappel (SO)', 'BEOL', 'ry-wc-city-select'),
 		_x('Olten', 'BEOL', 'ry-wc-city-select'),
 		_x('Rickenbach (SO)', 'BEOL', 'ry-wc-city-select'),
 		_x('Schoenenwerd', 'BEOL', 'ry-wc-city-select'),
 		_x('Starrkirch-Wil', 'BEOL', 'ry-wc-city-select'),
 		_x('Walterswil (SO)', 'BEOL', 'ry-wc-city-select'),
-=======
-		_x('Kappel (SO)','BEOL', 'ry-wc-city-select'),
-		_x('Olten', 'BEOL', 'ry-wc-city-select'),
-		_x('Rickenbach (SO)','BEOL', 'ry-wc-city-select'),
-		_x('Schoenenwerd', 'BEOL', 'ry-wc-city-select'),
-		_x('Starrkirch-Wil', 'BEOL', 'ry-wc-city-select'),
-		_x('Walterswil (SO)','BEOL', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Wangen bei Olten', 'BEOL', 'ry-wc-city-select'),
 	],
 	'BEPF' => [
@@ -863,13 +698,8 @@ return [
 	'BERE' => [
 		_x('Buettenhardt', 'BERE', 'ry-wc-city-select'),
 		_x('Doerflingen', 'BERE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lohn (SH)', 'BERE', 'ry-wc-city-select'),
 		_x('Stetten (SH)', 'BERE', 'ry-wc-city-select'),
-=======
-		_x('Lohn (SH)','BERE', 'ry-wc-city-select'),
-		_x('Stetten (SH)','BERE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Thayngen', 'BERE', 'ry-wc-city-select'),
 	],
 	'BERH' => [
@@ -889,11 +719,7 @@ return [
 		_x('Zuzgen', 'BERH', 'ry-wc-city-select'),
 	],
 	'BESC' => [
-<<<<<<< HEAD
 		_x('Bargen (SH)', 'BESC', 'ry-wc-city-select'),
-=======
-		_x('Bargen (SH)','BESC', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Beringen', 'BESC', 'ry-wc-city-select'),
 		_x('Buchberg', 'BESC', 'ry-wc-city-select'),
 		_x('Merishausen', 'BESC', 'ry-wc-city-select'),
@@ -934,21 +760,13 @@ return [
 		_x('Hemmiken', 'BESI', 'ry-wc-city-select'),
 		_x('Itingen', 'BESI', 'ry-wc-city-select'),
 		_x('Kaenerkinden', 'BESI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Kilchberg (BL)', 'BESI', 'ry-wc-city-select'),
-=======
-		_x('Kilchberg (BL)','BESI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Laeufelfingen', 'BESI', 'ry-wc-city-select'),
 		_x('Maisprach', 'BESI', 'ry-wc-city-select'),
 		_x('Nusshof', 'BESI', 'ry-wc-city-select'),
 		_x('Oltingen', 'BESI', 'ry-wc-city-select'),
 		_x('Ormalingen', 'BESI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rickenbach (BL)', 'BESI', 'ry-wc-city-select'),
-=======
-		_x('Rickenbach (BL)','BESI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Rothenfluh', 'BESI', 'ry-wc-city-select'),
 		_x('Ruemlingen', 'BESI', 'ry-wc-city-select'),
 		_x('Ruenenberg', 'BESI', 'ry-wc-city-select'),
@@ -966,11 +784,7 @@ return [
 		_x('Solothurn', 'BESO', 'ry-wc-city-select'),
 	],
 	'BEST' => [
-<<<<<<< HEAD
 		_x('Buch (SH)', 'BEST', 'ry-wc-city-select'),
-=======
-		_x('Buch (SH)','BEST', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Hemishofen', 'BEST', 'ry-wc-city-select'),
 		_x('Ramsen', 'BEST', 'ry-wc-city-select'),
 		_x('Stein am Rhein', 'BEST', 'ry-wc-city-select'),
@@ -980,11 +794,7 @@ return [
 		_x('Balsthal', 'BETH', 'ry-wc-city-select'),
 		_x('Gaensbrunnen', 'BETH', 'ry-wc-city-select'),
 		_x('Herbetswil', 'BETH', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Holderbank (SO)', 'BETH', 'ry-wc-city-select'),
-=======
-		_x('Holderbank (SO)','BETH', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Laupersdorf', 'BETH', 'ry-wc-city-select'),
 		_x('Matzendorf', 'BETH', 'ry-wc-city-select'),
 		_x('Muemliswil-Ramiswil', 'BETH', 'ry-wc-city-select'),
@@ -992,11 +802,7 @@ return [
 	],
 	'BETH2' => [
 		_x('Baerschwil', 'BETH2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Beinwil (SO)', 'BETH2', 'ry-wc-city-select'),
-=======
-		_x('Beinwil (SO)','BETH2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Breitenbach', 'BETH2', 'ry-wc-city-select'),
 		_x('Buesserach', 'BETH2', 'ry-wc-city-select'),
 		_x('Erschwil', 'BETH2', 'ry-wc-city-select'),
@@ -1027,21 +833,12 @@ return [
 		_x('Wangen-Bruettisellen', 'BEUS', 'ry-wc-city-select'),
 	],
 	'BEVO' => [
-<<<<<<< HEAD
 		_x('Grub (AR)', 'BEVO', 'ry-wc-city-select'),
 		_x('Heiden', 'BEVO', 'ry-wc-city-select'),
 		_x('Lutzenberg', 'BEVO', 'ry-wc-city-select'),
 		_x('Rehetobel', 'BEVO', 'ry-wc-city-select'),
 		_x('Reute (AR)', 'BEVO', 'ry-wc-city-select'),
 		_x('Wald (AR)', 'BEVO', 'ry-wc-city-select'),
-=======
-		_x('Grub (AR)','BEVO', 'ry-wc-city-select'),
-		_x('Heiden', 'BEVO', 'ry-wc-city-select'),
-		_x('Lutzenberg', 'BEVO', 'ry-wc-city-select'),
-		_x('Rehetobel', 'BEVO', 'ry-wc-city-select'),
-		_x('Reute (AR)','BEVO', 'ry-wc-city-select'),
-		_x('Wald (AR)','BEVO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Walzenhausen', 'BEVO', 'ry-wc-city-select'),
 		_x('Wolfhalden', 'BEVO', 'ry-wc-city-select'),
 	],
@@ -1057,21 +854,13 @@ return [
 		_x('Lauwil', 'BEWA', 'ry-wc-city-select'),
 		_x('Liedertswil', 'BEWA', 'ry-wc-city-select'),
 		_x('Niederdorf', 'BEWA', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Oberdorf (BL)', 'BEWA', 'ry-wc-city-select'),
-=======
-		_x('Oberdorf (BL)','BEWA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Reigoldswil', 'BEWA', 'ry-wc-city-select'),
 		_x('Titterten', 'BEWA', 'ry-wc-city-select'),
 		_x('Waldenburg', 'BEWA', 'ry-wc-city-select'),
 	],
 	'BEWA2' => [
-<<<<<<< HEAD
 		_x('Aeschi (SO)', 'BEWA2', 'ry-wc-city-select'),
-=======
-		_x('Aeschi (SO)','BEWA2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Biberist', 'BEWA2', 'ry-wc-city-select'),
 		_x('Bolken', 'BEWA2', 'ry-wc-city-select'),
 		_x('Deitingen', 'BEWA2', 'ry-wc-city-select'),
@@ -1124,22 +913,13 @@ return [
 		_x('Hettlingen', 'BEWI', 'ry-wc-city-select'),
 		_x('Neftenbach', 'BEWI', 'ry-wc-city-select'),
 		_x('Pfungen', 'BEWI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rickenbach (ZH)', 'BEWI', 'ry-wc-city-select'),
 		_x('Schlatt (ZH)', 'BEWI', 'ry-wc-city-select'),
-=======
-		_x('Rickenbach (ZH)','BEWI', 'ry-wc-city-select'),
-		_x('Schlatt (ZH)','BEWI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Seuzach', 'BEWI', 'ry-wc-city-select'),
 		_x('Turbenthal', 'BEWI', 'ry-wc-city-select'),
 		_x('Wiesendangen', 'BEWI', 'ry-wc-city-select'),
 		_x('Winterthur', 'BEWI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Zell (ZH)', 'BEWI', 'ry-wc-city-select'),
-=======
-		_x('Zell (ZH)','BEWI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'BEZO' => [
 		_x('Aarburg', 'BEZO', 'ry-wc-city-select'),
@@ -1194,11 +974,7 @@ return [
 		_x('Bruegg', 'BIDI', 'ry-wc-city-select'),
 		_x('Evilard/Leubringen', 'BIDI', 'ry-wc-city-select'),
 		_x('Ipsach', 'BIDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lengnau (BE)', 'BIDI', 'ry-wc-city-select'),
-=======
-		_x('Lengnau (BE)','BIDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ligerz', 'BIDI', 'ry-wc-city-select'),
 		_x('Meinisberg', 'BIDI', 'ry-wc-city-select'),
 		_x('Moerigen', 'BIDI', 'ry-wc-city-select'),
@@ -1237,37 +1013,21 @@ return [
 	],
 	'BRDI2' => [
 		_x('Belmont-Broye', 'BRDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Chatillon (FR)', 'BRDI2', 'ry-wc-city-select'),
 		_x('Cheiry', 'BRDI2', 'ry-wc-city-select'),
 		_x('Cheyres-Chables', 'BRDI2', 'ry-wc-city-select'),
 		_x('Cugy (FR)', 'BRDI2', 'ry-wc-city-select'),
-=======
-		_x('Chatillon (FR)','BRDI2', 'ry-wc-city-select'),
-		_x('Cheiry', 'BRDI2', 'ry-wc-city-select'),
-		_x('Cheyres-Chables', 'BRDI2', 'ry-wc-city-select'),
-		_x('Cugy (FR)','BRDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Delley-Portalban', 'BRDI2', 'ry-wc-city-select'),
 		_x('Estavayer', 'BRDI2', 'ry-wc-city-select'),
 		_x('Fetigny', 'BRDI2', 'ry-wc-city-select'),
 		_x('Gletterens', 'BRDI2', 'ry-wc-city-select'),
 		_x('Les Montets', 'BRDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lully (FR)', 'BRDI2', 'ry-wc-city-select'),
 		_x('Menieres', 'BRDI2', 'ry-wc-city-select'),
 		_x('Montagny (FR)', 'BRDI2', 'ry-wc-city-select'),
 		_x('Nuvilly', 'BRDI2', 'ry-wc-city-select'),
 		_x('Prevondavaux', 'BRDI2', 'ry-wc-city-select'),
 		_x('Saint-Aubin (FR)', 'BRDI2', 'ry-wc-city-select'),
-=======
-		_x('Lully (FR)','BRDI2', 'ry-wc-city-select'),
-		_x('Menieres', 'BRDI2', 'ry-wc-city-select'),
-		_x('Montagny (FR)','BRDI2', 'ry-wc-city-select'),
-		_x('Nuvilly', 'BRDI2', 'ry-wc-city-select'),
-		_x('Prevondavaux', 'BRDI2', 'ry-wc-city-select'),
-		_x('Saint-Aubin (FR)','BRDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sevaz', 'BRDI2', 'ry-wc-city-select'),
 		_x('Surpierre', 'BRDI2', 'ry-wc-city-select'),
 		_x('Vallon', 'BRDI2', 'ry-wc-city-select'),
@@ -1282,11 +1042,7 @@ return [
 		_x('Corcelles-pres-Payerne', 'BRDI3', 'ry-wc-city-select'),
 		_x('Cudrefin', 'BRDI3', 'ry-wc-city-select'),
 		_x('Curtilles', 'BRDI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Dompierre (VD)', 'BRDI3', 'ry-wc-city-select'),
-=======
-		_x('Dompierre (VD)','BRDI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Faoug', 'BRDI3', 'ry-wc-city-select'),
 		_x('Grandcour', 'BRDI3', 'ry-wc-city-select'),
 		_x('Henniez', 'BRDI3', 'ry-wc-city-select'),
@@ -1301,11 +1057,7 @@ return [
 		_x('Rossenges', 'BRDI3', 'ry-wc-city-select'),
 		_x('Syens', 'BRDI3', 'ry-wc-city-select'),
 		_x('Trey', 'BRDI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Treytorrens (Payerne)', 'BRDI3', 'ry-wc-city-select'),
-=======
-		_x('Treytorrens (Payerne)','BRDI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Valbroye', 'BRDI3', 'ry-wc-city-select'),
 		_x('Villars-le-Comte', 'BRDI3', 'ry-wc-city-select'),
 		_x('Villarzel', 'BRDI3', 'ry-wc-city-select'),
@@ -1323,11 +1075,7 @@ return [
 	'DEDI' => [
 		_x('Boecourt', 'DEDI', 'ry-wc-city-select'),
 		_x('Bourrignon', 'DEDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Chatillon (JU)', 'DEDI', 'ry-wc-city-select'),
-=======
-		_x('Chatillon (JU)','DEDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Courchapoix', 'DEDI', 'ry-wc-city-select'),
 		_x('Courrendlin', 'DEDI', 'ry-wc-city-select'),
 		_x('Courroux', 'DEDI', 'ry-wc-city-select'),
@@ -1360,11 +1108,7 @@ return [
 		_x('Hindelbank', 'EMDI', 'ry-wc-city-select'),
 		_x('Hoechstetten', 'EMDI', 'ry-wc-city-select'),
 		_x('Kernenried', 'EMDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Kirchberg (BE)', 'EMDI', 'ry-wc-city-select'),
-=======
-		_x('Kirchberg (BE)','EMDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Koppigen', 'EMDI', 'ry-wc-city-select'),
 		_x('Krauchthal', 'EMDI', 'ry-wc-city-select'),
 		_x('Langnau im Emmental', 'EMDI', 'ry-wc-city-select'),
@@ -1396,11 +1140,7 @@ return [
 		_x('Entlebuch', 'ENDI', 'ry-wc-city-select'),
 		_x('Escholzmatt-Marbach', 'ENDI', 'ry-wc-city-select'),
 		_x('Fluehli', 'ENDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Hasle (LU)', 'ENDI', 'ry-wc-city-select'),
-=======
-		_x('Hasle (LU)','ENDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Romoos', 'ENDI', 'ry-wc-city-select'),
 		_x('Schuepfheim', 'ENDI', 'ry-wc-city-select'),
 		_x('Werthenstein', 'ENDI', 'ry-wc-city-select'),
@@ -1416,22 +1156,13 @@ return [
 	],
 	'FRDI' => [
 		_x('La Chaux-des-Breuleux', 'FRDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lajoux (JU)', 'FRDI', 'ry-wc-city-select'),
 		_x('Le Bemont (JU)', 'FRDI', 'ry-wc-city-select'),
-=======
-		_x('Lajoux (JU)','FRDI', 'ry-wc-city-select'),
-		_x('Le Bemont (JU)','FRDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Le Noirmont', 'FRDI', 'ry-wc-city-select'),
 		_x('Les Bois', 'FRDI', 'ry-wc-city-select'),
 		_x('Les Breuleux', 'FRDI', 'ry-wc-city-select'),
 		_x('Les Enfers', 'FRDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Les Genevez (JU)', 'FRDI', 'ry-wc-city-select'),
-=======
-		_x('Les Genevez (JU)','FRDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Montfaucon', 'FRDI', 'ry-wc-city-select'),
 		_x('Muriaux', 'FRDI', 'ry-wc-city-select'),
 		_x('Saignelegier', 'FRDI', 'ry-wc-city-select'),
@@ -1439,7 +1170,6 @@ return [
 		_x('Soubey', 'FRDI', 'ry-wc-city-select'),
 	],
 	'FRDI2' => [
-<<<<<<< HEAD
 		_x('Adelboden', 'FRDI2', 'ry-wc-city-select'),
 		_x('Aeschi bei Spiez', 'FRDI2', 'ry-wc-city-select'),
 		_x('Daerstetten', 'FRDI2', 'ry-wc-city-select'),
@@ -1453,46 +1183,6 @@ return [
 		_x('Reichenbach im Kandertal', 'FRDI2', 'ry-wc-city-select'),
 		_x('Spiez', 'FRDI2', 'ry-wc-city-select'),
 		_x('Wimmis', 'FRDI2', 'ry-wc-city-select'),
-=======
-		_x('Basadingen-Schlattingen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Berlingen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Diessenhofen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Eschenz', 'FRDI2', 'ry-wc-city-select'),
-		_x('Felben-Wellhausen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Frauenfeld', 'FRDI2', 'ry-wc-city-select'),
-		_x('Gachnang', 'FRDI2', 'ry-wc-city-select'),
-		_x('Herdern', 'FRDI2', 'ry-wc-city-select'),
-		_x('Homburg', 'FRDI2', 'ry-wc-city-select'),
-		_x('Huettlingen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Huettwilen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Mammern', 'FRDI2', 'ry-wc-city-select'),
-		_x('Matzingen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Muellheim', 'FRDI2', 'ry-wc-city-select'),
-		_x('Neunforn', 'FRDI2', 'ry-wc-city-select'),
-		_x('Pfyn', 'FRDI2', 'ry-wc-city-select'),
-		_x('Schlatt (TG)','FRDI2', 'ry-wc-city-select'),
-		_x('Steckborn', 'FRDI2', 'ry-wc-city-select'),
-		_x('Stettfurt', 'FRDI2', 'ry-wc-city-select'),
-		_x('Thundorf', 'FRDI2', 'ry-wc-city-select'),
-		_x('Uesslingen-Buch', 'FRDI2', 'ry-wc-city-select'),
-		_x('Wagenhausen', 'FRDI2', 'ry-wc-city-select'),
-		_x('Warth-Weiningen', 'FRDI2', 'ry-wc-city-select'),
-	],
-	'FRDI3' => [
-		_x('Adelboden', 'FRDI3', 'ry-wc-city-select'),
-		_x('Aeschi bei Spiez', 'FRDI3', 'ry-wc-city-select'),
-		_x('Daerstetten', 'FRDI3', 'ry-wc-city-select'),
-		_x('Diemtigen', 'FRDI3', 'ry-wc-city-select'),
-		_x('Erlenbach im Simmental', 'FRDI3', 'ry-wc-city-select'),
-		_x('Frutigen', 'FRDI3', 'ry-wc-city-select'),
-		_x('Kandergrund', 'FRDI3', 'ry-wc-city-select'),
-		_x('Kandersteg', 'FRDI3', 'ry-wc-city-select'),
-		_x('Krattigen', 'FRDI3', 'ry-wc-city-select'),
-		_x('Oberwil im Simmental', 'FRDI3', 'ry-wc-city-select'),
-		_x('Reichenbach im Kandertal', 'FRDI3', 'ry-wc-city-select'),
-		_x('Spiez', 'FRDI3', 'ry-wc-city-select'),
-		_x('Wimmis', 'FRDI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'GE' => [
 		_x('Aire-la-Ville', 'GE', 'ry-wc-city-select'),
@@ -1502,11 +1192,7 @@ return [
 		_x('Bardonnex', 'GE', 'ry-wc-city-select'),
 		_x('Bellevue', 'GE', 'ry-wc-city-select'),
 		_x('Bernex', 'GE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Carouge (GE)', 'GE', 'ry-wc-city-select'),
-=======
-		_x('Carouge (GE)','GE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cartigny', 'GE', 'ry-wc-city-select'),
 		_x('Celigny', 'GE', 'ry-wc-city-select'),
 		_x('Chancy', 'GE', 'ry-wc-city-select'),
@@ -1517,11 +1203,7 @@ return [
 		_x('Collonge-Bellerive', 'GE', 'ry-wc-city-select'),
 		_x('Cologny', 'GE', 'ry-wc-city-select'),
 		_x('Confignon', 'GE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Corsier (GE)', 'GE', 'ry-wc-city-select'),
-=======
-		_x('Corsier (GE)','GE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Dardagny', 'GE', 'ry-wc-city-select'),
 		_x('Geneve', 'GE', 'ry-wc-city-select'),
 		_x('Genthod', 'GE', 'ry-wc-city-select'),
@@ -1552,27 +1234,15 @@ return [
 	'GLDI' => [
 		_x('Auboranges', 'GLDI', 'ry-wc-city-select'),
 		_x('Billens-Hennens', 'GLDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Chapelle (Glane)', 'GLDI', 'ry-wc-city-select'),
 		_x('Chatonnaye', 'GLDI', 'ry-wc-city-select'),
 		_x('Ecublens (FR)', 'GLDI', 'ry-wc-city-select'),
-=======
-		_x('Chapelle (Glane)','GLDI', 'ry-wc-city-select'),
-		_x('Chatonnaye', 'GLDI', 'ry-wc-city-select'),
-		_x('Ecublens (FR)','GLDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Grangettes', 'GLDI', 'ry-wc-city-select'),
 		_x('Le Chatelard', 'GLDI', 'ry-wc-city-select'),
 		_x('Massonnens', 'GLDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Mezieres (FR)', 'GLDI', 'ry-wc-city-select'),
 		_x('Montet (Glane)', 'GLDI', 'ry-wc-city-select'),
 		_x('Romont (FR)', 'GLDI', 'ry-wc-city-select'),
-=======
-		_x('Mezieres (FR)','GLDI', 'ry-wc-city-select'),
-		_x('Montet (Glane)','GLDI', 'ry-wc-city-select'),
-		_x('Romont (FR)','GLDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Rue', 'GLDI', 'ry-wc-city-select'),
 		_x('Siviriez', 'GLDI', 'ry-wc-city-select'),
 		_x('Torny', 'GLDI', 'ry-wc-city-select'),
@@ -1606,11 +1276,7 @@ return [
 		_x('Bournens', 'GRDI', 'ry-wc-city-select'),
 		_x('Boussens', 'GRDI', 'ry-wc-city-select'),
 		_x('Bretigny-sur-Morrens', 'GRDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Cugy (VD)', 'GRDI', 'ry-wc-city-select'),
-=======
-		_x('Cugy (VD)','GRDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Daillens', 'GRDI', 'ry-wc-city-select'),
 		_x('Echallens', 'GRDI', 'ry-wc-city-select'),
 		_x('Essertines-sur-Yverdon', 'GRDI', 'ry-wc-city-select'),
@@ -1620,17 +1286,10 @@ return [
 		_x('Goumoens', 'GRDI', 'ry-wc-city-select'),
 		_x('Jorat-Menthue', 'GRDI', 'ry-wc-city-select'),
 		_x('Lussery-Villars', 'GRDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Mex (VD)', 'GRDI', 'ry-wc-city-select'),
 		_x('Montanaire', 'GRDI', 'ry-wc-city-select'),
 		_x('Montilliez', 'GRDI', 'ry-wc-city-select'),
 		_x('Morrens (VD)', 'GRDI', 'ry-wc-city-select'),
-=======
-		_x('Mex (VD)','GRDI', 'ry-wc-city-select'),
-		_x('Montanaire', 'GRDI', 'ry-wc-city-select'),
-		_x('Montilliez', 'GRDI', 'ry-wc-city-select'),
-		_x('Morrens (VD)','GRDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ogens', 'GRDI', 'ry-wc-city-select'),
 		_x('Oppens', 'GRDI', 'ry-wc-city-select'),
 		_x('Oulens-sous-Echallens', 'GRDI', 'ry-wc-city-select'),
@@ -1640,11 +1299,7 @@ return [
 		_x('Penthereaz', 'GRDI', 'ry-wc-city-select'),
 		_x('Poliez-Pittet', 'GRDI', 'ry-wc-city-select'),
 		_x('Rueyres', 'GRDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Saint-Barthelemy (VD)', 'GRDI', 'ry-wc-city-select'),
-=======
-		_x('Saint-Barthelemy (VD)','GRDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Sullens', 'GRDI', 'ry-wc-city-select'),
 		_x('Villars-le-Terroir', 'GRDI', 'ry-wc-city-select'),
 		_x('Vuarrens', 'GRDI', 'ry-wc-city-select'),
@@ -1665,11 +1320,7 @@ return [
 		_x('Hauteville', 'GRDI2', 'ry-wc-city-select'),
 		_x('Jaun', 'GRDI2', 'ry-wc-city-select'),
 		_x('La Roche', 'GRDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Le Paquier (FR)', 'GRDI2', 'ry-wc-city-select'),
-=======
-		_x('Le Paquier (FR)','GRDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Marsens', 'GRDI2', 'ry-wc-city-select'),
 		_x('Morlon', 'GRDI2', 'ry-wc-city-select'),
 		_x('Pont-en-Ogoz', 'GRDI2', 'ry-wc-city-select'),
@@ -1690,20 +1341,12 @@ return [
 		_x('Vex', 'HEDI', 'ry-wc-city-select'),
 	],
 	'HODI' => [
-<<<<<<< HEAD
 		_x('Aesch (LU)', 'HODI', 'ry-wc-city-select'),
-=======
-		_x('Aesch (LU)','HODI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Altwis', 'HODI', 'ry-wc-city-select'),
 		_x('Ballwil', 'HODI', 'ry-wc-city-select'),
 		_x('Emmen', 'HODI', 'ry-wc-city-select'),
 		_x('Ermensee', 'HODI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Eschenbach (LU)', 'HODI', 'ry-wc-city-select'),
-=======
-		_x('Eschenbach (LU)','HODI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Hitzkirch', 'HODI', 'ry-wc-city-select'),
 		_x('Hochdorf', 'HODI', 'ry-wc-city-select'),
 		_x('Hohenrain', 'HODI', 'ry-wc-city-select'),
@@ -1716,11 +1359,7 @@ return [
 	'INDI' => [
 		_x('Beatenberg', 'INDI', 'ry-wc-city-select'),
 		_x('Boenigen', 'INDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Brienz (BE)', 'INDI', 'ry-wc-city-select'),
-=======
-		_x('Brienz (BE)','INDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Brienzwiler', 'INDI', 'ry-wc-city-select'),
 		_x('Daerligen', 'INDI', 'ry-wc-city-select'),
 		_x('Grindelwald', 'INDI', 'ry-wc-city-select'),
@@ -1740,11 +1379,7 @@ return [
 		_x('Meiringen', 'INDI', 'ry-wc-city-select'),
 		_x('Niederried bei Interlaken', 'INDI', 'ry-wc-city-select'),
 		_x('Oberried am Brienzersee', 'INDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ringgenberg (BE)', 'INDI', 'ry-wc-city-select'),
-=======
-		_x('Ringgenberg (BE)','INDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Saxeten', 'INDI', 'ry-wc-city-select'),
 		_x('Schattenhalb', 'INDI', 'ry-wc-city-select'),
 		_x('Schwanden bei Brienz', 'INDI', 'ry-wc-city-select'),
@@ -1754,11 +1389,7 @@ return [
 	'JUBE' => [
 		_x('Belprahon', 'JUBE', 'ry-wc-city-select'),
 		_x('Champoz', 'JUBE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Corcelles (BE)', 'JUBE', 'ry-wc-city-select'),
-=======
-		_x('Corcelles (BE)','JUBE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Corgemont', 'JUBE', 'ry-wc-city-select'),
 		_x('Cormoret', 'JUBE', 'ry-wc-city-select'),
 		_x('Cortebert', 'JUBE', 'ry-wc-city-select'),
@@ -1780,7 +1411,6 @@ return [
 		_x('Plateau de Diesse', 'JUBE', 'ry-wc-city-select'),
 		_x('Rebevelier', 'JUBE', 'ry-wc-city-select'),
 		_x('Reconvilier', 'JUBE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Renan (BE)', 'JUBE', 'ry-wc-city-select'),
 		_x('Roches (BE)', 'JUBE', 'ry-wc-city-select'),
 		_x('Romont (BE)', 'JUBE', 'ry-wc-city-select'),
@@ -1788,15 +1418,6 @@ return [
 		_x('Saint-Imier', 'JUBE', 'ry-wc-city-select'),
 		_x('Sauge', 'JUBE', 'ry-wc-city-select'),
 		_x('Saules (BE)', 'JUBE', 'ry-wc-city-select'),
-=======
-		_x('Renan (BE)','JUBE', 'ry-wc-city-select'),
-		_x('Roches (BE)','JUBE', 'ry-wc-city-select'),
-		_x('Romont (BE)','JUBE', 'ry-wc-city-select'),
-		_x('Saicourt', 'JUBE', 'ry-wc-city-select'),
-		_x('Saint-Imier', 'JUBE', 'ry-wc-city-select'),
-		_x('Sauge', 'JUBE', 'ry-wc-city-select'),
-		_x('Saules (BE)','JUBE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Schelten', 'JUBE', 'ry-wc-city-select'),
 		_x('Seehof', 'JUBE', 'ry-wc-city-select'),
 		_x('Sonceboz-Sombeval', 'JUBE', 'ry-wc-city-select'),
@@ -1833,11 +1454,7 @@ return [
 		_x('Cuarny', 'JUVADI', 'ry-wc-city-select'),
 		_x('Demoret', 'JUVADI', 'ry-wc-city-select'),
 		_x('Donneloye', 'JUVADI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ependes (VD)', 'JUVADI', 'ry-wc-city-select'),
-=======
-		_x('Ependes (VD)','JUVADI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Fiez', 'JUVADI', 'ry-wc-city-select'),
 		_x('Fontaines-sur-Grandson', 'JUVADI', 'ry-wc-city-select'),
 		_x('Giez', 'JUVADI', 'ry-wc-city-select'),
@@ -1858,11 +1475,7 @@ return [
 		_x('Montcherand', 'JUVADI', 'ry-wc-city-select'),
 		_x('Mutrux', 'JUVADI', 'ry-wc-city-select'),
 		_x('Novalles', 'JUVADI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Onnens (VD)', 'JUVADI', 'ry-wc-city-select'),
-=======
-		_x('Onnens (VD)','JUVADI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Orbe', 'JUVADI', 'ry-wc-city-select'),
 		_x('Orges', 'JUVADI', 'ry-wc-city-select'),
 		_x('Orzens', 'JUVADI', 'ry-wc-city-select'),
@@ -1898,11 +1511,7 @@ return [
 	'LADI' => [
 		_x('Courgevaux', 'LADI', 'ry-wc-city-select'),
 		_x('Courtepin', 'LADI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Cressier (FR)', 'LADI', 'ry-wc-city-select'),
-=======
-		_x('Cressier (FR)','LADI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Fraeschels', 'LADI', 'ry-wc-city-select'),
 		_x('Galmiz', 'LADI', 'ry-wc-city-select'),
 		_x('Gempenach', 'LADI', 'ry-wc-city-select'),
@@ -1932,11 +1541,7 @@ return [
 		_x('Bourg-en-Lavaux', 'LADI3', 'ry-wc-city-select'),
 		_x('Chexbres', 'LADI3', 'ry-wc-city-select'),
 		_x('Essertes', 'LADI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Forel (Lavaux)', 'LADI3', 'ry-wc-city-select'),
-=======
-		_x('Forel (Lavaux)','LADI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Jorat-Mezieres', 'LADI3', 'ry-wc-city-select'),
 		_x('Lutry', 'LADI3', 'ry-wc-city-select'),
 		_x('Maracon', 'LADI3', 'ry-wc-city-select'),
@@ -1946,11 +1551,7 @@ return [
 		_x('Puidoux', 'LADI3', 'ry-wc-city-select'),
 		_x('Pully', 'LADI3', 'ry-wc-city-select'),
 		_x('Rivaz', 'LADI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Saint-Saphorin (Lavaux)', 'LADI3', 'ry-wc-city-select'),
-=======
-		_x('Saint-Saphorin (Lavaux)','LADI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Savigny', 'LADI3', 'ry-wc-city-select'),
 		_x('Servion', 'LADI3', 'ry-wc-city-select'),
 	],
@@ -1986,20 +1587,12 @@ return [
 		_x('Giornico', 'LEDI2', 'ry-wc-city-select'),
 		_x('Personico', 'LEDI2', 'ry-wc-city-select'),
 		_x('Pollegio', 'LEDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Prato (Leventina)', 'LEDI2', 'ry-wc-city-select'),
-=======
-		_x('Prato (Leventina)','LEDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Quinto', 'LEDI2', 'ry-wc-city-select'),
 	],
 	'LODI2' => [
 		_x('Ascona', 'LODI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Brione (Verzasca)', 'LODI2', 'ry-wc-city-select'),
-=======
-		_x('Brione (Verzasca)','LODI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Brione sopra Minusio', 'LODI2', 'ry-wc-city-select'),
 		_x('Brissago', 'LODI2', 'ry-wc-city-select'),
 		_x('Centovalli', 'LODI2', 'ry-wc-city-select'),
@@ -2153,11 +1746,7 @@ return [
 		_x('Chigny', 'MODI2', 'ry-wc-city-select'),
 		_x('Clarmont', 'MODI2', 'ry-wc-city-select'),
 		_x('Cossonay', 'MODI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Cottens (VD)', 'MODI2', 'ry-wc-city-select'),
-=======
-		_x('Cottens (VD)','MODI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cuarnens', 'MODI2', 'ry-wc-city-select'),
 		_x('Denens', 'MODI2', 'ry-wc-city-select'),
 		_x('Denges', 'MODI2', 'ry-wc-city-select'),
@@ -2172,7 +1761,6 @@ return [
 		_x('Gollion', 'MODI2', 'ry-wc-city-select'),
 		_x('Grancy', 'MODI2', 'ry-wc-city-select'),
 		_x('LIsle', 'MODI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('La Chaux (Cossonay)', 'MODI2', 'ry-wc-city-select'),
 		_x('La Sarraz', 'MODI2', 'ry-wc-city-select'),
 		_x('Lavigny', 'MODI2', 'ry-wc-city-select'),
@@ -2182,17 +1770,6 @@ return [
 		_x('Mauraz', 'MODI2', 'ry-wc-city-select'),
 		_x('Moiry', 'MODI2', 'ry-wc-city-select'),
 		_x('Mollens (VD)', 'MODI2', 'ry-wc-city-select'),
-=======
-		_x('La Chaux (Cossonay)','MODI2', 'ry-wc-city-select'),
-		_x('La Sarraz', 'MODI2', 'ry-wc-city-select'),
-		_x('Lavigny', 'MODI2', 'ry-wc-city-select'),
-		_x('Lonay', 'MODI2', 'ry-wc-city-select'),
-		_x('Lully (VD)','MODI2', 'ry-wc-city-select'),
-		_x('Lussy-sur-Morges', 'MODI2', 'ry-wc-city-select'),
-		_x('Mauraz', 'MODI2', 'ry-wc-city-select'),
-		_x('Moiry', 'MODI2', 'ry-wc-city-select'),
-		_x('Mollens (VD)','MODI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Mont-la-Ville', 'MODI2', 'ry-wc-city-select'),
 		_x('Montherod', 'MODI2', 'ry-wc-city-select'),
 		_x('Montricher', 'MODI2', 'ry-wc-city-select'),
@@ -2216,34 +1793,11 @@ return [
 		_x('Vullierens', 'MODI2', 'ry-wc-city-select'),
 		_x('Yens', 'MODI2', 'ry-wc-city-select'),
 	],
-<<<<<<< HEAD
 	'NEDI' => [
 		_x('Cornaux', 'NEDI', 'ry-wc-city-select'),
 		_x('Cressier (NE)', 'NEDI', 'ry-wc-city-select'),
 		_x('Enges', 'NEDI', 'ry-wc-city-select'),
 		_x('Hauterive (NE)', 'NEDI', 'ry-wc-city-select'),
-=======
-	'MUDI' => [
-		_x('Aadorf', 'MUDI', 'ry-wc-city-select'),
-		_x('Bettwiesen', 'MUDI', 'ry-wc-city-select'),
-		_x('Bichelsee-Balterswil', 'MUDI', 'ry-wc-city-select'),
-		_x('Braunau', 'MUDI', 'ry-wc-city-select'),
-		_x('Eschlikon', 'MUDI', 'ry-wc-city-select'),
-		_x('Fischingen', 'MUDI', 'ry-wc-city-select'),
-		_x('Lommis', 'MUDI', 'ry-wc-city-select'),
-		_x('Muenchwilen (TG)','MUDI', 'ry-wc-city-select'),
-		_x('Rickenbach (TG)','MUDI', 'ry-wc-city-select'),
-		_x('Sirnach', 'MUDI', 'ry-wc-city-select'),
-		_x('Tobel-Taegerschen', 'MUDI', 'ry-wc-city-select'),
-		_x('Waengi', 'MUDI', 'ry-wc-city-select'),
-		_x('Wilen (TG)','MUDI', 'ry-wc-city-select'),
-	],
-	'NEDI' => [
-		_x('Cornaux', 'NEDI', 'ry-wc-city-select'),
-		_x('Cressier (NE)','NEDI', 'ry-wc-city-select'),
-		_x('Enges', 'NEDI', 'ry-wc-city-select'),
-		_x('Hauterive (NE)','NEDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('La Tene', 'NEDI', 'ry-wc-city-select'),
 		_x('Le Landeron', 'NEDI', 'ry-wc-city-select'),
 		_x('Lignieres', 'NEDI', 'ry-wc-city-select'),
@@ -2257,13 +1811,8 @@ return [
 		_x('Emmetten', 'NI', 'ry-wc-city-select'),
 		_x('Ennetbuergen', 'NI', 'ry-wc-city-select'),
 		_x('Ennetmoos', 'NI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Hergiswil (NW)', 'NI', 'ry-wc-city-select'),
 		_x('Oberdorf (NW)', 'NI', 'ry-wc-city-select'),
-=======
-		_x('Hergiswil (NW)','NI', 'ry-wc-city-select'),
-		_x('Oberdorf (NW)','NI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Stans', 'NI', 'ry-wc-city-select'),
 		_x('Stansstad', 'NI', 'ry-wc-city-select'),
 		_x('Wolfenschiessen', 'NI', 'ry-wc-city-select'),
@@ -2345,11 +1894,7 @@ return [
 		_x('Ochlenberg', 'OB', 'ry-wc-city-select'),
 		_x('Oeschenbach', 'OB', 'ry-wc-city-select'),
 		_x('Reisiswil', 'OB', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Roggwil (BE)', 'OB', 'ry-wc-city-select'),
-=======
-		_x('Roggwil (BE)','OB', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Rohrbach', 'OB', 'ry-wc-city-select'),
 		_x('Rohrbachgraben', 'OB', 'ry-wc-city-select'),
 		_x('Ruetschelen', 'OB', 'ry-wc-city-select'),
@@ -2361,11 +1906,7 @@ return [
 		_x('Ursenbach', 'OB', 'ry-wc-city-select'),
 		_x('Walliswil bei Niederbipp', 'OB', 'ry-wc-city-select'),
 		_x('Walliswil bei Wangen', 'OB', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Walterswil (BE)', 'OB', 'ry-wc-city-select'),
-=======
-		_x('Walterswil (BE)','OB', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Wangen an der Aare', 'OB', 'ry-wc-city-select'),
 		_x('Wangenried', 'OB', 'ry-wc-city-select'),
 		_x('Wiedlisbach', 'OB', 'ry-wc-city-select'),
@@ -2394,17 +1935,10 @@ return [
 		_x('Bussigny', 'OULADI', 'ry-wc-city-select'),
 		_x('Chavannes-pres-Renens', 'OULADI', 'ry-wc-city-select'),
 		_x('Crissier', 'OULADI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Ecublens (VD)', 'OULADI', 'ry-wc-city-select'),
 		_x('Prilly', 'OULADI', 'ry-wc-city-select'),
 		_x('Renens (VD)', 'OULADI', 'ry-wc-city-select'),
 		_x('Saint-Sulpice (VD)', 'OULADI', 'ry-wc-city-select'),
-=======
-		_x('Ecublens (VD)','OULADI', 'ry-wc-city-select'),
-		_x('Prilly', 'OULADI', 'ry-wc-city-select'),
-		_x('Renens (VD)','OULADI', 'ry-wc-city-select'),
-		_x('Saint-Sulpice (VD)','OULADI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Villars-Sainte-Croix', 'OULADI', 'ry-wc-city-select'),
 	],
 	'PODI' => [
@@ -2447,21 +1981,13 @@ return [
 		_x('Riederalp', 'RADI', 'ry-wc-city-select'),
 		_x('Steg-Hohtenn', 'RADI', 'ry-wc-city-select'),
 		_x('Unterbaech', 'RADI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Wiler (Loetschen)', 'RADI', 'ry-wc-city-select'),
-=======
-		_x('Wiler (Loetschen)','RADI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'REAL' => [
 		_x('Albula/Alvra', 'REAL', 'ry-wc-city-select'),
 		_x('Berguen Filisur', 'REAL', 'ry-wc-city-select'),
 		_x('Lantsch/Lenz', 'REAL', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Schmitten (GR)', 'REAL', 'ry-wc-city-select'),
-=======
-		_x('Schmitten (GR)','REAL', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Surses', 'REAL', 'ry-wc-city-select'),
 		_x('Vaz/Obervaz', 'REAL', 'ry-wc-city-select'),
 	],
@@ -2518,11 +2044,7 @@ return [
 		_x('Lostallo', 'REMO', 'ry-wc-city-select'),
 		_x('Mesocco', 'REMO', 'ry-wc-city-select'),
 		_x('Rossa', 'REMO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Roveredo (GR)', 'REMO', 'ry-wc-city-select'),
-=======
-		_x('Roveredo (GR)','REMO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('San Vittore', 'REMO', 'ry-wc-city-select'),
 		_x('Santa Maria in Calanca', 'REMO', 'ry-wc-city-select'),
 		_x('Soazza', 'REMO', 'ry-wc-city-select'),
@@ -2554,11 +2076,7 @@ return [
 		_x('Ilanz/Glion', 'RESU', 'ry-wc-city-select'),
 		_x('Laax', 'RESU', 'ry-wc-city-select'),
 		_x('Lumnezia', 'RESU', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Medel (Lucmagn)', 'RESU', 'ry-wc-city-select'),
-=======
-		_x('Medel (Lucmagn)','RESU', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Obersaxen Mundaun', 'RESU', 'ry-wc-city-select'),
 		_x('Safiental', 'RESU', 'ry-wc-city-select'),
 		_x('Sagogn', 'RESU', 'ry-wc-city-select'),
@@ -2578,11 +2096,7 @@ return [
 		_x('Ferrera', 'REVI', 'ry-wc-city-select'),
 		_x('Flerden', 'REVI', 'ry-wc-city-select'),
 		_x('Fuerstenau', 'REVI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Lohn (GR)', 'REVI', 'ry-wc-city-select'),
-=======
-		_x('Lohn (GR)','REVI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Masein', 'REVI', 'ry-wc-city-select'),
 		_x('Mathon', 'REVI', 'ry-wc-city-select'),
 		_x('Rheinwald', 'REVI', 'ry-wc-city-select'),
@@ -2633,36 +2147,21 @@ return [
 		_x('Belfaux', 'SADI2', 'ry-wc-city-select'),
 		_x('Chenens', 'SADI2', 'ry-wc-city-select'),
 		_x('Corminboeuf', 'SADI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Cottens (FR)', 'SADI2', 'ry-wc-city-select'),
 		_x('Ependes (FR)', 'SADI2', 'ry-wc-city-select'),
-=======
-		_x('Corserey', 'SADI2', 'ry-wc-city-select'),
-		_x('Cottens (FR)','SADI2', 'ry-wc-city-select'),
-		_x('Ependes (FR)','SADI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ferpicloz', 'SADI2', 'ry-wc-city-select'),
 		_x('Fribourg', 'SADI2', 'ry-wc-city-select'),
 		_x('Gibloux', 'SADI2', 'ry-wc-city-select'),
 		_x('Givisiez', 'SADI2', 'ry-wc-city-select'),
 		_x('Granges-Paccot', 'SADI2', 'ry-wc-city-select'),
 		_x('Grolley', 'SADI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Hauterive (FR)', 'SADI2', 'ry-wc-city-select'),
-=======
-		_x('Hauterive (FR)','SADI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('La Brillaz', 'SADI2', 'ry-wc-city-select'),
 		_x('La Sonnaz', 'SADI2', 'ry-wc-city-select'),
 		_x('Le Mouret', 'SADI2', 'ry-wc-city-select'),
 		_x('Marly', 'SADI2', 'ry-wc-city-select'),
 		_x('Matran', 'SADI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Neyruz (FR)', 'SADI2', 'ry-wc-city-select'),
-=======
-		_x('Neyruz (FR)','SADI2', 'ry-wc-city-select'),
-		_x('Noreaz', 'SADI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Pierrafortscha', 'SADI2', 'ry-wc-city-select'),
 		_x('Ponthaux', 'SADI2', 'ry-wc-city-select'),
 		_x('Prez', 'SADI2', 'ry-wc-city-select'),
@@ -2674,11 +2173,7 @@ return [
 	'SEDI' => [
 		_x('Aarberg', 'SEDI', 'ry-wc-city-select'),
 		_x('Arch', 'SEDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Bargen (BE)', 'SEDI', 'ry-wc-city-select'),
-=======
-		_x('Bargen (BE)','SEDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Bruettelen', 'SEDI', 'ry-wc-city-select'),
 		_x('Bueetigen', 'SEDI', 'ry-wc-city-select'),
 		_x('Buehl', 'SEDI', 'ry-wc-city-select'),
@@ -2705,21 +2200,12 @@ return [
 		_x('Muentschemier', 'SEDI', 'ry-wc-city-select'),
 		_x('Oberwil bei Bueren', 'SEDI', 'ry-wc-city-select'),
 		_x('Radelfingen', 'SEDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rapperswil (BE)', 'SEDI', 'ry-wc-city-select'),
 		_x('Rueti bei Bueren', 'SEDI', 'ry-wc-city-select'),
 		_x('Schuepfen', 'SEDI', 'ry-wc-city-select'),
 		_x('Seedorf (BE)', 'SEDI', 'ry-wc-city-select'),
 		_x('Siselen', 'SEDI', 'ry-wc-city-select'),
 		_x('Studen (BE)', 'SEDI', 'ry-wc-city-select'),
-=======
-		_x('Rapperswil (BE)','SEDI', 'ry-wc-city-select'),
-		_x('Rueti bei Bueren', 'SEDI', 'ry-wc-city-select'),
-		_x('Schuepfen', 'SEDI', 'ry-wc-city-select'),
-		_x('Seedorf (BE)','SEDI', 'ry-wc-city-select'),
-		_x('Siselen', 'SEDI', 'ry-wc-city-select'),
-		_x('Studen (BE)','SEDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Taeuffelen', 'SEDI', 'ry-wc-city-select'),
 		_x('Treiten', 'SEDI', 'ry-wc-city-select'),
 		_x('Tschugg', 'SEDI', 'ry-wc-city-select'),
@@ -2738,11 +2224,7 @@ return [
 		_x('Plaffeien', 'SEDI2', 'ry-wc-city-select'),
 		_x('Plasselb', 'SEDI2', 'ry-wc-city-select'),
 		_x('Rechthalten', 'SEDI2', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Schmitten (FR)', 'SEDI2', 'ry-wc-city-select'),
-=======
-		_x('Schmitten (FR)','SEDI2', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('St. Antoni', 'SEDI2', 'ry-wc-city-select'),
 		_x('St. Silvester', 'SEDI2', 'ry-wc-city-select'),
 		_x('St. Ursen', 'SEDI2', 'ry-wc-city-select'),
@@ -2785,11 +2267,7 @@ return [
 		_x('Neuenkirch', 'SUDI', 'ry-wc-city-select'),
 		_x('Nottwil', 'SUDI', 'ry-wc-city-select'),
 		_x('Oberkirch', 'SUDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Rickenbach (LU)', 'SUDI', 'ry-wc-city-select'),
-=======
-		_x('Rickenbach (LU)','SUDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Ruswil', 'SUDI', 'ry-wc-city-select'),
 		_x('Schenkon', 'SUDI', 'ry-wc-city-select'),
 		_x('Schlierbach', 'SUDI', 'ry-wc-city-select'),
@@ -2819,11 +2297,7 @@ return [
 		_x('Sigriswil', 'THDI', 'ry-wc-city-select'),
 		_x('Steffisburg', 'THDI', 'ry-wc-city-select'),
 		_x('Stocken-Hoefen', 'THDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Teuffenthal (BE)', 'THDI', 'ry-wc-city-select'),
-=======
-		_x('Teuffenthal (BE)','THDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Thierachern', 'THDI', 'ry-wc-city-select'),
 		_x('Thun', 'THDI', 'ry-wc-city-select'),
 		_x('Uebeschi', 'THDI', 'ry-wc-city-select'),
@@ -2835,19 +2309,11 @@ return [
 		_x('Zwieselberg', 'THDI', 'ry-wc-city-select'),
 	],
 	'UR' => [
-<<<<<<< HEAD
 		_x('Altdorf (UR)', 'UR', 'ry-wc-city-select'),
 		_x('Andermatt', 'UR', 'ry-wc-city-select'),
 		_x('Attinghausen', 'UR', 'ry-wc-city-select'),
 		_x('Bauen', 'UR', 'ry-wc-city-select'),
 		_x('Buerglen (UR)', 'UR', 'ry-wc-city-select'),
-=======
-		_x('Altdorf (UR)','UR', 'ry-wc-city-select'),
-		_x('Andermatt', 'UR', 'ry-wc-city-select'),
-		_x('Attinghausen', 'UR', 'ry-wc-city-select'),
-		_x('Bauen', 'UR', 'ry-wc-city-select'),
-		_x('Buerglen (UR)','UR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Erstfeld', 'UR', 'ry-wc-city-select'),
 		_x('Flueelen', 'UR', 'ry-wc-city-select'),
 		_x('Goeschenen', 'UR', 'ry-wc-city-select'),
@@ -2856,11 +2322,7 @@ return [
 		_x('Isenthal', 'UR', 'ry-wc-city-select'),
 		_x('Realp', 'UR', 'ry-wc-city-select'),
 		_x('Schattdorf', 'UR', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Seedorf (UR)', 'UR', 'ry-wc-city-select'),
-=======
-		_x('Seedorf (UR)','UR', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Seelisberg', 'UR', 'ry-wc-city-select'),
 		_x('Silenen', 'UR', 'ry-wc-city-select'),
 		_x('Sisikon', 'UR', 'ry-wc-city-select'),
@@ -2880,11 +2342,7 @@ return [
 	'VADI3' => [
 		_x('Avegno Gordevio', 'VADI3', 'ry-wc-city-select'),
 		_x('Bosco/Gurin', 'VADI3', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Campo (Vallemaggia)', 'VADI3', 'ry-wc-city-select'),
-=======
-		_x('Campo (Vallemaggia)','VADI3', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Cerentino', 'VADI3', 'ry-wc-city-select'),
 		_x('Cevio', 'VADI3', 'ry-wc-city-select'),
 		_x('Lavizzara', 'VADI3', 'ry-wc-city-select'),
@@ -2895,19 +2353,11 @@ return [
 		_x('Attalens', 'VEDI', 'ry-wc-city-select'),
 		_x('Bossonnens', 'VEDI', 'ry-wc-city-select'),
 		_x('Chatel-Saint-Denis', 'VEDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Granges (Veveyse)', 'VEDI', 'ry-wc-city-select'),
 		_x('La Verrerie', 'VEDI', 'ry-wc-city-select'),
 		_x('Le Flon', 'VEDI', 'ry-wc-city-select'),
 		_x('Remaufens', 'VEDI', 'ry-wc-city-select'),
 		_x('Saint-Martin (FR)', 'VEDI', 'ry-wc-city-select'),
-=======
-		_x('Granges (Veveyse)','VEDI', 'ry-wc-city-select'),
-		_x('La Verrerie', 'VEDI', 'ry-wc-city-select'),
-		_x('Le Flon', 'VEDI', 'ry-wc-city-select'),
-		_x('Remaufens', 'VEDI', 'ry-wc-city-select'),
-		_x('Saint-Martin (FR)','VEDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Semsales', 'VEDI', 'ry-wc-city-select'),
 	],
 	'VIDI' => [
@@ -2922,11 +2372,7 @@ return [
 		_x('Saas-Fee', 'VIDI', 'ry-wc-city-select'),
 		_x('Saas-Grund', 'VIDI', 'ry-wc-city-select'),
 		_x('St. Niklaus', 'VIDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Stalden (VS)', 'VIDI', 'ry-wc-city-select'),
-=======
-		_x('Stalden (VS)','VIDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Staldenried', 'VIDI', 'ry-wc-city-select'),
 		_x('Taesch', 'VIDI', 'ry-wc-city-select'),
 		_x('Toerbel', 'VIDI', 'ry-wc-city-select'),
@@ -2937,37 +2383,21 @@ return [
 	],
 	'WARH' => [
 		_x('Altstaetten', 'WARH', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Au (SG)', 'WARH', 'ry-wc-city-select'),
-=======
-		_x('Au (SG)','WARH', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Balgach', 'WARH', 'ry-wc-city-select'),
 		_x('Berneck', 'WARH', 'ry-wc-city-select'),
 		_x('Diepoldsau', 'WARH', 'ry-wc-city-select'),
 		_x('Eichberg', 'WARH', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Marbach (SG)', 'WARH', 'ry-wc-city-select'),
 		_x('Oberriet (SG)', 'WARH', 'ry-wc-city-select'),
 		_x('Rebstein', 'WARH', 'ry-wc-city-select'),
 		_x('Rheineck', 'WARH', 'ry-wc-city-select'),
 		_x('Ruethi (SG)', 'WARH', 'ry-wc-city-select'),
-=======
-		_x('Marbach (SG)','WARH', 'ry-wc-city-select'),
-		_x('Oberriet (SG)','WARH', 'ry-wc-city-select'),
-		_x('Rebstein', 'WARH', 'ry-wc-city-select'),
-		_x('Rheineck', 'WARH', 'ry-wc-city-select'),
-		_x('Ruethi (SG)','WARH', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('St. Margrethen', 'WARH', 'ry-wc-city-select'),
 		_x('Widnau', 'WARH', 'ry-wc-city-select'),
 	],
 	'WARO' => [
-<<<<<<< HEAD
 		_x('Berg (SG)', 'WARO', 'ry-wc-city-select'),
-=======
-		_x('Berg (SG)','WARO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Goldach', 'WARO', 'ry-wc-city-select'),
 		_x('Moerschwil', 'WARO', 'ry-wc-city-select'),
 		_x('Rorschach', 'WARO', 'ry-wc-city-select'),
@@ -2989,13 +2419,8 @@ return [
 	],
 	'WASE' => [
 		_x('Amden', 'WASE', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Benken (SG)', 'WASE', 'ry-wc-city-select'),
 		_x('Eschenbach (SG)', 'WASE', 'ry-wc-city-select'),
-=======
-		_x('Benken (SG)','WASE', 'ry-wc-city-select'),
-		_x('Eschenbach (SG)','WASE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Gommiswald', 'WASE', 'ry-wc-city-select'),
 		_x('Kaltbrunn', 'WASE', 'ry-wc-city-select'),
 		_x('Rapperswil-Jona', 'WASE', 'ry-wc-city-select'),
@@ -3005,17 +2430,10 @@ return [
 		_x('Weesen', 'WASE', 'ry-wc-city-select'),
 	],
 	'WASTGA' => [
-<<<<<<< HEAD
 		_x('Andwil (SG)', 'WASTGA', 'ry-wc-city-select'),
 		_x('Eggersriet', 'WASTGA', 'ry-wc-city-select'),
 		_x('Gaiserwald', 'WASTGA', 'ry-wc-city-select'),
 		_x('Gossau (SG)', 'WASTGA', 'ry-wc-city-select'),
-=======
-		_x('Andwil (SG)','WASTGA', 'ry-wc-city-select'),
-		_x('Eggersriet', 'WASTGA', 'ry-wc-city-select'),
-		_x('Gaiserwald', 'WASTGA', 'ry-wc-city-select'),
-		_x('Gossau (SG)','WASTGA', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Haeggenschwil', 'WASTGA', 'ry-wc-city-select'),
 		_x('Muolen', 'WASTGA', 'ry-wc-city-select'),
 		_x('St. Gallen', 'WASTGA', 'ry-wc-city-select'),
@@ -3026,11 +2444,7 @@ return [
 		_x('Buetschwil-Ganterschwil', 'WATO', 'ry-wc-city-select'),
 		_x('Ebnat-Kappel', 'WATO', 'ry-wc-city-select'),
 		_x('Hemberg', 'WATO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Kirchberg (SG)', 'WATO', 'ry-wc-city-select'),
-=======
-		_x('Kirchberg (SG)','WATO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Lichtensteig', 'WATO', 'ry-wc-city-select'),
 		_x('Luetisburg', 'WATO', 'ry-wc-city-select'),
 		_x('Mosnang', 'WATO', 'ry-wc-city-select'),
@@ -3041,11 +2455,7 @@ return [
 		_x('Wildhaus-Alt St. Johann', 'WATO', 'ry-wc-city-select'),
 	],
 	'WAWE' => [
-<<<<<<< HEAD
 		_x('Buchs (SG)', 'WAWE', 'ry-wc-city-select'),
-=======
-		_x('Buchs (SG)','WAWE', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('Gams', 'WAWE', 'ry-wc-city-select'),
 		_x('Grabs', 'WAWE', 'ry-wc-city-select'),
 		_x('Sennwald', 'WAWE', 'ry-wc-city-select'),
@@ -3061,33 +2471,8 @@ return [
 		_x('Oberbueren', 'WAWI', 'ry-wc-city-select'),
 		_x('Oberuzwil', 'WAWI', 'ry-wc-city-select'),
 		_x('Uzwil', 'WAWI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Wil (SG)', 'WAWI', 'ry-wc-city-select'),
 		_x('Zuzwil (SG)', 'WAWI', 'ry-wc-city-select'),
-=======
-		_x('Wil (SG)','WAWI', 'ry-wc-city-select'),
-		_x('Zuzwil (SG)','WAWI', 'ry-wc-city-select'),
-	],
-	'WEDI' => [
-		_x('Affeltrangen', 'WEDI', 'ry-wc-city-select'),
-		_x('Amlikon-Bissegg', 'WEDI', 'ry-wc-city-select'),
-		_x('Berg (TG)','WEDI', 'ry-wc-city-select'),
-		_x('Birwinken', 'WEDI', 'ry-wc-city-select'),
-		_x('Bischofszell', 'WEDI', 'ry-wc-city-select'),
-		_x('Buerglen (TG)','WEDI', 'ry-wc-city-select'),
-		_x('Bussnang', 'WEDI', 'ry-wc-city-select'),
-		_x('Erlen', 'WEDI', 'ry-wc-city-select'),
-		_x('Hauptwil-Gottshaus', 'WEDI', 'ry-wc-city-select'),
-		_x('Hohentannen', 'WEDI', 'ry-wc-city-select'),
-		_x('Kradolf-Schoenenberg', 'WEDI', 'ry-wc-city-select'),
-		_x('Maerstetten', 'WEDI', 'ry-wc-city-select'),
-		_x('Schoenholzerswilen', 'WEDI', 'ry-wc-city-select'),
-		_x('Sulgen', 'WEDI', 'ry-wc-city-select'),
-		_x('Weinfelden', 'WEDI', 'ry-wc-city-select'),
-		_x('Wigoltingen', 'WEDI', 'ry-wc-city-select'),
-		_x('Wuppenau', 'WEDI', 'ry-wc-city-select'),
-		_x('Zihlschlacht-Sitterdorf', 'WEDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'WIDI' => [
 		_x('Alberswil', 'WIDI', 'ry-wc-city-select'),
@@ -3111,11 +2496,7 @@ return [
 		_x('Wauwil', 'WIDI', 'ry-wc-city-select'),
 		_x('Wikon', 'WIDI', 'ry-wc-city-select'),
 		_x('Willisau', 'WIDI', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('Zell (LU)', 'WIDI', 'ry-wc-city-select'),
-=======
-		_x('Zell (LU)','WIDI', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'ZU' => [
 		_x('Baar', 'ZU', 'ry-wc-city-select'),

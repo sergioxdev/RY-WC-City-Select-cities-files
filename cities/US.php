@@ -2313,11 +2313,7 @@ return [
 	'BRCO' => [
 		_x('City of Augusta', 'BRCO', 'ry-wc-city-select'),
 		_x('City of Brooksville', 'BRCO', 'ry-wc-city-select'),
-<<<<<<< HEAD
 		_x('City of Foster (historical)', 'BRCO', 'ry-wc-city-select'),
-=======
-		_x('City of Foster (historical)','BRCO', 'ry-wc-city-select'),
->>>>>>> fix php error
 		_x('City of Germantown', 'BRCO', 'ry-wc-city-select'),
 	],
 	'BRCO2' => [
@@ -9481,13 +9477,8 @@ return [
 		_x('Township of Wilson Mills', 'JOCO2', 'ry-wc-city-select'),
 	],
 	'JOCO3' => [
-<<<<<<< HEAD
 		_x('City of Anson', 'JOCO3', 'ry-wc-city-select'),
 		_x('City of Hawley', 'JOCO3', 'ry-wc-city-select'),
-=======
-		_x('City of Gray', 'JOCO3', 'ry-wc-city-select'),
-		_x('City of Macon (historical)','JOCO3', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'JUCO' => [
 		_x('City of Nephi', 'JUCO', 'ry-wc-city-select'),
@@ -9667,11 +9658,7 @@ return [
 		_x('Town of Runge', 'KACO8', 'ry-wc-city-select'),
 	],
 	'KACO9' => [
-<<<<<<< HEAD
 		_x('Hanalei (CDP)', 'KACO9', 'ry-wc-city-select'),
-=======
-		_x('Hanalei (CDP)','KACO9', 'ry-wc-city-select'),
->>>>>>> fix php error
 	],
 	'KACO10' => [
 		_x('City of Cottonwood', 'KACO10', 'ry-wc-city-select'),
