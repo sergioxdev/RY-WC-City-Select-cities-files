@@ -11,7 +11,11 @@
 return [
 	'PH' => [
 	'AP' => [
+<<<<<<< HEAD
 		_x('Calanasan (Bayag)', 'AP', 'ry-wc-city-select'),
+=======
+		_x('Calanasan (Bayag)','AP', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Conner', 'AP', 'ry-wc-city-select'),
 		_x('Flora', 'AP', 'ry-wc-city-select'),
 		_x('Kabugao', 'AP', 'ry-wc-city-select'),
@@ -65,8 +69,13 @@ return [
 		_x('Maribojoc', 'BO', 'ry-wc-city-select'),
 		_x('Panglao', 'BO', 'ry-wc-city-select'),
 		_x('Pilar', 'BO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Pres. Carlos P. Garcia (Pitogo)', 'BO', 'ry-wc-city-select'),
 		_x('Sagbayan (Borja)', 'BO', 'ry-wc-city-select'),
+=======
+		_x('Pres. Carlos P. Garcia (Pitogo)','BO', 'ry-wc-city-select'),
+		_x('Sagbayan (Borja)','BO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Isidro', 'BO', 'ry-wc-city-select'),
 		_x('San Miguel', 'BO', 'ry-wc-city-select'),
 		_x('Sevilla', 'BO', 'ry-wc-city-select'),
@@ -97,10 +106,17 @@ return [
 	],
 	'COVA' => [
 		_x('Compostela', 'COVA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Laak (San Vicente)', 'COVA', 'ry-wc-city-select'),
 		_x('Mabini (Dona Alicia)', 'COVA', 'ry-wc-city-select'),
 		_x('Maco', 'COVA', 'ry-wc-city-select'),
 		_x('Maragusan (San Mariano)', 'COVA', 'ry-wc-city-select'),
+=======
+		_x('Laak (San Vicente)','COVA', 'ry-wc-city-select'),
+		_x('Mabini (Dona Alicia)','COVA', 'ry-wc-city-select'),
+		_x('Maco', 'COVA', 'ry-wc-city-select'),
+		_x('Maragusan (San Mariano)','COVA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Mawab', 'COVA', 'ry-wc-city-select'),
 		_x('Monkayo', 'COVA', 'ry-wc-city-select'),
 		_x('Montevista', 'COVA', 'ry-wc-city-select'),
@@ -110,16 +126,27 @@ return [
 	],
 	'DAOC' => [
 		_x('Don Marcelino', 'DAOC', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Jose Abad Santos (Trinidad)', 'DAOC', 'ry-wc-city-select'),
+=======
+		_x('Jose Abad Santos (Trinidad)','DAOC', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Malita', 'DAOC', 'ry-wc-city-select'),
 		_x('Santa Maria', 'DAOC', 'ry-wc-city-select'),
 		_x('Sarangani', 'DAOC', 'ry-wc-city-select'),
 	],
 	'DIIS' => [
+<<<<<<< HEAD
 		_x('Basilisa (Rizal)', 'DIIS', 'ry-wc-city-select'),
 		_x('Cagdianao', 'DIIS', 'ry-wc-city-select'),
 		_x('Dinagat', 'DIIS', 'ry-wc-city-select'),
 		_x('Libjo (Albor)', 'DIIS', 'ry-wc-city-select'),
+=======
+		_x('Basilisa (Rizal)','DIIS', 'ry-wc-city-select'),
+		_x('Cagdianao', 'DIIS', 'ry-wc-city-select'),
+		_x('Dinagat', 'DIIS', 'ry-wc-city-select'),
+		_x('Libjo (Albor)','DIIS', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Loreto', 'DIIS', 'ry-wc-city-select'),
 		_x('San Jose', 'DIIS', 'ry-wc-city-select'),
 		_x('Tubajon', 'DIIS', 'ry-wc-city-select'),
@@ -137,7 +164,11 @@ return [
 		_x('Lubuagan', 'KA', 'ry-wc-city-select'),
 		_x('Pasil', 'KA', 'ry-wc-city-select'),
 		_x('Pinukpuk', 'KA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Rizal (Liwan)', 'KA', 'ry-wc-city-select'),
+=======
+		_x('Rizal (Liwan)','KA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tanudan', 'KA', 'ry-wc-city-select'),
 		_x('Tinglayan', 'KA', 'ry-wc-city-select'),
 	],
@@ -176,10 +207,17 @@ return [
 		_x('Molave', 'PRZADESU', 'ry-wc-city-select'),
 		_x('Pagadian City', 'PRZADESU', 'ry-wc-city-select'),
 		_x('Pitogo', 'PRZADESU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Ramon Magsaysay (Liargo)', 'PRZADESU', 'ry-wc-city-select'),
 		_x('San Miguel', 'PRZADESU', 'ry-wc-city-select'),
 		_x('San Pablo', 'PRZADESU', 'ry-wc-city-select'),
 		_x('Sominot (Don Mariano Marcos)', 'PRZADESU', 'ry-wc-city-select'),
+=======
+		_x('Ramon Magsaysay (Liargo)','PRZADESU', 'ry-wc-city-select'),
+		_x('San Miguel', 'PRZADESU', 'ry-wc-city-select'),
+		_x('San Pablo', 'PRZADESU', 'ry-wc-city-select'),
+		_x('Sominot (Don Mariano Marcos)','PRZADESU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tabina', 'PRZADESU', 'ry-wc-city-select'),
 		_x('Tambulig', 'PRZADESU', 'ry-wc-city-select'),
 		_x('Tigbao', 'PRZADESU', 'ry-wc-city-select'),
@@ -200,7 +238,11 @@ return [
 		_x('Lagangilang', 'PRAB', 'ry-wc-city-select'),
 		_x('Lagayan', 'PRAB', 'ry-wc-city-select'),
 		_x('Langiden', 'PRAB', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Licuan-Baay (Licuan)', 'PRAB', 'ry-wc-city-select'),
+=======
+		_x('Licuan-Baay (Licuan)','PRAB', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Luba', 'PRAB', 'ry-wc-city-select'),
 		_x('Malibcong', 'PRAB', 'ry-wc-city-select'),
 		_x('Manabo', 'PRAB', 'ry-wc-city-select'),
@@ -270,7 +312,11 @@ return [
 		_x('Camalig', 'PRAL', 'ry-wc-city-select'),
 		_x('City of Ligao', 'PRAL', 'ry-wc-city-select'),
 		_x('City of Tabaco', 'PRAL', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Daraga (Locsin)', 'PRAL', 'ry-wc-city-select'),
+=======
+		_x('Daraga (Locsin)','PRAL', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Guinobatan', 'PRAL', 'ry-wc-city-select'),
 		_x('Jovellar', 'PRAL', 'ry-wc-city-select'),
 		_x('Legazpi City', 'PRAL', 'ry-wc-city-select'),
@@ -282,7 +328,11 @@ return [
 		_x('Pio Duran', 'PRAL', 'ry-wc-city-select'),
 		_x('Polangui', 'PRAL', 'ry-wc-city-select'),
 		_x('Rapu-Rapu', 'PRAL', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Santo Domingo (Libog)', 'PRAL', 'ry-wc-city-select'),
+=======
+		_x('Santo Domingo (Libog)','PRAL', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tiwi', 'PRAL', 'ry-wc-city-select'),
 	],
 	'PRAN' => [
@@ -302,7 +352,11 @@ return [
 		_x('Sebaste', 'PRAN', 'ry-wc-city-select'),
 		_x('Sibalom', 'PRAN', 'ry-wc-city-select'),
 		_x('Tibiao', 'PRAN', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Tobias Fornier', 'PRAN', 'ry-wc-city-select'),
+=======
+		_x('Tobias Fornier (Dao)','PRAN', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Valderrama', 'PRAN', 'ry-wc-city-select'),
 	],
 	'PRAU' => [
@@ -430,7 +484,11 @@ return [
 	],
 	'PRBU2' => [
 		_x('Angat', 'PRBU2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Balagtas (Bigaa)', 'PRBU2', 'ry-wc-city-select'),
+=======
+		_x('Balagtas (Bigaa)','PRBU2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Baliuag', 'PRBU2', 'ry-wc-city-select'),
 		_x('Bocaue', 'PRBU2', 'ry-wc-city-select'),
 		_x('Bulacan', 'PRBU2', 'ry-wc-city-select'),
@@ -480,7 +538,11 @@ return [
 		_x('Santa Ana', 'PRCA', 'ry-wc-city-select'),
 		_x('Santa Praxedes', 'PRCA', 'ry-wc-city-select'),
 		_x('Santa Teresita', 'PRCA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Santo Nino (Faire)', 'PRCA', 'ry-wc-city-select'),
+=======
+		_x('Santo Nino (Faire)','PRCA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Solana', 'PRCA', 'ry-wc-city-select'),
 		_x('Tuao', 'PRCA', 'ry-wc-city-select'),
 		_x('Tuguegarao City', 'PRCA', 'ry-wc-city-select'),
@@ -493,7 +555,11 @@ return [
 		_x('Labo', 'PRCANO', 'ry-wc-city-select'),
 		_x('Mercedes', 'PRCANO', 'ry-wc-city-select'),
 		_x('Paracale', 'PRCANO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Lorenzo Ruiz (Imelda)', 'PRCANO', 'ry-wc-city-select'),
+=======
+		_x('San Lorenzo Ruiz (Imelda)','PRCANO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Vicente', 'PRCANO', 'ry-wc-city-select'),
 		_x('Santa Elena', 'PRCANO', 'ry-wc-city-select'),
 		_x('Talisay', 'PRCANO', 'ry-wc-city-select'),
@@ -528,7 +594,11 @@ return [
 		_x('Pamplona', 'PRCASU', 'ry-wc-city-select'),
 		_x('Pasacao', 'PRCASU', 'ry-wc-city-select'),
 		_x('Pili', 'PRCASU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Presentacion (Parubcan)', 'PRCASU', 'ry-wc-city-select'),
+=======
+		_x('Presentacion (Parubcan)','PRCASU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Ragay', 'PRCASU', 'ry-wc-city-select'),
 		_x('Sagnay', 'PRCASU', 'ry-wc-city-select'),
 		_x('San Fernando', 'PRCASU', 'ry-wc-city-select'),
@@ -571,8 +641,13 @@ return [
 		_x('Caramoran', 'PRCA4', 'ry-wc-city-select'),
 		_x('Gigmoto', 'PRCA4', 'ry-wc-city-select'),
 		_x('Pandan', 'PRCA4', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Panganiban (Payo)', 'PRCA4', 'ry-wc-city-select'),
 		_x('San Andres (Calolbon)', 'PRCA4', 'ry-wc-city-select'),
+=======
+		_x('Panganiban (Payo)','PRCA4', 'ry-wc-city-select'),
+		_x('San Andres (Calolbon)','PRCA4', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Miguel', 'PRCA4', 'ry-wc-city-select'),
 		_x('Viga', 'PRCA4', 'ry-wc-city-select'),
 		_x('Virac', 'PRCA4', 'ry-wc-city-select'),
@@ -592,7 +667,11 @@ return [
 		_x('Kawit', 'PRCA5', 'ry-wc-city-select'),
 		_x('Magallanes', 'PRCA5', 'ry-wc-city-select'),
 		_x('Maragondon', 'PRCA5', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Mendez (Mendez-Nunez)', 'PRCA5', 'ry-wc-city-select'),
+=======
+		_x('Mendez (Mendez-Nunez)','PRCA5', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Naic', 'PRCA5', 'ry-wc-city-select'),
 		_x('Noveleta', 'PRCA5', 'ry-wc-city-select'),
 		_x('Rosario', 'PRCA5', 'ry-wc-city-select'),
@@ -630,7 +709,11 @@ return [
 		_x('Danao City', 'PRCE', 'ry-wc-city-select'),
 		_x('Dumanjug', 'PRCE', 'ry-wc-city-select'),
 		_x('Ginatilan', 'PRCE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Lapu-Lapu City (Opon)', 'PRCE', 'ry-wc-city-select'),
+=======
+		_x('Lapu-Lapu City (Opon)','PRCE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Liloan', 'PRCE', 'ry-wc-city-select'),
 		_x('Madridejos', 'PRCE', 'ry-wc-city-select'),
 		_x('Malabuyoc', 'PRCE', 'ry-wc-city-select'),
@@ -691,7 +774,11 @@ return [
 		_x('Tarragona', 'PRDAOR', 'ry-wc-city-select'),
 	],
 	'PRDADENO' => [
+<<<<<<< HEAD
 		_x('Asuncion (Saug)', 'PRDADENO', 'ry-wc-city-select'),
+=======
+		_x('Asuncion (Saug)','PRDADENO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Braulio E. Dujali', 'PRDADENO', 'ry-wc-city-select'),
 		_x('Carmen', 'PRDADENO', 'ry-wc-city-select'),
 		_x('City of Panabo', 'PRDADENO', 'ry-wc-city-select'),
@@ -750,7 +837,11 @@ return [
 	],
 	'PRIF' => [
 		_x('Aguinaldo', 'PRIF', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Alfonso Lista (Potia)', 'PRIF', 'ry-wc-city-select'),
+=======
+		_x('Alfonso Lista (Potia)','PRIF', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Asipulo', 'PRIF', 'ry-wc-city-select'),
 		_x('Banaue', 'PRIF', 'ry-wc-city-select'),
 		_x('Hingyon', 'PRIF', 'ry-wc-city-select'),
@@ -766,7 +857,11 @@ return [
 		_x('Bacarra', 'PRILNO', 'ry-wc-city-select'),
 		_x('Badoc', 'PRILNO', 'ry-wc-city-select'),
 		_x('Bangui', 'PRILNO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Banna (Espiritu)', 'PRILNO', 'ry-wc-city-select'),
+=======
+		_x('Banna (Espiritu)','PRILNO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Burgos', 'PRILNO', 'ry-wc-city-select'),
 		_x('Carasi', 'PRILNO', 'ry-wc-city-select'),
 		_x('City of Batac', 'PRILNO', 'ry-wc-city-select'),
@@ -797,17 +892,30 @@ return [
 		_x('City of Candon', 'PRILSU', 'ry-wc-city-select'),
 		_x('City of Vigan', 'PRILSU', 'ry-wc-city-select'),
 		_x('Galimuyod', 'PRILSU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Gregorio Del Pilar (Concepcion)', 'PRILSU', 'ry-wc-city-select'),
+=======
+		_x('Gregorio Del Pilar (Concepcion)','PRILSU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Lidlidda', 'PRILSU', 'ry-wc-city-select'),
 		_x('Magsingal', 'PRILSU', 'ry-wc-city-select'),
 		_x('Nagbukel', 'PRILSU', 'ry-wc-city-select'),
 		_x('Narvacan', 'PRILSU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Quirino (Angkaki)', 'PRILSU', 'ry-wc-city-select'),
 		_x('Salcedo (Baugen)', 'PRILSU', 'ry-wc-city-select'),
 		_x('San Emilio', 'PRILSU', 'ry-wc-city-select'),
 		_x('San Esteban', 'PRILSU', 'ry-wc-city-select'),
 		_x('San Ildefonso', 'PRILSU', 'ry-wc-city-select'),
 		_x('San Juan (Lapog)', 'PRILSU', 'ry-wc-city-select'),
+=======
+		_x('Quirino (Angkaki)','PRILSU', 'ry-wc-city-select'),
+		_x('Salcedo (Baugen)','PRILSU', 'ry-wc-city-select'),
+		_x('San Emilio', 'PRILSU', 'ry-wc-city-select'),
+		_x('San Esteban', 'PRILSU', 'ry-wc-city-select'),
+		_x('San Ildefonso', 'PRILSU', 'ry-wc-city-select'),
+		_x('San Juan (Lapog)','PRILSU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Vicente', 'PRILSU', 'ry-wc-city-select'),
 		_x('Santa', 'PRILSU', 'ry-wc-city-select'),
 		_x('Santa Catalina', 'PRILSU', 'ry-wc-city-select'),
@@ -879,7 +987,11 @@ return [
 		_x('City of Cauayan', 'PRIS', 'ry-wc-city-select'),
 		_x('City of Santiago', 'PRIS', 'ry-wc-city-select'),
 		_x('Cordon', 'PRIS', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Delfin Albano', 'PRIS', 'ry-wc-city-select'),
+=======
+		_x('Delfin Albano (Magsaysay)','PRIS', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Dinapigue', 'PRIS', 'ry-wc-city-select'),
 		_x('Divilacan', 'PRIS', 'ry-wc-city-select'),
 		_x('Echague', 'PRIS', 'ry-wc-city-select'),
@@ -981,15 +1093,25 @@ return [
 		_x('Poona Piagapo', 'PRLADENO', 'ry-wc-city-select'),
 		_x('Salvador', 'PRLADENO', 'ry-wc-city-select'),
 		_x('Sapad', 'PRLADENO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sultan Naga Dimaporo (Karomatan)', 'PRLADENO', 'ry-wc-city-select'),
+=======
+		_x('Sultan Naga Dimaporo (Karomatan)','PRLADENO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tagoloan', 'PRLADENO', 'ry-wc-city-select'),
 		_x('Tangcal', 'PRLADENO', 'ry-wc-city-select'),
 		_x('Tubod', 'PRLADENO', 'ry-wc-city-select'),
 	],
 	'PRLADESU' => [
+<<<<<<< HEAD
 		_x('Bacolod-Kalawi (Bacolod Grande)', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Balabagan', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Balindong (Watu)', 'PRLADESU', 'ry-wc-city-select'),
+=======
+		_x('Bacolod-Kalawi (Bacolod Grande)','PRLADESU', 'ry-wc-city-select'),
+		_x('Balabagan', 'PRLADESU', 'ry-wc-city-select'),
+		_x('Balindong (Watu)','PRLADESU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Bayang', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Binidayan', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Buadiposo-Buntong', 'PRLADESU', 'ry-wc-city-select'),
@@ -1001,7 +1123,11 @@ return [
 		_x('Ganassi', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Kapai', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Kapatagan', 'PRLADESU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Lumba-Bayabao (Maguing)', 'PRLADESU', 'ry-wc-city-select'),
+=======
+		_x('Lumba-Bayabao (Maguing)','PRLADESU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Lumbaca-Unayan', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Lumbatan', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Lumbayanague', 'PRLADESU', 'ry-wc-city-select'),
@@ -1014,10 +1140,17 @@ return [
 		_x('Marogong', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Masiu', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Mulondo', 'PRLADESU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Pagayawan (Tatarikan)', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Piagapo', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Picong (Sultan Gumander)', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Poona Bayabao (Gata)', 'PRLADESU', 'ry-wc-city-select'),
+=======
+		_x('Pagayawan (Tatarikan)','PRLADESU', 'ry-wc-city-select'),
+		_x('Piagapo', 'PRLADESU', 'ry-wc-city-select'),
+		_x('Picong (Sultan Gumander)','PRLADESU', 'ry-wc-city-select'),
+		_x('Poona Bayabao (Gata)','PRLADESU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pualas', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Saguiaran', 'PRLADESU', 'ry-wc-city-select'),
 		_x('Sultan Dumalondong', 'PRLADESU', 'ry-wc-city-select'),
@@ -1047,7 +1180,11 @@ return [
 		_x('Inopacan', 'PRLE', 'ry-wc-city-select'),
 		_x('Isabel', 'PRLE', 'ry-wc-city-select'),
 		_x('Jaro', 'PRLE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Javier (Bugho)', 'PRLE', 'ry-wc-city-select'),
+=======
+		_x('Javier (Bugho)','PRLE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Julita', 'PRLE', 'ry-wc-city-select'),
 		_x('Kananga', 'PRLE', 'ry-wc-city-select'),
 		_x('La Paz', 'PRLE', 'ry-wc-city-select'),
@@ -1082,7 +1219,11 @@ return [
 		_x('Datu Anggal Midtimbang', 'PRMA', 'ry-wc-city-select'),
 		_x('Datu Blah T. Sinsuat', 'PRMA', 'ry-wc-city-select'),
 		_x('Datu Hoffer Ampatuan', 'PRMA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Datu Odin Sinsuat (Dinaig)', 'PRMA', 'ry-wc-city-select'),
+=======
+		_x('Datu Odin Sinsuat (Dinaig)','PRMA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Datu Paglas', 'PRMA', 'ry-wc-city-select'),
 		_x('Datu Piang', 'PRMA', 'ry-wc-city-select'),
 		_x('Datu Salibo', 'PRMA', 'ry-wc-city-select'),
@@ -1090,7 +1231,11 @@ return [
 		_x('Datu Unsay', 'PRMA', 'ry-wc-city-select'),
 		_x('Gen. S.K. Pendatun', 'PRMA', 'ry-wc-city-select'),
 		_x('Guindulungan', 'PRMA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Kabuntalan (Tumbao)', 'PRMA', 'ry-wc-city-select'),
+=======
+		_x('Kabuntalan (Tumbao)','PRMA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Mamasapano', 'PRMA', 'ry-wc-city-select'),
 		_x('Mangudadatu', 'PRMA', 'ry-wc-city-select'),
 		_x('Matanog', 'PRMA', 'ry-wc-city-select'),
@@ -1101,12 +1246,21 @@ return [
 		_x('Pandag', 'PRMA', 'ry-wc-city-select'),
 		_x('Parang', 'PRMA', 'ry-wc-city-select'),
 		_x('Rajah Buayan', 'PRMA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Shariff Aguak (Maganoy)', 'PRMA', 'ry-wc-city-select'),
 		_x('Shariff Saydona Mustapha', 'PRMA', 'ry-wc-city-select'),
 		_x('South Upi', 'PRMA', 'ry-wc-city-select'),
 		_x('Sultan Kudarat (Nuling)', 'PRMA', 'ry-wc-city-select'),
 		_x('Sultan Mastura', 'PRMA', 'ry-wc-city-select'),
 		_x('Sultan Sa Barongis (Lambayong)', 'PRMA', 'ry-wc-city-select'),
+=======
+		_x('Shariff Aguak (Maganoy)','PRMA', 'ry-wc-city-select'),
+		_x('Shariff Saydona Mustapha', 'PRMA', 'ry-wc-city-select'),
+		_x('South Upi', 'PRMA', 'ry-wc-city-select'),
+		_x('Sultan Kudarat (Nuling)','PRMA', 'ry-wc-city-select'),
+		_x('Sultan Mastura', 'PRMA', 'ry-wc-city-select'),
+		_x('Sultan Sa Barongis (Lambayong)','PRMA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Talayan', 'PRMA', 'ry-wc-city-select'),
 		_x('Talitay', 'PRMA', 'ry-wc-city-select'),
 		_x('Upi', 'PRMA', 'ry-wc-city-select'),
@@ -1135,7 +1289,11 @@ return [
 		_x('Mobo', 'PRMA3', 'ry-wc-city-select'),
 		_x('Monreal', 'PRMA3', 'ry-wc-city-select'),
 		_x('Palanas', 'PRMA3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Pio V. Corpuz (Limbuhan)', 'PRMA3', 'ry-wc-city-select'),
+=======
+		_x('Pio V. Corpuz (Limbuhan)','PRMA3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Placer', 'PRMA3', 'ry-wc-city-select'),
 		_x('San Fernando', 'PRMA3', 'ry-wc-city-select'),
 		_x('San Jacinto', 'PRMA3', 'ry-wc-city-select'),
@@ -1159,7 +1317,11 @@ return [
 		_x('Baco', 'PRMIOR', 'ry-wc-city-select'),
 		_x('Bansud', 'PRMIOR', 'ry-wc-city-select'),
 		_x('Bongabong', 'PRMIOR', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Bulalacao (San Pedro)', 'PRMIOR', 'ry-wc-city-select'),
+=======
+		_x('Bulalacao (San Pedro)','PRMIOR', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('City of Calapan', 'PRMIOR', 'ry-wc-city-select'),
 		_x('Gloria', 'PRMIOR', 'ry-wc-city-select'),
 		_x('Mansalay', 'PRMIOR', 'ry-wc-city-select'),
@@ -1208,7 +1370,11 @@ return [
 		_x('Laguindingan', 'PRMIOR2', 'ry-wc-city-select'),
 		_x('Libertad', 'PRMIOR2', 'ry-wc-city-select'),
 		_x('Lugait', 'PRMIOR2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Magsaysay (Linugos)', 'PRMIOR2', 'ry-wc-city-select'),
+=======
+		_x('Magsaysay (Linugos)','PRMIOR2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Manticao', 'PRMIOR2', 'ry-wc-city-select'),
 		_x('Medina', 'PRMIOR2', 'ry-wc-city-select'),
 		_x('Naawan', 'PRMIOR2', 'ry-wc-city-select'),
@@ -1233,7 +1399,11 @@ return [
 		_x('City of Sipalay', 'PRNEOC', 'ry-wc-city-select'),
 		_x('City of Talisay', 'PRNEOC', 'ry-wc-city-select'),
 		_x('City of Victorias', 'PRNEOC', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Enrique B. Magalona (Saravia)', 'PRNEOC', 'ry-wc-city-select'),
+=======
+		_x('Enrique B. Magalona (Saravia)','PRNEOC', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Hinigaran', 'PRNEOC', 'ry-wc-city-select'),
 		_x('Hinoba-An', 'PRNEOC', 'ry-wc-city-select'),
 		_x('Ilog', 'PRNEOC', 'ry-wc-city-select'),
@@ -1241,7 +1411,11 @@ return [
 		_x('La Carlota City', 'PRNEOC', 'ry-wc-city-select'),
 		_x('La Castellana', 'PRNEOC', 'ry-wc-city-select'),
 		_x('Manapla', 'PRNEOC', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Moises Padilla (Magallon)', 'PRNEOC', 'ry-wc-city-select'),
+=======
+		_x('Moises Padilla (Magallon)','PRNEOC', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Murcia', 'PRNEOC', 'ry-wc-city-select'),
 		_x('Pontevedra', 'PRNEOC', 'ry-wc-city-select'),
 		_x('Pulupandan', 'PRNEOC', 'ry-wc-city-select'),
@@ -1254,14 +1428,24 @@ return [
 		_x('Valladolid', 'PRNEOC', 'ry-wc-city-select'),
 	],
 	'PRNEOR' => [
+<<<<<<< HEAD
 		_x('Amlan (Ayuquitan)', 'PRNEOR', 'ry-wc-city-select'),
+=======
+		_x('Amlan (Ayuquitan)','PRNEOR', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Ayungon', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Bacong', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Bais City', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Basay', 'PRNEOR', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Bindoy (Payabon)', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Canlaon City', 'PRNEOR', 'ry-wc-city-select'),
 		_x('City of Bayawan (Tulong)', 'PRNEOR', 'ry-wc-city-select'),
+=======
+		_x('Bindoy (Payabon)','PRNEOR', 'ry-wc-city-select'),
+		_x('Canlaon City', 'PRNEOR', 'ry-wc-city-select'),
+		_x('City of Bayawan (Tulong)','PRNEOR', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('City of Guihulngan', 'PRNEOR', 'ry-wc-city-select'),
 		_x('City of Tanjay', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Dauin', 'PRNEOR', 'ry-wc-city-select'),
@@ -1276,7 +1460,11 @@ return [
 		_x('Siaton', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Sibulan', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Tayasan', 'PRNEOR', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Valencia (Luzurriaga)', 'PRNEOR', 'ry-wc-city-select'),
+=======
+		_x('Valencia (Luzurriaga)','PRNEOR', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Vallehermoso', 'PRNEOR', 'ry-wc-city-select'),
 		_x('Zamboanguita', 'PRNEOR', 'ry-wc-city-select'),
 	],
@@ -1314,9 +1502,15 @@ return [
 		_x('Carranglan', 'PRNUEC', 'ry-wc-city-select'),
 		_x('City of Gapan', 'PRNUEC', 'ry-wc-city-select'),
 		_x('Cuyapo', 'PRNUEC', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Gabaldon (Bitulok & Sabani)', 'PRNUEC', 'ry-wc-city-select'),
 		_x('General Mamerto Natividad', 'PRNUEC', 'ry-wc-city-select'),
 		_x('General Tinio (Papaya)', 'PRNUEC', 'ry-wc-city-select'),
+=======
+		_x('Gabaldon (Bitulok & Sabani)','PRNUEC', 'ry-wc-city-select'),
+		_x('General Mamerto Natividad', 'PRNUEC', 'ry-wc-city-select'),
+		_x('General Tinio (Papaya)','PRNUEC', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Guimba', 'PRNUEC', 'ry-wc-city-select'),
 		_x('Jaen', 'PRNUEC', 'ry-wc-city-select'),
 		_x('Laur', 'PRNUEC', 'ry-wc-city-select'),
@@ -1370,14 +1564,22 @@ return [
 		_x('Culion', 'PRPA', 'ry-wc-city-select'),
 		_x('Cuyo', 'PRPA', 'ry-wc-city-select'),
 		_x('Dumaran', 'PRPA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('El Nido', 'PRPA', 'ry-wc-city-select'),
+=======
+		_x('El Nido (Bacuit)','PRPA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Kalayaan', 'PRPA', 'ry-wc-city-select'),
 		_x('Linapacan', 'PRPA', 'ry-wc-city-select'),
 		_x('Magsaysay', 'PRPA', 'ry-wc-city-select'),
 		_x('Narra', 'PRPA', 'ry-wc-city-select'),
 		_x('Puerto Princesa City', 'PRPA', 'ry-wc-city-select'),
 		_x('Quezon', 'PRPA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Rizal (Marcos)', 'PRPA', 'ry-wc-city-select'),
+=======
+		_x('Rizal (Marcos)','PRPA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Roxas', 'PRPA', 'ry-wc-city-select'),
 		_x('San Vicente', 'PRPA', 'ry-wc-city-select'),
 		_x('Sofronio Espanola', 'PRPA', 'ry-wc-city-select'),
@@ -1405,7 +1607,11 @@ return [
 		_x('Santa Ana', 'PRPA2', 'ry-wc-city-select'),
 		_x('Santa Rita', 'PRPA2', 'ry-wc-city-select'),
 		_x('Santo Tomas', 'PRPA2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sasmuan (Sexmoan)', 'PRPA2', 'ry-wc-city-select'),
+=======
+		_x('Sasmuan (Sexmoan)','PRPA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'PRPA3' => [
 		_x('Agno', 'PRPA3', 'ry-wc-city-select'),
@@ -1493,7 +1699,11 @@ return [
 		_x('Sampaloc', 'PRQU', 'ry-wc-city-select'),
 		_x('San Andres', 'PRQU', 'ry-wc-city-select'),
 		_x('San Antonio', 'PRQU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Francisco (Aurora)', 'PRQU', 'ry-wc-city-select'),
+=======
+		_x('San Francisco (Aurora)','PRQU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Narciso', 'PRQU', 'ry-wc-city-select'),
 		_x('Sariaya', 'PRQU', 'ry-wc-city-select'),
 		_x('Tagkawayan', 'PRQU', 'ry-wc-city-select'),
@@ -1518,7 +1728,11 @@ return [
 		_x('Jala-Jala', 'PRRI', 'ry-wc-city-select'),
 		_x('Morong', 'PRRI', 'ry-wc-city-select'),
 		_x('Pililla', 'PRRI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Rodriguez (Montalban)', 'PRRI', 'ry-wc-city-select'),
+=======
+		_x('Rodriguez (Montalban)','PRRI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Mateo', 'PRRI', 'ry-wc-city-select'),
 		_x('Tanay', 'PRRI', 'ry-wc-city-select'),
 		_x('Taytay', 'PRRI', 'ry-wc-city-select'),
@@ -1541,7 +1755,11 @@ return [
 		_x('San Fernando', 'PRRO', 'ry-wc-city-select'),
 		_x('San Jose', 'PRRO', 'ry-wc-city-select'),
 		_x('Santa Fe', 'PRRO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Santa Maria (Imelda)', 'PRRO', 'ry-wc-city-select'),
+=======
+		_x('Santa Maria (Imelda)','PRRO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'PRSA' => [
 		_x('Almagro', 'PRSA', 'ry-wc-city-select'),
@@ -1557,7 +1775,11 @@ return [
 		_x('Matuguinao', 'PRSA', 'ry-wc-city-select'),
 		_x('Motiong', 'PRSA', 'ry-wc-city-select'),
 		_x('Pagsanghan', 'PRSA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Paranas (Wright)', 'PRSA', 'ry-wc-city-select'),
+=======
+		_x('Paranas (Wright)','PRSA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pinabacdao', 'PRSA', 'ry-wc-city-select'),
 		_x('San Jorge', 'PRSA', 'ry-wc-city-select'),
 		_x('San Jose De Buan', 'PRSA', 'ry-wc-city-select'),
@@ -1608,7 +1830,11 @@ return [
 	'PRSOCO' => [
 		_x('Banga', 'PRSOCO', 'ry-wc-city-select'),
 		_x('City of Koronadal', 'PRSOCO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('General Santos City (Dadiangas)', 'PRSOCO', 'ry-wc-city-select'),
+=======
+		_x('General Santos City (Dadiangas)','PRSOCO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Lake Sebu', 'PRSOCO', 'ry-wc-city-select'),
 		_x('Norala', 'PRSOCO', 'ry-wc-city-select'),
 		_x('Polomolok', 'PRSOCO', 'ry-wc-city-select'),
@@ -1634,7 +1860,11 @@ return [
 		_x('Pintuyan', 'PRSOLE', 'ry-wc-city-select'),
 		_x('Saint Bernard', 'PRSOLE', 'ry-wc-city-select'),
 		_x('San Francisco', 'PRSOLE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Juan (Cabalian)', 'PRSOLE', 'ry-wc-city-select'),
+=======
+		_x('San Juan (Cabalian)','PRSOLE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Ricardo', 'PRSOLE', 'ry-wc-city-select'),
 		_x('Silago', 'PRSOLE', 'ry-wc-city-select'),
 		_x('Sogod', 'PRSOLE', 'ry-wc-city-select'),
@@ -1647,7 +1877,11 @@ return [
 		_x('Esperanza', 'PRSUKU', 'ry-wc-city-select'),
 		_x('Isulan', 'PRSUKU', 'ry-wc-city-select'),
 		_x('Kalamansig', 'PRSUKU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Lambayong (Mariano Marcos)', 'PRSUKU', 'ry-wc-city-select'),
+=======
+		_x('Lambayong (Mariano Marcos)','PRSUKU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Lebak', 'PRSUKU', 'ry-wc-city-select'),
 		_x('Lutayan', 'PRSUKU', 'ry-wc-city-select'),
 		_x('Palimbang', 'PRSUKU', 'ry-wc-city-select'),
@@ -1655,7 +1889,11 @@ return [
 		_x('Sen. Ninoy Aquino', 'PRSUKU', 'ry-wc-city-select'),
 	],
 	'PRSU' => [
+<<<<<<< HEAD
 		_x('Hadji Panglima Tahil (Marunggas)', 'PRSU', 'ry-wc-city-select'),
+=======
+		_x('Hadji Panglima Tahil (Marunggas)','PRSU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Indanan', 'PRSU', 'ry-wc-city-select'),
 		_x('Jolo', 'PRSU', 'ry-wc-city-select'),
 		_x('Kalingalan Caluang', 'PRSU', 'ry-wc-city-select'),
@@ -1665,7 +1903,11 @@ return [
 		_x('Old Panamao', 'PRSU', 'ry-wc-city-select'),
 		_x('Omar', 'PRSU', 'ry-wc-city-select'),
 		_x('Pandami', 'PRSU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Panglima Estino (New Panamao)', 'PRSU', 'ry-wc-city-select'),
+=======
+		_x('Panglima Estino (New Panamao)','PRSU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pangutaran', 'PRSU', 'ry-wc-city-select'),
 		_x('Parang', 'PRSU', 'ry-wc-city-select'),
 		_x('Pata', 'PRSU', 'ry-wc-city-select'),
@@ -1689,9 +1931,15 @@ return [
 		_x('Pilar', 'PRSUDENO', 'ry-wc-city-select'),
 		_x('Placer', 'PRSUDENO', 'ry-wc-city-select'),
 		_x('San Benito', 'PRSUDENO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Francisco (Anao-Aon)', 'PRSUDENO', 'ry-wc-city-select'),
 		_x('San Isidro', 'PRSUDENO', 'ry-wc-city-select'),
 		_x('Santa Monica (Sapao)', 'PRSUDENO', 'ry-wc-city-select'),
+=======
+		_x('San Francisco (Anao-Aon)','PRSUDENO', 'ry-wc-city-select'),
+		_x('San Isidro', 'PRSUDENO', 'ry-wc-city-select'),
+		_x('Santa Monica (Sapao)','PRSUDENO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sison', 'PRSUDENO', 'ry-wc-city-select'),
 		_x('Socorro', 'PRSUDENO', 'ry-wc-city-select'),
 		_x('Surigao City', 'PRSUDENO', 'ry-wc-city-select'),
@@ -1743,7 +1991,11 @@ return [
 		_x('Bongao', 'PRTA2', 'ry-wc-city-select'),
 		_x('Languyan', 'PRTA2', 'ry-wc-city-select'),
 		_x('Municipality of Mapun', 'PRTA2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Panglima Sugala (Balimbing)', 'PRTA2', 'ry-wc-city-select'),
+=======
+		_x('Panglima Sugala (Balimbing)','PRTA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sapa-Sapa', 'PRTA2', 'ry-wc-city-select'),
 		_x('Sibutu', 'PRTA2', 'ry-wc-city-select'),
 		_x('Simunul', 'PRTA2', 'ry-wc-city-select'),
@@ -1787,13 +2039,21 @@ return [
 		_x('Tungawan', 'PRZASI', 'ry-wc-city-select'),
 	],
 	'PRZADENO' => [
+<<<<<<< HEAD
 		_x('Bacungan (Leon T. Postigo)', 'PRZADENO', 'ry-wc-city-select'),
+=======
+		_x('Bacungan (Leon T. Postigo)','PRZADENO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Baliguian', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Dapitan City', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Dipolog City', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Godod', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Gutalac', 'PRZADENO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Jose Dalman (Ponot)', 'PRZADENO', 'ry-wc-city-select'),
+=======
+		_x('Jose Dalman (Ponot)','PRZADENO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Kalawit', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Katipunan', 'PRZADENO', 'ry-wc-city-select'),
 		_x('La Libertad', 'PRZADENO', 'ry-wc-city-select'),
@@ -1801,7 +2061,11 @@ return [
 		_x('Liloy', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Manukan', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Mutia', 'PRZADENO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Pinan (New Pinan)', 'PRZADENO', 'ry-wc-city-select'),
+=======
+		_x('Pinan (New Pinan)','PRZADENO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Polanco', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Pres. Manuel A. Roxas', 'PRZADENO', 'ry-wc-city-select'),
 		_x('Rizal', 'PRZADENO', 'ry-wc-city-select'),

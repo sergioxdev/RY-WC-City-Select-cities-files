@@ -429,10 +429,17 @@ return [
 	],
 	'YA(E' => [
 		_x('Botahtaung', 'YA(E', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Dagon Myothit (East)', 'YA(E', 'ry-wc-city-select'),
 		_x('Dagon Myothit (North)', 'YA(E', 'ry-wc-city-select'),
 		_x('Dagon Myothit (Seikkan)', 'YA(E', 'ry-wc-city-select'),
 		_x('Dagon Myothit (South)', 'YA(E', 'ry-wc-city-select'),
+=======
+		_x('Dagon Myothit (East)','YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (North)','YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (Seikkan)','YA(E', 'ry-wc-city-select'),
+		_x('Dagon Myothit (South)','YA(E', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Dawbon', 'YA(E', 'ry-wc-city-select'),
 		_x('Mingalartaungnyunt', 'YA(E', 'ry-wc-city-select'),
 		_x('North Okkalapa', 'YA(E', 'ry-wc-city-select'),

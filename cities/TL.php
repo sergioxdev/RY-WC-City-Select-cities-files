@@ -324,7 +324,11 @@ return [
 		_x('Ogues', 'MA5', 'ry-wc-city-select'),
 	],
 	'ME' => [
+<<<<<<< HEAD
 		_x('Duyung (Sereia)', 'ME', 'ry-wc-city-select'),
+=======
+		_x('Duyung (Sereia)','ME', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sabuli', 'ME', 'ry-wc-city-select'),
 	],
 	'NAFE' => [

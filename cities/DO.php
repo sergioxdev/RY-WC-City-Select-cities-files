@@ -24,7 +24,11 @@ return [
 		_x('Barreras (D. M.).', 'AZ', 'ry-wc-city-select'),
 		_x('Barro Arriba (D. M.).', 'AZ', 'ry-wc-city-select'),
 		_x('Clavellina (D. M.).', 'AZ', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Dona Emma Balaguer Viuda Vallejo (D. M.)', 'AZ', 'ry-wc-city-select'),
+=======
+		_x('Dona Emma Balaguer Viuda Vallejo (D. M.)','AZ', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Las Barias-La Estancia (D. M.).', 'AZ', 'ry-wc-city-select'),
 		_x('Las Lomas (D. M.).', 'AZ', 'ry-wc-city-select'),
 		_x('Los Jovillos (D. M.).', 'AZ', 'ry-wc-city-select'),
@@ -139,8 +143,13 @@ return [
 		_x('Vengan A Ver (D. M.).', 'DU', 'ry-wc-city-select'),
 	],
 	'CE2' => [
+<<<<<<< HEAD
 		_x('Batista (D.M)', 'CE2', 'ry-wc-city-select'),
 		_x('Derrumbadero (D.M)', 'CE2', 'ry-wc-city-select'),
+=======
+		_x('Batista (D.M)','CE2', 'ry-wc-city-select'),
+		_x('Derrumbadero (D.M)','CE2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('El Cercado', 'CE2', 'ry-wc-city-select'),
 	],
 	'FA' => [
@@ -446,7 +455,11 @@ return [
 		_x('Rio Limpio (D. M.).', 'PESA', 'ry-wc-city-select'),
 	],
 	'PESA2' => [
+<<<<<<< HEAD
 		_x('Pepillo Salcedo (Manzanillo)', 'PESA2', 'ry-wc-city-select'),
+=======
+		_x('Pepillo Salcedo (Manzanillo)','PESA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'PE3' => [
 		_x('Peralta', 'PE3', 'ry-wc-city-select'),

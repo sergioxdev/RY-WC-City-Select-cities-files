@@ -459,7 +459,11 @@ return [
 		_x('Fuente-Tojar', 'PRCO', 'ry-wc-city-select'),
 		_x('Granjuela, La', 'PRCO', 'ry-wc-city-select'),
 		_x('Guadalcazar', 'PRCO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Guijo (El)', 'PRCO', 'ry-wc-city-select'),
+=======
+		_x('Guijo (El)','PRCO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Hinojosa del Duque', 'PRCO', 'ry-wc-city-select'),
 		_x('Hornachuelos', 'PRCO', 'ry-wc-city-select'),
 		_x('Iznajar', 'PRCO', 'ry-wc-city-select'),
@@ -1058,7 +1062,11 @@ return [
 		_x('Redovan', 'PRAL3', 'ry-wc-city-select'),
 		_x('Relleu', 'PRAL3', 'ry-wc-city-select'),
 		_x('Rojales', 'PRAL3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Romana (la)', 'PRAL3', 'ry-wc-city-select'),
+=======
+		_x('Romana (la)','PRAL3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sagra', 'PRAL3', 'ry-wc-city-select'),
 		_x('Salinas', 'PRAL3', 'ry-wc-city-select'),
 		_x('San Fulgencio', 'PRAL3', 'ry-wc-city-select'),

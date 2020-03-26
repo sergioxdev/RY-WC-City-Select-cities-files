@@ -91,7 +91,11 @@ return [
 		_x('Kurfa Chele', 'EAHAZO', 'ry-wc-city-select'),
 	],
 	'EAWEZO' => [
+<<<<<<< HEAD
 		_x('Sasiga (woreda)', 'EAWEZO', 'ry-wc-city-select'),
+=======
+		_x('Sasiga (woreda)','EAWEZO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'EATIZO' => [
 		_x('Atsbi Wonberta', 'EATIZO', 'ry-wc-city-select'),

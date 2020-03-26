@@ -134,7 +134,11 @@ return [
 		_x('Ukhia', 'COBA', 'ry-wc-city-select'),
 	],
 	'DH' => [
+<<<<<<< HEAD
 		_x('DCC (Kotwali)', 'DH', 'ry-wc-city-select'),
+=======
+		_x('DCC (Kotwali)','DH', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Dhamrai', 'DH', 'ry-wc-city-select'),
 		_x('Dohar', 'DH', 'ry-wc-city-select'),
 		_x('Keraniganj', 'DH', 'ry-wc-city-select'),
@@ -262,9 +266,15 @@ return [
 		_x('Dacope Upazila', 'KH2', 'ry-wc-city-select'),
 		_x('Dighalia Upazila', 'KH2', 'ry-wc-city-select'),
 		_x('Dumuria Upazila', 'KH2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('KCC (Daulatpur)', 'KH2', 'ry-wc-city-select'),
 		_x('KCC (Khalishpur)', 'KH2', 'ry-wc-city-select'),
 		_x('KCC (Sonadanga)', 'KH2', 'ry-wc-city-select'),
+=======
+		_x('KCC (Daulatpur)','KH2', 'ry-wc-city-select'),
+		_x('KCC (Khalishpur)','KH2', 'ry-wc-city-select'),
+		_x('KCC (Sonadanga)','KH2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Khan Jahan Ali', 'KH2', 'ry-wc-city-select'),
 		_x('Kotwali', 'KH2', 'ry-wc-city-select'),
 		_x('Koyra', 'KH2', 'ry-wc-city-select'),
@@ -502,9 +512,15 @@ return [
 		_x('Mohanpur', 'RA2', 'ry-wc-city-select'),
 		_x('Paba Upazila', 'RA2', 'ry-wc-city-select'),
 		_x('Puthia Upazila', 'RA2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('RCC (Motihar)', 'RA2', 'ry-wc-city-select'),
 		_x('RCC (Rajpara)', 'RA2', 'ry-wc-city-select'),
 		_x('RCC (Shahmokhdum)', 'RA2', 'ry-wc-city-select'),
+=======
+		_x('RCC (Motihar)','RA2', 'ry-wc-city-select'),
+		_x('RCC (Rajpara)','RA2', 'ry-wc-city-select'),
+		_x('RCC (Shahmokhdum)','RA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tanore', 'RA2', 'ry-wc-city-select'),
 	],
 	'RA3' => [

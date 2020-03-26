@@ -306,7 +306,11 @@ return [
 		_x('Lannach', 'POBEDE', 'ry-wc-city-select'),
 		_x('Poelfing-Brunn', 'POBEDE', 'ry-wc-city-select'),
 		_x('Preding', 'POBEDE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sankt Josef (Weststeiermark)', 'POBEDE', 'ry-wc-city-select'),
+=======
+		_x('Sankt Josef (Weststeiermark)','POBEDE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sankt Martin im Sulmtal', 'POBEDE', 'ry-wc-city-select'),
 		_x('Sankt Peter im Sulmtal', 'POBEDE', 'ry-wc-city-select'),
 		_x('Sankt Stefan ob Stainz', 'POBEDE', 'ry-wc-city-select'),

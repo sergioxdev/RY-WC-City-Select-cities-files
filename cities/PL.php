@@ -862,7 +862,11 @@ return [
 		_x('Naglowice', 'POJE', 'ry-wc-city-select'),
 		_x('Oksa', 'POJE', 'ry-wc-city-select'),
 		_x('Sedziszow', 'POJE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Slupia (Jedrzejowska)', 'POJE', 'ry-wc-city-select'),
+=======
+		_x('Slupia (Jedrzejowska)','POJE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sobkow', 'POJE', 'ry-wc-city-select'),
 		_x('Wodzislaw', 'POJE', 'ry-wc-city-select'),
 	],
@@ -1044,7 +1048,11 @@ return [
 		_x('Konskie', 'POKO5', 'ry-wc-city-select'),
 		_x('Radoszyce', 'POKO5', 'ry-wc-city-select'),
 		_x('Ruda Maleniecka', 'POKO5', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Slupia (Konecka)', 'POKO5', 'ry-wc-city-select'),
+=======
+		_x('Slupia (Konecka)','POKO5', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Smykow', 'POKO5', 'ry-wc-city-select'),
 		_x('Staporkow', 'POKO5', 'ry-wc-city-select'),
 	],
@@ -1920,7 +1928,11 @@ return [
 		_x('Zadzim', 'POPO', 'ry-wc-city-select'),
 	],
 	'POPO2' => [
+<<<<<<< HEAD
 		_x('Dobra (Szczecinska)', 'POPO2', 'ry-wc-city-select'),
+=======
+		_x('Dobra (Szczecinska)','POPO2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Kolbaskowo', 'POPO2', 'ry-wc-city-select'),
 		_x('Nowe Warpno', 'POPO2', 'ry-wc-city-select'),
 		_x('Police', 'POPO2', 'ry-wc-city-select'),

@@ -648,7 +648,11 @@ return [
 		_x('Ham-Sud', 'ES', 'ry-wc-city-select'),
 		_x('Hampden', 'ES', 'ry-wc-city-select'),
 		_x('Hatley', 'ES', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Hatley (township municipality)', 'ES', 'ry-wc-city-select'),
+=======
+		_x('Hatley (township municipality)','ES', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Kingsbury', 'ES', 'ry-wc-city-select'),
 		_x('La Patrie', 'ES', 'ry-wc-city-select'),
 		_x('Lac-Drolet', 'ES', 'ry-wc-city-select'),
@@ -1407,7 +1411,11 @@ return [
 	],
 	'PORIREDI' => [
 		_x('Powell River', 'PORIREDI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sechelt (Part)', 'PORIREDI', 'ry-wc-city-select'),
+=======
+		_x('Sechelt (Part)','PORIREDI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'RARIDI' => [
 		_x('Alberton', 'RARIDI', 'ry-wc-city-select'),
@@ -1651,7 +1659,11 @@ return [
 	'SUCOREDI' => [
 		_x('Gibsons', 'SUCOREDI', 'ry-wc-city-select'),
 		_x('Sechelt', 'SUCOREDI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sechelt (Part)', 'SUCOREDI', 'ry-wc-city-select'),
+=======
+		_x('Sechelt (Part)','SUCOREDI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'THREDI' => [
 		_x('Ashcroft', 'THREDI', 'ry-wc-city-select'),

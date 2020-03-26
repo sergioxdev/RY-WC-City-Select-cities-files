@@ -11,7 +11,11 @@
 return [
 	'EC' => [
 	'ALBAMO(J' => [
+<<<<<<< HEAD
 		_x('Alfredo Baquerizo Moreno (Jujan)', 'ALBAMO(J', 'ry-wc-city-select'),
+=======
+		_x('Alfredo Baquerizo Moreno (Jujan)','ALBAMO(J', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'AR' => [
 		_x('Arajuno', 'AR', 'ry-wc-city-select'),
@@ -20,7 +24,11 @@ return [
 	'AT' => [
 		_x('Atacames', 'AT', 'ry-wc-city-select'),
 		_x('La Union', 'AT', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sua (Cab. En La Bocana)', 'AT', 'ry-wc-city-select'),
+=======
+		_x('Sua (Cab. En La Bocana)','AT', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tonchigue', 'AT', 'ry-wc-city-select'),
 		_x('Tonsupa', 'AT', 'ry-wc-city-select'),
 	],
@@ -57,7 +65,11 @@ return [
 		_x('Guasuntos', 'CAAL', 'ry-wc-city-select'),
 		_x('Huigra', 'CAAL', 'ry-wc-city-select'),
 		_x('Multitud', 'CAAL', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Pistishi (Nariz Del Diablo)', 'CAAL', 'ry-wc-city-select'),
+=======
+		_x('Pistishi (Nariz Del Diablo)','CAAL', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pumallacta', 'CAAL', 'ry-wc-city-select'),
 		_x('Sevilla', 'CAAL', 'ry-wc-city-select'),
 		_x('Sibambe', 'CAAL', 'ry-wc-city-select'),
@@ -66,8 +78,13 @@ return [
 	'CAAM' => [
 		_x('Ambatillo', 'CAAM', 'ry-wc-city-select'),
 		_x('Ambato', 'CAAM', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Atahualpa (Chisalata)', 'CAAM', 'ry-wc-city-select'),
 		_x('Augusto N. Martinez (Mundugleo)', 'CAAM', 'ry-wc-city-select'),
+=======
+		_x('Atahualpa (Chisalata)','CAAM', 'ry-wc-city-select'),
+		_x('Augusto N. Martinez (Mundugleo)','CAAM', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Constantino Fernandez (Cab. En Cullitahu', 'CAAM', 'ry-wc-city-select'),
 		_x('Cunchibamba', 'CAAM', 'ry-wc-city-select'),
 		_x('Huachi Grande', 'CAAM', 'ry-wc-city-select'),
@@ -76,17 +93,28 @@ return [
 		_x('Montalvo', 'CAAM', 'ry-wc-city-select'),
 		_x('Pasa', 'CAAM', 'ry-wc-city-select'),
 		_x('Picaigua', 'CAAM', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Pilaguin (Pilahuin)', 'CAAM', 'ry-wc-city-select'),
 		_x('Quisapincha (Quizapincha)', 'CAAM', 'ry-wc-city-select'),
 		_x('San Bartolome De Pinllog', 'CAAM', 'ry-wc-city-select'),
 		_x('San Fernando (Pasa San Fernando)', 'CAAM', 'ry-wc-city-select'),
+=======
+		_x('Pilaguin (Pilahuin)','CAAM', 'ry-wc-city-select'),
+		_x('Quisapincha (Quizapincha)','CAAM', 'ry-wc-city-select'),
+		_x('San Bartolome De Pinllog', 'CAAM', 'ry-wc-city-select'),
+		_x('San Fernando (Pasa San Fernando)','CAAM', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Santa Rosa', 'CAAM', 'ry-wc-city-select'),
 		_x('Totoras', 'CAAM', 'ry-wc-city-select'),
 		_x('Unamuncho', 'CAAM', 'ry-wc-city-select'),
 	],
 	'CAANAN' => [
 		_x('Atuntaqui', 'CAANAN', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Imbaya (San Luis De Cobuendo)', 'CAANAN', 'ry-wc-city-select'),
+=======
+		_x('Imbaya (San Luis De Cobuendo)','CAANAN', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Fco. De Natabuela', 'CAANAN', 'ry-wc-city-select'),
 		_x('San Jose De Chaltura', 'CAANAN', 'ry-wc-city-select'),
 		_x('San Roque', 'CAANAN', 'ry-wc-city-select'),
@@ -107,7 +135,11 @@ return [
 		_x('Azogues', 'CAAZ', 'ry-wc-city-select'),
 		_x('Cojitambo', 'CAAZ', 'ry-wc-city-select'),
 		_x('Guapan', 'CAAZ', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Javier Loyola (Chuquipata)', 'CAAZ', 'ry-wc-city-select'),
+=======
+		_x('Javier Loyola (Chuquipata)','CAAZ', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Luis Cordero', 'CAAZ', 'ry-wc-city-select'),
 		_x('Pindilig', 'CAAZ', 'ry-wc-city-select'),
 		_x('Rivera', 'CAAZ', 'ry-wc-city-select'),
@@ -122,7 +154,11 @@ return [
 	'CABA2' => [
 		_x('Babahoyo', 'CABA2', 'ry-wc-city-select'),
 		_x('Caracol', 'CABA2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Febres Cordero (Las Juntas)', 'CABA2', 'ry-wc-city-select'),
+=======
+		_x('Febres Cordero (Las Juntas)','CABA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('La Union', 'CABA2', 'ry-wc-city-select'),
 		_x('Pimocha', 'CABA2', 'ry-wc-city-select'),
 	],
@@ -139,7 +175,11 @@ return [
 	'CABI' => [
 		_x('Biblian', 'CABI', 'ry-wc-city-select'),
 		_x('Jerusalen', 'CABI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Nazon (Cab. En Pampa De Dominguez)', 'CABI', 'ry-wc-city-select'),
+=======
+		_x('Nazon (Cab. En Pampa De Dominguez)','CABI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Francisco De Sageo', 'CABI', 'ry-wc-city-select'),
 		_x('Turupamba', 'CABI', 'ry-wc-city-select'),
 	],
@@ -167,9 +207,15 @@ return [
 		_x('Chontamarca', 'CACA3', 'ry-wc-city-select'),
 		_x('Chorocopte', 'CACA3', 'ry-wc-city-select'),
 		_x('Ducur', 'CACA3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('General Morales (Socarte)', 'CACA3', 'ry-wc-city-select'),
 		_x('Gualleturo', 'CACA3', 'ry-wc-city-select'),
 		_x('Honorato Vasquez (Tambo Viejo)', 'CACA3', 'ry-wc-city-select'),
+=======
+		_x('General Morales (Socarte)','CACA3', 'ry-wc-city-select'),
+		_x('Gualleturo', 'CACA3', 'ry-wc-city-select'),
+		_x('Honorato Vasquez (Tambo Viejo)','CACA3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Ingapirca', 'CACA3', 'ry-wc-city-select'),
 		_x('Juncal', 'CACA3', 'ry-wc-city-select'),
 		_x('San Antonio', 'CACA3', 'ry-wc-city-select'),
@@ -177,7 +223,11 @@ return [
 		_x('Zhud', 'CACA3', 'ry-wc-city-select'),
 	],
 	'CACA4' => [
+<<<<<<< HEAD
 		_x('Catamayo (La Toma)', 'CACA4', 'ry-wc-city-select'),
+=======
+		_x('Catamayo (La Toma)','CACA4', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('El Tambo', 'CACA4', 'ry-wc-city-select'),
 		_x('Guayquichuma', 'CACA4', 'ry-wc-city-select'),
 		_x('San Pedro De La Bendita', 'CACA4', 'ry-wc-city-select'),
@@ -187,21 +237,34 @@ return [
 		_x('Ascazubi', 'CACA5', 'ry-wc-city-select'),
 		_x('Cangahua', 'CACA5', 'ry-wc-city-select'),
 		_x('Cayambe', 'CACA5', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Olmedo (Pesillo)', 'CACA5', 'ry-wc-city-select'),
+=======
+		_x('Olmedo (Pesillo)','CACA5', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Oton', 'CACA5', 'ry-wc-city-select'),
 		_x('San Jose De Ayora', 'CACA5', 'ry-wc-city-select'),
 		_x('Santa Rosa De Cuzubamba', 'CACA5', 'ry-wc-city-select'),
 	],
 	'CACE' => [
 		_x('Celica', 'CACE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Cruzpamba (Cab En Carlos Bustamante)', 'CACE', 'ry-wc-city-select'),
 		_x('Pozul (San Juan De Pozul)', 'CACE', 'ry-wc-city-select'),
+=======
+		_x('Cruzpamba (Cab En Carlos Bustamante)','CACE', 'ry-wc-city-select'),
+		_x('Pozul (San Juan De Pozul)','CACE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sabanilla', 'CACE', 'ry-wc-city-select'),
 		_x('Tnte. Maximiliano Rodriguez Loaiza', 'CACE', 'ry-wc-city-select'),
 	],
 	'CACH' => [
 		_x('El Chaco', 'CACH', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Gonzalo Diaz De Pineda (El Bombon)', 'CACH', 'ry-wc-city-select'),
+=======
+		_x('Gonzalo Diaz De Pineda (El Bombon)','CACH', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Linares', 'CACH', 'ry-wc-city-select'),
 		_x('Oyacachi', 'CACH', 'ry-wc-city-select'),
 		_x('Santa Rosa', 'CACH', 'ry-wc-city-select'),
@@ -209,11 +272,19 @@ return [
 	],
 	'CACH2' => [
 		_x('Chillanes', 'CACH2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Jose Del Tambo (Tambopamba)', 'CACH2', 'ry-wc-city-select'),
 	],
 	'CACH3' => [
 		_x('Asuncion (Asancoto)', 'CACH3', 'ry-wc-city-select'),
 		_x('Magdalena (Chapacoto)', 'CACH3', 'ry-wc-city-select'),
+=======
+		_x('San Jose Del Tambo (Tambopamba)','CACH2', 'ry-wc-city-select'),
+	],
+	'CACH3' => [
+		_x('Asuncion (Asancoto)','CACH3', 'ry-wc-city-select'),
+		_x('Magdalena (Chapacoto)','CACH3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Jose De Chimbo', 'CACH3', 'ry-wc-city-select'),
 		_x('San Sebastian', 'CACH3', 'ry-wc-city-select'),
 		_x('Telimbela', 'CACH3', 'ry-wc-city-select'),
@@ -250,32 +321,53 @@ return [
 	'CACO2' => [
 		_x('Cani', 'CACO2', 'ry-wc-city-select'),
 		_x('Columbe', 'CACO2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Juan De Velasco (Pangor)', 'CACO2', 'ry-wc-city-select'),
 		_x('Santiago De Quito (Cab. En San Antonio D', 'CACO2', 'ry-wc-city-select'),
 		_x('Villa La Union (Cajabamba)', 'CACO2', 'ry-wc-city-select'),
+=======
+		_x('Juan De Velasco (Pangor)','CACO2', 'ry-wc-city-select'),
+		_x('Santiago De Quito (Cab. En San Antonio D', 'CACO2', 'ry-wc-city-select'),
+		_x('Villa La Union (Cajabamba)','CACO2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CACO3' => [
 		_x('6 De Julio De Cuellaje (Cab. En Cuellaje', 'CACO3', 'ry-wc-city-select'),
 		_x('Apuela', 'CACO3', 'ry-wc-city-select'),
 		_x('Cotacachi', 'CACO3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Garcia Moreno (Llurimagua)', 'CACO3', 'ry-wc-city-select'),
 		_x('Imantag', 'CACO3', 'ry-wc-city-select'),
 		_x('Penaherrera', 'CACO3', 'ry-wc-city-select'),
 		_x('Plaza Gutierrez (Calvario)', 'CACO3', 'ry-wc-city-select'),
+=======
+		_x('Garcia Moreno (Llurimagua)','CACO3', 'ry-wc-city-select'),
+		_x('Imantag', 'CACO3', 'ry-wc-city-select'),
+		_x('Penaherrera', 'CACO3', 'ry-wc-city-select'),
+		_x('Plaza Gutierrez (Calvario)','CACO3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Quiroga', 'CACO3', 'ry-wc-city-select'),
 		_x('Vacas Galindo (El Churo) (Cab. En San Mi', 'CACO3', 'ry-wc-city-select'),
 	],
 	'CACU' => [
 		_x('Banos', 'CACU', 'ry-wc-city-select'),
 		_x('Chaucha', 'CACU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Checa (Jidcay)', 'CACU', 'ry-wc-city-select'),
+=======
+		_x('Checa (Jidcay)','CACU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Chiquintad', 'CACU', 'ry-wc-city-select'),
 		_x('Cuenca', 'CACU', 'ry-wc-city-select'),
 		_x('Cumbe', 'CACU', 'ry-wc-city-select'),
 		_x('Llacao', 'CACU', 'ry-wc-city-select'),
 		_x('Molleturo', 'CACU', 'ry-wc-city-select'),
 		_x('Nulti', 'CACU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Octavio Cordero Palacios (Sta. Rosa)', 'CACU', 'ry-wc-city-select'),
+=======
+		_x('Octavio Cordero Palacios (Sta. Rosa)','CACU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Paccha', 'CACU', 'ry-wc-city-select'),
 		_x('Quingeo', 'CACU', 'ry-wc-city-select'),
 		_x('Ricaurte', 'CACU', 'ry-wc-city-select'),
@@ -287,6 +379,7 @@ return [
 		_x('Tarqui', 'CACU', 'ry-wc-city-select'),
 		_x('Turi', 'CACU', 'ry-wc-city-select'),
 		_x('Valle', 'CACU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Victoria Del Portete (Irquis)', 'CACU', 'ry-wc-city-select'),
 	],
 	'CADA' => [
@@ -295,6 +388,16 @@ return [
 		_x('Laurel', 'CADA', 'ry-wc-city-select'),
 		_x('Limonal', 'CADA', 'ry-wc-city-select'),
 		_x('Los Lojas (Enrique Baquerizo Moreno)', 'CADA', 'ry-wc-city-select'),
+=======
+		_x('Victoria Del Portete (Irquis)','CACU', 'ry-wc-city-select'),
+	],
+	'CADA' => [
+		_x('Daule', 'CADA', 'ry-wc-city-select'),
+		_x('Juan Bautista Aguirre (Los Tintos)','CADA', 'ry-wc-city-select'),
+		_x('Laurel', 'CADA', 'ry-wc-city-select'),
+		_x('Limonal', 'CADA', 'ry-wc-city-select'),
+		_x('Los Lojas (Enrique Baquerizo Moreno)','CADA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAEC' => [
 		_x('Echeandia', 'CAEC', 'ry-wc-city-select'),
@@ -302,19 +405,32 @@ return [
 	'CACA6' => [
 		_x('El Carmen', 'CACA6', 'ry-wc-city-select'),
 		_x('San Pedro De Suma', 'CACA6', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Wilfrido Loor Moreira (Maicito)', 'CACA6', 'ry-wc-city-select'),
 	],
 	'CAEM' => [
 		_x('El Rosario', 'CAEM', 'ry-wc-city-select'),
 		_x('Guayas (Pueblo Nuevo)', 'CAEM', 'ry-wc-city-select'),
 		_x('Velasco Ibarra (Cab. El Empalme)', 'CAEM', 'ry-wc-city-select'),
+=======
+		_x('Wilfrido Loor Moreira (Maicito)','CACA6', 'ry-wc-city-select'),
+	],
+	'CAEM' => [
+		_x('El Rosario', 'CAEM', 'ry-wc-city-select'),
+		_x('Guayas (Pueblo Nuevo)','CAEM', 'ry-wc-city-select'),
+		_x('Velasco Ibarra (Cab. El Empalme)','CAEM', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CATA' => [
 		_x('El Tambo', 'CATA', 'ry-wc-city-select'),
 	],
 	'CAELAL' => [
 		_x('Anchayacu', 'CAELAL', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Atahualpa (Cab. En Camarones)', 'CAELAL', 'ry-wc-city-select'),
+=======
+		_x('Atahualpa (Cab. En Camarones)','CAELAL', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Borbon', 'CAELAL', 'ry-wc-city-select'),
 		_x('Colon Eloy Del Maria', 'CAELAL', 'ry-wc-city-select'),
 		_x('La Tola', 'CAELAL', 'ry-wc-city-select'),
@@ -328,10 +444,17 @@ return [
 		_x('Selva Alegre', 'CAELAL', 'ry-wc-city-select'),
 		_x('Telembi', 'CAELAL', 'ry-wc-city-select'),
 		_x('Timbire', 'CAELAL', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Valdez (Limones)', 'CAELAL', 'ry-wc-city-select'),
 	],
 	'CAES' => [
 		_x('Camarones (Cab. En San Vicente)', 'CAES', 'ry-wc-city-select'),
+=======
+		_x('Valdez (Limones)','CAELAL', 'ry-wc-city-select'),
+	],
+	'CAES' => [
+		_x('Camarones (Cab. En San Vicente)','CAES', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Chinca', 'CAES', 'ry-wc-city-select'),
 		_x('Crnel. Carlos Concha Torres (Cab. En Hue', 'CAES', 'ry-wc-city-select'),
 		_x('Esmeraldas', 'CAES', 'ry-wc-city-select'),
@@ -344,11 +467,19 @@ return [
 	'CAES2' => [
 		_x('El Angel', 'CAES2', 'ry-wc-city-select'),
 		_x('El Goaltal', 'CAES2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('La Libertad (Alizo)', 'CAES2', 'ry-wc-city-select'),
 		_x('San Isidro', 'CAES2', 'ry-wc-city-select'),
 	],
 	'CAES3' => [
 		_x('27 De Abril (Cab. En La Naranja)', 'CAES3', 'ry-wc-city-select'),
+=======
+		_x('La Libertad (Alizo)','CAES2', 'ry-wc-city-select'),
+		_x('San Isidro', 'CAES2', 'ry-wc-city-select'),
+	],
+	'CAES3' => [
+		_x('27 De Abril (Cab. En La Naranja)','CAES3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Amaluza', 'CAES3', 'ry-wc-city-select'),
 		_x('Bellavista', 'CAES3', 'ry-wc-city-select'),
 		_x('El Airo', 'CAES3', 'ry-wc-city-select'),
@@ -362,6 +493,7 @@ return [
 		_x('San Gerardo', 'CAGI', 'ry-wc-city-select'),
 	],
 	'CAGO' => [
+<<<<<<< HEAD
 		_x('Changaimina (La Libertad)', 'CAGO', 'ry-wc-city-select'),
 		_x('Gonzanama', 'CAGO', 'ry-wc-city-select'),
 		_x('Nambacola', 'CAGO', 'ry-wc-city-select'),
@@ -377,10 +509,28 @@ return [
 	],
 	'CAGU2' => [
 		_x('Daniel Cordova Toral (El Oriente)', 'CAGU2', 'ry-wc-city-select'),
+=======
+		_x('Changaimina (La Libertad)','CAGO', 'ry-wc-city-select'),
+		_x('Gonzanama', 'CAGO', 'ry-wc-city-select'),
+		_x('Nambacola', 'CAGO', 'ry-wc-city-select'),
+		_x('Purunuma (Eguiguren)','CAGO', 'ry-wc-city-select'),
+		_x('Sacapalca', 'CAGO', 'ry-wc-city-select'),
+	],
+	'CAGU' => [
+		_x('Barbones (Sucre)','CAGU', 'ry-wc-city-select'),
+		_x('El Guabo', 'CAGU', 'ry-wc-city-select'),
+		_x('La Iberia', 'CAGU', 'ry-wc-city-select'),
+		_x('Rio Bonito', 'CAGU', 'ry-wc-city-select'),
+		_x('Tendales (Cab. En Puerto Tendales)','CAGU', 'ry-wc-city-select'),
+	],
+	'CAGU2' => [
+		_x('Daniel Cordova Toral (El Oriente)','CAGU2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Gualaceo', 'CAGU2', 'ry-wc-city-select'),
 		_x('Jadan', 'CAGU2', 'ry-wc-city-select'),
 		_x('Luis Cordero Vega', 'CAGU2', 'ry-wc-city-select'),
 		_x('Mariano Moreno', 'CAGU2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Remigio Crespo Toral (Gulag)', 'CAGU2', 'ry-wc-city-select'),
 		_x('San Juan', 'CAGU2', 'ry-wc-city-select'),
 		_x('Simon Bolivar (Cab. En Gananzol)', 'CAGU2', 'ry-wc-city-select'),
@@ -388,6 +538,15 @@ return [
 	],
 	'CAGU3' => [
 		_x('Amazonas (Rosario De Cuyes)', 'CAGU3', 'ry-wc-city-select'),
+=======
+		_x('Remigio Crespo Toral (Gulag)','CAGU2', 'ry-wc-city-select'),
+		_x('San Juan', 'CAGU2', 'ry-wc-city-select'),
+		_x('Simon Bolivar (Cab. En Gananzol)','CAGU2', 'ry-wc-city-select'),
+		_x('Zhidmad', 'CAGU2', 'ry-wc-city-select'),
+	],
+	'CAGU3' => [
+		_x('Amazonas (Rosario De Cuyes)','CAGU3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Bermejos', 'CAGU3', 'ry-wc-city-select'),
 		_x('Bomboiza', 'CAGU3', 'ry-wc-city-select'),
 		_x('Chiguinda', 'CAGU3', 'ry-wc-city-select'),
@@ -417,17 +576,30 @@ return [
 	'CAGU6' => [
 		_x('Facundo Vela', 'CAGU6', 'ry-wc-city-select'),
 		_x('Guaranda', 'CAGU6', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Julio E. Moreno (Catanahuan Grande)', 'CAGU6', 'ry-wc-city-select'),
 		_x('Salinas', 'CAGU6', 'ry-wc-city-select'),
 		_x('San Lorenzo', 'CAGU6', 'ry-wc-city-select'),
 		_x('San Luis De Pambil', 'CAGU6', 'ry-wc-city-select'),
 		_x('San Simon (Yacoto)', 'CAGU6', 'ry-wc-city-select'),
 		_x('Santa Fe (Santa Fe)', 'CAGU6', 'ry-wc-city-select'),
+=======
+		_x('Julio E. Moreno (Catanahuan Grande)','CAGU6', 'ry-wc-city-select'),
+		_x('Salinas', 'CAGU6', 'ry-wc-city-select'),
+		_x('San Lorenzo', 'CAGU6', 'ry-wc-city-select'),
+		_x('San Luis De Pambil', 'CAGU6', 'ry-wc-city-select'),
+		_x('San Simon (Yacoto)','CAGU6', 'ry-wc-city-select'),
+		_x('Santa Fe (Santa Fe)','CAGU6', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Simiatug', 'CAGU6', 'ry-wc-city-select'),
 	],
 	'CAGU7' => [
 		_x('Guayaquil', 'CAGU7', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Juan Gomez Rendon (Progreso)', 'CAGU7', 'ry-wc-city-select'),
+=======
+		_x('Juan Gomez Rendon (Progreso)','CAGU7', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Morro', 'CAGU7', 'ry-wc-city-select'),
 		_x('Posorja', 'CAGU7', 'ry-wc-city-select'),
 		_x('Puna', 'CAGU7', 'ry-wc-city-select'),
@@ -438,11 +610,19 @@ return [
 	],
 	'CAIS' => [
 		_x('Puerto Villamil', 'CAIS', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Tomas De Berlanga (Santo Tomas)', 'CAIS', 'ry-wc-city-select'),
 	],
 	'CAJI' => [
 		_x('America', 'CAJI', 'ry-wc-city-select'),
 		_x('El Anegado (Cab. En Eloy Alfaro)', 'CAJI', 'ry-wc-city-select'),
+=======
+		_x('Tomas De Berlanga (Santo Tomas)','CAIS', 'ry-wc-city-select'),
+	],
+	'CAJI' => [
+		_x('America', 'CAJI', 'ry-wc-city-select'),
+		_x('El Anegado (Cab. En Eloy Alfaro)','CAJI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Jipijapa', 'CAJI', 'ry-wc-city-select'),
 		_x('Julcuy', 'CAJI', 'ry-wc-city-select'),
 		_x('La Union', 'CAJI', 'ry-wc-city-select'),
@@ -467,10 +647,17 @@ return [
 		_x('Las Naves', 'CALANA', 'ry-wc-city-select'),
 	],
 	'CALA' => [
+<<<<<<< HEAD
 		_x('11 De Noviembre (Ilinchisi)', 'CALA', 'ry-wc-city-select'),
 		_x('Alaques (Alaquez)', 'CALA', 'ry-wc-city-select'),
 		_x('Belisario Quevedo (Guanailin)', 'CALA', 'ry-wc-city-select'),
 		_x('Guaitacama (Guaytacama)', 'CALA', 'ry-wc-city-select'),
+=======
+		_x('11 De Noviembre (Ilinchisi)','CALA', 'ry-wc-city-select'),
+		_x('Alaques (Alaquez)','CALA', 'ry-wc-city-select'),
+		_x('Belisario Quevedo (Guanailin)','CALA', 'ry-wc-city-select'),
+		_x('Guaitacama (Guaytacama)','CALA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Joseguango Bajo', 'CALA', 'ry-wc-city-select'),
 		_x('Latacunga', 'CALA', 'ry-wc-city-select'),
 		_x('Mulalo', 'CALA', 'ry-wc-city-select'),
@@ -482,10 +669,17 @@ return [
 	'CALIIN' => [
 		_x('Gral. Leonidas Plaza Gutierrez', 'CALIIN', 'ry-wc-city-select'),
 		_x('Indanza', 'CALIIN', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Antonio (Cab En San Antonio Centro)', 'CALIIN', 'ry-wc-city-select'),
 		_x('San Miguel De Conchay', 'CALIIN', 'ry-wc-city-select'),
 		_x('Sta Susana De Chiviaza (Cab En Chiviaza)', 'CALIIN', 'ry-wc-city-select'),
 		_x('Yunganza (Cab En El Rosario)', 'CALIIN', 'ry-wc-city-select'),
+=======
+		_x('San Antonio (Cab En San Antonio Centro)','CALIIN', 'ry-wc-city-select'),
+		_x('San Miguel De Conchay', 'CALIIN', 'ry-wc-city-select'),
+		_x('Sta Susana De Chiviaza (Cab En Chiviaza)','CALIIN', 'ry-wc-city-select'),
+		_x('Yunganza (Cab En El Rosario)','CALIIN', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CALO' => [
 		_x('Chantaco', 'CALO', 'ry-wc-city-select'),
@@ -494,20 +688,34 @@ return [
 		_x('Gualel', 'CALO', 'ry-wc-city-select'),
 		_x('Jimbilla', 'CALO', 'ry-wc-city-select'),
 		_x('Loja', 'CALO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Malacatos (Valladolid)', 'CALO', 'ry-wc-city-select'),
+=======
+		_x('Malacatos (Valladolid)','CALO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Quinara', 'CALO', 'ry-wc-city-select'),
 		_x('San Lucas', 'CALO', 'ry-wc-city-select'),
 		_x('San Pedro De Vilcabamba', 'CALO', 'ry-wc-city-select'),
 		_x('Santiago', 'CALO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Taquil (Miguel Riofrio)', 'CALO', 'ry-wc-city-select'),
 		_x('Vilcabamba (Victoria)', 'CALO', 'ry-wc-city-select'),
 		_x('Yangana (Arsenio Castillo)', 'CALO', 'ry-wc-city-select'),
+=======
+		_x('Taquil (Miguel Riofrio)','CALO', 'ry-wc-city-select'),
+		_x('Vilcabamba (Victoria)','CALO', 'ry-wc-city-select'),
+		_x('Yangana (Arsenio Castillo)','CALO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAMA' => [
 		_x('La Victoria', 'CAMA', 'ry-wc-city-select'),
 		_x('Larama', 'CAMA', 'ry-wc-city-select'),
 		_x('Macara', 'CAMA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Sabiango (La Capilla)', 'CAMA', 'ry-wc-city-select'),
+=======
+		_x('Sabiango (La Capilla)','CAMA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAMA2' => [
 		_x('El Retiro', 'CAMA2', 'ry-wc-city-select'),
@@ -516,7 +724,11 @@ return [
 	'CAMA3' => [
 		_x('Manta', 'CAMA3', 'ry-wc-city-select'),
 		_x('San Lorenzo', 'CAMA3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Santa Marianita (Boca De Pacoche)', 'CAMA3', 'ry-wc-city-select'),
+=======
+		_x('Santa Marianita (Boca De Pacoche)','CAMA3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAME' => [
 		_x('Aloag', 'CAME', 'ry-wc-city-select'),
@@ -524,7 +736,11 @@ return [
 		_x('Cutuglahua', 'CAME', 'ry-wc-city-select'),
 		_x('El Chaupi', 'CAME', 'ry-wc-city-select'),
 		_x('Machachi', 'CAME', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Manuel Cornejo Astorga (Tandapi)', 'CAME', 'ry-wc-city-select'),
+=======
+		_x('Manuel Cornejo Astorga (Tandapi)','CAME', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tambillo', 'CAME', 'ry-wc-city-select'),
 		_x('Uyumbicho', 'CAME', 'ry-wc-city-select'),
 	],
@@ -535,15 +751,25 @@ return [
 	],
 	'CAMI' => [
 		_x('Chobo', 'CAMI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Mariscal Sucre (Huaques)', 'CAMI', 'ry-wc-city-select'),
+=======
+		_x('Mariscal Sucre (Huaques)','CAMI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Milagro', 'CAMI', 'ry-wc-city-select'),
 		_x('Roberto Astudillo (Cab. En Cruce De Vene', 'CAMI', 'ry-wc-city-select'),
 	],
 	'CAMI2' => [
 		_x('Concepcion', 'CAMI2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Jijon Y Caamano (Cab. En Rio Blanco)', 'CAMI2', 'ry-wc-city-select'),
 		_x('Juan Montalvo (San Ignacio De Quil)', 'CAMI2', 'ry-wc-city-select'),
 		_x('Mira (Chontahuasi)', 'CAMI2', 'ry-wc-city-select'),
+=======
+		_x('Jijon Y Caamano (Cab. En Rio Blanco)','CAMI2', 'ry-wc-city-select'),
+		_x('Juan Montalvo (San Ignacio De Quil)','CAMI2', 'ry-wc-city-select'),
+		_x('Mira (Chontahuasi)','CAMI2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAMO' => [
 		_x('La Pila', 'CAMO', 'ry-wc-city-select'),
@@ -558,7 +784,11 @@ return [
 		_x('San Gabriel', 'CAMO2', 'ry-wc-city-select'),
 	],
 	'CAMO3' => [
+<<<<<<< HEAD
 		_x('Alshi (Cab En 9 De Octubre)', 'CAMO3', 'ry-wc-city-select'),
+=======
+		_x('Alshi (Cab En 9 De Octubre)','CAMO3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Cuchaentza', 'CAMO3', 'ry-wc-city-select'),
 		_x('General Proano', 'CAMO3', 'ry-wc-city-select'),
 		_x('Macas', 'CAMO3', 'ry-wc-city-select'),
@@ -566,14 +796,22 @@ return [
 		_x('San Isidro', 'CAMO3', 'ry-wc-city-select'),
 		_x('Sevilla Don Bosco', 'CAMO3', 'ry-wc-city-select'),
 		_x('Sinai', 'CAMO3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Zuna (Zunac)', 'CAMO3', 'ry-wc-city-select'),
+=======
+		_x('Zuna (Zunac)','CAMO3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAMU' => [
 		_x('Bolivar', 'CAMU', 'ry-wc-city-select'),
 		_x('Daule', 'CAMU', 'ry-wc-city-select'),
 		_x('Galera', 'CAMU', 'ry-wc-city-select'),
 		_x('Muisne', 'CAMU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Quingue (Olmedo Perdomo Franco)', 'CAMU', 'ry-wc-city-select'),
+=======
+		_x('Quingue (Olmedo Perdomo Franco)','CAMU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Salima', 'CAMU', 'ry-wc-city-select'),
 		_x('San Francisco', 'CAMU', 'ry-wc-city-select'),
 		_x('San Gregorio', 'CAMU', 'ry-wc-city-select'),
@@ -581,8 +819,13 @@ return [
 	],
 	'CANA' => [
 		_x('Cochapata', 'CANA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('El Progreso (Cab. En Zhota)', 'CANA', 'ry-wc-city-select'),
 		_x('Las Nieves (Chaya)', 'CANA', 'ry-wc-city-select'),
+=======
+		_x('El Progreso (Cab. En Zhota)','CANA', 'ry-wc-city-select'),
+		_x('Las Nieves (Chaya)','CANA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Nabon', 'CANA', 'ry-wc-city-select'),
 	],
 	'CANA2' => [
@@ -596,8 +839,13 @@ return [
 		_x('Naranjito', 'CANA3', 'ry-wc-city-select'),
 	],
 	'CAOT' => [
+<<<<<<< HEAD
 		_x('Doctor Miguel Egas Cabezas (Peguche)', 'CAOT', 'ry-wc-city-select'),
 		_x('Eugenio Espejo (Calpaqui)', 'CAOT', 'ry-wc-city-select'),
+=======
+		_x('Doctor Miguel Egas Cabezas (Peguche)','CAOT', 'ry-wc-city-select'),
+		_x('Eugenio Espejo (Calpaqui)','CAOT', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Gonzalez Suarez', 'CAOT', 'ry-wc-city-select'),
 		_x('Otavalo', 'CAOT', 'ry-wc-city-select'),
 		_x('Pataqui', 'CAOT', 'ry-wc-city-select'),
@@ -608,7 +856,11 @@ return [
 		_x('Selva Alegre (Cab. En San Miguel De Pamp', 'CAOT', 'ry-wc-city-select'),
 	],
 	'CAPA' => [
+<<<<<<< HEAD
 		_x('Campozano (La Palma De Pajan)', 'CAPA', 'ry-wc-city-select'),
+=======
+		_x('Campozano (La Palma De Pajan)','CAPA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Cascol', 'CAPA', 'ry-wc-city-select'),
 		_x('Guale', 'CAPA', 'ry-wc-city-select'),
 		_x('Lascano', 'CAPA', 'ry-wc-city-select'),
@@ -618,8 +870,13 @@ return [
 		_x('16 De Agosto', 'CAPA2', 'ry-wc-city-select'),
 		_x('Arapicos', 'CAPA2', 'ry-wc-city-select'),
 		_x('Cumanda (Cab En Colonia Agricola Sevilla', 'CAPA2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Palora (Metzera)', 'CAPA2', 'ry-wc-city-select'),
 		_x('Sangay (Cab En Nayamanaca)', 'CAPA2', 'ry-wc-city-select'),
+=======
+		_x('Palora (Metzera)','CAPA2', 'ry-wc-city-select'),
+		_x('Sangay (Cab En Nayamanaca)','CAPA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAPA3' => [
 		_x('Cangonama', 'CAPA3', 'ry-wc-city-select'),
@@ -651,12 +908,17 @@ return [
 		_x('Diez De Agosto', 'CAPA6', 'ry-wc-city-select'),
 		_x('El Triunfo', 'CAPA6', 'ry-wc-city-select'),
 		_x('Fatima', 'CAPA6', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Montalvo (Andoas)', 'CAPA6', 'ry-wc-city-select'),
+=======
+		_x('Montalvo (Andoas)','CAPA6', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pomona', 'CAPA6', 'ry-wc-city-select'),
 		_x('Puyo', 'CAPA6', 'ry-wc-city-select'),
 		_x('Rio Corrientes', 'CAPA6', 'ry-wc-city-select'),
 		_x('Rio Tigre', 'CAPA6', 'ry-wc-city-select'),
 		_x('Sarayacu', 'CAPA6', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Simon Bolivar (Cab. En Mushullacta)', 'CAPA6', 'ry-wc-city-select'),
 		_x('Tarqui', 'CAPA6', 'ry-wc-city-select'),
 		_x('Teniente Hugo Ortiz', 'CAPA6', 'ry-wc-city-select'),
@@ -671,11 +933,31 @@ return [
 	'CAPA8' => [
 		_x('Bulan (Jose Victor Izquierdo)', 'CAPA8', 'ry-wc-city-select'),
 		_x('Chican (Guillermo Ortega)', 'CAPA8', 'ry-wc-city-select'),
+=======
+		_x('Simon Bolivar (Cab. En Mushullacta)','CAPA6', 'ry-wc-city-select'),
+		_x('Tarqui', 'CAPA6', 'ry-wc-city-select'),
+		_x('Teniente Hugo Ortiz', 'CAPA6', 'ry-wc-city-select'),
+		_x('Veracruz (Indillama) (Cab. En Indillama)','CAPA6', 'ry-wc-city-select'),
+	],
+	'CAPA7' => [
+		_x('El Triunfo', 'CAPA7', 'ry-wc-city-select'),
+		_x('Los Andes (Cab. En Poatug)','CAPA7', 'ry-wc-city-select'),
+		_x('Patate', 'CAPA7', 'ry-wc-city-select'),
+		_x('Sucre (Cab. En Sucre-Patate Urcu)','CAPA7', 'ry-wc-city-select'),
+	],
+	'CAPA8' => [
+		_x('Bulan (Jose Victor Izquierdo)','CAPA8', 'ry-wc-city-select'),
+		_x('Chican (Guillermo Ortega)','CAPA8', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Dug Dug', 'CAPA8', 'ry-wc-city-select'),
 		_x('El Cabo', 'CAPA8', 'ry-wc-city-select'),
 		_x('Guarainag', 'CAPA8', 'ry-wc-city-select'),
 		_x('Paute', 'CAPA8', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Cristobal (Carlos Ordonez Lazo)', 'CAPA8', 'ry-wc-city-select'),
+=======
+		_x('San Cristobal (Carlos Ordonez Lazo)','CAPA8', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Tomebamba', 'CAPA8', 'ry-wc-city-select'),
 	],
 	'CAPE' => [
@@ -695,6 +977,7 @@ return [
 		_x('Pedro Vicente Maldonado', 'CAPEVIMA', 'ry-wc-city-select'),
 	],
 	'CAPE2' => [
+<<<<<<< HEAD
 		_x('Benitez (Pachanlica)', 'CAPE2', 'ry-wc-city-select'),
 		_x('Bolivar', 'CAPE2', 'ry-wc-city-select'),
 		_x('Chiquicha (Cab. En Chiquicha Grande)', 'CAPE2', 'ry-wc-city-select'),
@@ -702,13 +985,27 @@ return [
 		_x('El Rosario (Rumichaca)', 'CAPE2', 'ry-wc-city-select'),
 		_x('Garcia Moreno (Chumaqui)', 'CAPE2', 'ry-wc-city-select'),
 		_x('Guambalo (Huambalo)', 'CAPE2', 'ry-wc-city-select'),
+=======
+		_x('Benitez (Pachanlica)','CAPE2', 'ry-wc-city-select'),
+		_x('Bolivar', 'CAPE2', 'ry-wc-city-select'),
+		_x('Chiquicha (Cab. En Chiquicha Grande)','CAPE2', 'ry-wc-city-select'),
+		_x('Cotalo', 'CAPE2', 'ry-wc-city-select'),
+		_x('El Rosario (Rumichaca)','CAPE2', 'ry-wc-city-select'),
+		_x('Garcia Moreno (Chumaqui)','CAPE2', 'ry-wc-city-select'),
+		_x('Guambalo (Huambalo)','CAPE2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pelileo', 'CAPE2', 'ry-wc-city-select'),
 		_x('Salasaca', 'CAPE2', 'ry-wc-city-select'),
 	],
 	'CAPI' => [
 		_x('Baquerizo Moreno', 'CAPI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Emilio Maria Teran (Rumipamba)', 'CAPI', 'ry-wc-city-select'),
 		_x('Marcos Espinel (Chacata)', 'CAPI', 'ry-wc-city-select'),
+=======
+		_x('Emilio Maria Teran (Rumipamba)','CAPI', 'ry-wc-city-select'),
+		_x('Marcos Espinel (Chacata)','CAPI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pillaro', 'CAPI', 'ry-wc-city-select'),
 		_x('Presidente Urbina (Chagrapamba -Patzucul', 'CAPI', 'ry-wc-city-select'),
 		_x('San Andres', 'CAPI', 'ry-wc-city-select'),
@@ -722,12 +1019,21 @@ return [
 		_x('San  Fco. De Sigsipamba', 'CAPI2', 'ry-wc-city-select'),
 	],
 	'CAPI3' => [
+<<<<<<< HEAD
 		_x('Capiro (Cab. En La Capilla De Capiro)', 'CAPI3', 'ry-wc-city-select'),
 		_x('La Bocana', 'CAPI3', 'ry-wc-city-select'),
 		_x('Moromoro (Cab. En El Vado)', 'CAPI3', 'ry-wc-city-select'),
 		_x('Piedras', 'CAPI3', 'ry-wc-city-select'),
 		_x('Pinas', 'CAPI3', 'ry-wc-city-select'),
 		_x('San Roque (Ambrosio Maldonado)', 'CAPI3', 'ry-wc-city-select'),
+=======
+		_x('Capiro (Cab. En La Capilla De Capiro)','CAPI3', 'ry-wc-city-select'),
+		_x('La Bocana', 'CAPI3', 'ry-wc-city-select'),
+		_x('Moromoro (Cab. En El Vado)','CAPI3', 'ry-wc-city-select'),
+		_x('Piedras', 'CAPI3', 'ry-wc-city-select'),
+		_x('Pinas', 'CAPI3', 'ry-wc-city-select'),
+		_x('San Roque (Ambrosio Maldonado)','CAPI3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Saracay', 'CAPI3', 'ry-wc-city-select'),
 	],
 	'CAPO' => [
@@ -737,13 +1043,22 @@ return [
 		_x('Salati', 'CAPO', 'ry-wc-city-select'),
 	],
 	'CAPO2' => [
+<<<<<<< HEAD
 		_x('Abdon Calderon (San Francisco)', 'CAPO2', 'ry-wc-city-select'),
 		_x('Alhajuela (Bajo Grande)', 'CAPO2', 'ry-wc-city-select'),
+=======
+		_x('Abdon Calderon (San Francisco)','CAPO2', 'ry-wc-city-select'),
+		_x('Alhajuela (Bajo Grande)','CAPO2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Chirijos', 'CAPO2', 'ry-wc-city-select'),
 		_x('Crucita', 'CAPO2', 'ry-wc-city-select'),
 		_x('Portoviejo', 'CAPO2', 'ry-wc-city-select'),
 		_x('Pueblo Nuevo', 'CAPO2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Riochico (Rio Chico)', 'CAPO2', 'ry-wc-city-select'),
+=======
+		_x('Riochico (Rio Chico)','CAPO2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Placido', 'CAPO2', 'ry-wc-city-select'),
 	],
 	'CAPU' => [
@@ -762,7 +1077,11 @@ return [
 	],
 	'CAPU3' => [
 		_x('Palma Roja', 'CAPU3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Puerto Bolivar (Puerto Montufar)', 'CAPU3', 'ry-wc-city-select'),
+=======
+		_x('Puerto Bolivar (Puerto Montufar)','CAPU3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Puerto El Carmen Del Putumayo', 'CAPU3', 'ry-wc-city-select'),
 		_x('Puerto Rodriguez', 'CAPU3', 'ry-wc-city-select'),
 		_x('Santa Elena', 'CAPU3', 'ry-wc-city-select'),
@@ -771,14 +1090,22 @@ return [
 		_x('Alamor', 'CAPU4', 'ry-wc-city-select'),
 		_x('Ciano', 'CAPU4', 'ry-wc-city-select'),
 		_x('El Arenal', 'CAPU4', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('El Limo (Mariana De Jesus)', 'CAPU4', 'ry-wc-city-select'),
+=======
+		_x('El Limo (Mariana De Jesus)','CAPU4', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Mercadillo', 'CAPU4', 'ry-wc-city-select'),
 		_x('Vicentino', 'CAPU4', 'ry-wc-city-select'),
 	],
 	'CAQU' => [
 		_x('Quero', 'CAQU', 'ry-wc-city-select'),
 		_x('Rumipamba', 'CAQU', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Yanayacu - Mochapata (Cab. En Yanayacu)', 'CAQU', 'ry-wc-city-select'),
+=======
+		_x('Yanayacu - Mochapata (Cab. En Yanayacu)','CAQU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAQU2' => [
 		_x('La Esperanza', 'CAQU2', 'ry-wc-city-select'),
@@ -790,6 +1117,7 @@ return [
 		_x('Cosanga', 'CAQU3', 'ry-wc-city-select'),
 		_x('Cuyuja', 'CAQU3', 'ry-wc-city-select'),
 		_x('Papallacta', 'CAQU3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Francisco De Borja (Virgilio Davila)', 'CAQU3', 'ry-wc-city-select'),
 		_x('Sumaco', 'CAQU3', 'ry-wc-city-select'),
 	],
@@ -799,16 +1127,35 @@ return [
 		_x('La Union', 'CAQU4', 'ry-wc-city-select'),
 		_x('Malimpia', 'CAQU4', 'ry-wc-city-select'),
 		_x('Rosa Zarate (Quininde)', 'CAQU4', 'ry-wc-city-select'),
+=======
+		_x('San Francisco De Borja (Virgilio Davila)','CAQU3', 'ry-wc-city-select'),
+		_x('Sumaco', 'CAQU3', 'ry-wc-city-select'),
+	],
+	'CAQU4' => [
+		_x('Chura (Chancama) (Cab. En El Yerbero)','CAQU4', 'ry-wc-city-select'),
+		_x('Cube', 'CAQU4', 'ry-wc-city-select'),
+		_x('La Union', 'CAQU4', 'ry-wc-city-select'),
+		_x('Malimpia', 'CAQU4', 'ry-wc-city-select'),
+		_x('Rosa Zarate (Quininde)','CAQU4', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Viche', 'CAQU4', 'ry-wc-city-select'),
 	],
 	'CAQU5' => [
 		_x('Alangasi', 'CAQU5', 'ry-wc-city-select'),
 		_x('Amaguana', 'CAQU5', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Atahualpa (Habaspamba)', 'CAQU5', 'ry-wc-city-select'),
 		_x('Calacali', 'CAQU5', 'ry-wc-city-select'),
 		_x('Calderon (Carapungo)', 'CAQU5', 'ry-wc-city-select'),
 		_x('Chavezpamba', 'CAQU5', 'ry-wc-city-select'),
 		_x('Checa (Chilpa)', 'CAQU5', 'ry-wc-city-select'),
+=======
+		_x('Atahualpa (Habaspamba)','CAQU5', 'ry-wc-city-select'),
+		_x('Calacali', 'CAQU5', 'ry-wc-city-select'),
+		_x('Calderon (Carapungo)','CAQU5', 'ry-wc-city-select'),
+		_x('Chavezpamba', 'CAQU5', 'ry-wc-city-select'),
+		_x('Checa (Chilpa)','CAQU5', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Conocoto', 'CAQU5', 'ry-wc-city-select'),
 		_x('Cumbaya', 'CAQU5', 'ry-wc-city-select'),
 		_x('El Quinche', 'CAQU5', 'ry-wc-city-select'),
@@ -838,7 +1185,11 @@ return [
 		_x('Zambiza', 'CAQU5', 'ry-wc-city-select'),
 	],
 	'CARI' => [
+<<<<<<< HEAD
 		_x('Cacha (Cab. En Machangara)', 'CARI', 'ry-wc-city-select'),
+=======
+		_x('Cacha (Cab. En Machangara)','CARI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Calpi', 'CARI', 'ry-wc-city-select'),
 		_x('Cubijies', 'CARI', 'ry-wc-city-select'),
 		_x('Flores', 'CARI', 'ry-wc-city-select'),
@@ -860,15 +1211,23 @@ return [
 		_x('Sangolqui', 'CARU', 'ry-wc-city-select'),
 	],
 	'CASA' => [
+<<<<<<< HEAD
 		_x('Antonio Jose Holguin (Santa Lucia)', 'CASA', 'ry-wc-city-select'),
 		_x('Cusubamba', 'CASA', 'ry-wc-city-select'),
 		_x('Mulalillo', 'CASA', 'ry-wc-city-select'),
 		_x('Mulliquindil (Santa Ana)', 'CASA', 'ry-wc-city-select'),
+=======
+		_x('Antonio Jose Holguin (Santa Lucia)','CASA', 'ry-wc-city-select'),
+		_x('Cusubamba', 'CASA', 'ry-wc-city-select'),
+		_x('Mulalillo', 'CASA', 'ry-wc-city-select'),
+		_x('Mulliquindil (Santa Ana)','CASA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Pansaleo', 'CASA', 'ry-wc-city-select'),
 		_x('San Miguel', 'CASA', 'ry-wc-city-select'),
 	],
 	'CASA2' => [
 		_x('Anconcito', 'CASA2', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Jose Luis Tamayo (Muey)', 'CASA2', 'ry-wc-city-select'),
 		_x('Salinas', 'CASA2', 'ry-wc-city-select'),
 	],
@@ -877,6 +1236,16 @@ return [
 		_x('Gral. Vernaza (Dos Esteros)', 'CASA3', 'ry-wc-city-select'),
 		_x('Junquillal', 'CASA3', 'ry-wc-city-select'),
 		_x('La Victoria (Nauza)', 'CASA3', 'ry-wc-city-select'),
+=======
+		_x('Jose Luis Tamayo (Muey)','CASA2', 'ry-wc-city-select'),
+		_x('Salinas', 'CASA2', 'ry-wc-city-select'),
+	],
+	'CASA3' => [
+		_x('El Salitre (Las Ramas)','CASA3', 'ry-wc-city-select'),
+		_x('Gral. Vernaza (Dos Esteros)','CASA3', 'ry-wc-city-select'),
+		_x('Junquillal', 'CASA3', 'ry-wc-city-select'),
+		_x('La Victoria (Nauza)','CASA3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CASA4' => [
 		_x('Samborondon', 'CASA4', 'ry-wc-city-select'),
@@ -892,6 +1261,7 @@ return [
 		_x('San Fernando', 'CASAFE', 'ry-wc-city-select'),
 	],
 	'CASALO' => [
+<<<<<<< HEAD
 		_x('5 De Junio (Cab. En Uimbi)', 'CASALO', 'ry-wc-city-select'),
 		_x('Alto Tambo (Cab En Guadual)', 'CASALO', 'ry-wc-city-select'),
 		_x('Ancon (Pichangal) (Cab. En Palma Real)', 'CASALO', 'ry-wc-city-select'),
@@ -899,11 +1269,24 @@ return [
 		_x('Carondelet', 'CASALO', 'ry-wc-city-select'),
 		_x('Concepcion', 'CASALO', 'ry-wc-city-select'),
 		_x('Mataje (Cab. En Santander)', 'CASALO', 'ry-wc-city-select'),
+=======
+		_x('5 De Junio (Cab. En Uimbi)','CASALO', 'ry-wc-city-select'),
+		_x('Alto Tambo (Cab En Guadual)','CASALO', 'ry-wc-city-select'),
+		_x('Ancon (Pichangal) (Cab. En Palma Real)','CASALO', 'ry-wc-city-select'),
+		_x('Calderon', 'CASALO', 'ry-wc-city-select'),
+		_x('Carondelet', 'CASALO', 'ry-wc-city-select'),
+		_x('Concepcion', 'CASALO', 'ry-wc-city-select'),
+		_x('Mataje (Cab. En Santander)','CASALO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Javier De Cachavi (Cab. En San Javie', 'CASALO', 'ry-wc-city-select'),
 		_x('San Lorenzo', 'CASALO', 'ry-wc-city-select'),
 		_x('Santa Rita', 'CASALO', 'ry-wc-city-select'),
 		_x('Tambillo', 'CASALO', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Tululbi (Cab. En Ricaurte)', 'CASALO', 'ry-wc-city-select'),
+=======
+		_x('Tululbi (Cab. En Ricaurte)','CASALO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Urbina', 'CASALO', 'ry-wc-city-select'),
 	],
 	'CASAMI' => [
@@ -911,15 +1294,25 @@ return [
 		_x('Bilovan', 'CASAMI', 'ry-wc-city-select'),
 		_x('Regulo De Mora', 'CASAMI', 'ry-wc-city-select'),
 		_x('San Miguel', 'CASAMI', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Pablo (San Pablo De Atenas)', 'CASAMI', 'ry-wc-city-select'),
+=======
+		_x('San Pablo (San Pablo De Atenas)','CASAMI', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Vicente', 'CASAMI', 'ry-wc-city-select'),
 		_x('Santiago', 'CASAMI', 'ry-wc-city-select'),
 	],
 	'CASAAN' => [
 		_x('Ayacucho', 'CASAAN', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Honorato Vasquez (Cab En Vasquez)', 'CASAAN', 'ry-wc-city-select'),
 		_x('La Union', 'CASAAN', 'ry-wc-city-select'),
 		_x('San Pablo (Cab En Pueblo Nuevo)', 'CASAAN', 'ry-wc-city-select'),
+=======
+		_x('Honorato Vasquez (Cab En Vasquez)','CASAAN', 'ry-wc-city-select'),
+		_x('La Union', 'CASAAN', 'ry-wc-city-select'),
+		_x('San Pablo (Cab En Pueblo Nuevo)','CASAAN', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Santa Ana De Vuelta Larga', 'CASAAN', 'ry-wc-city-select'),
 	],
 	'CASACR2' => [
@@ -934,6 +1327,7 @@ return [
 		_x('Manglaralto', 'CASAEL', 'ry-wc-city-select'),
 		_x('San Jose De Ancon', 'CASAEL', 'ry-wc-city-select'),
 		_x('Santa Elena', 'CASAEL', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Simon Bolivar (Julio Moreno)', 'CASAEL', 'ry-wc-city-select'),
 	],
 	'CASAIS' => [
@@ -941,6 +1335,15 @@ return [
 		_x('San Salvador De Canaribamba', 'CASAIS', 'ry-wc-city-select'),
 		_x('Santa Isabel (Chaguarurco)', 'CASAIS', 'ry-wc-city-select'),
 		_x('Zhaglli (Shaglli )', 'CASAIS', 'ry-wc-city-select'),
+=======
+		_x('Simon Bolivar (Julio Moreno)','CASAEL', 'ry-wc-city-select'),
+	],
+	'CASAIS' => [
+		_x('Abdon Calderon (La Union)','CASAIS', 'ry-wc-city-select'),
+		_x('San Salvador De Canaribamba', 'CASAIS', 'ry-wc-city-select'),
+		_x('Santa Isabel (Chaguarurco)','CASAIS', 'ry-wc-city-select'),
+		_x('Zhaglli (Shaglli )','CASAIS', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CASARO' => [
 		_x('Bellamaria', 'CASARO', 'ry-wc-city-select'),
@@ -967,13 +1370,21 @@ return [
 		_x('El Tablon', 'CASA5', 'ry-wc-city-select'),
 		_x('Lluzhapa', 'CASA5', 'ry-wc-city-select'),
 		_x('Manu', 'CASA5', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Antonio De Qumbe (Cumbe)', 'CASA5', 'ry-wc-city-select'),
+=======
+		_x('San Antonio De Qumbe (Cumbe)','CASA5', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('San Pablo De Tenta', 'CASA5', 'ry-wc-city-select'),
 		_x('San Sebastian De Yuluc', 'CASA5', 'ry-wc-city-select'),
 		_x('Saraguro', 'CASA5', 'ry-wc-city-select'),
 		_x('Selva Alegre', 'CASA5', 'ry-wc-city-select'),
 		_x('Sumaypamba', 'CASA5', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Urdaneta (Paquishapa)', 'CASA5', 'ry-wc-city-select'),
+=======
+		_x('Urdaneta (Paquishapa)','CASA5', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CASI' => [
 		_x('Chugchillan', 'CASI', 'ry-wc-city-select'),
@@ -983,7 +1394,11 @@ return [
 		_x('Sigchos', 'CASI', 'ry-wc-city-select'),
 	],
 	'CASI2' => [
+<<<<<<< HEAD
 		_x('Cuchil (Cutchil)', 'CASI2', 'ry-wc-city-select'),
+=======
+		_x('Cuchil (Cutchil)','CASI2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Gima', 'CASI2', 'ry-wc-city-select'),
 		_x('Guel', 'CASI2', 'ry-wc-city-select'),
 		_x('Ludo', 'CASI2', 'ry-wc-city-select'),
@@ -1025,6 +1440,7 @@ return [
 		_x('Tena', 'CATE', 'ry-wc-city-select'),
 	],
 	'CATU' => [
+<<<<<<< HEAD
 		_x('El Carmelo (El Pun)', 'CATU', 'ry-wc-city-select'),
 		_x('El Chical', 'CATU', 'ry-wc-city-select'),
 		_x('Julio Andrade (Orejuela)', 'CATU', 'ry-wc-city-select'),
@@ -1035,6 +1451,18 @@ return [
 		_x('Tufino', 'CATU', 'ry-wc-city-select'),
 		_x('Tulcan', 'CATU', 'ry-wc-city-select'),
 		_x('Urbina (Taya)', 'CATU', 'ry-wc-city-select'),
+=======
+		_x('El Carmelo (El Pun)','CATU', 'ry-wc-city-select'),
+		_x('El Chical', 'CATU', 'ry-wc-city-select'),
+		_x('Julio Andrade (Orejuela)','CATU', 'ry-wc-city-select'),
+		_x('Maldonado', 'CATU', 'ry-wc-city-select'),
+		_x('Pioter', 'CATU', 'ry-wc-city-select'),
+		_x('Santa Martha De Cuba', 'CATU', 'ry-wc-city-select'),
+		_x('Tobar Donoso (La Bocana De Camumbi)','CATU', 'ry-wc-city-select'),
+		_x('Tufino', 'CATU', 'ry-wc-city-select'),
+		_x('Tulcan', 'CATU', 'ry-wc-city-select'),
+		_x('Urbina (Taya)','CATU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAUR' => [
 		_x('Catarama', 'CAUR', 'ry-wc-city-select'),
@@ -1060,25 +1488,44 @@ return [
 		_x('Vinces', 'CAVI', 'ry-wc-city-select'),
 	],
 	'CAYA' => [
+<<<<<<< HEAD
 		_x('28 De Mayo (San Jose De Yacuambi)', 'CAYA', 'ry-wc-city-select'),
+=======
+		_x('28 De Mayo (San Jose De Yacuambi)','CAYA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('La Paz', 'CAYA', 'ry-wc-city-select'),
 		_x('Tutupali', 'CAYA', 'ry-wc-city-select'),
 	],
 	'CAYA2' => [
+<<<<<<< HEAD
 		_x('Gral. Pedro J. Montero (Boliche)', 'CAYA2', 'ry-wc-city-select'),
 		_x('San Jacinto De Yaguachi', 'CAYA2', 'ry-wc-city-select'),
 		_x('Virgen De Fatima', 'CAYA2', 'ry-wc-city-select'),
 		_x('Yaguachi Viejo (Cone)', 'CAYA2', 'ry-wc-city-select'),
+=======
+		_x('Gral. Pedro J. Montero (Boliche)','CAYA2', 'ry-wc-city-select'),
+		_x('San Jacinto De Yaguachi', 'CAYA2', 'ry-wc-city-select'),
+		_x('Virgen De Fatima', 'CAYA2', 'ry-wc-city-select'),
+		_x('Yaguachi Viejo (Cone)','CAYA2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAYA3' => [
 		_x('Chicana', 'CAYA3', 'ry-wc-city-select'),
 		_x('Los Encuentros', 'CAYA3', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Yantzaza (Yanzatza)', 'CAYA3', 'ry-wc-city-select'),
+=======
+		_x('Yantzaza (Yanzatza)','CAYA3', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CAZA' => [
 		_x('Cumbaratza', 'CAZA', 'ry-wc-city-select'),
 		_x('Guadalupe', 'CAZA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Imbana (La Victoria De Imbana)', 'CAZA', 'ry-wc-city-select'),
+=======
+		_x('Imbana (La Victoria De Imbana)','CAZA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Sabanilla', 'CAZA', 'ry-wc-city-select'),
 		_x('San Carlos De Las Minas', 'CAZA', 'ry-wc-city-select'),
 		_x('Timbara', 'CAZA', 'ry-wc-city-select'),
@@ -1128,12 +1575,20 @@ return [
 	'CH4' => [
 		_x('Chordeleg', 'CH4', 'ry-wc-city-select'),
 		_x('La Union', 'CH4', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Luis Galarza Orellana (Cab. En Delegsol)', 'CH4', 'ry-wc-city-select'),
+=======
+		_x('Luis Galarza Orellana (Cab. En Delegsol)','CH4', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Principal', 'CH4', 'ry-wc-city-select'),
 		_x('San Martin De Puzhio', 'CH4', 'ry-wc-city-select'),
 	],
 	'COMAMA' => [
+<<<<<<< HEAD
 		_x('Coronel Marcelino Mariduena (San Carlos)', 'COMAMA', 'ry-wc-city-select'),
+=======
+		_x('Coronel Marcelino Mariduena (San Carlos)','COMAMA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'CU' => [
 		_x('Cumanda', 'CU', 'ry-wc-city-select'),
@@ -1148,7 +1603,11 @@ return [
 		_x('Solano', 'DE', 'ry-wc-city-select'),
 	],
 	'DU' => [
+<<<<<<< HEAD
 		_x('Eloy Alfaro (Duran)', 'DU', 'ry-wc-city-select'),
+=======
+		_x('Eloy Alfaro (Duran)','DU', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'PA' => [
 		_x('El Pan', 'PA', 'ry-wc-city-select'),
@@ -1174,6 +1633,7 @@ return [
 		_x('El Dorado', 'FRORCA', 'ry-wc-city-select'),
 		_x('El Eden', 'FRORCA', 'ry-wc-city-select'),
 		_x('Garcia Moreno', 'FRORCA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Ines Arango (Cab. En Western)', 'FRORCA', 'ry-wc-city-select'),
 		_x('La Belleza', 'FRORCA', 'ry-wc-city-select'),
 		_x('Nuevo Paraiso (Cab. En Union )', 'FRORCA', 'ry-wc-city-select'),
@@ -1184,6 +1644,18 @@ return [
 	],
 	'GEANEL' => [
 		_x('Gral. Antonio Elizalde (Bucay)', 'GEANEL', 'ry-wc-city-select'),
+=======
+		_x('Ines Arango (Cab. En Western)','FRORCA', 'ry-wc-city-select'),
+		_x('La Belleza', 'FRORCA', 'ry-wc-city-select'),
+		_x('Nuevo Paraiso (Cab. En Union )','FRORCA', 'ry-wc-city-select'),
+		_x('Puerto Francisco De Orellana (El Coca)','FRORCA', 'ry-wc-city-select'),
+		_x('San Jose De Guayusa', 'FRORCA', 'ry-wc-city-select'),
+		_x('San Luis De Armenia', 'FRORCA', 'ry-wc-city-select'),
+		_x('Taracoa (Nueva Esperanza: Yuca)','FRORCA', 'ry-wc-city-select'),
+	],
+	'GEANEL' => [
+		_x('Gral. Antonio Elizalde (Bucay)','GEANEL', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'GOPI' => [
 		_x('El Reventador', 'GOPI', 'ry-wc-city-select'),
@@ -1238,7 +1710,11 @@ return [
 		_x('La Libertad', 'LI', 'ry-wc-city-select'),
 	],
 	'MA' => [
+<<<<<<< HEAD
 		_x('Guasaganda (Cab. En Guasaganda Centro)', 'MA', 'ry-wc-city-select'),
+=======
+		_x('Guasaganda (Cab. En Guasaganda Centro)','MA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('La Mana', 'MA', 'ry-wc-city-select'),
 		_x('Pucayacu', 'MA', 'ry-wc-city-select'),
 	],
@@ -1262,7 +1738,11 @@ return [
 		_x('Lomas De Sargentillo', 'LOSA', 'ry-wc-city-select'),
 	],
 	'LOCA' => [
+<<<<<<< HEAD
 		_x('Avila (Cab. En Huiruno)', 'LOCA', 'ry-wc-city-select'),
+=======
+		_x('Avila (Cab. En Huiruno)','LOCA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Loreto', 'LOCA', 'ry-wc-city-select'),
 		_x('Puerto Murialdo', 'LOCA', 'ry-wc-city-select'),
 		_x('San Jose De Dahuano', 'LOCA', 'ry-wc-city-select'),
@@ -1329,7 +1809,11 @@ return [
 		_x('Valle De La Virgen', 'PECA', 'ry-wc-city-select'),
 	],
 	'PE' => [
+<<<<<<< HEAD
 		_x('Bilbao (Cab. En Quilluyacu)', 'PE', 'ry-wc-city-select'),
+=======
+		_x('Bilbao (Cab. En Quilluyacu)','PE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('El Altar', 'PE', 'ry-wc-city-select'),
 		_x('La Candelaria', 'PE', 'ry-wc-city-select'),
 		_x('Matus', 'PE', 'ry-wc-city-select'),
@@ -1343,13 +1827,21 @@ return [
 		_x('San Sebastian', 'PI', 'ry-wc-city-select'),
 	],
 	'PI2' => [
+<<<<<<< HEAD
 		_x('12 De Diciembre (Cab. En Achiotes)', 'PI2', 'ry-wc-city-select'),
+=======
+		_x('12 De Diciembre (Cab. En Achiotes)','PI2', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Chaquinal', 'PI2', 'ry-wc-city-select'),
 		_x('Milagros', 'PI2', 'ry-wc-city-select'),
 		_x('Pindal', 'PI2', 'ry-wc-city-select'),
 	],
 	'PL' => [
+<<<<<<< HEAD
 		_x('General Villamil (Playas)', 'PL', 'ry-wc-city-select'),
+=======
+		_x('General Villamil (Playas)','PL', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'PU' => [
 		_x('Pucara', 'PU', 'ry-wc-city-select'),
@@ -1375,7 +1867,11 @@ return [
 		_x('Chontaduro', 'RIVE', 'ry-wc-city-select'),
 		_x('Chumunde', 'RIVE', 'ry-wc-city-select'),
 		_x('Lagarto', 'RIVE', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Montalvo (Cab En Horqueta)', 'RIVE', 'ry-wc-city-select'),
+=======
+		_x('Montalvo (Cab En Horqueta)','RIVE', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Rioverde', 'RIVE', 'ry-wc-city-select'),
 		_x('Rocafuerte', 'RIVE', 'ry-wc-city-select'),
 	],
@@ -1418,7 +1914,11 @@ return [
 		_x('Copal', 'SAME', 'ry-wc-city-select'),
 		_x('Patuca', 'SAME', 'ry-wc-city-select'),
 		_x('San Francisco De Chinimbimi', 'SAME', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Luis De El Acho (Cab En El Acho)', 'SAME', 'ry-wc-city-select'),
+=======
+		_x('San Luis De El Acho (Cab En El Acho)','SAME', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Santiago De Mendez', 'SAME', 'ry-wc-city-select'),
 		_x('Tayuza', 'SAME', 'ry-wc-city-select'),
 	],
@@ -1437,19 +1937,31 @@ return [
 		_x('Limoncocha', 'SH', 'ry-wc-city-select'),
 		_x('Panacocha', 'SH', 'ry-wc-city-select'),
 		_x('San Pedro De Los Cofanes', 'SH', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('San Roque (Cab. En San Vicente)', 'SH', 'ry-wc-city-select'),
+=======
+		_x('San Roque (Cab. En San Vicente)','SH', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Shushufindi', 'SH', 'ry-wc-city-select'),
 		_x('Siete De Julio', 'SH', 'ry-wc-city-select'),
 	],
 	'SIBO' => [
+<<<<<<< HEAD
 		_x('Crnel. Lorenzo De Garaicoa (Pedregal)', 'SIBO', 'ry-wc-city-select'),
+=======
+		_x('Crnel. Lorenzo De Garaicoa (Pedregal)','SIBO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Simon Bolivar', 'SIBO', 'ry-wc-city-select'),
 	],
 	'SU' => [
 		_x('Suscal', 'SU', 'ry-wc-city-select'),
 	],
 	'TA' => [
+<<<<<<< HEAD
 		_x('Huasaga (Cab En Wampuik)', 'TA', 'ry-wc-city-select'),
+=======
+		_x('Huasaga (Cab En Wampuik)','TA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Macuma', 'TA', 'ry-wc-city-select'),
 		_x('Pumpuentsa', 'TA', 'ry-wc-city-select'),
 		_x('Taisha', 'TA', 'ry-wc-city-select'),
@@ -1464,7 +1976,11 @@ return [
 		_x('Santiago', 'TI2', 'ry-wc-city-select'),
 	],
 	'TO' => [
+<<<<<<< HEAD
 		_x('Angel Pedro Giler (La Estancilla)', 'TO', 'ry-wc-city-select'),
+=======
+		_x('Angel Pedro Giler (La Estancilla)','TO', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Bachillero', 'TO', 'ry-wc-city-select'),
 		_x('Tosagua', 'TO', 'ry-wc-city-select'),
 	],
@@ -1473,7 +1989,11 @@ return [
 		_x('Cazaderos', 'ZA', 'ry-wc-city-select'),
 		_x('Garzareal', 'ZA', 'ry-wc-city-select'),
 		_x('Limones', 'ZA', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Mangahurco (Cazaderos)', 'ZA', 'ry-wc-city-select'),
+=======
+		_x('Mangahurco (Cazaderos)','ZA', 'ry-wc-city-select'),
+>>>>>>> fix php error
 		_x('Paletillas', 'ZA', 'ry-wc-city-select'),
 		_x('Zapotillo', 'ZA', 'ry-wc-city-select'),
 	],

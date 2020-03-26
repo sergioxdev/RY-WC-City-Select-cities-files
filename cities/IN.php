@@ -35,9 +35,15 @@ return [
 	],
 	'BAUR' => [
 		_x('Anekal Taluk', 'BAUR', 'ry-wc-city-select'),
+<<<<<<< HEAD
 		_x('Bangalore (North)', 'BAUR', 'ry-wc-city-select'),
 		_x('Bangalore (South)', 'BAUR', 'ry-wc-city-select'),
 		_x('Bangalore(East)', 'BAUR', 'ry-wc-city-select'),
+=======
+		_x('Bangalore (North)','BAUR', 'ry-wc-city-select'),
+		_x('Bangalore (South)','BAUR', 'ry-wc-city-select'),
+		_x('Bangalore(East)','BAUR', 'ry-wc-city-select'),
+>>>>>>> fix php error
 	],
 	'BE' => [
 		_x('Athani', 'BE', 'ry-wc-city-select'),
